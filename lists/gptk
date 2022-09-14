@@ -1,0 +1,6 @@
+Updating ce41307..70a461d
+Fast-forward
+ lists/failed/ffbase | 1 +
+ lists/ffbase        | 2 +-
+ 2 files changed, 2 insertions(+), 1 deletion(-)
+ create mode 100644 lists/failed/ffbase
