@@ -1,4 +1,3 @@
-SIAMCAT
 GeomxTools
 GenomicOZone
 ppclust
