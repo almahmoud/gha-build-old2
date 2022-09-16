@@ -1,8 +1,4 @@
-Updating 3d725f9..37a36f0
-Fast-forward
- lists/edge  | 2 +-
- tobuild.txt | 1 -
- 2 files changed, 1 insertion(+), 2 deletions(-)
+Already up to date.
 bbmle/DESCRIPTION
 bbmle/INDEX
 bbmle/Meta/
