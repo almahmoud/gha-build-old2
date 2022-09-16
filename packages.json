@@ -99,7 +99,6 @@
         "Linnorm"
     ],
     "brainflowprobes": [
-        "derfinder",
         "derfinderPlot",
         "GenomicState",
         "ggbio"
@@ -273,9 +272,7 @@
     "DEGreport": [
         "lasso2"
     ],
-    "derfinder": [],
     "derfinderPlot": [
-        "derfinder",
         "ggbio"
     ],
     "DEScan2": [
@@ -704,9 +701,7 @@
         "NxtIRFdata",
         "ExperimentHub"
     ],
-    "ODER": [
-        "derfinder"
-    ],
+    "ODER": [],
     "OMICsPCA": [],
     "ontoProc": [],
     "pageRank": [
@@ -774,8 +769,7 @@
         "AnnotationHubData"
     ],
     "psichomics": [
-        "recount",
-        "derfinder"
+        "recount"
     ],
     "pulsedSilac": [
         "taRifx"
@@ -805,9 +799,7 @@
     "ReactomePA": [
         "enrichplot"
     ],
-    "recount": [
-        "derfinder"
-    ],
+    "recount": [],
     "recountmethylation": [
         "IlluminaHumanMethylation450kmanifest"
     ],
@@ -815,9 +807,7 @@
         "ChIPpeakAnno"
     ],
     "RegEnrich": [],
-    "regionReport": [
-        "derfinder"
-    ],
+    "regionReport": [],
     "regutools": [
         "Gviz"
     ],
@@ -852,8 +842,7 @@
         "ExperimentHub"
     ],
     "RNAAgeCalc": [
-        "recount",
-        "derfinder"
+        "recount"
     ],
     "RNAinteract": [],
     "RNAmodR": [
@@ -1127,9 +1116,7 @@
     "biscuiteerData": [
         "ExperimentHub"
     ],
-    "GenomicState": [
-        "derfinder"
-    ],
+    "GenomicState": [],
     "iCluster": [],
     "IlluminaHumanMethylationEPICmanifest": [],
     "IlluminaHumanMethylation450kmanifest": [],
