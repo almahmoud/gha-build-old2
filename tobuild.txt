@@ -1,4 +1,3 @@
-snapCGH
 XINA
 rdist
 MetBrewer
