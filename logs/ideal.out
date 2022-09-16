@@ -1,0 +1,21 @@
+* installing *source* package ‘ideal’ ...
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+
+groupGOTerms: 	GOBPTerm, GOMFTerm, GOCCTerm environments built.
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+
+groupGOTerms: 	GOBPTerm, GOMFTerm, GOCCTerm environments built.
+** testing if installed package can be loaded from final location
+
+groupGOTerms: 	GOBPTerm, GOMFTerm, GOCCTerm environments built.
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘ideal’ as ‘ideal_1.20.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (ideal)
