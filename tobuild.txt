@@ -1,4 +1,3 @@
-transcriptR
 ontoProc
 HiCcompare
 MSPrep
