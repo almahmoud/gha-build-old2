@@ -1,4 +1,3 @@
-tidyverse
 TEQC
 OmicsLonDA
 mrfDepth
