@@ -1720,8 +1720,7 @@
     "trena": [
         "RMySQL",
         "lassopv",
-        "vbsr",
-        "RPostgreSQL"
+        "vbsr"
     ],
     "tricycle": [
         "scater",
@@ -2066,7 +2065,6 @@
     "GenKern": [],
     "vbsr": [],
     "lassopv": [],
-    "RPostgreSQL": [],
     "gradDescent": [],
     "msigdb": [
         "ExperimentHub"
