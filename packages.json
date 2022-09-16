@@ -95,7 +95,6 @@
     "arrayMvout": [
         "lumi"
     ],
-    "ARRmNormalization": [],
     "ASICS": [
         "ropls"
     ],
@@ -1547,9 +1546,7 @@
     "NoRCE": [
         "rWikiPathways"
     ],
-    "NormqPCR": [
-        "ReadqPCR"
-    ],
+    "NormqPCR": [],
     "NPARC": [],
     "nucleR": [
         "ShortRead"
@@ -1828,7 +1825,6 @@
     "ReactomeGraph4R": [],
     "ReactomeGSA": [],
     "ReactomePA": [],
-    "ReadqPCR": [],
     "recount": [],
     "recountmethylation": [
         "IlluminaHumanMethylation450kmanifest"
@@ -2096,7 +2092,6 @@
         "ROCR",
         "uwot"
     ],
-    "scTHI": [],
     "scTreeViz": [
         "epivizr",
         "scran",
