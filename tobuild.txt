@@ -1,4 +1,3 @@
-IMMAN
 mGSZ
 HPiP
 miRNAtap.db
