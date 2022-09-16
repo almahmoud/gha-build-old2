@@ -1,4 +1,3 @@
-tximeta
 qpgraph
 GA4GHclient
 ExperimentSubset
