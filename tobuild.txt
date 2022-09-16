@@ -1,4 +1,3 @@
-ChIPXpress
 omicRexposome
 PDATK
 APAlyzer
