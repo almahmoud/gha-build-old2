@@ -316,8 +316,7 @@
     "biomvRCNS": [],
     "BioNERO": [
         "NetRep",
-        "minet",
-        "statnet.common"
+        "minet"
     ],
     "BioNet": [],
     "BioNetStat": [],
@@ -409,8 +408,7 @@
     "cageminer": [
         "BioNERO",
         "NetRep",
-        "minet",
-        "statnet.common"
+        "minet"
     ],
     "CAGEr": [],
     "calm": [],
@@ -501,8 +499,7 @@
         "tm"
     ],
     "CEMiTool": [
-        "clusterProfiler",
-        "statnet.common"
+        "clusterProfiler"
     ],
     "censcyt": [
         "diffcyt",
@@ -517,8 +514,7 @@
     "ceRNAnetsim": [],
     "CeTF": [
         "clusterProfiler",
-        "gMWT",
-        "statnet.common"
+        "gMWT"
     ],
     "CexoR": [],
     "cfDNAPro": [],
@@ -631,9 +627,7 @@
     "Clonality": [],
     "clst": [],
     "clstutils": [],
-    "CluMSID": [
-        "statnet.common"
-    ],
+    "CluMSID": [],
     "clustComp": [],
     "clusterExperiment": [
         "mbkmeans",
@@ -1090,8 +1084,7 @@
     "edgeR": [],
     "eegc": [
         "R.utils",
-        "clusterProfiler",
-        "statnet.common"
+        "clusterProfiler"
     ],
     "EGAD": [
         "R.utils"
@@ -1223,8 +1216,7 @@
     ],
     "fCI": [],
     "fcoex": [
-        "clusterProfiler",
-        "statnet.common"
+        "clusterProfiler"
     ],
     "fcScan": [],
     "FEAST": [
@@ -1476,9 +1468,7 @@
         "ncdfFlow"
     ],
     "ggmsa": [],
-    "GGPA": [
-        "statnet.common"
-    ],
+    "GGPA": [],
     "ggspavis": [
         "SpatialExperiment",
         "R.utils",
@@ -2428,8 +2418,7 @@
         "ROCR"
     ],
     "nethet": [
-        "longitudinal",
-        "statnet.common"
+        "longitudinal"
     ],
     "netOmics": [
         "minet"
@@ -2644,9 +2633,7 @@
     "philr": [],
     "PhIPData": [],
     "phosphonormalizer": [],
-    "PhosR": [
-        "statnet.common"
-    ],
+    "PhosR": [],
     "PhyloProfile": [
         "ExperimentHub",
         "interactiveDisplayBase"
@@ -2656,8 +2643,7 @@
         "ROCR",
         "plot3D",
         "ModelMetrics",
-        "recipes",
-        "statnet.common"
+        "recipes"
     ],
     "piano": [],
     "PICS": [],
@@ -2795,9 +2781,7 @@
         "R.utils"
     ],
     "ptairMS": [],
-    "PubScore": [
-        "statnet.common"
-    ],
+    "PubScore": [],
     "pulsedSilac": [
         "R.utils",
         "taRifx"
@@ -4263,22 +4247,13 @@
     "multcomp": [],
     "TH.data": [],
     "WGCNA": [],
-    "ggnetwork": [
-        "statnet.common"
-    ],
-    "intergraph": [
-        "statnet.common"
-    ],
+    "ggnetwork": [],
+    "intergraph": [],
     "networkD3": [],
     "ggnewscale": [],
     "NetRep": [],
-    "network": [
-        "statnet.common"
-    ],
-    "sna": [
-        "statnet.common"
-    ],
-    "statnet.common": [],
+    "network": [],
+    "sna": [],
     "shinyBS": [],
     "superheat": [],
     "drtmle": [
