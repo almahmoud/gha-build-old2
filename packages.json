@@ -122,8 +122,7 @@
         "radiant.data",
         "cgdsr",
         "clusterProfiler",
-        "ReactomePA",
-        "minet"
+        "ReactomePA"
     ],
     "BiocOncoTK": [
         "curatedTCGAData",
@@ -133,8 +132,7 @@
         "readbitmap"
     ],
     "BioNERO": [
-        "NetRep",
-        "minet"
+        "NetRep"
     ],
     "BioQC": [],
     "biosigner": [],
@@ -156,7 +154,6 @@
         "snowfall",
         "epiNEM",
         "mnem",
-        "minet",
         "Linnorm",
         "prabclus"
     ],
@@ -168,23 +165,19 @@
     ],
     "BubbleTree": [],
     "BufferedMatrixMethods": [],
-    "BUS": [
-        "minet"
-    ],
+    "BUS": [],
     "CAGEfightR": [
         "GenomicInteractions"
     ],
     "cageminer": [
         "BioNERO",
-        "NetRep",
-        "minet"
+        "NetRep"
     ],
     "CAMERA": [
         "xcms"
     ],
     "canceR": [
-        "cgdsr",
-        "minet"
+        "cgdsr"
     ],
     "CancerSubtypes": [
         "iCluster"
@@ -427,7 +420,6 @@
         "CombinePValue",
         "epiNEM",
         "mnem",
-        "minet",
         "snowfall",
         "Linnorm",
         "prabclus"
@@ -542,7 +534,6 @@
         "ReactomePA"
     ],
     "epiNEM": [
-        "minet",
         "mnem",
         "snowfall",
         "Linnorm",
@@ -661,9 +652,7 @@
     "GeneBreak": [
         "snowfall"
     ],
-    "geNetClassifier": [
-        "minet"
-    ],
+    "geNetClassifier": [],
     "geneXtendeR": [
         "tm"
     ],
@@ -1009,7 +998,6 @@
     "MineICA": [
         "prabclus"
     ],
-    "minet": [],
     "MinimumDistance": [],
     "miRNAtap": [
         "sqldf"
@@ -1161,7 +1149,6 @@
     "nempi": [
         "mnem",
         "epiNEM",
-        "minet",
         "snowfall",
         "Linnorm",
         "prabclus"
@@ -1175,11 +1162,8 @@
     "nethet": [
         "longitudinal"
     ],
-    "netOmics": [
-        "minet"
-    ],
+    "netOmics": [],
     "netresponse": [
-        "minet",
         "dmt"
     ],
     "netSmooth": [
@@ -1499,15 +1483,10 @@
         "tm"
     ],
     "RSVSim": [],
-    "RTN": [
-        "minet"
-    ],
-    "RTNduals": [
-        "minet"
-    ],
+    "RTN": [],
+    "RTNduals": [],
     "RTNsurvival": [
-        "RTNduals",
-        "minet"
+        "RTNduals"
     ],
     "RUVcorr": [
         "snowfall"
