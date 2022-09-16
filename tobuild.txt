@@ -1,4 +1,3 @@
-mgsa
 Rmpfr
 SMITE
 TreeSummarizedExperiment
