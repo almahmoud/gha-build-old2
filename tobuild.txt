@@ -1,4 +1,3 @@
-SingleR
 speaq
 peakPantheR
 GPA
