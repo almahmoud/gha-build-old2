@@ -1,5 +1,3 @@
-miloR
-orthogene
 SICtools
 biomvRCNS
 TargetDecoy
