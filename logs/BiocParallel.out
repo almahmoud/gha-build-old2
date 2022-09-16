@@ -1,0 +1,32 @@
+* installing *source* package ‘BiocParallel’ ...
+** using staged installation
+checking for gcc... gcc
+checking whether the C compiler works... yes
+checking for C compiler default output file name... a.out
+checking for suffix of executables... 
+checking whether we are cross compiling... no
+checking for suffix of object files... o
+checking whether we are using the GNU C compiler... yes
+checking whether gcc accepts -g... yes
+checking for gcc option to accept ISO C89... none needed
+checking for shm_open in -lrt... yes
+configure: creating ./config.status
+config.status: creating src/Makevars
+** libs
+g++ -std=gnu++11 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/__w/gha-build/gha-build/built/BH/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c ipcmutex.cpp -o ipcmutex.o
+g++ -std=gnu++11 -shared -L/usr/local/lib/R/lib -L/usr/local/lib -o BiocParallel.so ipcmutex.o -lrt -L/usr/local/lib/R/lib -lR
+installing to /__w/gha-build/gha-build/built/00LOCK-BiocParallel/00new/BiocParallel/libs
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘BiocParallel’ as ‘BiocParallel_1.30.3_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (BiocParallel)

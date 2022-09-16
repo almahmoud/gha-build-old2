@@ -1,0 +1,42 @@
+* installing *source* package ‘DelayedArray’ ...
+** using staged installation
+** libs
+gcc -I"/usr/local/lib/R/include" -DNDEBUG  -I'/__w/gha-build/gha-build/built/S4Vectors/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c R_init_DelayedArray.c -o R_init_DelayedArray.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG  -I'/__w/gha-build/gha-build/built/S4Vectors/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c S4Vectors_stubs.c -o S4Vectors_stubs.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG  -I'/__w/gha-build/gha-build/built/S4Vectors/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c abind.c -o abind.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG  -I'/__w/gha-build/gha-build/built/S4Vectors/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c array_selection.c -o array_selection.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG  -I'/__w/gha-build/gha-build/built/S4Vectors/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c compress_atomic_vector.c -o compress_atomic_vector.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG  -I'/__w/gha-build/gha-build/built/S4Vectors/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c sparseMatrix_utils.c -o sparseMatrix_utils.o
+gcc -shared -L/usr/local/lib/R/lib -L/usr/local/lib -o DelayedArray.so R_init_DelayedArray.o S4Vectors_stubs.o abind.o array_selection.o compress_atomic_vector.o sparseMatrix_utils.o -L/usr/local/lib/R/lib -lR
+installing to /__w/gha-build/gha-build/built/00LOCK-DelayedArray/00new/DelayedArray/libs
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+Creating a new generic function for ‘rowsum’ in package ‘DelayedArray’
+Creating a new generic function for ‘aperm’ in package ‘DelayedArray’
+Creating a new generic function for ‘apply’ in package ‘DelayedArray’
+Creating a new generic function for ‘sweep’ in package ‘DelayedArray’
+Creating a new generic function for ‘scale’ in package ‘DelayedArray’
+Creating a generic function for ‘dnorm’ from package ‘stats’ in package ‘DelayedArray’
+Creating a generic function for ‘pnorm’ from package ‘stats’ in package ‘DelayedArray’
+Creating a generic function for ‘qnorm’ from package ‘stats’ in package ‘DelayedArray’
+Creating a generic function for ‘dbinom’ from package ‘stats’ in package ‘DelayedArray’
+Creating a generic function for ‘pbinom’ from package ‘stats’ in package ‘DelayedArray’
+Creating a generic function for ‘qbinom’ from package ‘stats’ in package ‘DelayedArray’
+Creating a generic function for ‘dpois’ from package ‘stats’ in package ‘DelayedArray’
+Creating a generic function for ‘ppois’ from package ‘stats’ in package ‘DelayedArray’
+Creating a generic function for ‘qpois’ from package ‘stats’ in package ‘DelayedArray’
+Creating a generic function for ‘dlogis’ from package ‘stats’ in package ‘DelayedArray’
+Creating a generic function for ‘plogis’ from package ‘stats’ in package ‘DelayedArray’
+Creating a generic function for ‘qlogis’ from package ‘stats’ in package ‘DelayedArray’
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘DelayedArray’ as ‘DelayedArray_0.22.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (DelayedArray)
