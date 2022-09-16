@@ -324,8 +324,7 @@
         "openCyto"
     ],
     "dagLogo": [
-        "cellxgenedp",
-        "httpcache"
+        "cellxgenedp"
     ],
     "DaMiRseq": [
         "EDASeq"
@@ -390,8 +389,7 @@
         "scuttle"
     ],
     "drugTargetInteractions": [
-        "cellxgenedp",
-        "httpcache"
+        "cellxgenedp"
     ],
     "DrugVsDisease": [],
     "Dune": [],
@@ -1359,8 +1357,7 @@
     "uncoverappLib": [],
     "unifiedWMWqPCR": [],
     "UniProt.ws": [
-        "cellxgenedp",
-        "httpcache"
+        "cellxgenedp"
     ],
     "updateObject": [],
     "uSORT": [
@@ -1458,7 +1455,6 @@
     "crisprScoreData": [
         "ExperimentHub"
     ],
-    "httpcache": [],
     "lasso2": [],
     "swamp": [],
     "easierData": [
