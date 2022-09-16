@@ -1564,7 +1564,6 @@
     "Guitar": [],
     "Gviz": [],
     "GWAS.BAYES": [
-        "GA",
         "ModelMetrics",
         "recipes"
     ],
@@ -2862,7 +2861,6 @@
         "ShortRead"
     ],
     "RBGL": [],
-    "RBioinf": [],
     "rBiopaxParser": [],
     "RBM": [],
     "Rbowtie2": [],
@@ -4683,7 +4681,6 @@
     ],
     "ggwordcloud": [],
     "nsga2R": [],
-    "GA": [],
     "BatchJobs": [],
     "R2jags": [
         "R2WinBUGS"
