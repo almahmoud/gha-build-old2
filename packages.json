@@ -742,8 +742,7 @@
     "iPath": [],
     "ipdDb": [],
     "IPO": [
-        "xcms",
-        "rsm"
+        "xcms"
     ],
     "IRISFGM": [
         "Polychrome",
@@ -2008,7 +2007,6 @@
     "available": [
         "tokenizers"
     ],
-    "rsm": [],
     "Polychrome": [],
     "orQA": [],
     "DiscriMiner": [],
