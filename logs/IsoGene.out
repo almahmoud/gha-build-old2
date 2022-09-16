@@ -1,0 +1,20 @@
+* installing *source* package ‘IsoGene’ ...
+** package ‘IsoGene’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+Warning: no DISPLAY variable so Tk is not available
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+Warning: no DISPLAY variable so Tk is not available
+** testing if installed package can be loaded from final location
+Warning: no DISPLAY variable so Tk is not available
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘IsoGene’ as ‘IsoGene_1.0-24_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (IsoGene)
