@@ -1,4 +1,7 @@
-Already up to date.
+Updating 2ce5d60..958a61e
+Fast-forward
+ logs/run_ids/chromswitch | 1 +
+ 1 file changed, 1 insertion(+)
 assertthat/DESCRIPTION
 assertthat/INDEX
 assertthat/Meta/
