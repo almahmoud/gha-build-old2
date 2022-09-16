@@ -1,4 +1,3 @@
-IMAS
 loose.rock
 MutationalPatterns
 VaSP
