@@ -1,4 +1,3 @@
-Rqc
 staRank
 derfinder
 methylumi
