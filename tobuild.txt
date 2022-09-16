@@ -1,4 +1,3 @@
-INSPEcT
 biocthis
 GCSscore
 Uniquorn
