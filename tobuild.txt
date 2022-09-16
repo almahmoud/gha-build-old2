@@ -1,4 +1,3 @@
-PolyPhen.Hsapiens.dbSNP131
 BBCAnalyzer
 BioNERO
 GenomicFiles
