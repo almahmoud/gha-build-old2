@@ -1,4 +1,3 @@
-TPP
 GateFinder
 MungeSumstats
 SubCellBarCode
