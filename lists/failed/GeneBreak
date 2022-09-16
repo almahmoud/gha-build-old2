@@ -1,4 +1,7 @@
-Merge made by the 'recursive' strategy.
+Auto-merging tobuild.txt
+CONFLICT (content): Merge conflict in tobuild.txt
+Automatic merge failed; fix conflicts and then commit the result.
+HEAD is now at 66975b1 Claim KnowSeq
 BH/DESCRIPTION
 BH/INDEX
 BH/LICENSE_1_0.txt
