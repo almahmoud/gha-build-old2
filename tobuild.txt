@@ -1,4 +1,3 @@
-COHCAP
 consensus
 Informeasure
 MACSQuantifyR
