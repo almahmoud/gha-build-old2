@@ -1,4 +1,3 @@
-diffUTR
 MODA
 pwOmics
 LymphoSeq
