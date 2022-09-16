@@ -1,4 +1,3 @@
-sevenC
 transport
 rnaseqcomp
 metagenomeSeq
