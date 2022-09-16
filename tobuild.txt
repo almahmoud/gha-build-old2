@@ -1,4 +1,3 @@
-rWikiPathways
 sincell
 ABAData
 SimFFPE
