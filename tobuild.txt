@@ -1,4 +1,3 @@
-SimFFPE
 GenKern
 flowMatch
 TFBSTools
