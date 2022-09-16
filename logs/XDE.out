@@ -1,0 +1,50 @@
+* installing *source* package ‘XDE’ ...
+** using staged installation
+** libs
+g++ -std=gnu++14 -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c Cholesky.cpp -o Cholesky.o
+g++ -std=gnu++14 -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c Matrix_v2.cpp -o Matrix_v2.o
+g++ -std=gnu++14 -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c Potential_v2.cpp -o Potential_v2.o
+g++ -std=gnu++14 -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c Random_v2.cpp -o Random_v2.o
+g++ -std=gnu++14 -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c Rinterface_v2.cpp -o Rinterface_v2.o
+In file included from Update_v2.h:8,
+                 from Rinterface_v2.cpp:2:
+Random.h:19: warning: "PI" redefined
+   19 | #define PI         3.14159265
+      | 
+In file included from /usr/local/lib/R/include/R.h:74,
+                 from Rinterface_v2.cpp:1:
+/usr/local/lib/R/include/R_ext/Constants.h:39: note: this is the location of the previous definition
+   39 | #define PI             M_PI
+      | 
+g++ -std=gnu++14 -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c Structure.cpp -o Structure.o
+g++ -std=gnu++14 -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c Update_v2.cpp -o Update_v2.o
+g++ -std=gnu++14 -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c Utility_v2.cpp -o Utility_v2.o
+g++ -std=gnu++14 -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c diffExpressed_main.cpp -o diffExpressed_main.o
+In file included from diffExpressed_main.cpp:16:
+Random.h:19: warning: "PI" redefined
+   19 | #define PI         3.14159265
+      | 
+In file included from /usr/local/lib/R/include/R.h:74,
+                 from diffExpressed_main.cpp:4:
+/usr/local/lib/R/include/R_ext/Constants.h:39: note: this is the location of the previous definition
+   39 | #define PI             M_PI
+      | 
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c registerDynamicSymbol.c -o registerDynamicSymbol.o
+g++ -std=gnu++14 -shared -L/usr/local/lib/R/lib -L/usr/local/lib -o XDE.so Cholesky.o Matrix_v2.o Potential_v2.o Random_v2.o Rinterface_v2.o Structure.o Update_v2.o Utility_v2.o diffExpressed_main.o registerDynamicSymbol.o -lm -L/usr/local/lib/R/lib -lR
+installing to /__w/gha-build/gha-build/built/00LOCK-XDE/00new/XDE/libs
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+Creating a new generic function for ‘qqplot’ in package ‘XDE’
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘XDE’ as ‘XDE_2.42.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (XDE)
