@@ -1,4 +1,3 @@
-infercnv
 DAMEfinder
 OmaDB
 NetSAM
