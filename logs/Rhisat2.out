@@ -1,0 +1,1002 @@
+* installing *source* package ‘Rhisat2’ ...
+** using staged installation
+** libs
+** arch - 
+/usr/bin/g++ -O3 -m64 -msse2 -funroll-loops -g3 -DCOMPILER_OPTIONS="\"-O3 -m64 -msse2 -funroll-loops -g3 -DPOPCNT_CAPABILITY\"" -DPOPCNT_CAPABILITY \
+-fno-strict-aliasing -DHISAT2_VERSION="\"`cat VERSION`\"" -DBUILD_HOST="\"`hostname`\"" -DBUILD_TIME="\"`date`\"" -DCOMPILER_VERSION="\"`/usr/bin/g++ -v 2>&1 | tail -1`\"" -D_LARGEFILE_SOURCE -D_FILE_OFFSET_BITS=64 -D_GNU_SOURCE  -DBOWTIE_MM  -DBOWTIE2 -DNDEBUG -Wall -DMASSIVE_DATA_RLCSA \
+ -I third_party \
+-o hisat2-build-s hisat2_build.cpp \
+ccnt_lut.cpp ref_read.cpp alphabet.cpp shmem.cpp edit.cpp gfm.cpp reference.cpp ds.cpp multikey_qsort.cpp limit.cpp random_source.cpp tinythread.cpp diff_sample.cpp hisat2_build_main.cpp \
+-lpthread 
+In file included from hisat2_build.cpp:35:
+gfm.h: In static member function ‘static std::pair<GFM<index_t>*, GFM<index_t>*> GFM<index_t>::fromStrings(const EList<std::__cxx11::basic_string<char> >&, bool, int, bool, int32_t, int32_t, int32_t, const string&, bool, index_t, index_t, index_t, int, uint32_t, bool, bool, bool)’:
+gfm.h:1098:3: warning: ‘template<class> class std::auto_ptr’ is deprecated [-Wdeprecated-declarations]
+ 1098 |   auto_ptr<stringstream> ss(new stringstream());
+      |   ^~~~~~~~
+In file included from /usr/include/c++/9/bits/locale_conv.h:41,
+                 from /usr/include/c++/9/locale:43,
+                 from /usr/include/c++/9/iomanip:43,
+                 from timer.h:26,
+                 from hisat2_build.cpp:30:
+/usr/include/c++/9/bits/unique_ptr.h:53:28: note: declared here
+   53 |   template<typename> class auto_ptr;
+      |                            ^~~~~~~~
+In file included from hisat2_build.cpp:35:
+gfm.h:1102:3: warning: ‘template<class> class std::auto_ptr’ is deprecated [-Wdeprecated-declarations]
+ 1102 |   auto_ptr<FileBuf> fb(new FileBuf(ss.get()));
+      |   ^~~~~~~~
+In file included from /usr/include/c++/9/bits/locale_conv.h:41,
+                 from /usr/include/c++/9/locale:43,
+                 from /usr/include/c++/9/iomanip:43,
+                 from timer.h:26,
+                 from hisat2_build.cpp:30:
+/usr/include/c++/9/bits/unique_ptr.h:53:28: note: declared here
+   53 |   template<typename> class auto_ptr;
+      |                            ^~~~~~~~
+ref_read.cpp: In function ‘std::pair<long unsigned int, long unsigned int> fastaRefReadSizes(EList<FileBuf*>&, EList<RefRecord>&, const RefReadInParams&, BitpairOutFileBuf*, TIndexOff&)’:
+ref_read.cpp:327:22: warning: comparison of integer expressions of different signedness: ‘int64_t’ {aka ‘long int’} and ‘size_t’ {aka ‘long unsigned int’} [-Wsign-compare]
+  327 |             if(i + 1 >= recs.size() || recs[i+1].first) {
+      |                ~~~~~~^~~~~~~~~~~~~~
+In file included from splice_site.h:34,
+                 from edit.h:30,
+                 from edit.cpp:21:
+gfm.h: In static member function ‘static std::pair<GFM<index_t>*, GFM<index_t>*> GFM<index_t>::fromStrings(const EList<std::__cxx11::basic_string<char> >&, bool, int, bool, int32_t, int32_t, int32_t, const string&, bool, index_t, index_t, index_t, int, uint32_t, bool, bool, bool)’:
+gfm.h:1098:3: warning: ‘template<class> class std::auto_ptr’ is deprecated [-Wdeprecated-declarations]
+ 1098 |   auto_ptr<stringstream> ss(new stringstream());
+      |   ^~~~~~~~
+In file included from /usr/include/c++/9/bits/locale_conv.h:41,
+                 from /usr/include/c++/9/locale:43,
+                 from /usr/include/c++/9/iomanip:43,
+                 from timer.h:26,
+                 from reference.h:36,
+                 from splice_site.h:32,
+                 from edit.h:30,
+                 from edit.cpp:21:
+/usr/include/c++/9/bits/unique_ptr.h:53:28: note: declared here
+   53 |   template<typename> class auto_ptr;
+      |                            ^~~~~~~~
+In file included from splice_site.h:34,
+                 from edit.h:30,
+                 from edit.cpp:21:
+gfm.h:1102:3: warning: ‘template<class> class std::auto_ptr’ is deprecated [-Wdeprecated-declarations]
+ 1102 |   auto_ptr<FileBuf> fb(new FileBuf(ss.get()));
+      |   ^~~~~~~~
+In file included from /usr/include/c++/9/bits/locale_conv.h:41,
+                 from /usr/include/c++/9/locale:43,
+                 from /usr/include/c++/9/iomanip:43,
+                 from timer.h:26,
+                 from reference.h:36,
+                 from splice_site.h:32,
+                 from edit.h:30,
+                 from edit.cpp:21:
+/usr/include/c++/9/bits/unique_ptr.h:53:28: note: declared here
+   53 |   template<typename> class auto_ptr;
+      |                            ^~~~~~~~
+In file included from gfm.cpp:21:
+gfm.h: In static member function ‘static std::pair<GFM<index_t>*, GFM<index_t>*> GFM<index_t>::fromStrings(const EList<std::__cxx11::basic_string<char> >&, bool, int, bool, int32_t, int32_t, int32_t, const string&, bool, index_t, index_t, index_t, int, uint32_t, bool, bool, bool)’:
+gfm.h:1098:3: warning: ‘template<class> class std::auto_ptr’ is deprecated [-Wdeprecated-declarations]
+ 1098 |   auto_ptr<stringstream> ss(new stringstream());
+      |   ^~~~~~~~
+In file included from /usr/include/c++/9/memory:80,
+                 from gfm.h:28,
+                 from gfm.cpp:21:
+/usr/include/c++/9/bits/unique_ptr.h:53:28: note: declared here
+   53 |   template<typename> class auto_ptr;
+      |                            ^~~~~~~~
+In file included from gfm.cpp:21:
+gfm.h:1102:3: warning: ‘template<class> class std::auto_ptr’ is deprecated [-Wdeprecated-declarations]
+ 1102 |   auto_ptr<FileBuf> fb(new FileBuf(ss.get()));
+      |   ^~~~~~~~
+In file included from /usr/include/c++/9/memory:80,
+                 from gfm.h:28,
+                 from gfm.cpp:21:
+/usr/include/c++/9/bits/unique_ptr.h:53:28: note: declared here
+   53 |   template<typename> class auto_ptr;
+      |                            ^~~~~~~~
+reference.cpp: In member function ‘int BitPairReference::getStretch(uint32_t*, size_t, size_t, size_t) const’:
+reference.cpp:456:12: warning: variable ‘origBufOff’ set but not used [-Wunused-but-set-variable]
+  456 |   uint64_t origBufOff = bufOff;
+      |            ^~~~~~~~~~
+reference.cpp:450:7: warning: variable ‘binarySearched’ set but not used [-Wunused-but-set-variable]
+  450 |  bool binarySearched = false;
+      |       ^~~~~~~~~~~~~~
+/usr/bin/g++ -O3 -m64 -msse2 -funroll-loops -g3 -DCOMPILER_OPTIONS="\"-O3 -m64 -msse2 -funroll-loops -g3 -DPOPCNT_CAPABILITY\"" -DPOPCNT_CAPABILITY \
+-fno-strict-aliasing -DHISAT2_VERSION="\"`cat VERSION`\"" -DBUILD_HOST="\"`hostname`\"" -DBUILD_TIME="\"`date`\"" -DCOMPILER_VERSION="\"`/usr/bin/g++ -v 2>&1 | tail -1`\"" -D_LARGEFILE_SOURCE -D_FILE_OFFSET_BITS=64 -D_GNU_SOURCE  -DBOWTIE_MM   -DBOWTIE2 -DNDEBUG -Wall \
+ -I third_party  \
+-o hisat2-align-s hisat2.cpp \
+ccnt_lut.cpp ref_read.cpp alphabet.cpp shmem.cpp edit.cpp gfm.cpp reference.cpp ds.cpp multikey_qsort.cpp limit.cpp random_source.cpp tinythread.cpp qual.cpp pat.cpp read_qseq.cpp aligner_seed_policy.cpp aligner_seed.cpp aligner_seed2.cpp aligner_sw.cpp aligner_sw_driver.cpp aligner_cache.cpp aligner_result.cpp ref_coord.cpp mask.cpp pe.cpp aln_sink.cpp dp_framer.cpp scoring.cpp presets.cpp unique.cpp simple_func.cpp random_util.cpp aligner_bt.cpp sse_util.cpp aligner_swsse.cpp outq.cpp aligner_swsse_loc_i16.cpp aligner_swsse_ee_i16.cpp aligner_swsse_loc_u8.cpp aligner_swsse_ee_u8.cpp aligner_driver.cpp splice_site.cpp  hisat2_main.cpp \
+-lpthread  
+In file included from hgfm.h:24,
+                 from hisat2.cpp:33:
+gfm.h: In static member function ‘static std::pair<GFM<index_t>*, GFM<index_t>*> GFM<index_t>::fromStrings(const EList<std::__cxx11::basic_string<char> >&, bool, int, bool, int32_t, int32_t, int32_t, const string&, bool, index_t, index_t, index_t, int, uint32_t, bool, bool, bool)’:
+gfm.h:1098:3: warning: ‘template<class> class std::auto_ptr’ is deprecated [-Wdeprecated-declarations]
+ 1098 |   auto_ptr<stringstream> ss(new stringstream());
+      |   ^~~~~~~~
+In file included from /usr/include/c++/9/memory:80,
+                 from gfm.h:28,
+                 from hgfm.h:24,
+                 from hisat2.cpp:33:
+/usr/include/c++/9/bits/unique_ptr.h:53:28: note: declared here
+   53 |   template<typename> class auto_ptr;
+      |                            ^~~~~~~~
+In file included from hgfm.h:24,
+                 from hisat2.cpp:33:
+gfm.h:1102:3: warning: ‘template<class> class std::auto_ptr’ is deprecated [-Wdeprecated-declarations]
+ 1102 |   auto_ptr<FileBuf> fb(new FileBuf(ss.get()));
+      |   ^~~~~~~~
+In file included from /usr/include/c++/9/memory:80,
+                 from gfm.h:28,
+                 from hgfm.h:24,
+                 from hisat2.cpp:33:
+/usr/include/c++/9/bits/unique_ptr.h:53:28: note: declared here
+   53 |   template<typename> class auto_ptr;
+      |                            ^~~~~~~~
+hisat2.cpp: In function ‘void parseOptions(int, const char**)’:
+hisat2.cpp:1753:2: warning: ‘template<class> class std::auto_ptr’ is deprecated [-Wdeprecated-declarations]
+ 1753 |  auto_ptr<Presets> presets(new PresetsV0());
+      |  ^~~~~~~~
+In file included from /usr/include/c++/9/memory:80,
+                 from gfm.h:28,
+                 from hgfm.h:24,
+                 from hisat2.cpp:33:
+/usr/include/c++/9/bits/unique_ptr.h:53:28: note: declared here
+   53 |   template<typename> class auto_ptr;
+      |                            ^~~~~~~~
+hisat2.cpp: In function ‘void multiseedSearchWorker_hisat2(void*)’:
+hisat2.cpp:3068:2: warning: ‘template<class> class std::auto_ptr’ is deprecated [-Wdeprecated-declarations]
+ 3068 |  auto_ptr<PatternSourcePerThreadFactory> patsrcFact(createPatsrcFactory(patsrc, tid));
+      |  ^~~~~~~~
+In file included from /usr/include/c++/9/memory:80,
+                 from gfm.h:28,
+                 from hgfm.h:24,
+                 from hisat2.cpp:33:
+/usr/include/c++/9/bits/unique_ptr.h:53:28: note: declared here
+   53 |   template<typename> class auto_ptr;
+      |                            ^~~~~~~~
+hisat2.cpp:3069:2: warning: ‘template<class> class std::auto_ptr’ is deprecated [-Wdeprecated-declarations]
+ 3069 |  auto_ptr<PatternSourcePerThread> ps(patsrcFact->create());
+      |  ^~~~~~~~
+In file included from /usr/include/c++/9/memory:80,
+                 from gfm.h:28,
+                 from hgfm.h:24,
+                 from hisat2.cpp:33:
+/usr/include/c++/9/bits/unique_ptr.h:53:28: note: declared here
+   53 |   template<typename> class auto_ptr;
+      |                            ^~~~~~~~
+hisat2.cpp:3085:2: warning: ‘template<class> class std::auto_ptr’ is deprecated [-Wdeprecated-declarations]
+ 3085 |  auto_ptr<Mapq> bmapq(new_mapq(mapqv, scoreMin, sc));
+      |  ^~~~~~~~
+In file included from /usr/include/c++/9/memory:80,
+                 from gfm.h:28,
+                 from hgfm.h:24,
+                 from hisat2.cpp:33:
+/usr/include/c++/9/bits/unique_ptr.h:53:28: note: declared here
+   53 |   template<typename> class auto_ptr;
+      |                            ^~~~~~~~
+hisat2.cpp: In function ‘void driver(const char*, const string&, const string&)’:
+hisat2.cpp:3826:9: warning: ‘template<class> class std::auto_ptr’ is deprecated [-Wdeprecated-declarations]
+ 3826 |         auto_ptr<BitPairReference> refs(
+      |         ^~~~~~~~
+In file included from /usr/include/c++/9/memory:80,
+                 from gfm.h:28,
+                 from hgfm.h:24,
+                 from hisat2.cpp:33:
+/usr/include/c++/9/bits/unique_ptr.h:53:28: note: declared here
+   53 |   template<typename> class auto_ptr;
+      |                            ^~~~~~~~
+In file included from hgfm.h:24,
+                 from hisat2.cpp:33:
+gfm.h: In instantiation of ‘void GFM<index_t>::checkOrigs(const EList<SString<char> >&, bool) const [with index_t = unsigned int]’:
+hisat2.cpp:3686:17:   required from ‘void driver(const char*, const string&, const string&) [with TStr = SString<char>; std::string = std::__cxx11::basic_string<char>]’
+hisat2.cpp:4115:51:   required from here
+gfm.h:6451:13: warning: variable ‘lastorig’ set but not used [-Wunused-but-set-variable]
+ 6451 |         int lastorig = -1;
+      |             ^~~~~~~~
+In file included from aligner_seed2.h:109,
+                 from aligner_driver.h:78,
+                 from hi_aligner.h:41,
+                 from spliced_aligner.h:23,
+                 from hisat2.cpp:45:
+group_walk.h: In instantiation of ‘std::pair<int, int> GWState<index_t, T>::advance(const GFM<index_t>&, const BitPairReference&, SARangeWithOffs<T, index_t>&, GWHit<index_t, T>&, index_t, bool, EList<WalkResult<index_t>, 16>*, EList<GWState<index_t, T>, S>&, GroupWalkState<index_t>&, WalkMetrics&, PerReadMetrics&) [with int S = 16; index_t = short unsigned int; T = EListSlice<short unsigned int, 16>]’:
+group_walk.h:1542:4:   required from ‘bool GroupWalk2S<index_t, T, S>::advanceElement(index_t, const GFM<index_t>&, const BitPairReference&, SARangeWithOffs<T, index_t>&, GroupWalkState<index_t>&, WalkResult<index_t>&, WalkMetrics&, PerReadMetrics&) [with index_t = short unsigned int; T = EListSlice<short unsigned int, 16>; int S = 16]’
+hi_aligner.h:5003:9:   required from ‘bool HI_Aligner<index_t, local_index_t>::getGenomeCoords_local(const GFM<local_index_t>&, const ALTDB<index_t>&, const BitPairReference&, RandomSource&, local_index_t, local_index_t, local_index_t, local_index_t, const EList<std::pair<index_t, index_t> >&, bool, index_t, index_t, EList<Coord>&, WalkMetrics&, PerReadMetrics&, HIMetrics&, bool, bool&) [with index_t = unsigned int; local_index_t = short unsigned int]’
+hi_aligner.h:4773:17:   required from ‘bool HI_Aligner<index_t, local_index_t>::alignMate(const Scoring&, const PairedEndPolicy&, const TranscriptomePolicy&, const GraphPolicy&, const GFM<index_t>&, const ALTDB<index_t>&, const BitPairReference&, SwAligner&, SpliceSiteDB&, index_t, bool, WalkMetrics&, PerReadMetrics&, SwMetrics&, HIMetrics&, RandomSource&, AlnSinkWrap<index_t>&, index_t, index_t) [with index_t = unsigned int; local_index_t = short unsigned int]’
+hi_aligner.h:3926:39:   required from ‘int HI_Aligner<index_t, local_index_t>::go(const Scoring&, const PairedEndPolicy&, const TranscriptomePolicy&, const GraphPolicy&, const GFM<index_t>&, const ALTDB<index_t>&, const BitPairReference&, SwAligner&, SpliceSiteDB&, WalkMetrics&, PerReadMetrics&, SwMetrics&, HIMetrics&, RandomSource&, AlnSinkWrap<index_t>&) [with index_t = unsigned int; local_index_t = short unsigned int]’
+hisat2.cpp:3435:151:   required from here
+group_walk.h:1172:60: warning: comparison of integer expressions of different signedness: ‘int’ and ‘size_t’ {aka ‘long unsigned int’} [-Wsign-compare]
+ 1172 |                             if(new_node_bot - new_node_top < gws.map.size()) {
+group_walk.h:1183:58: warning: comparison of integer expressions of different signedness: ‘int’ and ‘size_t’ {aka ‘long unsigned int’} [-Wsign-compare]
+ 1183 |                                 for(index_t j = 0; j + 1 < gws.map.size(); j++) {
+group_walk.h:1238:69: warning: comparison of integer expressions of different signedness: ‘int’ and ‘size_t’ {aka ‘long unsigned int’} [-Wsign-compare]
+ 1238 |                             if(node_range.second - node_range.first < st.back().map_.size()) {
+group_walk.h:1249:58: warning: comparison of integer expressions of different signedness: ‘int’ and ‘size_t’ {aka ‘long unsigned int’} [-Wsign-compare]
+ 1249 |                                 for(index_t j = 0; j + 1 < st.back().map_.size(); j++) {
+In file included from spliced_aligner.h:23,
+                 from hisat2.cpp:45:
+hi_aligner.h: In instantiation of ‘static index_t GenomeHit<index_t>::alignWithALTs_recur(const EList<ALT<index_t> >&, const EList<Haplotype<index_t> >&, const EList<T>&, index_t, const BTDnaString&, index_t, index_t, index_t, const BitPairReference&, EList<SStringExpandable<char, 1024, 2> >&, EList<Edit>&, int&, const char*, index_t, int, index_t, bool, EList<Edit>&, index_t, ELList<std::pair<_FIter, _FIter> >&, Haplotype<index_t>&, ELList<Edit, 128, 4>*, index_t, index_t*, index_t, const GraphPolicy&, index_t&, ALT_TYPE) [with index_t = unsigned int; BTDnaString = SDnaStringExpandable<1024, 2>]’:
+hi_aligner.h:706:28:   required from ‘static index_t GenomeHit<index_t>::alignWithALTs(const EList<ALT<index_t> >&, const EList<Haplotype<index_t> >&, const EList<T>&, index_t, const BTDnaString&, index_t, index_t, index_t, const BitPairReference&, SharedTempVars<index_t>&, index_t, int, index_t, bool, const GraphPolicy&, EList<Edit>&, ELList<std::pair<_FIter, _FIter> >&, EList<std::pair<_FIter, _FIter> >&, Haplotype<index_t>&, ELList<Edit, 128, 4>*, index_t, index_t*) [with index_t = unsigned int; BTDnaString = SDnaStringExpandable<1024, 2>]’
+hi_aligner.h:2194:47:   required from ‘static bool GenomeHit<index_t>::adjustWithALT(index_t, index_t, const Coord&, SharedTempVars<index_t>&, EList<GenomeHit<index_t> >&, const Read&, const GFM<index_t>&, const ALTDB<index_t>&, const BitPairReference&, const GraphPolicy&) [with index_t = unsigned int]’
+hi_aligner.h:4796:54:   required from ‘bool HI_Aligner<index_t, local_index_t>::alignMate(const Scoring&, const PairedEndPolicy&, const TranscriptomePolicy&, const GraphPolicy&, const GFM<index_t>&, const ALTDB<index_t>&, const BitPairReference&, SwAligner&, SpliceSiteDB&, index_t, bool, WalkMetrics&, PerReadMetrics&, SwMetrics&, HIMetrics&, RandomSource&, AlnSinkWrap<index_t>&, index_t, index_t) [with index_t = unsigned int; local_index_t = short unsigned int]’
+hi_aligner.h:3926:39:   required from ‘int HI_Aligner<index_t, local_index_t>::go(const Scoring&, const PairedEndPolicy&, const TranscriptomePolicy&, const GraphPolicy&, const GFM<index_t>&, const ALTDB<index_t>&, const BitPairReference&, SwAligner&, SpliceSiteDB&, WalkMetrics&, PerReadMetrics&, SwMetrics&, HIMetrics&, RandomSource&, AlnSinkWrap<index_t>&) [with index_t = unsigned int; local_index_t = short unsigned int]’
+hisat2.cpp:3435:151:   required from here
+hi_aligner.h:2625:14: warning: comparison of integer expressions of different signedness: ‘int’ and ‘size_t’ {aka ‘long unsigned int’} [-Wsign-compare]
+ 2625 |     if(rfoff >= contig_len) return 0;
+      |        ~~~~~~^~~~~~~~~~~~~
+hi_aligner.h:2703:32: warning: comparison of integer expressions of different signedness: ‘int’ and ‘size_t’ {aka ‘long unsigned int’} [-Wsign-compare]
+ 2703 |             if(alt_range.first >= alts.size()) {
+hi_aligner.h:2868:42: warning: comparison of integer expressions of different signedness: ‘int’ and ‘unsigned int’ [-Wsign-compare]
+ 2868 |                         for(int i = 0; i < alt.len; i++) {
+      |                                        ~~^~~~~~~~~
+hi_aligner.h:2909:25: warning: comparison of integer expressions of different signedness: ‘int’ and ‘unsigned int’ [-Wsign-compare]
+ 2909 |                 if(rd_i == rdoff && prev_alt_type == ALT_SPLICESITE) {
+      |                    ~~~~~^~~~~~~~
+hi_aligner.h:2985:31: warning: comparison of integer expressions of different signedness: ‘unsigned int’ and ‘int’ [-Wsign-compare]
+ 2985 |                 if(alignedLen == next_rdlen) return rdlen;
+      |                    ~~~~~~~~~~~^~~~~~~~~~~~~
+hi_aligner.h:3021:32: warning: comparison of integer expressions of different signedness: ‘unsigned int’ and ‘int’ [-Wsign-compare]
+ 3021 |         if(mm_max_rd_i + rdoff > best_rdoff) {
+      |            ~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~
+hi_aligner.h:3026:39: warning: comparison of integer expressions of different signedness: ‘unsigned int’ and ‘int’ [-Wsign-compare]
+ 3026 |         } else if(mm_max_rd_i + rdoff == best_rdoff) {
+      |                   ~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~
+hi_aligner.h:3278:35: warning: comparison of integer expressions of different signedness: ‘int’ and ‘unsigned int’ [-Wsign-compare]
+ 3278 |                     if(best_rdoff < rdoff + rd_i) {
+      |                        ~~~~~~~~~~~^~~~~~~~~~~~~~
+In file included from aligner_seed2.h:109,
+                 from aligner_driver.h:78,
+                 from hi_aligner.h:41,
+                 from spliced_aligner.h:23,
+                 from hisat2.cpp:45:
+group_walk.h: In instantiation of ‘std::pair<int, int> GWState<index_t, T>::init(const GFM<index_t>&, const BitPairReference&, SARangeWithOffs<T, index_t>&, EList<GWState<index_t, T>, S>&, GWHit<index_t, T>&, index_t, bool, EList<WalkResult<index_t>, 16>*, WalkMetrics&) [with int S = 16; index_t = short unsigned int; T = EListSlice<short unsigned int, 16>]’:
+group_walk.h:492:66:   required from ‘std::pair<int, int> GWState<index_t, T>::init(const GFM<index_t>&, const BitPairReference&, SARangeWithOffs<T, index_t>&, EList<GWState<index_t, T>, S>&, GWHit<index_t, T>&, index_t, bool, EList<WalkResult<index_t>, 16>*, index_t, index_t, index_t, index_t, const EList<std::pair<_FIter, _FIter> >&, index_t, WalkMetrics&) [with int S = 16; index_t = short unsigned int; T = EListSlice<short unsigned int, 16>]’
+group_walk.h:1478:3:   required from ‘void GroupWalk2S<index_t, T, S>::init(const GFM<index_t>&, const BitPairReference&, SARangeWithOffs<T, index_t>&, RandomSource&, WalkMetrics&) [with index_t = short unsigned int; T = EListSlice<short unsigned int, 16>; int S = 16]’
+hi_aligner.h:4998:5:   required from ‘bool HI_Aligner<index_t, local_index_t>::getGenomeCoords_local(const GFM<local_index_t>&, const ALTDB<index_t>&, const BitPairReference&, RandomSource&, local_index_t, local_index_t, local_index_t, local_index_t, const EList<std::pair<index_t, index_t> >&, bool, index_t, index_t, EList<Coord>&, WalkMetrics&, PerReadMetrics&, HIMetrics&, bool, bool&) [with index_t = unsigned int; local_index_t = short unsigned int]’
+hi_aligner.h:4773:17:   required from ‘bool HI_Aligner<index_t, local_index_t>::alignMate(const Scoring&, const PairedEndPolicy&, const TranscriptomePolicy&, const GraphPolicy&, const GFM<index_t>&, const ALTDB<index_t>&, const BitPairReference&, SwAligner&, SpliceSiteDB&, index_t, bool, WalkMetrics&, PerReadMetrics&, SwMetrics&, HIMetrics&, RandomSource&, AlnSinkWrap<index_t>&, index_t, index_t) [with index_t = unsigned int; local_index_t = short unsigned int]’
+hi_aligner.h:3926:39:   required from ‘int HI_Aligner<index_t, local_index_t>::go(const Scoring&, const PairedEndPolicy&, const TranscriptomePolicy&, const GraphPolicy&, const GFM<index_t>&, const ALTDB<index_t>&, const BitPairReference&, SwAligner&, SpliceSiteDB&, WalkMetrics&, PerReadMetrics&, SwMetrics&, HIMetrics&, RandomSource&, AlnSinkWrap<index_t>&) [with index_t = unsigned int; local_index_t = short unsigned int]’
+hisat2.cpp:3435:151:   required from here
+group_walk.h:794:37: warning: comparison of integer expressions of different signedness: ‘int’ and ‘size_t’ {aka ‘long unsigned int’} [-Wsign-compare]
+  794 |                 while(new_top - top < tmp_gbwt_to_node.size()) {
+group_walk.h:801:34: warning: comparison of integer expressions of different signedness: ‘int’ and ‘size_t’ {aka ‘long unsigned int’} [-Wsign-compare]
+  801 |                 if(new_top - top == tmp_gbwt_to_node.size()) {
+group_walk.h:817:26: warning: comparison of integer expressions of different signedness: ‘int’ and ‘size_t’ {aka ‘long unsigned int’} [-Wsign-compare]
+  817 |                 if(i + 1 < tmp_zOffs.size()) {
+group_walk.h:823:38: warning: comparison of integer expressions of different signedness: ‘int’ and ‘size_t’ {aka ‘long unsigned int’} [-Wsign-compare]
+  823 |                 while(new_bot2 - top < tmp_gbwt_to_node.size()) {
+group_walk.h:830:35: warning: comparison of integer expressions of different signedness: ‘int’ and ‘size_t’ {aka ‘long unsigned int’} [-Wsign-compare]
+  830 |                 if(new_bot2 - top < tmp_gbwt_to_node.size()) {
+In file included from spliced_aligner.h:23,
+                 from hisat2.cpp:45:
+hi_aligner.h: In instantiation of ‘void add_haplotypes(const EList<ALT<index_t> >&, const EList<Haplotype<index_t> >&, const EList<T>&, Haplotype<index_t>&, EList<std::pair<_FIter, _FIter> >&, index_t, bool, bool) [with index_t = unsigned int]’:
+hi_aligner.h:2739:39:   required from ‘static index_t GenomeHit<index_t>::alignWithALTs_recur(const EList<ALT<index_t> >&, const EList<Haplotype<index_t> >&, const EList<T>&, index_t, const BTDnaString&, index_t, index_t, index_t, const BitPairReference&, EList<SStringExpandable<char, 1024, 2> >&, EList<Edit>&, int&, const char*, index_t, int, index_t, bool, EList<Edit>&, index_t, ELList<std::pair<_FIter, _FIter> >&, Haplotype<index_t>&, ELList<Edit, 128, 4>*, index_t, index_t*, index_t, const GraphPolicy&, index_t&, ALT_TYPE) [with index_t = unsigned int; BTDnaString = SDnaStringExpandable<1024, 2>]’
+hi_aligner.h:706:28:   required from ‘static index_t GenomeHit<index_t>::alignWithALTs(const EList<ALT<index_t> >&, const EList<Haplotype<index_t> >&, const EList<T>&, index_t, const BTDnaString&, index_t, index_t, index_t, const BitPairReference&, SharedTempVars<index_t>&, index_t, int, index_t, bool, const GraphPolicy&, EList<Edit>&, ELList<std::pair<_FIter, _FIter> >&, EList<std::pair<_FIter, _FIter> >&, Haplotype<index_t>&, ELList<Edit, 128, 4>*, index_t, index_t*) [with index_t = unsigned int; BTDnaString = SDnaStringExpandable<1024, 2>]’
+hi_aligner.h:2194:47:   required from ‘static bool GenomeHit<index_t>::adjustWithALT(index_t, index_t, const Coord&, SharedTempVars<index_t>&, EList<GenomeHit<index_t> >&, const Read&, const GFM<index_t>&, const ALTDB<index_t>&, const BitPairReference&, const GraphPolicy&) [with index_t = unsigned int]’
+hi_aligner.h:4796:54:   required from ‘bool HI_Aligner<index_t, local_index_t>::alignMate(const Scoring&, const PairedEndPolicy&, const TranscriptomePolicy&, const GraphPolicy&, const GFM<index_t>&, const ALTDB<index_t>&, const BitPairReference&, SwAligner&, SpliceSiteDB&, index_t, bool, WalkMetrics&, PerReadMetrics&, SwMetrics&, HIMetrics&, RandomSource&, AlnSinkWrap<index_t>&, index_t, index_t) [with index_t = unsigned int; local_index_t = short unsigned int]’
+hi_aligner.h:3926:39:   required from ‘int HI_Aligner<index_t, local_index_t>::go(const Scoring&, const PairedEndPolicy&, const TranscriptomePolicy&, const GraphPolicy&, const GFM<index_t>&, const ALTDB<index_t>&, const BitPairReference&, SwAligner&, SpliceSiteDB&, WalkMetrics&, PerReadMetrics&, SwMetrics&, HIMetrics&, RandomSource&, AlnSinkWrap<index_t>&) [with index_t = unsigned int; local_index_t = short unsigned int]’
+hisat2.cpp:3435:151:   required from here
+hi_aligner.h:2484:23: warning: comparison of integer expressions of different signedness: ‘int’ and ‘size_t’ {aka ‘long unsigned int’} [-Wsign-compare]
+ 2484 |     if(ht_range.first >= haplotypes.size())
+hi_aligner.h:2499:37: warning: comparison of integer expressions of different signedness: ‘unsigned int’ and ‘int’ [-Wsign-compare]
+ 2499 |                 if(ht_list[h].first == ht_range.first) {
+      |                    ~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~
+hi_aligner.h:2537:41: warning: comparison of integer expressions of different signedness: ‘unsigned int’ and ‘int’ [-Wsign-compare]
+ 2537 |                     if(ht_list[h].first == ht_range.first) {
+      |                        ~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~
+hi_aligner.h:2561:31: warning: comparison of integer expressions of different signedness: ‘int’ and ‘size_t’ {aka ‘long unsigned int’} [-Wsign-compare]
+ 2561 |         for(; ht_range.second < haplotypes.size(); ht_range.second++) {
+hi_aligner.h:2568:41: warning: comparison of integer expressions of different signedness: ‘unsigned int’ and ‘int’ [-Wsign-compare]
+ 2568 |                     if(ht_list[h].first == ht_range.second) {
+      |                        ~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~
+In file included from hisat2.cpp:45:
+spliced_aligner.h: In instantiation of ‘int64_t SplicedAligner<index_t, local_index_t>::hybridSearch_recur(const Scoring&, const PairedEndPolicy&, const TranscriptomePolicy&, const GraphPolicy&, const GFM<index_t>&, const ALTDB<index_t>&, const BitPairReference&, SwAligner&, SpliceSiteDB&, index_t, const GenomeHit<index_t>&, index_t, index_t, WalkMetrics&, PerReadMetrics&, SwMetrics&, HIMetrics&, RandomSource&, AlnSinkWrap<index_t>&, index_t) [with index_t = unsigned int; local_index_t = short unsigned int; int64_t = long int]’:
+spliced_aligner.h:214:9:   required from here
+spliced_aligner.h:282:18: warning: variable ‘another_spliced’ set but not used [-Wunused-but-set-variable]
+  282 |             bool another_spliced = false;
+      |                  ^~~~~~~~~~~~~~~
+In file included from spliced_aligner.h:23,
+                 from hisat2.cpp:45:
+hi_aligner.h: In instantiation of ‘bool GenomeHit<index_t>::combineWith(const GenomeHit<index_t>&, const Read&, const GFM<index_t>&, const BitPairReference&, const ALTDB<index_t>&, SpliceSiteDB&, SwAligner&, SwMetrics&, const Scoring&, TAlScore, RandomSource&, index_t, index_t, index_t, index_t, index_t, index_t, const SpliceSite*, bool) [with index_t = unsigned int; TAlScore = long int]’:
+spliced_aligner.h:365:30:   required from ‘int64_t SplicedAligner<index_t, local_index_t>::hybridSearch_recur(const Scoring&, const PairedEndPolicy&, const TranscriptomePolicy&, const GraphPolicy&, const GFM<index_t>&, const ALTDB<index_t>&, const BitPairReference&, SwAligner&, SpliceSiteDB&, index_t, const GenomeHit<index_t>&, index_t, index_t, WalkMetrics&, PerReadMetrics&, SwMetrics&, HIMetrics&, RandomSource&, AlnSinkWrap<index_t>&, index_t) [with index_t = unsigned int; local_index_t = short unsigned int; int64_t = long int]’
+spliced_aligner.h:214:9:   required from here
+hi_aligner.h:1790:32: warning: comparison of integer expressions of different signedness: ‘const uint64_t’ {aka ‘const long unsigned int’} and ‘char’ [-Wsign-compare]
+ 1790 |                     if(alt.seq == rdc) {
+      |                        ~~~~~~~~^~~~~~
+ref_read.cpp: In function ‘std::pair<long unsigned int, long unsigned int> fastaRefReadSizes(EList<FileBuf*>&, EList<RefRecord>&, const RefReadInParams&, BitpairOutFileBuf*, TIndexOff&)’:
+ref_read.cpp:327:22: warning: comparison of integer expressions of different signedness: ‘int64_t’ {aka ‘long int’} and ‘size_t’ {aka ‘long unsigned int’} [-Wsign-compare]
+  327 |             if(i + 1 >= recs.size() || recs[i+1].first) {
+      |                ~~~~~~^~~~~~~~~~~~~~
+In file included from splice_site.h:34,
+                 from edit.h:30,
+                 from edit.cpp:21:
+gfm.h: In static member function ‘static std::pair<GFM<index_t>*, GFM<index_t>*> GFM<index_t>::fromStrings(const EList<std::__cxx11::basic_string<char> >&, bool, int, bool, int32_t, int32_t, int32_t, const string&, bool, index_t, index_t, index_t, int, uint32_t, bool, bool, bool)’:
+gfm.h:1098:3: warning: ‘template<class> class std::auto_ptr’ is deprecated [-Wdeprecated-declarations]
+ 1098 |   auto_ptr<stringstream> ss(new stringstream());
+      |   ^~~~~~~~
+In file included from /usr/include/c++/9/bits/locale_conv.h:41,
+                 from /usr/include/c++/9/locale:43,
+                 from /usr/include/c++/9/iomanip:43,
+                 from timer.h:26,
+                 from reference.h:36,
+                 from splice_site.h:32,
+                 from edit.h:30,
+                 from edit.cpp:21:
+/usr/include/c++/9/bits/unique_ptr.h:53:28: note: declared here
+   53 |   template<typename> class auto_ptr;
+      |                            ^~~~~~~~
+In file included from splice_site.h:34,
+                 from edit.h:30,
+                 from edit.cpp:21:
+gfm.h:1102:3: warning: ‘template<class> class std::auto_ptr’ is deprecated [-Wdeprecated-declarations]
+ 1102 |   auto_ptr<FileBuf> fb(new FileBuf(ss.get()));
+      |   ^~~~~~~~
+In file included from /usr/include/c++/9/bits/locale_conv.h:41,
+                 from /usr/include/c++/9/locale:43,
+                 from /usr/include/c++/9/iomanip:43,
+                 from timer.h:26,
+                 from reference.h:36,
+                 from splice_site.h:32,
+                 from edit.h:30,
+                 from edit.cpp:21:
+/usr/include/c++/9/bits/unique_ptr.h:53:28: note: declared here
+   53 |   template<typename> class auto_ptr;
+      |                            ^~~~~~~~
+In file included from gfm.cpp:21:
+gfm.h: In static member function ‘static std::pair<GFM<index_t>*, GFM<index_t>*> GFM<index_t>::fromStrings(const EList<std::__cxx11::basic_string<char> >&, bool, int, bool, int32_t, int32_t, int32_t, const string&, bool, index_t, index_t, index_t, int, uint32_t, bool, bool, bool)’:
+gfm.h:1098:3: warning: ‘template<class> class std::auto_ptr’ is deprecated [-Wdeprecated-declarations]
+ 1098 |   auto_ptr<stringstream> ss(new stringstream());
+      |   ^~~~~~~~
+In file included from /usr/include/c++/9/memory:80,
+                 from gfm.h:28,
+                 from gfm.cpp:21:
+/usr/include/c++/9/bits/unique_ptr.h:53:28: note: declared here
+   53 |   template<typename> class auto_ptr;
+      |                            ^~~~~~~~
+In file included from gfm.cpp:21:
+gfm.h:1102:3: warning: ‘template<class> class std::auto_ptr’ is deprecated [-Wdeprecated-declarations]
+ 1102 |   auto_ptr<FileBuf> fb(new FileBuf(ss.get()));
+      |   ^~~~~~~~
+In file included from /usr/include/c++/9/memory:80,
+                 from gfm.h:28,
+                 from gfm.cpp:21:
+/usr/include/c++/9/bits/unique_ptr.h:53:28: note: declared here
+   53 |   template<typename> class auto_ptr;
+      |                            ^~~~~~~~
+reference.cpp: In member function ‘int BitPairReference::getStretch(uint32_t*, size_t, size_t, size_t) const’:
+reference.cpp:456:12: warning: variable ‘origBufOff’ set but not used [-Wunused-but-set-variable]
+  456 |   uint64_t origBufOff = bufOff;
+      |            ^~~~~~~~~~
+reference.cpp:450:7: warning: variable ‘binarySearched’ set but not used [-Wunused-but-set-variable]
+  450 |  bool binarySearched = false;
+      |       ^~~~~~~~~~~~~~
+In file included from splice_site.h:34,
+                 from edit.h:30,
+                 from aligner_seed.h:30,
+                 from aligner_seed.cpp:21:
+gfm.h: In static member function ‘static std::pair<GFM<index_t>*, GFM<index_t>*> GFM<index_t>::fromStrings(const EList<std::__cxx11::basic_string<char> >&, bool, int, bool, int32_t, int32_t, int32_t, const string&, bool, index_t, index_t, index_t, int, uint32_t, bool, bool, bool)’:
+gfm.h:1098:3: warning: ‘template<class> class std::auto_ptr’ is deprecated [-Wdeprecated-declarations]
+ 1098 |   auto_ptr<stringstream> ss(new stringstream());
+      |   ^~~~~~~~
+In file included from /usr/include/c++/9/bits/locale_conv.h:41,
+                 from /usr/include/c++/9/locale:43,
+                 from /usr/include/c++/9/iomanip:43,
+                 from timer.h:26,
+                 from reference.h:36,
+                 from splice_site.h:32,
+                 from edit.h:30,
+                 from aligner_seed.h:30,
+                 from aligner_seed.cpp:21:
+/usr/include/c++/9/bits/unique_ptr.h:53:28: note: declared here
+   53 |   template<typename> class auto_ptr;
+      |                            ^~~~~~~~
+In file included from splice_site.h:34,
+                 from edit.h:30,
+                 from aligner_seed.h:30,
+                 from aligner_seed.cpp:21:
+gfm.h:1102:3: warning: ‘template<class> class std::auto_ptr’ is deprecated [-Wdeprecated-declarations]
+ 1102 |   auto_ptr<FileBuf> fb(new FileBuf(ss.get()));
+      |   ^~~~~~~~
+In file included from /usr/include/c++/9/bits/locale_conv.h:41,
+                 from /usr/include/c++/9/locale:43,
+                 from /usr/include/c++/9/iomanip:43,
+                 from timer.h:26,
+                 from reference.h:36,
+                 from splice_site.h:32,
+                 from edit.h:30,
+                 from aligner_seed.h:30,
+                 from aligner_seed.cpp:21:
+/usr/include/c++/9/bits/unique_ptr.h:53:28: note: declared here
+   53 |   template<typename> class auto_ptr;
+      |                            ^~~~~~~~
+In file included from splice_site.h:34,
+                 from edit.h:30,
+                 from aligner_result.h:30,
+                 from aligner_seed2.h:102,
+                 from aligner_seed2.cpp:22:
+gfm.h: In static member function ‘static std::pair<GFM<index_t>*, GFM<index_t>*> GFM<index_t>::fromStrings(const EList<std::__cxx11::basic_string<char> >&, bool, int, bool, int32_t, int32_t, int32_t, const string&, bool, index_t, index_t, index_t, int, uint32_t, bool, bool, bool)’:
+gfm.h:1098:3: warning: ‘template<class> class std::auto_ptr’ is deprecated [-Wdeprecated-declarations]
+ 1098 |   auto_ptr<stringstream> ss(new stringstream());
+      |   ^~~~~~~~
+In file included from /usr/include/c++/9/bits/locale_conv.h:41,
+                 from /usr/include/c++/9/locale:43,
+                 from /usr/include/c++/9/iomanip:43,
+                 from timer.h:26,
+                 from reference.h:36,
+                 from splice_site.h:32,
+                 from edit.h:30,
+                 from aligner_result.h:30,
+                 from aligner_seed2.h:102,
+                 from aligner_seed2.cpp:22:
+/usr/include/c++/9/bits/unique_ptr.h:53:28: note: declared here
+   53 |   template<typename> class auto_ptr;
+      |                            ^~~~~~~~
+In file included from splice_site.h:34,
+                 from edit.h:30,
+                 from aligner_result.h:30,
+                 from aligner_seed2.h:102,
+                 from aligner_seed2.cpp:22:
+gfm.h:1102:3: warning: ‘template<class> class std::auto_ptr’ is deprecated [-Wdeprecated-declarations]
+ 1102 |   auto_ptr<FileBuf> fb(new FileBuf(ss.get()));
+      |   ^~~~~~~~
+In file included from /usr/include/c++/9/bits/locale_conv.h:41,
+                 from /usr/include/c++/9/locale:43,
+                 from /usr/include/c++/9/iomanip:43,
+                 from timer.h:26,
+                 from reference.h:36,
+                 from splice_site.h:32,
+                 from edit.h:30,
+                 from aligner_result.h:30,
+                 from aligner_seed2.h:102,
+                 from aligner_seed2.cpp:22:
+/usr/include/c++/9/bits/unique_ptr.h:53:28: note: declared here
+   53 |   template<typename> class auto_ptr;
+      |                            ^~~~~~~~
+In file included from splice_site.h:34,
+                 from edit.h:30,
+                 from aligner_result.h:30,
+                 from aligner_sw_common.h:23,
+                 from aligner_sw.h:74,
+                 from aligner_sw.cpp:25:
+gfm.h: In static member function ‘static std::pair<GFM<index_t>*, GFM<index_t>*> GFM<index_t>::fromStrings(const EList<std::__cxx11::basic_string<char> >&, bool, int, bool, int32_t, int32_t, int32_t, const string&, bool, index_t, index_t, index_t, int, uint32_t, bool, bool, bool)’:
+gfm.h:1098:3: warning: ‘template<class> class std::auto_ptr’ is deprecated [-Wdeprecated-declarations]
+ 1098 |   auto_ptr<stringstream> ss(new stringstream());
+      |   ^~~~~~~~
+In file included from /usr/include/c++/9/bits/locale_conv.h:41,
+                 from /usr/include/c++/9/locale:43,
+                 from /usr/include/c++/9/iomanip:43,
+                 from timer.h:26,
+                 from reference.h:36,
+                 from splice_site.h:32,
+                 from edit.h:30,
+                 from aligner_result.h:30,
+                 from aligner_sw_common.h:23,
+                 from aligner_sw.h:74,
+                 from aligner_sw.cpp:25:
+/usr/include/c++/9/bits/unique_ptr.h:53:28: note: declared here
+   53 |   template<typename> class auto_ptr;
+      |                            ^~~~~~~~
+In file included from splice_site.h:34,
+                 from edit.h:30,
+                 from aligner_result.h:30,
+                 from aligner_sw_common.h:23,
+                 from aligner_sw.h:74,
+                 from aligner_sw.cpp:25:
+gfm.h:1102:3: warning: ‘template<class> class std::auto_ptr’ is deprecated [-Wdeprecated-declarations]
+ 1102 |   auto_ptr<FileBuf> fb(new FileBuf(ss.get()));
+      |   ^~~~~~~~
+In file included from /usr/include/c++/9/bits/locale_conv.h:41,
+                 from /usr/include/c++/9/locale:43,
+                 from /usr/include/c++/9/iomanip:43,
+                 from timer.h:26,
+                 from reference.h:36,
+                 from splice_site.h:32,
+                 from edit.h:30,
+                 from aligner_result.h:30,
+                 from aligner_sw_common.h:23,
+                 from aligner_sw.h:74,
+                 from aligner_sw.cpp:25:
+/usr/include/c++/9/bits/unique_ptr.h:53:28: note: declared here
+   53 |   template<typename> class auto_ptr;
+      |                            ^~~~~~~~
+In file included from splice_site.h:34,
+                 from edit.h:30,
+                 from aligner_result.h:30,
+                 from aligner_result.cpp:22:
+gfm.h: In static member function ‘static std::pair<GFM<index_t>*, GFM<index_t>*> GFM<index_t>::fromStrings(const EList<std::__cxx11::basic_string<char> >&, bool, int, bool, int32_t, int32_t, int32_t, const string&, bool, index_t, index_t, index_t, int, uint32_t, bool, bool, bool)’:
+gfm.h:1098:3: warning: ‘template<class> class std::auto_ptr’ is deprecated [-Wdeprecated-declarations]
+ 1098 |   auto_ptr<stringstream> ss(new stringstream());
+      |   ^~~~~~~~
+In file included from /usr/include/c++/9/bits/locale_conv.h:41,
+                 from /usr/include/c++/9/locale:43,
+                 from /usr/include/c++/9/iomanip:43,
+                 from timer.h:26,
+                 from reference.h:36,
+                 from aligner_result.cpp:21:
+/usr/include/c++/9/bits/unique_ptr.h:53:28: note: declared here
+   53 |   template<typename> class auto_ptr;
+      |                            ^~~~~~~~
+In file included from splice_site.h:34,
+                 from edit.h:30,
+                 from aligner_result.h:30,
+                 from aligner_result.cpp:22:
+gfm.h:1102:3: warning: ‘template<class> class std::auto_ptr’ is deprecated [-Wdeprecated-declarations]
+ 1102 |   auto_ptr<FileBuf> fb(new FileBuf(ss.get()));
+      |   ^~~~~~~~
+In file included from /usr/include/c++/9/bits/locale_conv.h:41,
+                 from /usr/include/c++/9/locale:43,
+                 from /usr/include/c++/9/iomanip:43,
+                 from timer.h:26,
+                 from reference.h:36,
+                 from aligner_result.cpp:21:
+/usr/include/c++/9/bits/unique_ptr.h:53:28: note: declared here
+   53 |   template<typename> class auto_ptr;
+      |                            ^~~~~~~~
+In file included from splice_site.h:34,
+                 from edit.h:30,
+                 from aligner_result.h:30,
+                 from unique.h:38,
+                 from aln_sink.h:25,
+                 from aln_sink.cpp:22:
+gfm.h: In static member function ‘static std::pair<GFM<index_t>*, GFM<index_t>*> GFM<index_t>::fromStrings(const EList<std::__cxx11::basic_string<char> >&, bool, int, bool, int32_t, int32_t, int32_t, const string&, bool, index_t, index_t, index_t, int, uint32_t, bool, bool, bool)’:
+gfm.h:1098:3: warning: ‘template<class> class std::auto_ptr’ is deprecated [-Wdeprecated-declarations]
+ 1098 |   auto_ptr<stringstream> ss(new stringstream());
+      |   ^~~~~~~~
+In file included from /usr/include/c++/9/bits/locale_conv.h:41,
+                 from /usr/include/c++/9/locale:43,
+                 from /usr/include/c++/9/iomanip:43,
+                 from aln_sink.cpp:20:
+/usr/include/c++/9/bits/unique_ptr.h:53:28: note: declared here
+   53 |   template<typename> class auto_ptr;
+      |                            ^~~~~~~~
+In file included from splice_site.h:34,
+                 from edit.h:30,
+                 from aligner_result.h:30,
+                 from unique.h:38,
+                 from aln_sink.h:25,
+                 from aln_sink.cpp:22:
+gfm.h:1102:3: warning: ‘template<class> class std::auto_ptr’ is deprecated [-Wdeprecated-declarations]
+ 1102 |   auto_ptr<FileBuf> fb(new FileBuf(ss.get()));
+      |   ^~~~~~~~
+In file included from /usr/include/c++/9/bits/locale_conv.h:41,
+                 from /usr/include/c++/9/locale:43,
+                 from /usr/include/c++/9/iomanip:43,
+                 from aln_sink.cpp:20:
+/usr/include/c++/9/bits/unique_ptr.h:53:28: note: declared here
+   53 |   template<typename> class auto_ptr;
+      |                            ^~~~~~~~
+In file included from splice_site.h:34,
+                 from edit.h:30,
+                 from aligner_result.h:30,
+                 from unique.h:38,
+                 from unique.cpp:20:
+gfm.h: In static member function ‘static std::pair<GFM<index_t>*, GFM<index_t>*> GFM<index_t>::fromStrings(const EList<std::__cxx11::basic_string<char> >&, bool, int, bool, int32_t, int32_t, int32_t, const string&, bool, index_t, index_t, index_t, int, uint32_t, bool, bool, bool)’:
+gfm.h:1098:3: warning: ‘template<class> class std::auto_ptr’ is deprecated [-Wdeprecated-declarations]
+ 1098 |   auto_ptr<stringstream> ss(new stringstream());
+      |   ^~~~~~~~
+In file included from /usr/include/c++/9/bits/locale_conv.h:41,
+                 from /usr/include/c++/9/locale:43,
+                 from /usr/include/c++/9/iomanip:43,
+                 from timer.h:26,
+                 from reference.h:36,
+                 from splice_site.h:32,
+                 from edit.h:30,
+                 from aligner_result.h:30,
+                 from unique.h:38,
+                 from unique.cpp:20:
+/usr/include/c++/9/bits/unique_ptr.h:53:28: note: declared here
+   53 |   template<typename> class auto_ptr;
+      |                            ^~~~~~~~
+In file included from splice_site.h:34,
+                 from edit.h:30,
+                 from aligner_result.h:30,
+                 from unique.h:38,
+                 from unique.cpp:20:
+gfm.h:1102:3: warning: ‘template<class> class std::auto_ptr’ is deprecated [-Wdeprecated-declarations]
+ 1102 |   auto_ptr<FileBuf> fb(new FileBuf(ss.get()));
+      |   ^~~~~~~~
+In file included from /usr/include/c++/9/bits/locale_conv.h:41,
+                 from /usr/include/c++/9/locale:43,
+                 from /usr/include/c++/9/iomanip:43,
+                 from timer.h:26,
+                 from reference.h:36,
+                 from splice_site.h:32,
+                 from edit.h:30,
+                 from aligner_result.h:30,
+                 from unique.h:38,
+                 from unique.cpp:20:
+/usr/include/c++/9/bits/unique_ptr.h:53:28: note: declared here
+   53 |   template<typename> class auto_ptr;
+      |                            ^~~~~~~~
+In file included from splice_site.h:34,
+                 from edit.h:30,
+                 from aligner_result.h:30,
+                 from aligner_sw_common.h:23,
+                 from aligner_bt.h:25,
+                 from aligner_bt.cpp:20:
+gfm.h: In static member function ‘static std::pair<GFM<index_t>*, GFM<index_t>*> GFM<index_t>::fromStrings(const EList<std::__cxx11::basic_string<char> >&, bool, int, bool, int32_t, int32_t, int32_t, const string&, bool, index_t, index_t, index_t, int, uint32_t, bool, bool, bool)’:
+gfm.h:1098:3: warning: ‘template<class> class std::auto_ptr’ is deprecated [-Wdeprecated-declarations]
+ 1098 |   auto_ptr<stringstream> ss(new stringstream());
+      |   ^~~~~~~~
+In file included from /usr/include/c++/9/bits/locale_conv.h:41,
+                 from /usr/include/c++/9/locale:43,
+                 from /usr/include/c++/9/iomanip:43,
+                 from timer.h:26,
+                 from reference.h:36,
+                 from splice_site.h:32,
+                 from edit.h:30,
+                 from aligner_result.h:30,
+                 from aligner_sw_common.h:23,
+                 from aligner_bt.h:25,
+                 from aligner_bt.cpp:20:
+/usr/include/c++/9/bits/unique_ptr.h:53:28: note: declared here
+   53 |   template<typename> class auto_ptr;
+      |                            ^~~~~~~~
+In file included from splice_site.h:34,
+                 from edit.h:30,
+                 from aligner_result.h:30,
+                 from aligner_sw_common.h:23,
+                 from aligner_bt.h:25,
+                 from aligner_bt.cpp:20:
+gfm.h:1102:3: warning: ‘template<class> class std::auto_ptr’ is deprecated [-Wdeprecated-declarations]
+ 1102 |   auto_ptr<FileBuf> fb(new FileBuf(ss.get()));
+      |   ^~~~~~~~
+In file included from /usr/include/c++/9/bits/locale_conv.h:41,
+                 from /usr/include/c++/9/locale:43,
+                 from /usr/include/c++/9/iomanip:43,
+                 from timer.h:26,
+                 from reference.h:36,
+                 from splice_site.h:32,
+                 from edit.h:30,
+                 from aligner_result.h:30,
+                 from aligner_sw_common.h:23,
+                 from aligner_bt.h:25,
+                 from aligner_bt.cpp:20:
+/usr/include/c++/9/bits/unique_ptr.h:53:28: note: declared here
+   53 |   template<typename> class auto_ptr;
+      |                            ^~~~~~~~
+In file included from splice_site.h:34,
+                 from edit.h:30,
+                 from aligner_result.h:30,
+                 from aligner_sw_common.h:23,
+                 from aligner_swsse.cpp:21:
+gfm.h: In static member function ‘static std::pair<GFM<index_t>*, GFM<index_t>*> GFM<index_t>::fromStrings(const EList<std::__cxx11::basic_string<char> >&, bool, int, bool, int32_t, int32_t, int32_t, const string&, bool, index_t, index_t, index_t, int, uint32_t, bool, bool, bool)’:
+gfm.h:1098:3: warning: ‘template<class> class std::auto_ptr’ is deprecated [-Wdeprecated-declarations]
+ 1098 |   auto_ptr<stringstream> ss(new stringstream());
+      |   ^~~~~~~~
+In file included from /usr/include/c++/9/bits/locale_conv.h:41,
+                 from /usr/include/c++/9/locale:43,
+                 from /usr/include/c++/9/iomanip:43,
+                 from timer.h:26,
+                 from reference.h:36,
+                 from splice_site.h:32,
+                 from edit.h:30,
+                 from aligner_result.h:30,
+                 from aligner_sw_common.h:23,
+                 from aligner_swsse.cpp:21:
+/usr/include/c++/9/bits/unique_ptr.h:53:28: note: declared here
+   53 |   template<typename> class auto_ptr;
+      |                            ^~~~~~~~
+In file included from splice_site.h:34,
+                 from edit.h:30,
+                 from aligner_result.h:30,
+                 from aligner_sw_common.h:23,
+                 from aligner_swsse.cpp:21:
+gfm.h:1102:3: warning: ‘template<class> class std::auto_ptr’ is deprecated [-Wdeprecated-declarations]
+ 1102 |   auto_ptr<FileBuf> fb(new FileBuf(ss.get()));
+      |   ^~~~~~~~
+In file included from /usr/include/c++/9/bits/locale_conv.h:41,
+                 from /usr/include/c++/9/locale:43,
+                 from /usr/include/c++/9/iomanip:43,
+                 from timer.h:26,
+                 from reference.h:36,
+                 from splice_site.h:32,
+                 from edit.h:30,
+                 from aligner_result.h:30,
+                 from aligner_sw_common.h:23,
+                 from aligner_swsse.cpp:21:
+/usr/include/c++/9/bits/unique_ptr.h:53:28: note: declared here
+   53 |   template<typename> class auto_ptr;
+      |                            ^~~~~~~~
+In file included from splice_site.h:34,
+                 from edit.h:30,
+                 from aligner_result.h:30,
+                 from aligner_sw_common.h:23,
+                 from aligner_sw.h:74,
+                 from aligner_swsse_loc_i16.cpp:56:
+gfm.h: In static member function ‘static std::pair<GFM<index_t>*, GFM<index_t>*> GFM<index_t>::fromStrings(const EList<std::__cxx11::basic_string<char> >&, bool, int, bool, int32_t, int32_t, int32_t, const string&, bool, index_t, index_t, index_t, int, uint32_t, bool, bool, bool)’:
+gfm.h:1098:3: warning: ‘template<class> class std::auto_ptr’ is deprecated [-Wdeprecated-declarations]
+ 1098 |   auto_ptr<stringstream> ss(new stringstream());
+      |   ^~~~~~~~
+In file included from /usr/include/c++/9/bits/locale_conv.h:41,
+                 from /usr/include/c++/9/locale:43,
+                 from /usr/include/c++/9/iomanip:43,
+                 from timer.h:26,
+                 from reference.h:36,
+                 from splice_site.h:32,
+                 from edit.h:30,
+                 from aligner_result.h:30,
+                 from aligner_sw_common.h:23,
+                 from aligner_sw.h:74,
+                 from aligner_swsse_loc_i16.cpp:56:
+/usr/include/c++/9/bits/unique_ptr.h:53:28: note: declared here
+   53 |   template<typename> class auto_ptr;
+      |                            ^~~~~~~~
+In file included from splice_site.h:34,
+                 from edit.h:30,
+                 from aligner_result.h:30,
+                 from aligner_sw_common.h:23,
+                 from aligner_sw.h:74,
+                 from aligner_swsse_loc_i16.cpp:56:
+gfm.h:1102:3: warning: ‘template<class> class std::auto_ptr’ is deprecated [-Wdeprecated-declarations]
+ 1102 |   auto_ptr<FileBuf> fb(new FileBuf(ss.get()));
+      |   ^~~~~~~~
+In file included from /usr/include/c++/9/bits/locale_conv.h:41,
+                 from /usr/include/c++/9/locale:43,
+                 from /usr/include/c++/9/iomanip:43,
+                 from timer.h:26,
+                 from reference.h:36,
+                 from splice_site.h:32,
+                 from edit.h:30,
+                 from aligner_result.h:30,
+                 from aligner_sw_common.h:23,
+                 from aligner_sw.h:74,
+                 from aligner_swsse_loc_i16.cpp:56:
+/usr/include/c++/9/bits/unique_ptr.h:53:28: note: declared here
+   53 |   template<typename> class auto_ptr;
+      |                            ^~~~~~~~
+In file included from splice_site.h:34,
+                 from edit.h:30,
+                 from aligner_result.h:30,
+                 from aligner_sw_common.h:23,
+                 from aligner_sw.h:74,
+                 from aligner_swsse_ee_i16.cpp:56:
+gfm.h: In static member function ‘static std::pair<GFM<index_t>*, GFM<index_t>*> GFM<index_t>::fromStrings(const EList<std::__cxx11::basic_string<char> >&, bool, int, bool, int32_t, int32_t, int32_t, const string&, bool, index_t, index_t, index_t, int, uint32_t, bool, bool, bool)’:
+gfm.h:1098:3: warning: ‘template<class> class std::auto_ptr’ is deprecated [-Wdeprecated-declarations]
+ 1098 |   auto_ptr<stringstream> ss(new stringstream());
+      |   ^~~~~~~~
+In file included from /usr/include/c++/9/bits/locale_conv.h:41,
+                 from /usr/include/c++/9/locale:43,
+                 from /usr/include/c++/9/iomanip:43,
+                 from timer.h:26,
+                 from reference.h:36,
+                 from splice_site.h:32,
+                 from edit.h:30,
+                 from aligner_result.h:30,
+                 from aligner_sw_common.h:23,
+                 from aligner_sw.h:74,
+                 from aligner_swsse_ee_i16.cpp:56:
+/usr/include/c++/9/bits/unique_ptr.h:53:28: note: declared here
+   53 |   template<typename> class auto_ptr;
+      |                            ^~~~~~~~
+In file included from splice_site.h:34,
+                 from edit.h:30,
+                 from aligner_result.h:30,
+                 from aligner_sw_common.h:23,
+                 from aligner_sw.h:74,
+                 from aligner_swsse_ee_i16.cpp:56:
+gfm.h:1102:3: warning: ‘template<class> class std::auto_ptr’ is deprecated [-Wdeprecated-declarations]
+ 1102 |   auto_ptr<FileBuf> fb(new FileBuf(ss.get()));
+      |   ^~~~~~~~
+In file included from /usr/include/c++/9/bits/locale_conv.h:41,
+                 from /usr/include/c++/9/locale:43,
+                 from /usr/include/c++/9/iomanip:43,
+                 from timer.h:26,
+                 from reference.h:36,
+                 from splice_site.h:32,
+                 from edit.h:30,
+                 from aligner_result.h:30,
+                 from aligner_sw_common.h:23,
+                 from aligner_sw.h:74,
+                 from aligner_swsse_ee_i16.cpp:56:
+/usr/include/c++/9/bits/unique_ptr.h:53:28: note: declared here
+   53 |   template<typename> class auto_ptr;
+      |                            ^~~~~~~~
+In file included from splice_site.h:34,
+                 from edit.h:30,
+                 from aligner_result.h:30,
+                 from aligner_sw_common.h:23,
+                 from aligner_sw.h:74,
+                 from aligner_swsse_loc_u8.cpp:56:
+gfm.h: In static member function ‘static std::pair<GFM<index_t>*, GFM<index_t>*> GFM<index_t>::fromStrings(const EList<std::__cxx11::basic_string<char> >&, bool, int, bool, int32_t, int32_t, int32_t, const string&, bool, index_t, index_t, index_t, int, uint32_t, bool, bool, bool)’:
+gfm.h:1098:3: warning: ‘template<class> class std::auto_ptr’ is deprecated [-Wdeprecated-declarations]
+ 1098 |   auto_ptr<stringstream> ss(new stringstream());
+      |   ^~~~~~~~
+In file included from /usr/include/c++/9/bits/locale_conv.h:41,
+                 from /usr/include/c++/9/locale:43,
+                 from /usr/include/c++/9/iomanip:43,
+                 from timer.h:26,
+                 from reference.h:36,
+                 from splice_site.h:32,
+                 from edit.h:30,
+                 from aligner_result.h:30,
+                 from aligner_sw_common.h:23,
+                 from aligner_sw.h:74,
+                 from aligner_swsse_loc_u8.cpp:56:
+/usr/include/c++/9/bits/unique_ptr.h:53:28: note: declared here
+   53 |   template<typename> class auto_ptr;
+      |                            ^~~~~~~~
+In file included from splice_site.h:34,
+                 from edit.h:30,
+                 from aligner_result.h:30,
+                 from aligner_sw_common.h:23,
+                 from aligner_sw.h:74,
+                 from aligner_swsse_loc_u8.cpp:56:
+gfm.h:1102:3: warning: ‘template<class> class std::auto_ptr’ is deprecated [-Wdeprecated-declarations]
+ 1102 |   auto_ptr<FileBuf> fb(new FileBuf(ss.get()));
+      |   ^~~~~~~~
+In file included from /usr/include/c++/9/bits/locale_conv.h:41,
+                 from /usr/include/c++/9/locale:43,
+                 from /usr/include/c++/9/iomanip:43,
+                 from timer.h:26,
+                 from reference.h:36,
+                 from splice_site.h:32,
+                 from edit.h:30,
+                 from aligner_result.h:30,
+                 from aligner_sw_common.h:23,
+                 from aligner_sw.h:74,
+                 from aligner_swsse_loc_u8.cpp:56:
+/usr/include/c++/9/bits/unique_ptr.h:53:28: note: declared here
+   53 |   template<typename> class auto_ptr;
+      |                            ^~~~~~~~
+In file included from splice_site.h:34,
+                 from edit.h:30,
+                 from aligner_result.h:30,
+                 from aligner_sw_common.h:23,
+                 from aligner_sw.h:74,
+                 from aligner_swsse_ee_u8.cpp:56:
+gfm.h: In static member function ‘static std::pair<GFM<index_t>*, GFM<index_t>*> GFM<index_t>::fromStrings(const EList<std::__cxx11::basic_string<char> >&, bool, int, bool, int32_t, int32_t, int32_t, const string&, bool, index_t, index_t, index_t, int, uint32_t, bool, bool, bool)’:
+gfm.h:1098:3: warning: ‘template<class> class std::auto_ptr’ is deprecated [-Wdeprecated-declarations]
+ 1098 |   auto_ptr<stringstream> ss(new stringstream());
+      |   ^~~~~~~~
+In file included from /usr/include/c++/9/bits/locale_conv.h:41,
+                 from /usr/include/c++/9/locale:43,
+                 from /usr/include/c++/9/iomanip:43,
+                 from timer.h:26,
+                 from reference.h:36,
+                 from splice_site.h:32,
+                 from edit.h:30,
+                 from aligner_result.h:30,
+                 from aligner_sw_common.h:23,
+                 from aligner_sw.h:74,
+                 from aligner_swsse_ee_u8.cpp:56:
+/usr/include/c++/9/bits/unique_ptr.h:53:28: note: declared here
+   53 |   template<typename> class auto_ptr;
+      |                            ^~~~~~~~
+In file included from splice_site.h:34,
+                 from edit.h:30,
+                 from aligner_result.h:30,
+                 from aligner_sw_common.h:23,
+                 from aligner_sw.h:74,
+                 from aligner_swsse_ee_u8.cpp:56:
+gfm.h:1102:3: warning: ‘template<class> class std::auto_ptr’ is deprecated [-Wdeprecated-declarations]
+ 1102 |   auto_ptr<FileBuf> fb(new FileBuf(ss.get()));
+      |   ^~~~~~~~
+In file included from /usr/include/c++/9/bits/locale_conv.h:41,
+                 from /usr/include/c++/9/locale:43,
+                 from /usr/include/c++/9/iomanip:43,
+                 from timer.h:26,
+                 from reference.h:36,
+                 from splice_site.h:32,
+                 from edit.h:30,
+                 from aligner_result.h:30,
+                 from aligner_sw_common.h:23,
+                 from aligner_sw.h:74,
+                 from aligner_swsse_ee_u8.cpp:56:
+/usr/include/c++/9/bits/unique_ptr.h:53:28: note: declared here
+   53 |   template<typename> class auto_ptr;
+      |                            ^~~~~~~~
+In file included from splice_site.h:34,
+                 from edit.h:30,
+                 from aligner_result.h:30,
+                 from aligner_seed2.h:102,
+                 from aligner_driver.h:78,
+                 from aligner_driver.cpp:20:
+gfm.h: In static member function ‘static std::pair<GFM<index_t>*, GFM<index_t>*> GFM<index_t>::fromStrings(const EList<std::__cxx11::basic_string<char> >&, bool, int, bool, int32_t, int32_t, int32_t, const string&, bool, index_t, index_t, index_t, int, uint32_t, bool, bool, bool)’:
+gfm.h:1098:3: warning: ‘template<class> class std::auto_ptr’ is deprecated [-Wdeprecated-declarations]
+ 1098 |   auto_ptr<stringstream> ss(new stringstream());
+      |   ^~~~~~~~
+In file included from /usr/include/c++/9/bits/locale_conv.h:41,
+                 from /usr/include/c++/9/locale:43,
+                 from /usr/include/c++/9/iomanip:43,
+                 from timer.h:26,
+                 from reference.h:36,
+                 from splice_site.h:32,
+                 from edit.h:30,
+                 from aligner_result.h:30,
+                 from aligner_seed2.h:102,
+                 from aligner_driver.h:78,
+                 from aligner_driver.cpp:20:
+/usr/include/c++/9/bits/unique_ptr.h:53:28: note: declared here
+   53 |   template<typename> class auto_ptr;
+      |                            ^~~~~~~~
+In file included from splice_site.h:34,
+                 from edit.h:30,
+                 from aligner_result.h:30,
+                 from aligner_seed2.h:102,
+                 from aligner_driver.h:78,
+                 from aligner_driver.cpp:20:
+gfm.h:1102:3: warning: ‘template<class> class std::auto_ptr’ is deprecated [-Wdeprecated-declarations]
+ 1102 |   auto_ptr<FileBuf> fb(new FileBuf(ss.get()));
+      |   ^~~~~~~~
+In file included from /usr/include/c++/9/bits/locale_conv.h:41,
+                 from /usr/include/c++/9/locale:43,
+                 from /usr/include/c++/9/iomanip:43,
+                 from timer.h:26,
+                 from reference.h:36,
+                 from splice_site.h:32,
+                 from edit.h:30,
+                 from aligner_result.h:30,
+                 from aligner_seed2.h:102,
+                 from aligner_driver.h:78,
+                 from aligner_driver.cpp:20:
+/usr/include/c++/9/bits/unique_ptr.h:53:28: note: declared here
+   53 |   template<typename> class auto_ptr;
+      |                            ^~~~~~~~
+In file included from splice_site.h:34,
+                 from edit.h:30,
+                 from splice_site.cpp:20:
+gfm.h: In static member function ‘static std::pair<GFM<index_t>*, GFM<index_t>*> GFM<index_t>::fromStrings(const EList<std::__cxx11::basic_string<char> >&, bool, int, bool, int32_t, int32_t, int32_t, const string&, bool, index_t, index_t, index_t, int, uint32_t, bool, bool, bool)’:
+gfm.h:1098:3: warning: ‘template<class> class std::auto_ptr’ is deprecated [-Wdeprecated-declarations]
+ 1098 |   auto_ptr<stringstream> ss(new stringstream());
+      |   ^~~~~~~~
+In file included from /usr/include/c++/9/bits/locale_conv.h:41,
+                 from /usr/include/c++/9/locale:43,
+                 from /usr/include/c++/9/iomanip:43,
+                 from timer.h:26,
+                 from reference.h:36,
+                 from splice_site.h:32,
+                 from edit.h:30,
+                 from splice_site.cpp:20:
+/usr/include/c++/9/bits/unique_ptr.h:53:28: note: declared here
+   53 |   template<typename> class auto_ptr;
+      |                            ^~~~~~~~
+In file included from splice_site.h:34,
+                 from edit.h:30,
+                 from splice_site.cpp:20:
+gfm.h:1102:3: warning: ‘template<class> class std::auto_ptr’ is deprecated [-Wdeprecated-declarations]
+ 1102 |   auto_ptr<FileBuf> fb(new FileBuf(ss.get()));
+      |   ^~~~~~~~
+In file included from /usr/include/c++/9/bits/locale_conv.h:41,
+                 from /usr/include/c++/9/locale:43,
+                 from /usr/include/c++/9/iomanip:43,
+                 from timer.h:26,
+                 from reference.h:36,
+                 from splice_site.h:32,
+                 from edit.h:30,
+                 from splice_site.cpp:20:
+/usr/include/c++/9/bits/unique_ptr.h:53:28: note: declared here
+   53 |   template<typename> class auto_ptr;
+      |                            ^~~~~~~~
+splice_site.cpp: In member function ‘void SpliceSiteDB::read(const GFM<unsigned int>&, const EList<ALT<unsigned int> >&)’:
+splice_site.cpp:717:59: warning: ?: using integer constants in boolean context, the expression will always evaluate to ‘true’ [-Wint-in-bool-context]
+  717 |             exons.back().init(ref, left, right, fw == '+' ? SPL_FW : SPL_RC);
+      |                                                 ~~~~~~~~~~^~~~~~~~~~~~~~~~~
+In file included from edit.h:29,
+                 from splice_site.cpp:20:
+ds.h: In instantiation of ‘void EList<T, S>::push_back_array(const T*, size_t) [with T = Exon; int S = 128; size_t = long unsigned int]’:
+splice_site.cpp:722:59:   required from here
+ds.h:663:14: warning: ‘void* memcpy(void*, const void*, size_t)’ writing to an object of non-trivially copyable type ‘class Exon’; use copy-assignment or copy-initialization instead [-Wclass-memaccess]
+  663 |   std::memcpy(list_ + cur_, l, bytes);
+      |   ~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~
+In file included from edit.h:30,
+                 from splice_site.cpp:20:
+splice_site.h:377:7: note: ‘class Exon’ declared here
+  377 | class Exon {
+      |       ^~~~
+mkdir -p ../inst
+cp hisat2-align-s ../inst/hisat2
+cp hisat2-build-s ../inst/hisat2-build
+/usr/bin/g++ -shared -fPIC -o Rhisat2.so get_info.cpp
+installing to /__w/gha-build/gha-build/built/00LOCK-Rhisat2/00new/Rhisat2/libs
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘Rhisat2’ as ‘Rhisat2_1.12.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (Rhisat2)
