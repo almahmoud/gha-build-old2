@@ -1,4 +1,3 @@
-NewWave
 EGAD
 word2vec
 borealis
