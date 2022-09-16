@@ -1,7 +1,9 @@
-Updating 53c35f9..5343603
+Updating aac5c1d..8dc3057
 Fast-forward
- logs/run_ids/soGGi | 1 +
- 1 file changed, 1 insertion(+)
+ lists/animation    | 877 ++++++++++++++++++++++++++++++++++++++++++++++++++++-
+ logs/animation.out |   5 +
+ 2 files changed, 881 insertions(+), 1 deletion(-)
+ create mode 100644 logs/animation.out
 bbmle/DESCRIPTION
 bbmle/INDEX
 bbmle/Meta/
