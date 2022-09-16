@@ -1,0 +1,24 @@
+name: Repopulate README
+on:
+  workflow_dispatch: {}
+  # push: {}
+  schedule:
+    - cron: '*/5 * * * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Initialize if necessary then claim package
+        id: claim
+        uses: nick-fields/retry@v2
+        with:
+          timeout_minutes: 10
+          max_attempts: 20
+          shell: bash
+          command: |
+            set -x
+            python -m pip install tabulate
+            python .github/scripts/populate_readme.py && git stash && git pull && git stash pop && git add . && git commit -m "Update README" && git push
