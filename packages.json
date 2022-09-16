@@ -2763,9 +2763,7 @@
     "RMassBank": [
         "rcdk"
     ],
-    "Rmmquant": [
-        "TBX20BamSubset"
-    ],
+    "Rmmquant": [],
     "rmspc": [],
     "RNAAgeCalc": [
         "recount"
@@ -4607,7 +4605,6 @@
         "ExperimentHub",
         "interactiveDisplayBase"
     ],
-    "TBX20BamSubset": [],
     "systemPipeRdata": [
         "ShortRead"
     ],
