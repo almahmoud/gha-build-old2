@@ -161,7 +161,6 @@
         "prabclus"
     ],
     "brainflowprobes": [
-        "derfinderPlot",
         "GenomicState"
     ],
     "branchpointer": [
@@ -462,7 +461,6 @@
     "DEGreport": [
         "lasso2"
     ],
-    "derfinderPlot": [],
     "DEScan2": [
         "ChIPpeakAnno"
     ],
