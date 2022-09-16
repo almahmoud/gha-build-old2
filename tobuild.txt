@@ -1,4 +1,3 @@
-fcScan
 gwasurvivr
 ComPrAn
 moanin
