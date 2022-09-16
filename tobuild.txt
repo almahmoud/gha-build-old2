@@ -1,4 +1,3 @@
-GCSscore
 Uniquorn
 methylInheritance
 condiments
