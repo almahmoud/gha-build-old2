@@ -1,4 +1,3 @@
-regutools
 bigstatsr
 infinityFlow
 orQA
