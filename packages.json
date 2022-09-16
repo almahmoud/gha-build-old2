@@ -216,7 +216,6 @@
         "ChIPXpressData"
     ],
     "ChromSCape": [
-        "gggenes",
         "scran",
         "scater",
         "scuttle",
@@ -1478,7 +1477,6 @@
     ],
     "RVenn": [],
     "ChIPXpressData": [],
-    "gggenes": [],
     "leidenbase": [],
     "colortools": [],
     "phylolm": [],
