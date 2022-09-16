@@ -590,10 +590,7 @@
         "annotatr",
         "interactiveDisplayBase"
     ],
-    "DNABarcodeCompatibility": [
-        "DNABarcodes"
-    ],
-    "DNABarcodes": [],
+    "DNABarcodeCompatibility": [],
     "DropletUtils": [
         "scuttle"
     ],
