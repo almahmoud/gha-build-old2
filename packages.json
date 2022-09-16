@@ -457,7 +457,6 @@
     "CyTOFpower": [
         "CytoGLMM",
         "diffcyt",
-        "mbest",
         "strucchange",
         "FlowSOM",
         "ModelMetrics",
@@ -465,7 +464,6 @@
         "plot3D"
     ],
     "CytoGLMM": [
-        "mbest",
         "strucchange",
         "ModelMetrics"
     ],
@@ -2438,7 +2436,6 @@
         "MBA"
     ],
     "MBA": [],
-    "mbest": [],
     "VIM": [],
     "plsVarSel": [],
     "imp4p": [
