@@ -1,4 +1,3 @@
-DescTools
 lasso2
 oneSENSE
 CombinePValue
