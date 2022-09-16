@@ -1,4 +1,3 @@
-DRIMSeq
 BioTIP
 DiscriMiner
 variancePartition
