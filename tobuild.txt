@@ -1,4 +1,3 @@
-GenomicDistributions
 xcms
 CancerInSilico
 flowCyBar
