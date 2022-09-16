@@ -1415,12 +1415,9 @@
     "msqrob2": [],
     "MSstatsLiP": [
         "MSstatsPTM",
-        "tidyverse",
-        "MSstatsTMT"
+        "tidyverse"
     ],
-    "MSstatsPTM": [
-        "MSstatsTMT"
-    ],
+    "MSstatsPTM": [],
     "MSstatsQC": [
         "qcmetrics"
     ],
@@ -1432,7 +1429,6 @@
         "ModelMetrics",
         "recipes"
     ],
-    "MSstatsTMT": [],
     "MultiBaC": [
         "ropls"
     ],
