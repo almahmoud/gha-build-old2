@@ -1,4 +1,3 @@
-scGPS
 GeneBreak
 KnowSeq
 igvR
