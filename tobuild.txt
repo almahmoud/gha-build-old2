@@ -1,4 +1,3 @@
-strucchange
 ExploreModelMatrix
 interactiveDisplayBase
 taRifx
