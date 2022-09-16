@@ -1,4 +1,3 @@
-wpm
 SomaticSignatures
 progeny
 ClassifyR
