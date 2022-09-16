@@ -1,4 +1,3 @@
-dearseq
 SIAMCAT
 GeomxTools
 GenomicOZone
