@@ -1,4 +1,3 @@
-POMA
 PureCN
 SISPA
 RTNduals
