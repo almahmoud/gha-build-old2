@@ -1,4 +1,3 @@
-gradDescent
 POMA
 PureCN
 SISPA
