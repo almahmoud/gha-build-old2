@@ -1205,9 +1205,7 @@
     "flowWorkspace": [],
     "fmcsR": [],
     "fmrs": [],
-    "fobitools": [
-        "RecordLinkage"
-    ],
+    "fobitools": [],
     "FoldGO": [],
     "FRASER": [],
     "frenchFISH": [],
@@ -2320,7 +2318,6 @@
     "Organism.dplyr": [],
     "OrganismDbi": [],
     "orthogene": [],
-    "Oscope": [],
     "OTUbase": [
         "ShortRead"
     ],
@@ -4290,7 +4287,6 @@
     "gprofiler2": [],
     "SPARQL": [],
     "ggiraph": [],
-    "RecordLinkage": [],
     "ada": [],
     "BBmisc": [],
     "NHPoisson": [],
