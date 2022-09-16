@@ -61,8 +61,7 @@
     "autonomics": [],
     "bandle": [
         "pRoloc",
-        "pRolocdata",
-        "lbfgs"
+        "pRolocdata"
     ],
     "banocc": [
         "rstan"
@@ -1450,7 +1449,6 @@
     ],
     "mGSZ": [],
     "pRolocdata": [],
-    "lbfgs": [],
     "rstan": [],
     "imager": [
         "readbitmap"
