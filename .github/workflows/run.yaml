@@ -47,7 +47,6 @@ jobs:
             echo "::set-output name=pkg::$(cat tmp${{steps.uniq.outputs.uniq}})" && exit 0; fi
 
       - name: Push run_id
-        id: push
         uses: nick-fields/retry@v2
         with:
           timeout_minutes: 10
