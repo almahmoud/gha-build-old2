@@ -1576,7 +1576,6 @@
     "PAA": [
         "ROCR"
     ],
-    "padma": [],
     "pageRank": [
         "motifmatchr",
         "TFBSTools"
