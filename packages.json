@@ -362,7 +362,6 @@
     "dagLogo": [],
     "DaMiRseq": [
         "EDASeq",
-        "plsVarSel",
         "ModelMetrics"
     ],
     "DAPAR": [
@@ -559,7 +558,6 @@
         "DaMiRseq",
         "MLSeq",
         "EDASeq",
-        "plsVarSel",
         "ModelMetrics"
     ],
     "GateFinder": [],
@@ -1763,7 +1761,6 @@
     ],
     "MBA": [],
     "VIM": [],
-    "plsVarSel": [],
     "imp4p": [],
     "tidyverse": [],
     "CombinePValue": [],
