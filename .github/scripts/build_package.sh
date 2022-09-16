@@ -10,10 +10,10 @@ sed -n "/^    \"$PKG\"/,/^    \"/p" original.json | grep '^        "' | awk -F'"
 ( cd $LIBRARY && ls | grep ".tar.gz" | xargs -i tar -xvf {} )
 CLONED=0
 if ! git clone git@git.bioconductor.org:packages/$PKG
-then if ! git clone git@git.bioconductor.org:packages/$PKG
-    then if ! git clone git@git.bioconductor.org:packages/$PKG
-        then if ! git clone git@git.bioconductor.org:packages/$PKG
-            then if ! git clone git@git.bioconductor.org:packages/$PKG
+then sleep 5 && if ! git clone git@git.bioconductor.org:packages/$PKG
+    then sleep 5 && if ! git clone git@git.bioconductor.org:packages/$PKG
+        then sleep 5 && if ! git clone git@git.bioconductor.org:packages/$PKG
+            then sleep 5 && if ! git clone git@git.bioconductor.org:packages/$PKG
                 then
                     CLONED=1
                     Rscript -e "Sys.setenv(BIOCONDUCTOR_USE_CONTAINER_REPOSITORY=FALSE); p <- .libPaths(); p <- c('$LIBRARY', p); .libPaths(p); if(BiocManager::install('$PKG', INSTALL_opts = '--build', update = TRUE, quiet = FALSE, force = TRUE, keep_outputs = TRUE) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)"
