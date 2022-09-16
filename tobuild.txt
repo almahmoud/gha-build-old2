@@ -1,4 +1,3 @@
-statnet.common
 clusterSeq
 heatmap3
 GA
