@@ -1,4 +1,3 @@
-seqsetvis
 Harman
 SwathXtend
 MANOR
