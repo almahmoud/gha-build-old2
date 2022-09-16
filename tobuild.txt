@@ -1,4 +1,3 @@
-dcGSA
 HTSCluster
 ideal
 MIRA
