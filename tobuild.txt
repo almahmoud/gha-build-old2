@@ -1,4 +1,3 @@
-mGSZ
 HPiP
 miRNAtap.db
 CopywriteR
