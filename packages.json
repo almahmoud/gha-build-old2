@@ -249,8 +249,7 @@
         "ExperimentHub"
     ],
     "compcodeR": [
-        "ROCR",
-        "phylolm"
+        "ROCR"
     ],
     "compEpiTools": [
         "methylPipe"
@@ -1452,7 +1451,6 @@
     "ChIPXpressData": [],
     "leidenbase": [],
     "colortools": [],
-    "phylolm": [],
     "bench": [
         "profmem"
     ],
