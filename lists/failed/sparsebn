@@ -1,0 +1,4 @@
+Auto-merging tobuild.txt
+CONFLICT (content): Merge conflict in tobuild.txt
+Automatic merge failed; fix conflicts and then commit the result.
+HEAD is now at 9ecf8b0 Claim ramr
