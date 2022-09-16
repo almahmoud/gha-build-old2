@@ -1,4 +1,3 @@
-debCAM
 methylKit
 ffbase
 ChIPXpressData
