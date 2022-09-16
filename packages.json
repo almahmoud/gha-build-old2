@@ -84,8 +84,7 @@
     "atena": [],
     "atSNP": [],
     "autonomics": [
-        "assertive.sets",
-        "assertive.models"
+        "assertive.sets"
     ],
     "BANDITS": [],
     "banocc": [
@@ -943,8 +942,7 @@
     ],
     "MultiBaC": [],
     "multicrispr": [
-        "assertive.sets",
-        "assertive.models"
+        "assertive.sets"
     ],
     "multiHiCcompare": [
         "HiCcompare",
@@ -1710,11 +1708,9 @@
     ],
     "mGSZ": [],
     "assertive": [
-        "assertive.sets",
-        "assertive.models"
+        "assertive.sets"
     ],
     "assertive.sets": [],
-    "assertive.models": [],
     "rstan": [],
     "DirichletReg": [],
     "corncob": [
