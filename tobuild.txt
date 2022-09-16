@@ -1,4 +1,3 @@
-srnadiff
 IntramiRExploreR
 RcisTarget
 tidyverse
