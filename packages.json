@@ -766,7 +766,6 @@
     "KnowSeq": [
         "ModelMetrics"
     ],
-    "ldblock": [],
     "LedPred": [
         "ROCR"
     ],
