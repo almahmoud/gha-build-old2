@@ -727,7 +727,6 @@
         "xcms"
     ],
     "IRISFGM": [
-        "Polychrome",
         "DEsingle",
         "Seurat",
         "clusterProfiler",
@@ -1163,7 +1162,6 @@
         "uwot"
     ],
     "PhIPData": [],
-    "PhosR": [],
     "PhyloProfile": [
         "ExperimentHub"
     ],
@@ -1959,7 +1957,6 @@
     "available": [
         "tokenizers"
     ],
-    "Polychrome": [],
     "orQA": [],
     "DiscriMiner": [],
     "pd.mapping50k.xba240": [],
