@@ -1,4 +1,3 @@
-networkBMA
 CellScore
 gptk
 gradDescent
