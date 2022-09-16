@@ -1,7 +1,3 @@
-topdownr
-oligoClasses
-ReactomePA
-motifStack
 rWikiPathways
 sincell
 ABAData
