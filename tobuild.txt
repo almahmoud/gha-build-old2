@@ -1,4 +1,3 @@
-orQA
 loci2path
 FField
 HTqPCR
