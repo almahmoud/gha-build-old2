@@ -1127,9 +1127,7 @@
         "ModelMetrics",
         "recipes"
     ],
-    "mAPKL": [
-        "clusterSim"
-    ],
+    "mAPKL": [],
     "maPredictDSC": [
         "ROCR",
         "ModelMetrics",
@@ -2681,7 +2679,6 @@
         "rmio"
     ],
     "rmio": [],
-    "clusterSim": [],
     "muStat": [],
     "sesameData": [
         "ExperimentHub",
