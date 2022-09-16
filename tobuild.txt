@@ -1,4 +1,3 @@
-branchpointer
 scanMiRApp
 clusterExperiment
 spatialDE
