@@ -176,9 +176,7 @@
         "interactiveDisplayBase",
         "snowfall"
     ],
-    "blacksheepr": [
-        "pasilla"
-    ],
+    "blacksheepr": [],
     "BloodGen3Module": [
         "ExperimentHub",
         "interactiveDisplayBase"
@@ -2347,7 +2345,6 @@
         "ExperimentHub",
         "interactiveDisplayBase"
     ],
-    "pasilla": [],
     "GenomicState": [
         "interactiveDisplayBase"
     ],
