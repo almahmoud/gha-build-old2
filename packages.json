@@ -536,9 +536,7 @@
     "GeomxTools": [],
     "gespeR": [],
     "ggmanh": [],
-    "ggmsa": [
-        "statebins"
-    ],
+    "ggmsa": [],
     "ggspavis": [
         "SpatialExperiment",
         "scuttle"
@@ -1507,7 +1505,6 @@
     "MPINet": [],
     "SPARQL": [],
     "FField": [],
-    "statebins": [],
     "gptk": [],
     "datamods": [
         "phosphoricons"
