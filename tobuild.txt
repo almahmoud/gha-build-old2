@@ -1,4 +1,3 @@
-spiky
 genotypeeval
 FRASER
 scClassifR
