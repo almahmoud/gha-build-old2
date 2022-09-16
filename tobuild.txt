@@ -1,4 +1,3 @@
-metagene
 flowBin
 metabCombiner
 gespeR
