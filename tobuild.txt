@@ -1,3 +1,2 @@
-biovizBase
 GenomicFiles
 ProteoDisco
