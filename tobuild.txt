@@ -1,5 +1,3 @@
-flowSpecs
-SPLINTER
 CNVRanger
 MPRAnalyze
 pasilla
