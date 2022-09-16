@@ -1,4 +1,3 @@
-proBatch
 drugTargetInteractions
 spiky
 genotypeeval
