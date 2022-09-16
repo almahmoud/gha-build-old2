@@ -1,4 +1,3 @@
-ISAnalytics
 gmapR
 ggspavis
 escape
