@@ -377,7 +377,6 @@
     "cytoKernel": [
         "mixsqp"
     ],
-    "cytomapper": [],
     "CytoML": [
         "openCyto"
     ],
@@ -713,8 +712,7 @@
     ],
     "imcRtools": [
         "SpatialExperiment",
-        "scuttle",
-        "cytomapper"
+        "scuttle"
     ],
     "IMMAN": [],
     "ImmuneSpaceR": [],
@@ -1007,12 +1005,9 @@
         "tidyverse"
     ],
     "MSstatsPTM": [],
-    "MSstatsQC": [
-        "qcmetrics"
-    ],
+    "MSstatsQC": [],
     "MSstatsQCgui": [
-        "MSstatsQC",
-        "qcmetrics"
+        "MSstatsQC"
     ],
     "MSstatsSampleSize": [
         "ModelMetrics"
@@ -1266,7 +1261,6 @@
         "pwrEWAS.data",
         "ExperimentHub"
     ],
-    "qcmetrics": [],
     "QDNAseq": [
         "snowfall"
     ],
