@@ -866,7 +866,6 @@
     "RnBeads": [
         "methylumi"
     ],
-    "Rqc": [],
     "RTNduals": [],
     "RTNsurvival": [
         "RTNduals"
