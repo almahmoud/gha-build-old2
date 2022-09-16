@@ -108,7 +108,6 @@
     "BEAT": [],
     "benchdamic": [
         "Seurat",
-        "metagenomeSeq",
         "ffpe",
         "ROCR",
         "uwot",
@@ -133,7 +132,6 @@
     "BioNERO": [
         "NetRep"
     ],
-    "BioQC": [],
     "biosigner": [],
     "biotmle": [
         "ROCR"
@@ -532,7 +530,6 @@
     ],
     "ExperimentSubset": [
         "SpatialExperiment",
-        "TreeSummarizedExperiment",
         "scuttle"
     ],
     "famat": [
@@ -549,7 +546,6 @@
         "ROCR"
     ],
     "ffpe": [],
-    "FISHalyseR": [],
     "flagme": [
         "xcms"
     ],
@@ -781,9 +777,7 @@
         "ExperimentHub",
         "ModelMetrics"
     ],
-    "Maaslin2": [
-        "metagenomeSeq"
-    ],
+    "Maaslin2": [],
     "MACPET": [],
     "MACSr": [
         "ExperimentHub"
@@ -846,7 +840,6 @@
     "metagene": [
         "muStat"
     ],
-    "metagenomeSeq": [],
     "metaMS": [
         "xcms"
     ],
@@ -856,7 +849,6 @@
         "EDASeq"
     ],
     "metavizr": [
-        "metagenomeSeq",
         "epivizrStandalone"
     ],
     "MetaVolcanoR": [],
@@ -889,25 +881,18 @@
     "methylSig": [],
     "MetID": [],
     "mia": [
-        "TreeSummarizedExperiment",
         "scuttle",
         "scater"
     ],
     "miaSim": [],
     "miaViz": [
-        "TreeSummarizedExperiment",
         "scater",
         "scuttle"
     ],
     "microbiome": [],
-    "microbiomeDASim": [
-        "metagenomeSeq"
-    ],
-    "microbiomeExplorer": [
-        "metagenomeSeq"
-    ],
+    "microbiomeDASim": [],
+    "microbiomeExplorer": [],
     "microbiomeMarker": [
-        "metagenomeSeq",
         "microbiome",
         "ModelMetrics"
     ],
@@ -945,8 +930,7 @@
     ],
     "MMUPHin": [
         "Maaslin2",
-        "prabclus",
-        "metagenomeSeq"
+        "prabclus"
     ],
     "mnem": [
         "snowfall",
@@ -1502,7 +1486,6 @@
         "sesameData",
         "ExperimentHub"
     ],
-    "sevenC": [],
     "shinyepico": [],
     "shinyMethyl": [],
     "SIAMCAT": [],
@@ -1701,7 +1684,6 @@
         "FlowSOM",
         "openCyto"
     ],
-    "TreeSummarizedExperiment": [],
     "trena": [
         "RMySQL",
         "lassopv",
