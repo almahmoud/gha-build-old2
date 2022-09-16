@@ -887,8 +887,7 @@
         "clusterProfiler"
     ],
     "pareg": [
-        "tfprobability",
-        "matrixLaplacian"
+        "tfprobability"
     ],
     "PathoStat": [
         "ROCR"
@@ -1560,7 +1559,6 @@
     ],
     "flatxml": [],
     "tfprobability": [],
-    "matrixLaplacian": [],
     "aroma.affymetrix": [],
     "phastCons100way.UCSC.hg38": [
         "GenomicScores"
