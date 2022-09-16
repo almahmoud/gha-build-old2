@@ -88,7 +88,6 @@
         "oligoClasses"
     ],
     "ArrayExpressHTS": [
-        "sampling",
         "ShortRead"
     ],
     "arrayMvout": [],
@@ -1651,13 +1650,11 @@
         "ROCR"
     ],
     "pRoloc": [
-        "sampling",
         "ModelMetrics",
         "prabclus"
     ],
     "pRolocGUI": [
         "pRoloc",
-        "sampling",
         "ModelMetrics",
         "prabclus"
     ],
@@ -2425,7 +2422,6 @@
         "GenomicScores",
         "interactiveDisplayBase"
     ],
-    "sampling": [],
     "DRaWR": [
         "ROCR"
     ],
