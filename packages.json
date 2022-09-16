@@ -1404,7 +1404,6 @@
         "SharedObject"
     ],
     "ngsReports": [],
-    "nnNorm": [],
     "nondetects": [
         "HTqPCR"
     ],
@@ -1431,7 +1430,6 @@
         "omicade4",
         "made4"
     ],
-    "OmicsLonDA": [],
     "OMICsPCA": [
         "prabclus"
     ],
