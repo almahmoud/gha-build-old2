@@ -870,9 +870,7 @@
         "made4"
     ],
     "OMICsPCA": [],
-    "omicsViewer": [
-        "flatxml"
-    ],
+    "omicsViewer": [],
     "ompBAM": [],
     "ontoProc": [],
     "openCyto": [],
@@ -887,8 +885,7 @@
         "clusterProfiler"
     ],
     "pareg": [
-        "tfprobability",
-        "matrixLaplacian"
+        "tfprobability"
     ],
     "PathoStat": [
         "ROCR"
@@ -1558,9 +1555,7 @@
     "NxtIRFdata": [
         "ExperimentHub"
     ],
-    "flatxml": [],
     "tfprobability": [],
-    "matrixLaplacian": [],
     "aroma.affymetrix": [],
     "phastCons100way.UCSC.hg38": [
         "GenomicScores"

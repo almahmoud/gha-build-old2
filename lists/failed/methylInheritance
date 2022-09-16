@@ -1,8 +1,9 @@
-Updating 1b044ad..aaded78
+Updating aac5c1d..8dc3057
 Fast-forward
- lists/failed/mppa | 7 ++++---
- lists/mppa        | 6 +++---
- 2 files changed, 7 insertions(+), 6 deletions(-)
+ lists/animation    | 877 ++++++++++++++++++++++++++++++++++++++++++++++++++++-
+ logs/animation.out |   5 +
+ 2 files changed, 881 insertions(+), 1 deletion(-)
+ create mode 100644 logs/animation.out
 bbmle/DESCRIPTION
 bbmle/INDEX
 bbmle/Meta/
