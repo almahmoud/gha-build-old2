@@ -518,10 +518,7 @@
         "Linnorm",
         "prabclus"
     ],
-    "epivizr": [],
-    "epivizrStandalone": [
-        "epivizr"
-    ],
+    "epivizrStandalone": [],
     "erccdashboard": [
         "ROCR"
     ],
@@ -874,7 +871,6 @@
     ],
     "metavizr": [
         "metagenomeSeq",
-        "epivizr",
         "epivizrStandalone"
     ],
     "MetaVolcanoR": [],
@@ -1519,7 +1515,6 @@
         "uwot"
     ],
     "scTreeViz": [
-        "epivizr",
         "scran",
         "scater",
         "Seurat",
