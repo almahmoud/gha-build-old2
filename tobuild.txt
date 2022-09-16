@@ -1,4 +1,3 @@
-chromswitch
 mCSEA
 epivizr
 ISAnalytics
