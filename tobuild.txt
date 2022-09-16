@@ -1,12 +1,3 @@
-scanMiRApp
-clusterExperiment
-spatialDE
-cytoKernel
-VennDetail
-scoreInvHap
-Pi
-EGSEA
-transcriptogramer
 seqCAT
 animalcules
 maPredictDSC
