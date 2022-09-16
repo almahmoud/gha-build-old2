@@ -1,5 +1,3 @@
-Polychrome
-mgsa
 Rmpfr
 SMITE
 TreeSummarizedExperiment
