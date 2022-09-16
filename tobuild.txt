@@ -1,4 +1,3 @@
-NPARC
 jackstraw
 tm
 flowPloidy
