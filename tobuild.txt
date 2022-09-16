@@ -1,7 +1,3 @@
-plotmo
-SpatialCPie
-cgdsr
-RBioinf
 ChIPseeker
 R.utils
 mppa

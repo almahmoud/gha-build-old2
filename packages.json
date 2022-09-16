@@ -364,9 +364,7 @@
         "Linnorm",
         "prabclus"
     ],
-    "BPRMeth": [
-        "plotmo"
-    ],
+    "BPRMeth": [],
     "BRAIN": [],
     "brainflowprobes": [
         "derfinderPlot",
@@ -1566,7 +1564,6 @@
     "Guitar": [],
     "Gviz": [],
     "GWAS.BAYES": [
-        "GA",
         "ModelMetrics",
         "recipes"
     ],
@@ -1954,8 +1951,7 @@
         "snowfall"
     ],
     "Melissa": [
-        "ROCR",
-        "plotmo"
+        "ROCR"
     ],
     "memes": [
         "R.utils"
@@ -2865,7 +2861,6 @@
         "ShortRead"
     ],
     "RBGL": [],
-    "RBioinf": [],
     "rBiopaxParser": [],
     "RBM": [],
     "Rbowtie2": [],
@@ -4288,10 +4283,7 @@
     "ggm": [],
     "vcd": [],
     "gdata": [],
-    "earth": [
-        "plotmo"
-    ],
-    "plotmo": [],
+    "earth": [],
     "PolynomF": [],
     "GenomicState": [
         "interactiveDisplayBase"
@@ -4689,7 +4681,6 @@
     ],
     "ggwordcloud": [],
     "nsga2R": [],
-    "GA": [],
     "BatchJobs": [],
     "R2jags": [
         "R2WinBUGS"
