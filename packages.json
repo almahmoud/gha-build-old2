@@ -87,8 +87,7 @@
     "atSNP": [],
     "autonomics": [
         "assertive.sets",
-        "assertive.models",
-        "assertive.reflection"
+        "assertive.models"
     ],
     "BANDITS": [],
     "banocc": [
@@ -1131,8 +1130,7 @@
     "multicrispr": [
         "karyoploteR",
         "assertive.sets",
-        "assertive.models",
-        "assertive.reflection"
+        "assertive.models"
     ],
     "multiHiCcompare": [
         "HiCcompare",
@@ -2042,12 +2040,10 @@
     "mGSZ": [],
     "assertive": [
         "assertive.sets",
-        "assertive.models",
-        "assertive.reflection"
+        "assertive.models"
     ],
     "assertive.sets": [],
     "assertive.models": [],
-    "assertive.reflection": [],
     "rstan": [],
     "DirichletReg": [],
     "corncob": [
