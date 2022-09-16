@@ -420,9 +420,7 @@
     "corral": [
         "transport"
     ],
-    "coseq": [
-        "HTSCluster"
-    ],
+    "coseq": [],
     "cosmiq": [
         "xcms"
     ],
@@ -2403,7 +2401,6 @@
     "feature": [
         "plot3D"
     ],
-    "HTSCluster": [],
     "faahKO": [
         "xcms"
     ],
