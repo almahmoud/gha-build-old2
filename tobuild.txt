@@ -1,4 +1,3 @@
-CAFE
 flowTime
 STATegRa
 NetRep
