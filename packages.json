@@ -92,9 +92,7 @@
         "sampling",
         "ShortRead"
     ],
-    "arrayMvout": [
-        "lumi"
-    ],
+    "arrayMvout": [],
     "ASICS": [
         "ropls"
     ],
@@ -146,14 +144,12 @@
         "Seurat",
         "metagenomeSeq",
         "ffpe",
-        "lumi",
         "ROCR",
         "uwot",
         "ROI.plugin.lpsolve"
     ],
     "bigmelon": [
         "wateRmelon",
-        "lumi",
         "IlluminaHumanMethylation450kanno.ilmn12.hg19"
     ],
     "bioCancer": [
@@ -320,7 +316,6 @@
         "ExperimentHub",
         "DSS",
         "IlluminaHumanMethylation450kanno.ilmn12.hg19",
-        "lumi",
         "interactiveDisplayBase"
     ],
     "ChIC": [
@@ -752,9 +747,7 @@
         "TSCAN",
         "ROCR"
     ],
-    "ffpe": [
-        "lumi"
-    ],
+    "ffpe": [],
     "FISHalyseR": [],
     "flagme": [
         "xcms"
@@ -978,9 +971,7 @@
     "icetea": [
         "ShortRead"
     ],
-    "iCheck": [
-        "lumi"
-    ],
+    "iCheck": [],
     "iCOBRA": [
         "ROCR"
     ],
@@ -1107,7 +1098,6 @@
         "ExperimentHub",
         "interactiveDisplayBase"
     ],
-    "lumi": [],
     "M3Drop": [
         "rstan",
         "StanHeaders"
@@ -1179,7 +1169,6 @@
     ],
     "MEAT": [
         "wateRmelon",
-        "lumi",
         "IlluminaHumanMethylation450kanno.ilmn12.hg19"
     ],
     "MEIGOR": [
@@ -1303,7 +1292,6 @@
         "oligoClasses"
     ],
     "MineICA": [
-        "lumi",
         "prabclus"
     ],
     "minet": [],
@@ -2169,7 +2157,6 @@
     "skewr": [
         "wateRmelon",
         "IlluminaHumanMethylation450kmanifest",
-        "lumi",
         "IlluminaHumanMethylation450kanno.ilmn12.hg19"
     ],
     "SLGI": [
@@ -2459,7 +2446,6 @@
         "ShortRead"
     ],
     "wateRmelon": [
-        "lumi",
         "IlluminaHumanMethylation450kanno.ilmn12.hg19"
     ],
     "weitrix": [],
