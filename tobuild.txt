@@ -1,4 +1,3 @@
-taRifx
 IlluminaHumanMethylation450kanno.ilmn12.hg19
 flowcatchR
 StanHeaders
