@@ -1,4 +1,3 @@
-NanoMethViz
 HelloRanges
 goseq
 fcScan
