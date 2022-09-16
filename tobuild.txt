@@ -1,5 +1,3 @@
-lfa
-rlist
 minet
 ReactomeGraph4R
 TPP2D
