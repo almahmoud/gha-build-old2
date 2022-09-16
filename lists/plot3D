@@ -1,1 +1,37 @@
-claimed
+Already up to date.
+misc3d/CITATION
+misc3d/DESCRIPTION
+misc3d/INDEX
+misc3d/Meta/
+misc3d/Meta/Rd.rds
+misc3d/Meta/data.rds
+misc3d/Meta/demo.rds
+misc3d/Meta/features.rds
+misc3d/Meta/hsearch.rds
+misc3d/Meta/links.rds
+misc3d/Meta/nsInfo.rds
+misc3d/Meta/package.rds
+misc3d/NAMESPACE
+misc3d/R/
+misc3d/R/misc3d
+misc3d/R/misc3d.rdb
+misc3d/R/misc3d.rdx
+misc3d/data/
+misc3d/data/teapot.rda
+misc3d/demo/
+misc3d/demo/lighting.R
+misc3d/demo/teapot.R
+misc3d/help/
+misc3d/help/AnIndex
+misc3d/help/aliases.rds
+misc3d/help/misc3d.rdb
+misc3d/help/misc3d.rdx
+misc3d/help/paths.rds
+misc3d/html/
+misc3d/html/00Index.html
+misc3d/html/R.css
+* installing *binary* package ‘plot3D’ ...
+* ‘plot3D’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘plot3D’ as ‘plot3D_1.4_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (plot3D)
