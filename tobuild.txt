@@ -1,4 +1,3 @@
-TargetDecoy
 PhIPData
 ShortRead
 Rcwl
