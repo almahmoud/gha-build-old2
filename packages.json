@@ -402,8 +402,7 @@
         "rcdk",
         "tokenizers",
         "ttgsea",
-        "tm",
-        "sylly.en"
+        "tm"
     ],
     "DEGreport": [
         "lasso2"
@@ -1636,8 +1635,7 @@
     "TSRchitect": [],
     "ttgsea": [
         "tm",
-        "tokenizers",
-        "sylly.en"
+        "tokenizers"
     ],
     "tximeta": [],
     "Ularcirc": [],
@@ -1655,8 +1653,7 @@
         "tokenizers",
         "ttgsea",
         "scuttle",
-        "tm",
-        "sylly.en"
+        "tm"
     ],
     "VanillaICE": [],
     "VariantFiltering": [
@@ -1668,8 +1665,7 @@
     "vissE": [
         "tm",
         "msigdb",
-        "ExperimentHub",
-        "sylly.en"
+        "ExperimentHub"
     ],
     "VplotR": [],
     "vtpnet": [],
@@ -1813,14 +1809,9 @@
     "CombinePValue": [],
     "rcdk": [],
     "tokenizers": [],
-    "textstem": [
-        "sylly.en"
-    ],
-    "koRpus.lang.en": [
-        "sylly.en"
-    ],
+    "textstem": [],
+    "koRpus.lang.en": [],
     "quanteda": [],
-    "sylly.en": [],
     "lasso2": [],
     "swamp": [],
     "easierData": [
