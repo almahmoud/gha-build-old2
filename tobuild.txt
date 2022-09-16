@@ -1,4 +1,3 @@
-NanoMethViz
 PROPER
 VIM
 maxLik
