@@ -1645,7 +1645,6 @@
         "ModelMetrics",
         "recipes"
     ],
-    "LACE": [],
     "ldblock": [],
     "LedPred": [
         "plot3D",
