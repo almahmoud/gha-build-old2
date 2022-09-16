@@ -1,4 +1,3 @@
-HIREewas
 Spectra
 assertive.reflection
 derfinderPlot
