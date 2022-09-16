@@ -1,4 +1,3 @@
-signeR
 infercnv
 DAMEfinder
 OmaDB
