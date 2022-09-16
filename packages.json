@@ -128,7 +128,6 @@
     "BayesSpace": [
         "scater",
         "scran",
-        "maxLik",
         "scuttle"
     ],
     "BEAT": [
@@ -544,9 +543,7 @@
     "DEScan2": [
         "ChIPpeakAnno"
     ],
-    "DEsingle": [
-        "maxLik"
-    ],
+    "DEsingle": [],
     "destiny": [
         "VIM"
     ],
@@ -772,9 +769,7 @@
     "GDCRNATools": [
         "clusterProfiler"
     ],
-    "GeneAccord": [
-        "maxLik"
-    ],
+    "GeneAccord": [],
     "GeneAnswers": [],
     "GeneBreak": [
         "snowfall"
@@ -952,7 +947,6 @@
         "clusterProfiler",
         "scater",
         "scran",
-        "maxLik",
         "scuttle",
         "ROCR",
         "uwot"
@@ -2342,10 +2336,7 @@
         "StanHeaders"
     ],
     "StanHeaders": [],
-    "DirichletReg": [
-        "maxLik"
-    ],
-    "maxLik": [],
+    "DirichletReg": [],
     "corncob": [
         "ROI.plugin.lpsolve"
     ],
