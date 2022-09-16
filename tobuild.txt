@@ -1,4 +1,3 @@
-bigstatsr
 infinityFlow
 orQA
 FField
