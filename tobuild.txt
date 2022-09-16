@@ -1,5 +1,3 @@
-colortools
-rsm
 HTSeqGenie
 statTarget
 chromswitch
