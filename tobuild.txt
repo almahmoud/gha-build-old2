@@ -1,4 +1,3 @@
-tLOH
 BayesSpace
 abseqR
 CGHnormaliter
