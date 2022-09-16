@@ -43,9 +43,7 @@
         "curatedTCGAData",
         "ExperimentHub"
     ],
-    "amplican": [
-        "ShortRead"
-    ],
+    "amplican": [],
     "Anaquin": [
         "ROCR"
     ],
@@ -73,9 +71,7 @@
         "GenomicScores"
     ],
     "ArrayExpress": [],
-    "ArrayExpressHTS": [
-        "ShortRead"
-    ],
+    "ArrayExpressHTS": [],
     "arrayMvout": [],
     "ASICS": [],
     "ASpediaFI": [
@@ -98,9 +94,7 @@
     "banocc": [
         "rstan"
     ],
-    "basecallQC": [
-        "ShortRead"
-    ],
+    "basecallQC": [],
     "BASiCS": [
         "scran",
         "scuttle"
@@ -113,9 +107,7 @@
         "scran",
         "scuttle"
     ],
-    "BEAT": [
-        "ShortRead"
-    ],
+    "BEAT": [],
     "benchdamic": [
         "Seurat",
         "metagenomeSeq",
@@ -227,9 +219,7 @@
         "scran",
         "scuttle"
     ],
-    "CellBarcode": [
-        "ShortRead"
-    ],
+    "CellBarcode": [],
     "cellHTS2": [
         "splots"
     ],
@@ -289,19 +279,12 @@
     "ChIPpeakAnno": [],
     "ChIPQC": [
         "DiffBind",
-        "ShortRead",
         "systemPipeR",
         "mixsqp"
     ],
-    "chipseq": [
-        "ShortRead"
-    ],
-    "ChIPseqR": [
-        "ShortRead"
-    ],
-    "ChIPsim": [
-        "ShortRead"
-    ],
+    "chipseq": [],
+    "ChIPseqR": [],
+    "ChIPsim": [],
     "ChIPXpress": [
         "ChIPXpressData"
     ],
@@ -373,8 +356,7 @@
     "consensus": [],
     "consensusDE": [
         "EDASeq",
-        "RUVSeq",
-        "ShortRead"
+        "RUVSeq"
     ],
     "conumee": [
         "IlluminaHumanMethylation450kanno.ilmn12.hg19",
@@ -383,9 +365,7 @@
     "CopyNumberPlots": [
         "karyoploteR"
     ],
-    "CopywriteR": [
-        "ShortRead"
-    ],
+    "CopywriteR": [],
     "CoreGx": [
         "piano"
     ],
@@ -441,15 +421,12 @@
         "openCyto",
         "plot3D"
     ],
-    "dada2": [
-        "ShortRead"
-    ],
+    "dada2": [],
     "dagLogo": [],
     "DaMiRseq": [
         "EDASeq",
         "plsVarSel",
-        "ModelMetrics",
-        "ShortRead"
+        "ModelMetrics"
     ],
     "DAPAR": [
         "clusterProfiler",
@@ -506,8 +483,7 @@
     ],
     "DiffBind": [
         "systemPipeR",
-        "mixsqp",
-        "ShortRead"
+        "mixsqp"
     ],
     "diffcyt": [
         "FlowSOM",
@@ -552,12 +528,8 @@
         "ROCR",
         "ExperimentHub"
     ],
-    "easyRNASeq": [
-        "ShortRead"
-    ],
-    "EDASeq": [
-        "ShortRead"
-    ],
+    "easyRNASeq": [],
+    "EDASeq": [],
     "edge": [
         "jackstraw"
     ],
@@ -604,7 +576,6 @@
         "ROCR"
     ],
     "esATAC": [
-        "ShortRead",
         "clusterProfiler",
         "TFBSTools",
         "motifmatchr"
@@ -630,9 +601,7 @@
         "MPINet",
         "clusterProfiler"
     ],
-    "FastqCleaner": [
-        "ShortRead"
-    ],
+    "FastqCleaner": [],
     "fCCAC": [
         "plot3D"
     ],
@@ -703,8 +672,7 @@
         "MLSeq",
         "EDASeq",
         "plsVarSel",
-        "ModelMetrics",
-        "ShortRead"
+        "ModelMetrics"
     ],
     "GateFinder": [],
     "gcatest": [
@@ -747,9 +715,7 @@
         "SpatialExperiment",
         "scuttle"
     ],
-    "girafe": [
-        "ShortRead"
-    ],
+    "girafe": [],
     "GISPA": [
         "Rmpfr"
     ],
@@ -761,9 +727,7 @@
         "loose.rock"
     ],
     "GmicR": [],
-    "GOTHiC": [
-        "ShortRead"
-    ],
+    "GOTHiC": [],
     "GPA": [],
     "gpart": [],
     "gprege": [
@@ -816,15 +780,11 @@
         "ModelMetrics"
     ],
     "HTqPCR": [],
-    "HTSeqGenie": [
-        "ShortRead"
-    ],
+    "HTSeqGenie": [],
     "HubPub": [
         "tokenizers"
     ],
-    "icetea": [
-        "ShortRead"
-    ],
+    "icetea": [],
     "iCheck": [],
     "iCOBRA": [
         "ROCR"
@@ -860,9 +820,7 @@
     "InterMineR": [
         "sqldf"
     ],
-    "IONiseR": [
-        "ShortRead"
-    ],
+    "IONiseR": [],
     "iPath": [],
     "ipdDb": [],
     "IPO": [
@@ -943,9 +901,7 @@
     "Maaslin2": [
         "metagenomeSeq"
     ],
-    "MACPET": [
-        "ShortRead"
-    ],
+    "MACPET": [],
     "MACSQuantifyR": [],
     "MACSr": [
         "ExperimentHub"
@@ -1024,8 +980,7 @@
     "metapone": [],
     "metaseqR2": [
         "DSS",
-        "EDASeq",
-        "ShortRead"
+        "EDASeq"
     ],
     "metavizr": [
         "metagenomeSeq",
@@ -1170,9 +1125,7 @@
     "MsBackendRawFileReader": [
         "Spectra"
     ],
-    "msgbsR": [
-        "ShortRead"
-    ],
+    "msgbsR": [],
     "MSGFgui": [
         "MSGFplus"
     ],
@@ -1305,9 +1258,7 @@
     "NoRCE": [],
     "NormqPCR": [],
     "NPARC": [],
-    "nucleR": [
-        "ShortRead"
-    ],
+    "nucleR": [],
     "nullranges": [
         "plot3D"
     ],
@@ -1341,9 +1292,7 @@
         "plot3D"
     ],
     "orthogene": [],
-    "OTUbase": [
-        "ShortRead"
-    ],
+    "OTUbase": [],
     "OVESEG": [],
     "PAA": [
         "ROCR"
@@ -1449,8 +1398,7 @@
         "xcms"
     ],
     "profileplyr": [
-        "soGGi",
-        "ShortRead"
+        "soGGi"
     ],
     "progeny": [],
     "projectR": [
@@ -1501,16 +1449,12 @@
     "QuartPAC": [
         "RMallow"
     ],
-    "QuasR": [
-        "ShortRead"
-    ],
+    "QuasR": [],
     "R3CPET": [],
     "r3Cseq": [
         "sqldf"
     ],
-    "R453Plus1Toolbox": [
-        "ShortRead"
-    ],
+    "R453Plus1Toolbox": [],
     "RadioGx": [
         "piano"
     ],
@@ -1524,9 +1468,7 @@
         "phastCons100way.UCSC.hg19",
         "GenomicScores"
     ],
-    "Rbec": [
-        "ShortRead"
-    ],
+    "Rbec": [],
     "rBiopaxParser": [],
     "rcellminer": [],
     "RcisTarget": [],
@@ -1574,8 +1516,7 @@
     ],
     "ribosomeProfilingQC": [
         "EDASeq",
-        "RUVSeq",
-        "ShortRead"
+        "RUVSeq"
     ],
     "RImmPort": [
         "sqldf"
@@ -1621,20 +1562,15 @@
     "rnaseqcomp": [],
     "RNASeqR": [
         "systemPipeR",
-        "clusterProfiler",
-        "ShortRead"
+        "clusterProfiler"
     ],
     "RnaSeqSampleSize": [],
-    "Rqc": [
-        "ShortRead"
-    ],
+    "Rqc": [],
     "rqt": [],
     "rrvgo": [
         "tm"
     ],
-    "RSVSim": [
-        "ShortRead"
-    ],
+    "RSVSim": [],
     "RTN": [
         "minet"
     ],
@@ -1649,8 +1585,7 @@
         "snowfall"
     ],
     "RUVSeq": [
-        "EDASeq",
-        "ShortRead"
+        "EDASeq"
     ],
     "RVS": [],
     "satuRn": [],
@@ -1743,8 +1678,7 @@
     "scone": [
         "RUVSeq",
         "prabclus",
-        "EDASeq",
-        "ShortRead"
+        "EDASeq"
     ],
     "Sconify": [],
     "SCOPE": [
@@ -1761,9 +1695,7 @@
         "scuttle"
     ],
     "scRecover": [],
-    "scruff": [
-        "ShortRead"
-    ],
+    "scruff": [],
     "scry": [],
     "scTensor": [
         "ReactomePA",
@@ -1789,9 +1721,7 @@
     ],
     "scuttle": [],
     "segmenter": [],
-    "segmentSeq": [
-        "ShortRead"
-    ],
+    "segmentSeq": [],
     "selectKSigs": [],
     "SEPIRA": [],
     "seqsetvis": [],
@@ -1808,7 +1738,6 @@
     "shinyMethyl": [
         "IlluminaHumanMethylation450kmanifest"
     ],
-    "ShortRead": [],
     "SIAMCAT": [],
     "SigCheck": [
         "prabclus"
@@ -1849,8 +1778,7 @@
         "rstan"
     ],
     "SingleMoleculeFootprinting": [
-        "QuasR",
-        "ShortRead"
+        "QuasR"
     ],
     "SingleR": [],
     "skewr": [
@@ -1865,9 +1793,7 @@
     "SMAD": [],
     "SMITE": [],
     "snapCGH": [],
-    "soGGi": [
-        "ShortRead"
-    ],
+    "soGGi": [],
     "sojourner": [
         "sampSurf"
     ],
@@ -1963,9 +1889,7 @@
     "synlet": [
         "Rmpfr"
     ],
-    "systemPipeR": [
-        "ShortRead"
-    ],
+    "systemPipeR": [],
     "systemPipeShiny": [
         "spsUtil"
     ],
@@ -2014,8 +1938,7 @@
     "trackViewer": [],
     "tradeSeq": [],
     "transcriptR": [
-        "ModelMetrics",
-        "ShortRead"
+        "ModelMetrics"
     ],
     "tRanslatome": [
         "Rmpfr"
@@ -2059,7 +1982,6 @@
     "tximeta": [],
     "Ularcirc": [],
     "UMI4Cats": [
-        "ShortRead",
         "plot3D"
     ],
     "uncoverappLib": [
@@ -2104,8 +2026,7 @@
         "ChIPpeakAnno",
         "DiffBind",
         "systemPipeR",
-        "mixsqp",
-        "ShortRead"
+        "mixsqp"
     ],
     "wateRmelon": [
         "IlluminaHumanMethylation450kanno.ilmn12.hg19"
@@ -2394,9 +2315,7 @@
     "RLHub": [
         "ExperimentHub"
     ],
-    "systemPipeRdata": [
-        "ShortRead"
-    ],
+    "systemPipeRdata": [],
     "scanMiRData": [
         "scanMiR"
     ],
