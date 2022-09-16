@@ -1,4 +1,3 @@
-PPInfer
 rCGH
 coseq
 ProteoDisco
