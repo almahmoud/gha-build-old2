@@ -85,13 +85,10 @@
     "ASpli": [],
     "ATACseqQC": [
         "ChIPpeakAnno",
-        "GenomicScores",
-        "motifStack"
+        "GenomicScores"
     ],
     "atena": [],
-    "atSNP": [
-        "motifStack"
-    ],
+    "atSNP": [],
     "autonomics": [
         "assertive.sets",
         "assertive.models",
@@ -449,9 +446,7 @@
     "dada2": [
         "ShortRead"
     ],
-    "dagLogo": [
-        "motifStack"
-    ],
+    "dagLogo": [],
     "DaMiRseq": [
         "EDASeq",
         "plsVarSel",
@@ -936,8 +931,7 @@
         "xcms"
     ],
     "LowMACA": [
-        "cgdsr",
-        "motifStack"
+        "cgdsr"
     ],
     "LRcell": [
         "ExperimentHub"
@@ -1165,13 +1159,10 @@
     "MoonlightR": [
         "clusterProfiler"
     ],
-    "motifbreakR": [
-        "motifStack"
-    ],
+    "motifbreakR": [],
     "motifmatchr": [
         "TFBSTools"
     ],
-    "motifStack": [],
     "MouseFM": [
         "rlist"
     ],
@@ -1256,8 +1247,7 @@
         "trackViewer",
         "ATACseqQC",
         "ChIPpeakAnno",
-        "GenomicScores",
-        "motifStack"
+        "GenomicScores"
     ],
     "NanoMethViz": [],
     "nanotatoR": [
@@ -1590,7 +1580,6 @@
     ],
     "ribosomeProfilingQC": [
         "EDASeq",
-        "motifStack",
         "RUVSeq",
         "ShortRead"
     ],
