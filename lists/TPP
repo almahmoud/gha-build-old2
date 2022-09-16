@@ -1,8 +1,4 @@
-Updating c8ad869..4e3ebff
-Fast-forward
- lists/GateFinder | 2 +-
- tobuild.txt      | 1 -
- 2 files changed, 1 insertion(+), 2 deletions(-)
+Merge made by the 'recursive' strategy.
 backports/DESCRIPTION
 backports/INDEX
 backports/Meta/
