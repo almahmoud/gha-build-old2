@@ -34,7 +34,6 @@ for pkg in list(pkgs):
     if plog.endswith("tar.gz\n"):
         status = "Succeeded"
         tarname = plog.strip()
-    if tarname:
         tarname = f"[{tarname}](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/{tarname})"
     tables[status].append([name, status, tarname])
 
