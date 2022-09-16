@@ -1,4 +1,3 @@
-OmicsLonDA
 mrfDepth
 debCAM
 methylKit
