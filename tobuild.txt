@@ -1,4 +1,3 @@
-rrvgo
 minfi
 ChIPXpress
 omicRexposome
