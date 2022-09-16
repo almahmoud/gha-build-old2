@@ -1,4 +1,3 @@
-cellmigRation
 metagene
 flowBin
 metabCombiner
