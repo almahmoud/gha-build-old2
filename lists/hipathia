@@ -1,4 +1,8 @@
-Already up to date.
+Updating 5346e9a..37d1867
+Fast-forward
+ logs/run_ids/CopyNumberPlots | 2 ++
+ 1 file changed, 2 insertions(+)
+ create mode 100644 logs/run_ids/CopyNumberPlots
 AnnotationDbi/DBschemas/
 AnnotationDbi/DBschemas/SchemaGuidelines.txt
 AnnotationDbi/DBschemas/schemas_0.9/
