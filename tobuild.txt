@@ -1,6 +1,3 @@
-loose.rock
-rebus.datetimes
-Oscope
 LACE
 iasva
 ssrch
