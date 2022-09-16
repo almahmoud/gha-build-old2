@@ -1030,7 +1030,6 @@
         "msigdb",
         "ExperimentHub"
     ],
-    "vtpnet": [],
     "vulcan": [
         "ChIPpeakAnno",
         "DiffBind"
