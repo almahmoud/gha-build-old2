@@ -975,9 +975,7 @@
     "Prostar": [
         "DAPAR"
     ],
-    "protGear": [
-        "Kendall"
-    ],
+    "protGear": [],
     "psichomics": [],
     "PSMatch": [],
     "pulsedSilac": [
@@ -1580,7 +1578,6 @@
     "phastCons100way.UCSC.hg38": [
         "GenomicScores"
     ],
-    "Kendall": [],
     "taRifx": [],
     "pwrEWAS.data": [
         "ExperimentHub"
