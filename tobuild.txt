@@ -1,4 +1,3 @@
-DiscoRhythm
 GISPA
 fastLiquidAssociation
 TFBSTools
