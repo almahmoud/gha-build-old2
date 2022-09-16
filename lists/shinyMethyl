@@ -1,8 +1,4 @@
-Updating 5569a40..e170c31
-Fast-forward
- logs/run_ids/biodbExpasy | 1 +
- 1 file changed, 1 insertion(+)
- create mode 100644 logs/run_ids/biodbExpasy
+Already up to date.
 annotate/DESCRIPTION
 annotate/INDEX
 annotate/Meta/
