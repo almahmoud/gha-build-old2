@@ -1,1 +1,67 @@
-assertive.models_0.0-2_R_x86_64-pc-linux-gnu.tar.gz
+Already up to date.
+assertive.base/DESCRIPTION
+assertive.base/INDEX
+assertive.base/Meta/
+assertive.base/Meta/Rd.rds
+assertive.base/Meta/features.rds
+assertive.base/Meta/hsearch.rds
+assertive.base/Meta/links.rds
+assertive.base/Meta/nsInfo.rds
+assertive.base/Meta/package.rds
+assertive.base/NAMESPACE
+assertive.base/NEWS
+assertive.base/R/
+assertive.base/R/assertive.base
+assertive.base/R/assertive.base.rdb
+assertive.base/R/assertive.base.rdx
+assertive.base/help/
+assertive.base/help/AnIndex
+assertive.base/help/aliases.rds
+assertive.base/help/assertive.base.rdb
+assertive.base/help/assertive.base.rdx
+assertive.base/help/paths.rds
+assertive.base/html/
+assertive.base/html/00Index.html
+assertive.base/html/R.css
+assertive.base/po/
+assertive.base/po/de/
+assertive.base/po/de/LC_MESSAGES/
+assertive.base/po/de/LC_MESSAGES/R-assertive.base.mo
+assertive.base/po/el/
+assertive.base/po/el/LC_MESSAGES/
+assertive.base/po/el/LC_MESSAGES/R-assertive.base.mo
+assertive.base/po/fr/
+assertive.base/po/fr/LC_MESSAGES/
+assertive.base/po/fr/LC_MESSAGES/R-assertive.base.mo
+assertive.base/po/hu/
+assertive.base/po/hu/LC_MESSAGES/
+assertive.base/po/hu/LC_MESSAGES/R-assertive.base.mo
+assertive.base/po/ko/
+assertive.base/po/ko/LC_MESSAGES/
+assertive.base/po/ko/LC_MESSAGES/R-assertive.base.mo
+assertive.base/po/kr/
+assertive.base/po/kr/LC_MESSAGES/
+assertive.base/po/kr/LC_MESSAGES/R-assertive.base.mo
+assertive.base/po/nl/
+assertive.base/po/nl/LC_MESSAGES/
+assertive.base/po/nl/LC_MESSAGES/R-assertive.base.mo
+assertive.base/po/ru/
+assertive.base/po/ru/LC_MESSAGES/
+assertive.base/po/ru/LC_MESSAGES/R-assertive.base.mo
+assertive.base/po/sv/
+assertive.base/po/sv/LC_MESSAGES/
+assertive.base/po/sv/LC_MESSAGES/R-assertive.base.mo
+assertive.base/po/tr/
+assertive.base/po/tr/LC_MESSAGES/
+assertive.base/po/tr/LC_MESSAGES/R-assertive.base.mo
+assertive.base/po/ua/
+assertive.base/po/ua/LC_MESSAGES/
+assertive.base/po/ua/LC_MESSAGES/R-assertive.base.mo
+assertive.base/po/uk/
+assertive.base/po/uk/LC_MESSAGES/
+assertive.base/po/uk/LC_MESSAGES/R-assertive.base.mo
+* installing *binary* package ‘assertive.models’ ...
+* ‘assertive.models’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘assertive.models’ as ‘assertive.models_0.0-2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (assertive.models)
