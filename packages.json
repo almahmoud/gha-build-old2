@@ -188,7 +188,6 @@
         "EDASeq",
         "RUVSeq"
     ],
-    "contiBAIT": [],
     "conumee": [
         "IlluminaHumanMethylation450kanno.ilmn12.hg19",
         "IlluminaHumanMethylation450kmanifest",
@@ -730,7 +729,6 @@
     "REDseq": [
         "ChIPpeakAnno"
     ],
-    "RegEnrich": [],
     "regionReport": [],
     "regutools": [],
     "REMP": [],
