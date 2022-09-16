@@ -1,4 +1,3 @@
-maftools
 seqsetvis
 Harman
 SwathXtend
