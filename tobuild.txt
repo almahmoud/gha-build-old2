@@ -1,4 +1,3 @@
-ReadqPCR
 scTHI
 drugTargetInteractions
 PAIRADISE
