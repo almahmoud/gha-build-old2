@@ -163,7 +163,6 @@
         "ModelMetrics"
     ],
     "BubbleTree": [],
-    "BufferedMatrixMethods": [],
     "BUS": [],
     "CAGEfightR": [
         "GenomicInteractions"
@@ -812,7 +811,6 @@
         "metagenomeSeq"
     ],
     "MACPET": [],
-    "MACSQuantifyR": [],
     "MACSr": [
         "ExperimentHub"
     ],
