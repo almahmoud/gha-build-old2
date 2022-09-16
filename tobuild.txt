@@ -1,4 +1,3 @@
-qcmetrics
 MetaboSignal
 APAlyzer
 PhosR
