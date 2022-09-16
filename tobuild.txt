@@ -1,7 +1,3 @@
-ggbio
-mitoClone2
-vtpnet
-epivizrChart
 a4
 Gviz
 PloGO2
