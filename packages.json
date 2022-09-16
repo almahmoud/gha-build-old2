@@ -80,9 +80,7 @@
         "scuttle",
         "RcppML"
     ],
-    "BEclear": [
-        "dixonTest"
-    ],
+    "BEclear": [],
     "beer": [],
     "benchdamic": [
         "Seurat",
@@ -977,9 +975,7 @@
     "Prostar": [
         "DAPAR"
     ],
-    "protGear": [
-        "Kendall"
-    ],
+    "protGear": [],
     "psichomics": [],
     "PSMatch": [],
     "pulsedSilac": [
@@ -1472,7 +1468,6 @@
     "pRolocdata": [],
     "lbfgs": [],
     "rstan": [],
-    "dixonTest": [],
     "imager": [
         "readbitmap"
     ],
@@ -1583,7 +1578,6 @@
     "phastCons100way.UCSC.hg38": [
         "GenomicScores"
     ],
-    "Kendall": [],
     "taRifx": [],
     "pwrEWAS.data": [
         "ExperimentHub"
