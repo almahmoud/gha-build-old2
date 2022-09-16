@@ -1,4 +1,3 @@
-rnaEditr
 IMAS
 loose.rock
 MutationalPatterns
