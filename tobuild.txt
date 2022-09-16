@@ -1,4 +1,3 @@
-systemPipeShiny
 RTCGAToolbox
 RiboDiPA
 CytoGLMM
