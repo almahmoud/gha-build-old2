@@ -1,4 +1,3 @@
-soGGi
 HiLDA
 GWAS.BAYES
 INSPEcT
