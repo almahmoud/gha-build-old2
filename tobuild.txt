@@ -1,4 +1,3 @@
-HPiP
 miRNAtap.db
 CopywriteR
 idr2d
