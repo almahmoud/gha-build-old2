@@ -1,4 +1,3 @@
-TransView
 CNVPanelizer
 statnet.common
 clusterSeq
