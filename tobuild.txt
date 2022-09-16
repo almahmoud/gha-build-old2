@@ -1,4 +1,3 @@
-DSS
 synlet
 BadRegionFinder
 csdR
