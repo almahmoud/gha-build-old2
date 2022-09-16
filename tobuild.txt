@@ -1,4 +1,3 @@
-cytomapper
 compartmap
 structToolbox
 karyoploteR
