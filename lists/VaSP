@@ -1,8 +1,4 @@
-Updating 265cc5f..375e5ae
-Fast-forward
- lists/signeR | 2 +-
- tobuild.txt  | 1 -
- 2 files changed, 1 insertion(+), 2 deletions(-)
+Already up to date.
 annotate/DESCRIPTION
 annotate/INDEX
 annotate/Meta/
