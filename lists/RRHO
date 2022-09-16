@@ -1,7 +1,8 @@
-Auto-merging tobuild.txt
-CONFLICT (content): Merge conflict in tobuild.txt
-Automatic merge failed; fix conflicts and then commit the result.
-HEAD is now at 6687394 Claim SIFT.Hsapiens.dbSNP137
+Updating cbb8062..6687394
+Fast-forward
+ lists/SIFT.Hsapiens.dbSNP137 | 2 +-
+ tobuild.txt                  | 1 -
+ 2 files changed, 1 insertion(+), 2 deletions(-)
 formatR/DESCRIPTION
 formatR/INDEX
 formatR/Meta/
