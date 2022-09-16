@@ -62,7 +62,6 @@
     ],
     "animalcules": [
         "ModelMetrics",
-        "recipes",
         "rex"
     ],
     "annmap": [
@@ -208,8 +207,7 @@
         "interactiveDisplayBase"
     ],
     "branchpointer": [
-        "ModelMetrics",
-        "recipes"
+        "ModelMetrics"
     ],
     "BubbleTree": [],
     "BufferedMatrixMethods": [],
@@ -320,8 +318,7 @@
     "ChIC": [
         "spp",
         "ChIC.data",
-        "ModelMetrics",
-        "recipes"
+        "ModelMetrics"
     ],
     "chimeraviz": [],
     "ChIPanalyser": [
@@ -413,8 +410,7 @@
     ],
     "condiments": [
         "transport",
-        "ModelMetrics",
-        "recipes"
+        "ModelMetrics"
     ],
     "CONFESS": [
         "readbitmap",
@@ -485,7 +481,6 @@
         "strucchange",
         "FlowSOM",
         "ModelMetrics",
-        "recipes",
         "openCyto",
         "flowViz",
         "plot3D"
@@ -493,8 +488,7 @@
     "CytoGLMM": [
         "mbest",
         "strucchange",
-        "ModelMetrics",
-        "recipes"
+        "ModelMetrics"
     ],
     "cytoKernel": [
         "mixsqp"
@@ -522,7 +516,6 @@
         "EDASeq",
         "plsVarSel",
         "ModelMetrics",
-        "recipes",
         "ShortRead"
     ],
     "DAPAR": [
@@ -822,7 +815,6 @@
         "EDASeq",
         "plsVarSel",
         "ModelMetrics",
-        "recipes",
         "ShortRead"
     ],
     "GateFinder": [
@@ -926,8 +918,7 @@
         "ChIPpeakAnno"
     ],
     "GWAS.BAYES": [
-        "ModelMetrics",
-        "recipes"
+        "ModelMetrics"
     ],
     "gwascat": [
         "interactiveDisplayBase"
@@ -947,8 +938,7 @@
     ],
     "HIREewas": [],
     "HPiP": [
-        "ModelMetrics",
-        "recipes"
+        "ModelMetrics"
     ],
     "HTqPCR": [],
     "HTSeqGenie": [
@@ -1056,8 +1046,7 @@
     ],
     "KnowSeq": [
         "rlist",
-        "ModelMetrics",
-        "recipes"
+        "ModelMetrics"
     ],
     "ldblock": [],
     "LedPred": [
@@ -1093,8 +1082,7 @@
     "m6Aboost": [
         "ExperimentHub",
         "interactiveDisplayBase",
-        "ModelMetrics",
-        "recipes"
+        "ModelMetrics"
     ],
     "Maaslin2": [
         "metagenomeSeq"
@@ -1119,19 +1107,16 @@
     ],
     "MAI": [
         "tidyverse",
-        "ModelMetrics",
-        "recipes"
+        "ModelMetrics"
     ],
     "MAIT": [
         "xcms",
-        "ModelMetrics",
-        "recipes"
+        "ModelMetrics"
     ],
     "mAPKL": [],
     "maPredictDSC": [
         "ROCR",
-        "ModelMetrics",
-        "recipes"
+        "ModelMetrics"
     ],
     "maser": [],
     "massiR": [],
@@ -1168,8 +1153,7 @@
         "xcms"
     ],
     "metabCombiner": [
-        "ModelMetrics",
-        "recipes"
+        "ModelMetrics"
     ],
     "metabomxtr": [
         "optimx"
@@ -1265,8 +1249,7 @@
     "microbiomeMarker": [
         "metagenomeSeq",
         "microbiome",
-        "ModelMetrics",
-        "recipes"
+        "ModelMetrics"
     ],
     "MicrobiomeProfiler": [
         "clusterProfiler"
@@ -1304,16 +1287,14 @@
     ],
     "mistyR": [
         "rlist",
-        "ModelMetrics",
-        "recipes"
+        "ModelMetrics"
     ],
     "mitch": [],
     "MLInterfaces": [
         "prabclus"
     ],
     "MLSeq": [
-        "ModelMetrics",
-        "recipes"
+        "ModelMetrics"
     ],
     "MMUPHin": [
         "Maaslin2",
@@ -1393,8 +1374,7 @@
         "qcmetrics"
     ],
     "MSstatsSampleSize": [
-        "ModelMetrics",
-        "recipes"
+        "ModelMetrics"
     ],
     "MultiBaC": [
         "ropls"
@@ -1414,8 +1394,7 @@
         "rWikiPathways",
         "ReactomePA",
         "ropls",
-        "ModelMetrics",
-        "recipes"
+        "ModelMetrics"
     ],
     "mumosa": [
         "scuttle",
@@ -1572,8 +1551,7 @@
     "PCAtools": [],
     "PDATK": [
         "piano",
-        "ModelMetrics",
-        "recipes"
+        "ModelMetrics"
     ],
     "pdInfoBuilder": [
         "oligoClasses"
@@ -1611,8 +1589,7 @@
     "Pi": [
         "ROCR",
         "plot3D",
-        "ModelMetrics",
-        "recipes"
+        "ModelMetrics"
     ],
     "piano": [],
     "Pigengene": [
@@ -1643,7 +1620,6 @@
     ],
     "POMA": [
         "ModelMetrics",
-        "recipes",
         "Rmpfr"
     ],
     "ppcseq": [
@@ -1655,8 +1631,7 @@
     ],
     "pqsfinder": [],
     "preciseTAD": [
-        "ModelMetrics",
-        "recipes"
+        "ModelMetrics"
     ],
     "PrecisionTrialDrawer": [
         "cgdsr"
@@ -1683,14 +1658,12 @@
     "pRoloc": [
         "sampling",
         "ModelMetrics",
-        "recipes",
         "prabclus"
     ],
     "pRolocGUI": [
         "pRoloc",
         "sampling",
         "ModelMetrics",
-        "recipes",
         "prabclus"
     ],
     "PROPER": [],
@@ -1794,8 +1767,7 @@
     ],
     "REMP": [
         "interactiveDisplayBase",
-        "ModelMetrics",
-        "recipes"
+        "ModelMetrics"
     ],
     "ReportingTools": [],
     "restfulSE": [
@@ -1840,8 +1812,7 @@
         "RLHub",
         "interactiveDisplayBase",
         "ExperimentHub",
-        "ModelMetrics",
-        "recipes"
+        "ModelMetrics"
     ],
     "RMassBank": [
         "rcdk"
@@ -1929,7 +1900,6 @@
         "ROCR",
         "interactiveDisplayBase",
         "ModelMetrics",
-        "recipes",
         "uwot"
     ],
     "SCANVIS": [],
@@ -1956,7 +1926,6 @@
         "Seurat",
         "ROCR",
         "ModelMetrics",
-        "recipes",
         "uwot"
     ],
     "scDataviz": [
@@ -1978,8 +1947,7 @@
     ],
     "SCFA": [],
     "scGPS": [
-        "ModelMetrics",
-        "recipes"
+        "ModelMetrics"
     ],
     "schex": [
         "Seurat",
@@ -2228,13 +2196,11 @@
     "STROMA4": [],
     "structToolbox": [],
     "SubCellBarCode": [
-        "ModelMetrics",
-        "recipes"
+        "ModelMetrics"
     ],
     "SummarizedBenchmark": [],
     "supersigs": [
-        "ModelMetrics",
-        "recipes"
+        "ModelMetrics"
     ],
     "svaNUMT": [],
     "SwathXtend": [],
@@ -2262,7 +2228,6 @@
         "clusterProfiler",
         "sesame",
         "ModelMetrics",
-        "recipes",
         "sesameData",
         "ExperimentHub",
         "interactiveDisplayBase"
@@ -2305,7 +2270,6 @@
     "tradeSeq": [],
     "transcriptR": [
         "ModelMetrics",
-        "recipes",
         "ShortRead"
     ],
     "tRanslatome": [
@@ -2450,14 +2414,12 @@
     ],
     "ReorderCluster": [],
     "caret": [
-        "ModelMetrics",
-        "recipes"
+        "ModelMetrics"
     ],
     "covr": [
         "rex"
     ],
     "ModelMetrics": [],
-    "recipes": [],
     "rex": [],
     "RMySQL": [],
     "MafDb.1Kgenomes.phase3.hs37d5": [
@@ -2564,8 +2526,7 @@
     "IlluminaHumanMethylation450kmanifest": [],
     "spp": [],
     "ChIC.data": [
-        "ModelMetrics",
-        "recipes"
+        "ModelMetrics"
     ],
     "ashr": [
         "mixsqp"
@@ -2578,8 +2539,7 @@
     "colortools": [],
     "Ecume": [
         "transport",
-        "ModelMetrics",
-        "recipes"
+        "ModelMetrics"
     ],
     "transport": [],
     "feature": [
@@ -2671,8 +2631,7 @@
         "StanHeaders"
     ],
     "adabag": [
-        "ModelMetrics",
-        "recipes"
+        "ModelMetrics"
     ],
     "bigstatsr": [
         "rmio"
@@ -2738,8 +2697,7 @@
     ],
     "valr": [],
     "caretEnsemble": [
-        "ModelMetrics",
-        "recipes"
+        "ModelMetrics"
     ],
     "RLHub": [
         "ExperimentHub",
