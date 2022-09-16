@@ -1,4 +1,3 @@
-RSEIS
 ROSeq
 R2WinBUGS
 switchBox
