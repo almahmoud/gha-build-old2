@@ -1,4 +1,3 @@
-snapCGH
 myvariant
 XINA
 systemPipeShiny
