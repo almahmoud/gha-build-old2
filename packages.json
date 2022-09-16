@@ -902,7 +902,6 @@
     "methylKit": [],
     "methylSig": [],
     "MetID": [],
-    "MetNet": [],
     "mgsa": [],
     "mia": [
         "TreeSummarizedExperiment",
