@@ -1,4 +1,3 @@
-RefManageR
 tradeSeq
 categoryCompare
 assertive.models
