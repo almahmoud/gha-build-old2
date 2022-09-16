@@ -1,1 +1,664 @@
-claimed
+Already up to date.
+data.table/DESCRIPTION
+data.table/INDEX
+data.table/LICENSE
+data.table/Meta/
+data.table/Meta/Rd.rds
+data.table/Meta/features.rds
+data.table/Meta/hsearch.rds
+data.table/Meta/links.rds
+data.table/Meta/nsInfo.rds
+data.table/Meta/package.rds
+data.table/Meta/vignette.rds
+data.table/NAMESPACE
+data.table/NEWS.md
+data.table/R/
+data.table/R/data.table
+data.table/R/data.table.rdb
+data.table/R/data.table.rdx
+data.table/cc
+data.table/doc/
+data.table/doc/datatable-benchmarking.Rmd
+data.table/doc/datatable-benchmarking.html
+data.table/doc/datatable-faq.R
+data.table/doc/datatable-faq.Rmd
+data.table/doc/datatable-faq.html
+data.table/doc/datatable-importing.Rmd
+data.table/doc/datatable-importing.html
+data.table/doc/datatable-intro.R
+data.table/doc/datatable-intro.Rmd
+data.table/doc/datatable-intro.html
+data.table/doc/datatable-keys-fast-subset.R
+data.table/doc/datatable-keys-fast-subset.Rmd
+data.table/doc/datatable-keys-fast-subset.html
+data.table/doc/datatable-reference-semantics.R
+data.table/doc/datatable-reference-semantics.Rmd
+data.table/doc/datatable-reference-semantics.html
+data.table/doc/datatable-reshape.R
+data.table/doc/datatable-reshape.Rmd
+data.table/doc/datatable-reshape.html
+data.table/doc/datatable-sd-usage.R
+data.table/doc/datatable-sd-usage.Rmd
+data.table/doc/datatable-sd-usage.html
+data.table/doc/datatable-secondary-indices-and-auto-indexing.R
+data.table/doc/datatable-secondary-indices-and-auto-indexing.Rmd
+data.table/doc/datatable-secondary-indices-and-auto-indexing.html
+data.table/doc/index.html
+data.table/help/
+data.table/help/AnIndex
+data.table/help/aliases.rds
+data.table/help/data.table.rdb
+data.table/help/data.table.rdx
+data.table/help/paths.rds
+data.table/html/
+data.table/html/00Index.html
+data.table/html/R.css
+data.table/include/
+data.table/include/datatableAPI.h
+data.table/libs/
+data.table/libs/datatable.so
+data.table/po/
+data.table/po/en@quot/
+data.table/po/en@quot/LC_MESSAGES/
+data.table/po/en@quot/LC_MESSAGES/R-data.table.mo
+data.table/po/en@quot/LC_MESSAGES/data.table.mo
+data.table/po/zh_CN/
+data.table/po/zh_CN/LC_MESSAGES/
+data.table/po/zh_CN/LC_MESSAGES/R-data.table.mo
+data.table/po/zh_CN/LC_MESSAGES/data.table.mo
+data.table/tests/
+data.table/tests/1206FUT.txt.bz2
+data.table/tests/1680-fread-header-encoding.csv
+data.table/tests/2008head.csv.bz2
+data.table/tests/530_fread.txt
+data.table/tests/536_fread_fill_1.txt
+data.table/tests/536_fread_fill_2.txt
+data.table/tests/536_fread_fill_3_extreme.txt
+data.table/tests/536_fread_fill_4.txt
+data.table/tests/SA2-by-DJZ.csv.gz
+data.table/tests/allchar.csv.gz
+data.table/tests/alluniquechar.csv.gz
+data.table/tests/bad.txt.bz2
+data.table/tests/benchmark.Rraw.bz2
+data.table/tests/ch11b.dat.bz2
+data.table/tests/colnames4096.csv.bz2
+data.table/tests/csvy/
+data.table/tests/csvy/test.csvy
+data.table/tests/csvy/test_attributes.csvy
+data.table/tests/csvy/test_comment.csvy
+data.table/tests/csvy/test_extraneous.csvy
+data.table/tests/csvy/test_incomplete_header.csvy
+data.table/tests/csvy/test_missing_type.csvy
+data.table/tests/csvy/test_override_dec.csvy
+data.table/tests/csvy/test_override_header.csvy
+data.table/tests/csvy/test_override_na.csvy
+data.table/tests/csvy/test_override_quote.csvy
+data.table/tests/csvy/test_override_sep.csvy
+data.table/tests/csvy/test_skip.csvy
+data.table/tests/doublequote_newline.csv
+data.table/tests/fillheader.csv.bz2
+data.table/tests/fread_blank.txt
+data.table/tests/fread_blank2.txt
+data.table/tests/fread_blank3.txt
+data.table/tests/fread_line_error.csv.bz2
+data.table/tests/froll.Rraw.bz2
+data.table/tests/gb18030.txt
+data.table/tests/genotypes_genome.txt.bz2
+data.table/tests/grr.csv.gz
+data.table/tests/isoweek_test.csv.bz2
+data.table/tests/issue_1087_utf8_bom.csv
+data.table/tests/issue_1095_fread.txt.bz2
+data.table/tests/issue_1113_fread.txt.bz2
+data.table/tests/issue_1116_fread_few_lines.txt.gz
+data.table/tests/issue_1116_fread_few_lines_2.txt.gz
+data.table/tests/issue_1164_json.txt
+data.table/tests/issue_1330_fread.txt
+data.table/tests/issue_1462_fread_quotes.txt.gz
+data.table/tests/issue_1573_fill.txt
+data.table/tests/issue_2051.csv.gz
+data.table/tests/issue_2157_sampling_overlap.txt.gz
+data.table/tests/issue_2157_sampling_reached_eof_early.txt.bz2
+data.table/tests/issue_3400_fread.txt
+data.table/tests/issue_563_fread.txt
+data.table/tests/issue_773_fread.txt
+data.table/tests/issue_785_fread.txt.gz
+data.table/tests/iterations.txt.bz2
+data.table/tests/melt-warning-1752.tsv.gz
+data.table/tests/melt_1754.R.gz
+data.table/tests/melt_1754_synth.csv.bz2
+data.table/tests/nafill.Rraw.bz2
+data.table/tests/noquote.csv.gz
+data.table/tests/onecol4096.csv.bz2
+data.table/tests/other.Rraw.bz2
+data.table/tests/quoted_multiline.csv.bz2
+data.table/tests/quoted_no_header.csv
+data.table/tests/russellCRCRLF.csv
+data.table/tests/russellCRLF.csv
+data.table/tests/session_aborted_fatal_error.txt.bz2
+data.table/tests/test0.txt.bz2
+data.table/tests/test1372-1.Rdata
+data.table/tests/test1372.Rdata
+data.table/tests/tests-DESCRIPTION
+data.table/tests/tests.Rraw.bz2
+data.table/tests/types.Rraw.bz2
+data.table/tests/unescaped.csv
+data.table/tests/utf16be.txt
+data.table/tests/utf16le.txt
+data.table/tests/winallquoted.csv.bz2
+lattice/CITATION
+lattice/DESCRIPTION
+lattice/INDEX
+lattice/Meta/
+lattice/Meta/Rd.rds
+lattice/Meta/data.rds
+lattice/Meta/demo.rds
+lattice/Meta/features.rds
+lattice/Meta/hsearch.rds
+lattice/Meta/links.rds
+lattice/Meta/nsInfo.rds
+lattice/Meta/package.rds
+lattice/NAMESPACE
+lattice/NEWS
+lattice/R/
+lattice/R/lattice
+lattice/R/lattice.rdb
+lattice/R/lattice.rdx
+lattice/data/
+lattice/data/Rdata.rdb
+lattice/data/Rdata.rds
+lattice/data/Rdata.rdx
+lattice/demo/
+lattice/demo/intervals.R
+lattice/demo/labels.R
+lattice/demo/lattice.R
+lattice/demo/panel.R
+lattice/help/
+lattice/help/AnIndex
+lattice/help/aliases.rds
+lattice/help/lattice.rdb
+lattice/help/lattice.rdx
+lattice/help/paths.rds
+lattice/html/
+lattice/html/00Index.html
+lattice/html/R.css
+lattice/libs/
+lattice/libs/lattice.so
+lattice/po/
+lattice/po/de/
+lattice/po/de/LC_MESSAGES/
+lattice/po/de/LC_MESSAGES/R-lattice.mo
+lattice/po/en@quot/
+lattice/po/en@quot/LC_MESSAGES/
+lattice/po/en@quot/LC_MESSAGES/R-lattice.mo
+lattice/po/fr/
+lattice/po/fr/LC_MESSAGES/
+lattice/po/fr/LC_MESSAGES/R-lattice.mo
+lattice/po/it/
+lattice/po/it/LC_MESSAGES/
+lattice/po/it/LC_MESSAGES/R-lattice.mo
+lattice/po/ko/
+lattice/po/ko/LC_MESSAGES/
+lattice/po/ko/LC_MESSAGES/R-lattice.mo
+lattice/po/pl/
+lattice/po/pl/LC_MESSAGES/
+lattice/po/pl/LC_MESSAGES/R-lattice.mo
+Matrix/Copyrights
+Matrix/DESCRIPTION
+Matrix/Doxyfile
+Matrix/INDEX
+Matrix/LICENCE
+Matrix/Meta/
+Matrix/Meta/Rd.rds
+Matrix/Meta/data.rds
+Matrix/Meta/features.rds
+Matrix/Meta/hsearch.rds
+Matrix/Meta/links.rds
+Matrix/Meta/nsInfo.rds
+Matrix/Meta/package.rds
+Matrix/Meta/vignette.rds
+Matrix/NAMESPACE
+Matrix/NEWS.Rd
+Matrix/R/
+Matrix/R/Matrix
+Matrix/R/Matrix.rdb
+Matrix/R/Matrix.rdx
+Matrix/data/
+Matrix/data/CAex.R
+Matrix/data/KNex.R
+Matrix/data/USCounties.R
+Matrix/data/datalist
+Matrix/data/wrld_1deg.R
+Matrix/doc/
+Matrix/doc/Announce.txt
+Matrix/doc/Comparisons.R
+Matrix/doc/Comparisons.Rnw
+Matrix/doc/Comparisons.pdf
+Matrix/doc/Design-issues.R
+Matrix/doc/Design-issues.Rnw
+Matrix/doc/Design-issues.pdf
+Matrix/doc/Intro2Matrix.R
+Matrix/doc/Intro2Matrix.Rnw
+Matrix/doc/Intro2Matrix.pdf
+Matrix/doc/Introduction.R
+Matrix/doc/Introduction.Rnw
+Matrix/doc/Introduction.pdf
+Matrix/doc/SuiteSparse/
+Matrix/doc/SuiteSparse/AMD.txt
+Matrix/doc/SuiteSparse/CHOLMOD.txt
+Matrix/doc/SuiteSparse/COLAMD.txt
+Matrix/doc/SuiteSparse/SPQR.txt
+Matrix/doc/SuiteSparse/SuiteSparse_config.txt
+Matrix/doc/SuiteSparse/UserGuides.txt
+Matrix/doc/index.html
+Matrix/doc/sparseModels.R
+Matrix/doc/sparseModels.Rnw
+Matrix/doc/sparseModels.pdf
+Matrix/external/
+Matrix/external/CAex_slots.rda
+Matrix/external/KNex_slots.rda
+Matrix/external/USCounties_slots.rda
+Matrix/external/Z_NA_rnk.rds
+Matrix/external/jgl009.mtx
+Matrix/external/lund_a.mtx
+Matrix/external/lund_a.rsa
+Matrix/external/pores_1.mtx
+Matrix/external/symA.rda
+Matrix/external/symW.rda
+Matrix/external/test3comp.rda
+Matrix/external/utm300.rua
+Matrix/external/wrld_1deg_slots.rda
+Matrix/external/wrong.mtx
+Matrix/help/
+Matrix/help/AnIndex
+Matrix/help/Matrix.rdb
+Matrix/help/Matrix.rdx
+Matrix/help/aliases.rds
+Matrix/help/paths.rds
+Matrix/html/
+Matrix/html/00Index.html
+Matrix/html/R.css
+Matrix/include/
+Matrix/include/Matrix.h
+Matrix/include/Matrix_stubs.c
+Matrix/include/cholmod.h
+Matrix/libs/
+Matrix/libs/Matrix.so
+Matrix/po/
+Matrix/po/de/
+Matrix/po/de/LC_MESSAGES/
+Matrix/po/de/LC_MESSAGES/Matrix.mo
+Matrix/po/de/LC_MESSAGES/R-Matrix.mo
+Matrix/po/en@quot/
+Matrix/po/en@quot/LC_MESSAGES/
+Matrix/po/en@quot/LC_MESSAGES/Matrix.mo
+Matrix/po/en@quot/LC_MESSAGES/R-Matrix.mo
+Matrix/po/fr/
+Matrix/po/fr/LC_MESSAGES/
+Matrix/po/fr/LC_MESSAGES/Matrix.mo
+Matrix/po/fr/LC_MESSAGES/R-Matrix.mo
+Matrix/po/it/
+Matrix/po/it/LC_MESSAGES/
+Matrix/po/it/LC_MESSAGES/Matrix.mo
+Matrix/po/it/LC_MESSAGES/R-Matrix.mo
+Matrix/po/ko/
+Matrix/po/ko/LC_MESSAGES/
+Matrix/po/ko/LC_MESSAGES/Matrix.mo
+Matrix/po/ko/LC_MESSAGES/R-Matrix.mo
+Matrix/po/lt/
+Matrix/po/lt/LC_MESSAGES/
+Matrix/po/lt/LC_MESSAGES/Matrix.mo
+Matrix/po/lt/LC_MESSAGES/R-Matrix.mo
+Matrix/po/pl/
+Matrix/po/pl/LC_MESSAGES/
+Matrix/po/pl/LC_MESSAGES/Matrix.mo
+Matrix/po/pl/LC_MESSAGES/R-Matrix.mo
+Matrix/test-tools-1.R
+Matrix/test-tools-Matrix.R
+Matrix/test-tools.R
+RColorBrewer/COPYING
+RColorBrewer/DESCRIPTION
+RColorBrewer/INDEX
+RColorBrewer/Meta/
+RColorBrewer/Meta/Rd.rds
+RColorBrewer/Meta/features.rds
+RColorBrewer/Meta/hsearch.rds
+RColorBrewer/Meta/links.rds
+RColorBrewer/Meta/nsInfo.rds
+RColorBrewer/Meta/package.rds
+RColorBrewer/NAMESPACE
+RColorBrewer/R/
+RColorBrewer/R/RColorBrewer
+RColorBrewer/R/RColorBrewer.rdb
+RColorBrewer/R/RColorBrewer.rdx
+RColorBrewer/help/
+RColorBrewer/help/AnIndex
+RColorBrewer/help/RColorBrewer.rdb
+RColorBrewer/help/RColorBrewer.rdx
+RColorBrewer/help/aliases.rds
+RColorBrewer/help/paths.rds
+RColorBrewer/html/
+RColorBrewer/html/00Index.html
+RColorBrewer/html/R.css
+Rhtslib/DESCRIPTION
+Rhtslib/INDEX
+Rhtslib/Meta/
+Rhtslib/Meta/Rd.rds
+Rhtslib/Meta/features.rds
+Rhtslib/Meta/hsearch.rds
+Rhtslib/Meta/links.rds
+Rhtslib/Meta/nsInfo.rds
+Rhtslib/Meta/package.rds
+Rhtslib/Meta/vignette.rds
+Rhtslib/NAMESPACE
+Rhtslib/NEWS
+Rhtslib/R/
+Rhtslib/R/Rhtslib
+Rhtslib/R/Rhtslib.rdb
+Rhtslib/R/Rhtslib.rdx
+Rhtslib/doc/
+Rhtslib/doc/Rhtslib.R
+Rhtslib/doc/Rhtslib.Rmd
+Rhtslib/doc/Rhtslib.html
+Rhtslib/doc/index.html
+Rhtslib/help/
+Rhtslib/help/AnIndex
+Rhtslib/help/Rhtslib.rdb
+Rhtslib/help/Rhtslib.rdx
+Rhtslib/help/aliases.rds
+Rhtslib/help/paths.rds
+Rhtslib/html/
+Rhtslib/html/00Index.html
+Rhtslib/html/R.css
+Rhtslib/include/
+Rhtslib/include/README
+Rhtslib/include/bam.c
+Rhtslib/include/bam.h
+Rhtslib/include/bam_aux.c
+Rhtslib/include/bam_cat.c
+Rhtslib/include/bam_endian.h
+Rhtslib/include/bam_plbuf.c
+Rhtslib/include/bam_plbuf.h
+Rhtslib/include/bam_sort.c
+Rhtslib/include/hts_internal.h
+Rhtslib/include/htslib/
+Rhtslib/include/htslib/bgzf.h
+Rhtslib/include/htslib/cram.h
+Rhtslib/include/htslib/faidx.h
+Rhtslib/include/htslib/hfile.h
+Rhtslib/include/htslib/hts.h
+Rhtslib/include/htslib/hts_defs.h
+Rhtslib/include/htslib/hts_endian.h
+Rhtslib/include/htslib/hts_log.h
+Rhtslib/include/htslib/hts_os.h
+Rhtslib/include/htslib/kbitset.h
+Rhtslib/include/htslib/kfunc.h
+Rhtslib/include/htslib/khash.h
+Rhtslib/include/htslib/khash_str2int.h
+Rhtslib/include/htslib/klist.h
+Rhtslib/include/htslib/knetfile.h
+Rhtslib/include/htslib/kseq.h
+Rhtslib/include/htslib/ksort.h
+Rhtslib/include/htslib/kstring.h
+Rhtslib/include/htslib/regidx.h
+Rhtslib/include/htslib/sam.h
+Rhtslib/include/htslib/synced_bcf_reader.h
+Rhtslib/include/htslib/tbx.h
+Rhtslib/include/htslib/thread_pool.h
+Rhtslib/include/htslib/vcf.h
+Rhtslib/include/htslib/vcf_sweep.h
+Rhtslib/include/htslib/vcfutils.h
+Rhtslib/include/sam.c
+Rhtslib/include/sam.h
+Rhtslib/include/sam_header.h
+Rhtslib/include/sam_opts.c
+Rhtslib/include/sam_opts.h
+Rhtslib/include/sam_utils.c
+Rhtslib/include/samtools.h
+Rhtslib/include/textutils_internal.h
+Rhtslib/include/version.h
+Rhtslib/libs/
+Rhtslib/libs/Rhtslib.so
+Rhtslib/testdata/
+Rhtslib/testdata/auxf#values.sam
+Rhtslib/testdata/auxf#values_java.cram
+Rhtslib/testdata/auxf.fa
+Rhtslib/testdata/auxf.fa.fai
+Rhtslib/testdata/c1#bounds.sam
+Rhtslib/testdata/c1#clip.sam
+Rhtslib/testdata/c1#noseq.sam
+Rhtslib/testdata/c1#pad1.sam
+Rhtslib/testdata/c1#pad2.sam
+Rhtslib/testdata/c1#pad3.sam
+Rhtslib/testdata/c1#unknown.sam
+Rhtslib/testdata/c1.fa
+Rhtslib/testdata/c1.fa.fai
+Rhtslib/testdata/c2#pad.sam
+Rhtslib/testdata/c2.fa
+Rhtslib/testdata/c2.fa.fai
+Rhtslib/testdata/ce#1.sam
+Rhtslib/testdata/ce#2.sam
+Rhtslib/testdata/ce#5.sam
+Rhtslib/testdata/ce#5b.sam
+Rhtslib/testdata/ce#5b_java.cram
+Rhtslib/testdata/ce#large_seq.sam
+Rhtslib/testdata/ce#supp.sam
+Rhtslib/testdata/ce#tag_depadded.sam
+Rhtslib/testdata/ce#tag_padded.sam
+Rhtslib/testdata/ce#unmap.sam
+Rhtslib/testdata/ce#unmap1.sam
+Rhtslib/testdata/ce#unmap2.sam
+Rhtslib/testdata/ce.fa
+Rhtslib/testdata/ce.fa.fai
+Rhtslib/testdata/faidx.fa
+Rhtslib/testdata/fieldarith.sam
+Rhtslib/testdata/formatcols.vcf
+Rhtslib/testdata/formatmissing-out.vcf
+Rhtslib/testdata/formatmissing.vcf
+Rhtslib/testdata/md#1.sam
+Rhtslib/testdata/md.fa
+Rhtslib/testdata/md.fa.fai
+Rhtslib/testdata/noroundtrip-out.vcf
+Rhtslib/testdata/noroundtrip.vcf
+Rhtslib/testdata/tabix/
+Rhtslib/testdata/tabix/bed_file.bed
+Rhtslib/testdata/tabix/gff_file.gff
+Rhtslib/testdata/tabix/large_chr.vcf
+Rhtslib/testdata/tabix/vcf_file.vcf
+Rhtslib/testdata/test-vcf-hdr-in.vcf
+Rhtslib/testdata/xx#blank.sam
+Rhtslib/testdata/xx#large_aux.sam
+Rhtslib/testdata/xx#large_aux2.sam
+Rhtslib/testdata/xx#large_aux_java.cram
+Rhtslib/testdata/xx#minimal.sam
+Rhtslib/testdata/xx#pair.sam
+Rhtslib/testdata/xx#repeated.sam
+Rhtslib/testdata/xx#rg.sam
+Rhtslib/testdata/xx#tlen.sam
+Rhtslib/testdata/xx#tlen2.sam
+Rhtslib/testdata/xx#triplet.sam
+Rhtslib/testdata/xx#unsorted.sam
+Rhtslib/testdata/xx.fa
+Rhtslib/testdata/xx.fa.fai
+Rhtslib/usrlib/
+Rhtslib/usrlib/libhts.a
+Rhtslib/usrlib/libhts.so
+Rhtslib/usrlib/libhts.so.2
+survival/CITATION
+survival/COPYRIGHTS
+survival/DESCRIPTION
+survival/INDEX
+survival/Meta/
+survival/Meta/Rd.rds
+survival/Meta/data.rds
+survival/Meta/features.rds
+survival/Meta/hsearch.rds
+survival/Meta/links.rds
+survival/Meta/nsInfo.rds
+survival/Meta/package.rds
+survival/Meta/vignette.rds
+survival/NAMESPACE
+survival/NEWS.Rd
+survival/R/
+survival/R/survival
+survival/R/survival.rdb
+survival/R/survival.rdx
+survival/data/
+survival/data/Rdata.rdb
+survival/data/Rdata.rds
+survival/data/Rdata.rdx
+survival/doc/
+survival/doc/adjcurve.R
+survival/doc/adjcurve.Rnw
+survival/doc/adjcurve.pdf
+survival/doc/approximate.R
+survival/doc/approximate.Rnw
+survival/doc/approximate.pdf
+survival/doc/compete.R
+survival/doc/compete.Rnw
+survival/doc/compete.pdf
+survival/doc/concordance.R
+survival/doc/concordance.Rnw
+survival/doc/concordance.pdf
+survival/doc/discrim.R
+survival/doc/discrim.Rnw
+survival/doc/discrim.pdf
+survival/doc/index.html
+survival/doc/multi.Rnw
+survival/doc/multi.pdf
+survival/doc/other.Rnw
+survival/doc/other.pdf
+survival/doc/population.R
+survival/doc/population.Rnw
+survival/doc/population.pdf
+survival/doc/splines.R
+survival/doc/splines.Rnw
+survival/doc/splines.pdf
+survival/doc/survival.R
+survival/doc/survival.Rnw
+survival/doc/survival.pdf
+survival/doc/tiedtimes.R
+survival/doc/tiedtimes.Rnw
+survival/doc/tiedtimes.pdf
+survival/doc/timedep.R
+survival/doc/timedep.Rnw
+survival/doc/timedep.pdf
+survival/doc/validate.R
+survival/doc/validate.Rnw
+survival/doc/validate.pdf
+survival/help/
+survival/help/AnIndex
+survival/help/aliases.rds
+survival/help/figures/
+survival/help/figures/logo.png
+survival/help/paths.rds
+survival/help/survival.rdb
+survival/help/survival.rdx
+survival/html/
+survival/html/00Index.html
+survival/html/R.css
+survival/libs/
+survival/libs/survival.so
+zlibbioc/DESCRIPTION
+zlibbioc/INDEX
+zlibbioc/LICENSE
+zlibbioc/Meta/
+zlibbioc/Meta/Rd.rds
+zlibbioc/Meta/features.rds
+zlibbioc/Meta/hsearch.rds
+zlibbioc/Meta/links.rds
+zlibbioc/Meta/nsInfo.rds
+zlibbioc/Meta/package.rds
+zlibbioc/Meta/vignette.rds
+zlibbioc/NAMESPACE
+zlibbioc/R/
+zlibbioc/R/zlibbioc
+zlibbioc/R/zlibbioc.rdb
+zlibbioc/R/zlibbioc.rdx
+zlibbioc/doc/
+zlibbioc/doc/UsingZlibbioc.Rnw
+zlibbioc/doc/UsingZlibbioc.pdf
+zlibbioc/doc/index.html
+zlibbioc/help/
+zlibbioc/help/AnIndex
+zlibbioc/help/aliases.rds
+zlibbioc/help/paths.rds
+zlibbioc/help/zlibbioc.rdb
+zlibbioc/help/zlibbioc.rdx
+zlibbioc/html/
+zlibbioc/html/00Index.html
+zlibbioc/html/R.css
+zlibbioc/include/
+zlibbioc/libs/
+zlibbioc/libs/zlibbioc.so
+* installing *source* package ‘DNAcopy’ ...
+** using staged installation
+** libs
+gfortran -fno-optimize-sibling-calls  -fpic  -g -O2  -c cbsWtstats.f -o cbsWtstats.o
+gfortran -fno-optimize-sibling-calls  -fpic  -g -O2  -c cbststats.f -o cbststats.o
+gfortran -fno-optimize-sibling-calls  -fpic  -g -O2  -c changepoints-wtd.f -o changepoints-wtd.o
+gfortran -fno-optimize-sibling-calls  -fpic  -g -O2  -c changepoints.f -o changepoints.o
+gfortran -fno-optimize-sibling-calls  -fpic  -g -O2  -c esegment.f -o esegment.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c flchoose.c -o flchoose.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c fphyper.c -o fphyper.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c fpnorm.c -o fpnorm.o
+gfortran -fno-optimize-sibling-calls  -fpic  -g -O2  -c getbdry.f -o getbdry.o
+gfortran -fno-optimize-sibling-calls  -fpic  -g -O2  -c prune.f -o prune.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c rshared.c -o rshared.o
+gfortran -fno-optimize-sibling-calls  -fpic  -g -O2  -c segmentp.f -o segmentp.o
+gfortran -fno-optimize-sibling-calls  -fpic  -g -O2  -c smoothCNA.f -o smoothCNA.o
+gfortran -fno-optimize-sibling-calls  -fpic  -g -O2  -c tailprobs.f -o tailprobs.o
+gcc -shared -L/usr/local/lib/R/lib -L/usr/local/lib -o DNAcopy.so cbsWtstats.o cbststats.o changepoints-wtd.o changepoints.o esegment.o flchoose.o fphyper.o fpnorm.o getbdry.o prune.o rshared.o segmentp.o smoothCNA.o tailprobs.o -lgfortran -lm -lquadmath -L/usr/local/lib/R/lib -lR
+installing to /__w/gha-build/gha-build/built/00LOCK-DNAcopy/00new/DNAcopy/libs
+** R
+** data
+*** moving datasets to lazyload DB
+** demo
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘DNAcopy’ as ‘DNAcopy_1.70.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (DNAcopy)
+* installing *source* package ‘maftools’ ...
+** using staged installation
+** libs
+gcc -I"/usr/local/lib/R/include" -DNDEBUG -D_FILE_OFFSET_BITS=64 -I'/__w/gha-build/gha-build/built/Rhtslib/include' -I'/__w/gha-build/gha-build/built/zlibbioc/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c ntcounts.c -o ntcounts.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG -D_FILE_OFFSET_BITS=64 -I'/__w/gha-build/gha-build/built/Rhtslib/include' -I'/__w/gha-build/gha-build/built/zlibbioc/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c snpcounts.c -o snpcounts.o
+snpcounts.c: In function ‘snpcounts’:
+snpcounts.c:56:26: warning: passing argument 1 of ‘countlines’ discards ‘const’ qualifier from pointer target type [-Wdiscarded-qualifiers]
+   56 |   int nloci = countlines(bedfile);
+      |                          ^~~~~~~
+snpcounts.c:13:22: note: expected ‘char *’ but argument is of type ‘const char *’
+   13 | int countlines(char *filename){
+      |                ~~~~~~^~~~~~~~
+snpcounts.c:89:47: warning: format ‘%llu’ expects argument of type ‘long long unsigned int’, but argument 3 has type ‘uint64_t’ {aka ‘long unsigned int’} [-Wformat=]
+   89 |   fprintf(tsv_fp, "#idxstats_mapped_reads\t%llu\n", tot_mapped);
+      |                                            ~~~^     ~~~~~~~~~~
+      |                                               |     |
+      |                                               |     uint64_t {aka long unsigned int}
+      |                                               long long unsigned int
+      |                                            %lu
+gcc -I"/usr/local/lib/R/include" -DNDEBUG -D_FILE_OFFSET_BITS=64 -I'/__w/gha-build/gha-build/built/Rhtslib/include' -I'/__w/gha-build/gha-build/built/zlibbioc/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c somaticfreq.c -o somaticfreq.o
+gcc -shared -L/usr/local/lib/R/lib -L/usr/local/lib -o maftools.so ntcounts.o snpcounts.o somaticfreq.o /__w/gha-build/gha-build/built/Rhtslib/usrlib/libhts.a -lcurl -L/usr/local/lib/R/lib -lR
+installing to /__w/gha-build/gha-build/built/00LOCK-maftools/00new/maftools/libs
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘maftools’ as ‘maftools_2.12.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (maftools)
