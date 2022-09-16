@@ -1,4 +1,3 @@
-spatialDE
 cytoKernel
 VennDetail
 scoreInvHap
