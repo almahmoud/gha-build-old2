@@ -1,4 +1,3 @@
-IlluminaHumanMethylationEPICmanifest
 IlluminaHumanMethylation450kanno.ilmn12.hg19
 TBSignatureProfiler
 rgsepd
