@@ -1,4 +1,3 @@
-ADAMgui
 cellity
 scAnnotatR
 rrvgo
