@@ -1,4 +1,3 @@
-qsea
 Rgin
 DMRforPairs
 GeneStructureTools
