@@ -1,0 +1,36 @@
+* installing *source* package ‘maftools’ ...
+** using staged installation
+** libs
+gcc -I"/usr/local/lib/R/include" -DNDEBUG -D_FILE_OFFSET_BITS=64 -I'/__w/gha-build/gha-build/built/Rhtslib/include' -I'/__w/gha-build/gha-build/built/zlibbioc/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c ntcounts.c -o ntcounts.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG -D_FILE_OFFSET_BITS=64 -I'/__w/gha-build/gha-build/built/Rhtslib/include' -I'/__w/gha-build/gha-build/built/zlibbioc/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c snpcounts.c -o snpcounts.o
+snpcounts.c: In function ‘snpcounts’:
+snpcounts.c:56:26: warning: passing argument 1 of ‘countlines’ discards ‘const’ qualifier from pointer target type [-Wdiscarded-qualifiers]
+   56 |   int nloci = countlines(bedfile);
+      |                          ^~~~~~~
+snpcounts.c:13:22: note: expected ‘char *’ but argument is of type ‘const char *’
+   13 | int countlines(char *filename){
+      |                ~~~~~~^~~~~~~~
+snpcounts.c:89:47: warning: format ‘%llu’ expects argument of type ‘long long unsigned int’, but argument 3 has type ‘uint64_t’ {aka ‘long unsigned int’} [-Wformat=]
+   89 |   fprintf(tsv_fp, "#idxstats_mapped_reads\t%llu\n", tot_mapped);
+      |                                            ~~~^     ~~~~~~~~~~
+      |                                               |     |
+      |                                               |     uint64_t {aka long unsigned int}
+      |                                               long long unsigned int
+      |                                            %lu
+gcc -I"/usr/local/lib/R/include" -DNDEBUG -D_FILE_OFFSET_BITS=64 -I'/__w/gha-build/gha-build/built/Rhtslib/include' -I'/__w/gha-build/gha-build/built/zlibbioc/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c somaticfreq.c -o somaticfreq.o
+gcc -shared -L/usr/local/lib/R/lib -L/usr/local/lib -o maftools.so ntcounts.o snpcounts.o somaticfreq.o /__w/gha-build/gha-build/built/Rhtslib/usrlib/libhts.a -lcurl -L/usr/local/lib/R/lib -lR
+installing to /__w/gha-build/gha-build/built/00LOCK-maftools/00new/maftools/libs
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘maftools’ as ‘maftools_2.12.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (maftools)
