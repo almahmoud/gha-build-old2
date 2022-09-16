@@ -1,5 +1,3 @@
-methylscaper
-Trendy
 slinky
 RCM
 RNAdecay
