@@ -1,4 +1,3 @@
-APAlyzer
 PhosR
 MSGFplus
 MSstatsSampleSize
