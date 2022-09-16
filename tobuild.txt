@@ -1,4 +1,3 @@
-mGSZ
 R3CPET
 SIMLR
 assertive.sets
