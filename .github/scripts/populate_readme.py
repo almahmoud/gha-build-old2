@@ -5,7 +5,7 @@ with open("original.json", "r") as f:
     pkgs = json.load(f)
 import requests
 
-table = []
+tables = {"Failed": [], "Unclaimed": [], "Succeeded": []}
 
 for pkg in list(pkgs):
     name = pkg
@@ -27,6 +27,7 @@ for pkg in list(pkgs):
             name = f"[{pkg}]({runurl})"
     if exists(f"lists/failed/{pkg}"):
         status = "Failed"
+        tarname = f"https://github.com/almahmoud/gha-build/blob/main/lists/failed/{pkg}"
     elif exists(f"lists/{pkg}"):
         with open(f"lists/{pkg}", "r") as pf:
             plog = pf.read()
@@ -34,10 +35,15 @@ for pkg in list(pkgs):
         status = "Succeeded"
         tarname = plog.strip()
     if tarname:
-        tarname = f"https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/{tarname}"
-    table.append([name, status, tarname])
-
+        tarname = f"[{tarname}](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/{tarname})"
+    tables[status].append([name, status, tarname])
 
 headers = ["Package", "Status", "Tarball"]
+failedheaders = ["Package", "Status", "Log"]
 with open("README.md", "w") as f:
-    f.write(tabulate(table, headers, tablefmt="github"))
+    f.write("## Failed\n")
+    f.write(tabulate(tables["Failed"], failedheaders, tablefmt="github"))
+    f.write("## Succeeded\n")
+    f.write(tabulate(tables["Succeeded"], headers, tablefmt="github"))
+    f.write("## Unclaimed\n")
+    f.write(tabulate(tables["Unclaimed"], headers, tablefmt="github"))
