@@ -1,4 +1,3 @@
-BioMM
 RGalaxy
 PPInfer
 rCGH
