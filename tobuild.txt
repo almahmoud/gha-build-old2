@@ -1,4 +1,3 @@
-SPONGE
 RnaSeqSampleSizeData
 mosbi
 flowUtils
