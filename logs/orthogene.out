@@ -1,0 +1,16 @@
+* installing *source* package ‘orthogene’ ...
+** using staged installation
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘orthogene’ as ‘orthogene_1.2.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (orthogene)
