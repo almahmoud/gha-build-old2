@@ -1,4 +1,3 @@
-igvR
 rGenomeTracksData
 CluMSID
 biovizBase
