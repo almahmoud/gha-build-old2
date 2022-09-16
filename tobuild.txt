@@ -1,4 +1,3 @@
-sSeq
 wiggleplotr
 clusterSim
 sevenbridges
