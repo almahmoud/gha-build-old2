@@ -1,4 +1,3 @@
-YAPSA
 methylPipe
 systemPipeR
 ASURAT
