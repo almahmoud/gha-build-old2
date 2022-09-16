@@ -1,4 +1,3 @@
-EBSeqHMM
 SPONGE
 RnaSeqSampleSizeData
 mosbi
