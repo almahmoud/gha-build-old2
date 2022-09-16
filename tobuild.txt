@@ -1,4 +1,3 @@
-PAIRADISE
 rncl
 lumi
 MSstatsTMT
