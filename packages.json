@@ -2,76 +2,47 @@
     "a4": [
         "ROCR"
     ],
-    "a4Base": [],
     "a4Classif": [
         "ROCR"
     ],
-    "a4Core": [],
-    "a4Reporting": [],
     "ABAEnrichment": [
         "ABAData"
     ],
-    "ABarray": [],
-    "abseqR": [],
-    "ABSSeq": [],
-    "acde": [],
     "ACE": [
         "snowfall"
     ],
-    "aCGH": [],
-    "ACME": [],
     "ADaCGH2": [
         "ffbase",
         "snapCGH",
         "strucchange"
     ],
-    "ADAM": [],
-    "ADAMgui": [],
     "adductomicsR": [
         "adductData",
         "ExperimentHub",
         "interactiveDisplayBase",
         "prabclus"
     ],
-    "ADImpute": [],
-    "adSplit": [],
-    "AffiXcan": [],
-    "affy": [],
-    "AffyCompatible": [],
-    "affyContam": [],
     "affycoretools": [
         "oligoClasses",
         "ReportingTools"
     ],
-    "affyILM": [],
-    "affyio": [],
-    "affylmGUI": [],
-    "affyPLM": [],
-    "AffyRNADegradation": [],
-    "AGDEX": [],
-    "aggregateBioVar": [],
     "AgiMicroRna": [
         "affycoretools",
         "oligoClasses",
         "ReportingTools"
     ],
-    "AIMS": [],
     "airpart": [
         "scater",
         "scuttle"
     ],
-    "ALDEx2": [],
-    "alevinQC": [],
     "AllelicImbalance": [],
     "AlphaBeta": [
         "optimx"
     ],
-    "alpine": [],
     "AlpsNMR": [
         "speaq"
     ],
     "alsace": [],
-    "altcdfenvs": [],
     "AMARETTO": [
         "curatedTCGAData",
         "ExperimentHub",
@@ -89,20 +60,14 @@
     "AneuFinder": [
         "ReorderCluster"
     ],
-    "ANF": [],
     "animalcules": [
         "ModelMetrics",
         "recipes",
         "rex"
     ],
-    "annaffy": [],
     "annmap": [
         "RMySQL"
     ],
-    "annotate": [],
-    "AnnotationDbi": [],
-    "AnnotationFilter": [],
-    "AnnotationForge": [],
     "AnnotationHub": [
         "interactiveDisplayBase"
     ],
@@ -112,15 +77,7 @@
     "annotatr": [
         "interactiveDisplayBase"
     ],
-    "anota": [],
-    "anota2seq": [],
-    "antiProfiles": [],
-    "AnVIL": [],
-    "AnVILBilling": [],
-    "AnVILPublish": [],
     "APAlyzer": [],
-    "apComplex": [],
-    "apeglm": [],
     "appreci8R": [
         "MafDb.1Kgenomes.phase3.hs37d5",
         "MafDb.ExAC.r1.0.hs37d5",
@@ -128,7 +85,6 @@
         "GenomicScores",
         "interactiveDisplayBase"
     ],
-    "aroma.light": [],
     "ArrayExpress": [
         "oligoClasses"
     ],
@@ -139,11 +95,7 @@
     "arrayMvout": [
         "lumi"
     ],
-    "arrayQuality": [],
-    "arrayQualityMetrics": [],
     "ARRmNormalization": [],
-    "artMS": [],
-    "ASGSCA": [],
     "ASICS": [
         "ropls"
     ],
@@ -152,9 +104,6 @@
         "mGSZ"
     ],
     "ASpli": [],
-    "AssessORF": [],
-    "ASSET": [],
-    "ASSIGN": [],
     "ATACseqQC": [
         "ChIPpeakAnno",
         "GenomicScores",
@@ -165,22 +114,11 @@
     "atSNP": [
         "motifStack"
     ],
-    "attract": [],
-    "AUCell": [],
     "autonomics": [
         "assertive.sets",
         "assertive.models",
         "assertive.reflection"
     ],
-    "AWFisher": [],
-    "awst": [],
-    "BaalChIP": [],
-    "bacon": [],
-    "BadRegionFinder": [],
-    "BAGS": [],
-    "ballgown": [],
-    "bambu": [],
-    "bamsignals": [],
     "BANDITS": [
         "DRIMSeq"
     ],
@@ -188,44 +126,25 @@
         "rstan",
         "StanHeaders"
     ],
-    "barcodetrackR": [],
     "basecallQC": [
         "ShortRead"
     ],
-    "BaseSpaceR": [],
-    "Basic4Cseq": [],
     "BASiCS": [
         "scran",
         "scuttle"
     ],
-    "BasicSTARRseq": [],
-    "basilisk": [],
-    "basilisk.utils": [],
     "batchelor": [
         "scuttle"
     ],
-    "BatchQC": [],
-    "BayesKnockdown": [],
     "BayesSpace": [
         "scater",
         "scran",
         "maxLik",
         "scuttle"
     ],
-    "bayNorm": [],
-    "baySeq": [],
-    "BBCAnalyzer": [],
-    "BCRANK": [],
-    "bcSeq": [],
-    "BDMMAcorrect": [],
-    "beachmat": [],
-    "beadarray": [],
-    "beadarraySNP": [],
-    "BEARscc": [],
     "BEAT": [
         "ShortRead"
     ],
-    "BEclear": [],
     "benchdamic": [
         "Seurat",
         "metagenomeSeq",
@@ -235,24 +154,11 @@
         "uwot",
         "ROI.plugin.lpsolve"
     ],
-    "BgeeCall": [],
-    "BgeeDB": [],
-    "BGmix": [],
-    "bgx": [],
-    "BicARE": [],
-    "BiFET": [],
-    "BiGGR": [],
     "bigmelon": [
         "wateRmelon",
         "lumi",
         "IlluminaHumanMethylation450kanno.ilmn12.hg19"
     ],
-    "bigPint": [],
-    "BindingSiteFinder": [],
-    "bioassayR": [],
-    "Biobase": [],
-    "biobroom": [],
-    "biobtreeR": [],
     "bioCancer": [
         "radiant.data",
         "cgdsr",
@@ -260,58 +166,28 @@
         "ReactomePA",
         "minet"
     ],
-    "BiocCheck": [],
-    "BiocDockerManager": [],
-    "BiocFileCache": [],
-    "biocGraph": [],
-    "BiocIO": [],
-    "BiocNeighbors": [],
     "BiocOncoTK": [
         "curatedTCGAData",
         "ExperimentHub",
         "interactiveDisplayBase"
     ],
-    "BioCor": [],
-    "BiocParallel": [],
-    "BiocPkgTools": [],
-    "BiocSet": [],
-    "BiocSingular": [],
-    "BiocSklearn": [],
-    "BiocStyle": [],
     "biocthis": [],
-    "biocViews": [],
-    "BiocWorkflowTools": [],
-    "biodb": [],
-    "biodbChebi": [],
-    "biodbHmdb": [],
-    "biodbKegg": [],
-    "biodbLipidmaps": [],
-    "biodbUniprot": [],
-    "biomaRt": [],
-    "biomformat": [],
     "BioMM": [
         "readbitmap"
     ],
-    "BioMVCClass": [],
     "biomvRCNS": [],
     "BioNERO": [
         "NetRep",
         "minet"
     ],
-    "BioNet": [],
-    "BioNetStat": [],
-    "BioPlex": [],
     "BioQC": [],
     "biosigner": [
         "ropls"
     ],
-    "Biostrings": [],
     "BioTIP": [],
     "biotmle": [
         "ROCR"
     ],
-    "biovizBase": [],
-    "BiRewire": [],
     "biscuiteer": [
         "biscuiteerData",
         "dmrseq",
@@ -320,19 +196,13 @@
         "interactiveDisplayBase",
         "snowfall"
     ],
-    "BiSeq": [],
-    "BitSeq": [],
     "blacksheepr": [
         "pasilla"
     ],
-    "blima": [],
-    "BLMA": [],
     "BloodGen3Module": [
         "ExperimentHub",
         "interactiveDisplayBase"
     ],
-    "bluster": [],
-    "bnbc": [],
     "bnem": [
         "snowfall",
         "epiNEM",
@@ -341,39 +211,20 @@
         "Linnorm",
         "prabclus"
     ],
-    "BPRMeth": [],
-    "BRAIN": [],
     "brainflowprobes": [
         "derfinderPlot",
         "GenomicState",
         "interactiveDisplayBase"
     ],
-    "BrainSABER": [],
     "branchpointer": [
         "ModelMetrics",
         "recipes"
     ],
-    "breakpointR": [],
-    "brendaDb": [],
-    "BRGenomics": [],
-    "bridge": [],
-    "BridgeDbR": [],
-    "BrowserViz": [],
-    "BSgenome": [],
-    "bsseq": [],
     "BubbleTree": [],
     "BufferedMatrixMethods": [],
-    "bugsigdbr": [],
-    "BUMHMM": [],
-    "bumphunter": [],
-    "BumpyMatrix": [],
     "BUS": [
         "minet"
     ],
-    "BUScorrect": [],
-    "BUSpaRse": [],
-    "BUSseq": [],
-    "CAEN": [],
     "CAFE": [],
     "CAGEfightR": [
         "GenomicInteractions"
@@ -383,8 +234,6 @@
         "NetRep",
         "minet"
     ],
-    "CAGEr": [],
-    "calm": [],
     "CAMERA": [
         "xcms"
     ],
@@ -396,12 +245,9 @@
     "CancerSubtypes": [
         "iCluster"
     ],
-    "CAnD": [],
-    "caOmicsV": [],
     "Cardinal": [
         "matter"
     ],
-    "CARNIVAL": [],
     "casper": [
         "sqldf"
     ],
@@ -413,19 +259,11 @@
         "flowViz",
         "plot3D"
     ],
-    "Category": [],
     "categoryCompare": [],
-    "CausalR": [],
     "cbaf": [
         "cgdsr"
     ],
     "cBioPortalData": [],
-    "cbpManager": [],
-    "ccfindR": [],
-    "ccmap": [],
-    "CCPROMISE": [],
-    "ccrepe": [],
-    "celaref": [],
     "celda": [
         "uwot",
         "MCMCprecision",
@@ -433,12 +271,9 @@
         "scran",
         "scuttle"
     ],
-    "CellaRepertorium": [],
     "CellBarcode": [
         "ShortRead"
     ],
-    "cellbaseR": [],
-    "CellBench": [],
     "cellHTS2": [
         "splots"
     ],
@@ -449,8 +284,6 @@
         "ROCR",
         "uwot"
     ],
-    "cellity": [],
-    "CellMapper": [],
     "cellmigRation": [
         "spBayes"
     ],
@@ -458,10 +291,7 @@
         "scater",
         "scuttle"
     ],
-    "CellNOptR": [],
-    "cellscape": [],
     "CellScore": [],
-    "CellTrails": [],
     "cellTree": [
         "topicmodels",
         "tm"
@@ -476,24 +306,16 @@
         "flowViz",
         "plot3D"
     ],
-    "Cepo": [],
-    "ceRNAnetsim": [],
     "CeTF": [
         "clusterProfiler",
         "gMWT"
     ],
-    "CexoR": [],
-    "cfDNAPro": [],
-    "CGEN": [],
-    "CGHbase": [],
     "CGHcall": [
         "snowfall"
     ],
-    "cghMCR": [],
     "CGHnormaliter": [
         "snowfall"
     ],
-    "CGHregions": [],
     "ChAMP": [
         "DMRcate",
         "IlluminaHumanMethylation450kmanifest",
@@ -505,22 +327,16 @@
         "lumi",
         "interactiveDisplayBase"
     ],
-    "ChemmineOB": [],
-    "ChemmineR": [],
     "ChIC": [
         "spp",
         "ChIC.data",
         "ModelMetrics",
         "recipes"
     ],
-    "Chicago": [],
     "chimeraviz": [],
     "ChIPanalyser": [
         "ROCR"
     ],
-    "ChIPComp": [],
-    "chipenrich": [],
-    "ChIPexoQual": [],
     "ChIPpeakAnno": [],
     "ChIPQC": [
         "DiffBind",
@@ -541,23 +357,17 @@
         "ChIPXpressData",
         "oligoClasses"
     ],
-    "chopsticks": [],
-    "chromDraw": [],
-    "ChromHeatMap": [],
-    "chromPlot": [],
     "ChromSCape": [
         "scran",
         "scater",
         "rlist",
         "scuttle"
     ],
-    "chromstaR": [],
     "chromswitch": [],
     "chromVAR": [
         "nabor",
         "TFBSTools"
     ],
-    "CHRONOS": [],
     "cicero": [],
     "CIMICE": [
         "maftools"
@@ -572,76 +382,41 @@
         "scuttle"
     ],
     "ClassifyR": [],
-    "cleanUpdTSeq": [],
-    "cleaver": [],
-    "clippda": [],
     "clipper": [
         "qpgraph"
     ],
-    "cliProfiler": [],
     "cliqueMS": [
         "xcms"
     ],
-    "Clomial": [],
-    "Clonality": [],
-    "clst": [],
-    "clstutils": [],
     "CluMSID": [],
-    "clustComp": [],
     "clusterExperiment": [
         "mbkmeans",
         "rncl"
     ],
-    "ClusterJudge": [],
     "clusterProfiler": [],
-    "ClusterSignificance": [],
-    "clustifyr": [],
-    "cmapR": [],
     "cn.farms": [
         "oligoClasses"
     ],
-    "cn.mops": [],
-    "CNAnorm": [],
-    "CNEr": [],
-    "CNORdt": [],
-    "CNORfeeder": [],
-    "CNORfuzzy": [],
-    "CNORode": [],
-    "CNTools": [],
     "CNVfilteR": [
         "karyoploteR",
         "CopyNumberPlots"
     ],
-    "CNVgears": [],
-    "cnvGSA": [],
     "CNViz": [
         "karyoploteR",
         "CopyNumberPlots"
     ],
     "CNVRanger": [],
-    "CNVrd2": [],
-    "CoCiteStats": [],
     "COCOA": [
         "MIRA"
     ],
-    "codelink": [],
-    "CODEX": [],
-    "CoGAPS": [],
-    "cogena": [],
-    "Cogito": [],
     "COHCAP": [],
-    "cola": [],
-    "combi": [],
     "coMET": [
         "colortools"
     ],
     "compartmap": [],
-    "COMPASS": [],
     "compcodeR": [
         "ROCR"
     ],
-    "ComplexHeatmap": [],
-    "ComPrAn": [],
     "conclus": [
         "scran",
         "scater",
@@ -660,69 +435,44 @@
         "plot3D"
     ],
     "consensus": [],
-    "ConsensusClusterPlus": [],
     "consensusDE": [
         "EDASeq",
         "RUVSeq",
         "ShortRead"
     ],
-    "consensusOV": [],
-    "consensusSeekeR": [],
-    "contiBAIT": [],
     "conumee": [
         "IlluminaHumanMethylation450kanno.ilmn12.hg19",
         "IlluminaHumanMethylation450kmanifest"
     ],
-    "convert": [],
-    "copynumber": [],
     "CopyNumberPlots": [
         "karyoploteR"
     ],
     "CopywriteR": [
         "ShortRead"
     ],
-    "coRdon": [],
-    "CoRegNet": [],
     "CoreGx": [
         "piano"
     ],
-    "Cormotif": [],
     "corral": [
         "pals",
         "transport"
     ],
-    "CORREP": [],
     "coseq": [
         "HTSCluster"
     ],
     "cosmiq": [
         "xcms"
     ],
-    "cosmosR": [],
-    "countsimQC": [],
-    "covEB": [],
-    "CoverageView": [],
-    "covRNA": [],
-    "cpvSNP": [],
-    "cqn": [],
-    "CRImage": [],
-    "CRISPRseek": [],
     "crisprseekplus": [
         "GUIDEseq",
         "ChIPpeakAnno"
     ],
-    "CrispRVariants": [],
     "crlmm": [
         "oligoClasses"
     ],
     "crossmeta": [
         "oligoClasses"
     ],
-    "CSAR": [],
-    "csaw": [],
-    "csdR": [],
-    "CSSQ": [],
-    "CTDquerier": [],
     "ctgGEM": [
         "sincell",
         "TSCAN"
@@ -731,21 +481,17 @@
         "interactiveDisplayBase",
         "rlist"
     ],
-    "ctsGE": [],
     "cummeRbund": [],
     "customCMPdb": [
         "interactiveDisplayBase"
     ],
-    "customProDB": [],
     "cyanoFilter": [
         "flowDensity",
         "mrfDepth",
         "flowViz",
         "MBA"
     ],
-    "cycle": [],
     "cydar": [],
-    "CytoDx": [],
     "CyTOFpower": [
         "CytoGLMM",
         "diffcyt",
@@ -787,7 +533,6 @@
     "dagLogo": [
         "motifStack"
     ],
-    "DAMEfinder": [],
     "DaMiRseq": [
         "EDASeq",
         "plsVarSel",
@@ -801,9 +546,6 @@
         "rlist",
         "missMDA"
     ],
-    "DART": [],
-    "dasper": [],
-    "dcanr": [],
     "dce": [
         "tidyverse",
         "CombinePValue",
@@ -815,7 +557,6 @@
         "prabclus"
     ],
     "dcGSA": [],
-    "ddCt": [],
     "ddPCRclust": [
         "flowDensity",
         "flowViz",
@@ -828,19 +569,12 @@
         "Harman",
         "mixsqp"
     ],
-    "DECIPHER": [],
     "deco": [
         "made4"
     ],
-    "DEComplexDisease": [],
-    "decompTumor2Sig": [],
-    "DeconRNASeq": [],
-    "decontam": [],
     "deconvR": [
         "methylKit"
     ],
-    "decoupleR": [],
-    "DeepBlueR": [],
     "DeepPINCS": [
         "rcdk",
         "tokenizers",
@@ -849,65 +583,34 @@
         "stopwords",
         "sylly.en"
     ],
-    "deepSNV": [],
-    "DEFormats": [],
-    "DegNorm": [],
-    "DEGraph": [],
     "DEGreport": [
         "lasso2"
     ],
-    "DEGseq": [],
-    "DelayedArray": [],
-    "DelayedDataFrame": [],
-    "DelayedMatrixStats": [],
-    "DelayedRandomArray": [],
-    "DelayedTensor": [],
-    "deltaCaptureC": [],
-    "deltaGseg": [],
-    "DeMAND": [],
-    "DeMixT": [],
-    "densvis": [],
-    "DEP": [],
     "DepecheR": [],
-    "DEqMS": [],
-    "derfinder": [],
-    "derfinderHelper": [],
     "derfinderPlot": [],
     "DEScan2": [
         "ChIPpeakAnno"
     ],
-    "DESeq2": [],
     "DEsingle": [
         "maxLik"
     ],
     "destiny": [
         "VIM"
     ],
-    "DEsubs": [],
-    "DEWSeq": [],
     "DExMA": [
         "swamp"
     ],
-    "DEXSeq": [],
-    "DIAlignR": [],
     "DiffBind": [
         "systemPipeR",
         "mixsqp",
         "ShortRead"
     ],
-    "diffcoexp": [],
     "diffcyt": [
         "FlowSOM",
         "openCyto",
         "flowViz",
         "plot3D"
     ],
-    "diffGeneAnalysis": [],
-    "diffHic": [],
-    "DiffLogo": [],
-    "diffloop": [],
-    "diffuStats": [],
-    "diffUTR": [],
     "diggit": [
         "plot3D"
     ],
@@ -918,20 +621,10 @@
         "ROCR",
         "uwot"
     ],
-    "dir.expiry": [],
-    "Director": [],
-    "DirichletMultinomial": [],
-    "discordant": [],
-    "DiscoRhythm": [],
     "distinct": [
         "scater",
         "scuttle"
     ],
-    "dittoSeq": [],
-    "divergence": [],
-    "DMCFB": [],
-    "DMCHMM": [],
-    "DMRcaller": [],
     "DMRcate": [
         "ExperimentHub",
         "DSS",
@@ -941,7 +634,6 @@
         "interactiveDisplayBase"
     ],
     "DMRforPairs": [],
-    "DMRScan": [],
     "dmrseq": [
         "annotatr",
         "interactiveDisplayBase"
@@ -950,14 +642,6 @@
         "DNABarcodes"
     ],
     "DNABarcodes": [],
-    "DNAshapeR": [],
-    "DominoEffect": [],
-    "doppelgangR": [],
-    "Doscheda": [],
-    "DOSE": [],
-    "doseR": [],
-    "dpeak": [],
-    "drawProteins": [],
     "DRIMSeq": [],
     "DropletUtils": [
         "scuttle"
@@ -967,11 +651,7 @@
         "oligoClasses"
     ],
     "DSS": [],
-    "dStruct": [],
-    "DTA": [],
     "Dune": [],
-    "dupRadar": [],
-    "dyebias": [],
     "easier": [
         "progeny",
         "easierData",
@@ -979,15 +659,9 @@
         "ExperimentHub",
         "interactiveDisplayBase"
     ],
-    "easyreporting": [],
     "easyRNASeq": [
         "ShortRead"
     ],
-    "EBarrays": [],
-    "EBcoexpress": [],
-    "EBImage": [],
-    "EBSEA": [],
-    "EBSeq": [],
     "EBSeqHMM": [],
     "EDASeq": [
         "ShortRead"
@@ -995,19 +669,15 @@
     "edge": [
         "jackstraw"
     ],
-    "edgeR": [],
     "eegc": [
         "clusterProfiler"
     ],
     "EGAD": [],
-    "EGSEA": [],
     "eiR": [
         "snowfall"
     ],
-    "eisaR": [],
     "ELMER": [],
     "EMDomics": [],
-    "EnhancedVolcano": [],
     "enhancerHomologSearch": [
         "motifmatchr",
         "TFBSTools"
@@ -1019,21 +689,11 @@
         "ExperimentHub",
         "interactiveDisplayBase"
     ],
-    "EnrichedHeatmap": [],
-    "EnrichmentBrowser": [],
-    "enrichplot": [],
     "enrichTF": [
         "motifmatchr",
         "TFBSTools",
         "clusterProfiler"
     ],
-    "ensembldb": [],
-    "ensemblVEP": [],
-    "epialleleR": [],
-    "epidecodeR": [],
-    "EpiDISH": [],
-    "epigenomix": [],
-    "epigraHMM": [],
     "epihet": [
         "EntropyExplorer",
         "ReactomePA"
@@ -1046,41 +706,27 @@
         "prabclus"
     ],
     "epistack": [],
-    "EpiTxDb": [],
     "epivizr": [],
-    "epivizrChart": [],
-    "epivizrData": [],
-    "epivizrServer": [],
     "epivizrStandalone": [
         "epivizr"
     ],
     "erccdashboard": [
         "ROCR"
     ],
-    "erma": [],
-    "ERSSA": [],
     "esATAC": [
         "ShortRead",
         "clusterProfiler",
         "TFBSTools",
         "motifmatchr"
     ],
-    "escape": [],
-    "esetVis": [],
-    "eudysbiome": [],
     "evaluomeR": [
         "prabclus"
     ],
-    "EventPointer": [],
     "EWCE": [
         "ewceData",
         "ExperimentHub",
         "interactiveDisplayBase"
     ],
-    "ExCluster": [],
-    "ExiMiR": [],
-    "exomeCopy": [],
-    "exomePeak2": [],
     "ExperimentHub": [
         "interactiveDisplayBase"
     ],
@@ -1095,46 +741,28 @@
         "scuttle"
     ],
     "ExploreModelMatrix": [],
-    "ExpressionAtlas": [],
-    "factDesign": [],
-    "FamAgg": [],
     "famat": [
         "MPINet",
         "rWikiPathways",
         "clusterProfiler"
     ],
-    "farms": [],
-    "fastLiquidAssociation": [],
     "FastqCleaner": [
         "ShortRead"
     ],
-    "fastseg": [],
-    "FCBF": [],
     "fCCAC": [
         "plot3D"
     ],
-    "fCI": [],
     "fcoex": [
         "clusterProfiler"
     ],
-    "fcScan": [],
     "FEAST": [
         "TSCAN",
         "ROCR"
     ],
-    "fedup": [],
-    "FELLA": [],
     "ffpe": [
         "lumi"
     ],
-    "fgga": [],
-    "FGNet": [],
-    "fgsea": [],
-    "FilterFFPE": [],
-    "FindIT2": [],
     "FISHalyseR": [],
-    "fishpond": [],
-    "FitHiC": [],
     "flagme": [
         "xcms"
     ],
@@ -1142,13 +770,10 @@
         "scater",
         "scuttle"
     ],
-    "flowAI": [],
-    "flowBeads": [],
     "flowBin": [
         "flowViz"
     ],
     "flowcatchR": [],
-    "flowCHIC": [],
     "flowCL": [
         "SPARQL"
     ],
@@ -1156,7 +781,6 @@
     "flowClust": [
         "flowViz"
     ],
-    "flowCore": [],
     "flowCut": [
         "flowDensity",
         "flowViz",
@@ -1170,8 +794,6 @@
     "flowFP": [
         "flowViz"
     ],
-    "flowGraph": [],
-    "flowMap": [],
     "flowMatch": [],
     "flowMeans": [
         "plot3D"
@@ -1201,20 +823,13 @@
         "flowViz",
         "plot3D"
     ],
-    "flowWorkspace": [],
     "fmcsR": [],
-    "fmrs": [],
-    "fobitools": [],
-    "FoldGO": [],
-    "FRASER": [],
-    "frenchFISH": [],
     "FRGEpistasis": [
         "plot3D"
     ],
     "frma": [
         "oligoClasses"
     ],
-    "frmaTools": [],
     "FunChIP": [
         "plot3D"
     ],
@@ -1222,13 +837,6 @@
         "IlluminaHumanMethylation450kmanifest",
         "IlluminaHumanMethylation450kanno.ilmn12.hg19"
     ],
-    "GA4GHclient": [],
-    "GA4GHshiny": [],
-    "gaga": [],
-    "gage": [],
-    "gaggle": [],
-    "GAPGOM": [],
-    "GAprediction": [],
     "GARS": [
         "DaMiRseq",
         "MLSeq",
@@ -1242,71 +850,34 @@
     "GateFinder": [
         "flowViz"
     ],
-    "gcapc": [],
     "gcatest": [
         "lfa"
     ],
-    "gCrisprTools": [],
-    "gcrma": [],
-    "GCSConnection": [],
     "GCSscore": [],
     "GDCRNATools": [
         "clusterProfiler"
     ],
-    "GDSArray": [],
-    "GEM": [],
-    "gemini": [],
-    "genArise": [],
-    "genbankr": [],
     "GeneAccord": [
         "maxLik"
     ],
     "GeneAnswers": [],
-    "geneAttribution": [],
     "GeneBreak": [
         "snowfall"
     ],
-    "genefilter": [],
-    "genefu": [],
-    "GeneGA": [],
-    "GeneMeta": [],
-    "GeneNetworkBuilder": [],
     "GeneOverlap": [],
-    "geneplast": [],
-    "geneplotter": [],
-    "GeneRegionScan": [],
-    "geneRxCluster": [],
-    "GeneSelectMMD": [],
-    "GENESIS": [],
     "GeneStructureTools": [],
     "geNetClassifier": [
         "minet"
     ],
-    "GeneticsPed": [],
-    "GeneTonic": [],
     "geneXtendeR": [
         "tm"
     ],
-    "GENIE3": [],
-    "genomation": [],
-    "GenomeInfoDb": [],
-    "genomeIntervals": [],
-    "genomes": [],
-    "GenomicAlignments": [],
-    "GenomicDataCommons": [],
     "GenomicDistributions": [],
-    "GenomicFeatures": [],
-    "GenomicFiles": [],
-    "genomicInstability": [],
     "GenomicInteractions": [],
     "GenomicOZone": [],
-    "GenomicRanges": [],
     "GenomicScores": [
         "interactiveDisplayBase"
     ],
-    "GenomicSuperSignature": [],
-    "GenomicTuples": [],
-    "genotypeeval": [],
     "genphen": [
         "rstan",
         "StanHeaders"
@@ -1317,67 +888,33 @@
     "GeoDiff": [
         "GeomxTools"
     ],
-    "GEOexplorer": [],
-    "GEOfastq": [],
-    "GEOmetadb": [],
     "GeomxTools": [],
-    "GEOquery": [],
-    "GEOsubmission": [],
-    "gep2pep": [],
     "gespeR": [
         "splots"
     ],
-    "getDEE2": [],
-    "geva": [],
-    "GEWIST": [],
-    "ggbio": [],
-    "ggcyto": [],
     "ggmsa": [],
     "GGPA": [],
     "ggspavis": [
         "SpatialExperiment",
         "scuttle"
     ],
-    "ggtree": [],
-    "ggtreeExtra": [],
-    "GIGSEA": [],
     "girafe": [
         "ShortRead"
     ],
     "GISPA": [
         "Rmpfr"
     ],
-    "GLAD": [],
     "GladiaTOX": [
         "RMySQL"
     ],
-    "Glimma": [],
-    "glmGamPoi": [],
     "glmSparseNet": [
         "sparsebn",
         "loose.rock"
     ],
-    "GlobalAncova": [],
-    "globaltest": [],
-    "gmapR": [],
     "GmicR": [],
-    "gmoviz": [],
-    "GMRP": [],
-    "GNET2": [],
-    "GOexpress": [],
-    "GOfuncR": [],
-    "GOpro": [],
-    "goProfiles": [],
-    "GOSemSim": [],
-    "goseq": [],
-    "GOSim": [],
-    "goSTAG": [],
-    "GOstats": [],
-    "GOsummaries": [],
     "GOTHiC": [
         "ShortRead"
     ],
-    "goTools": [],
     "GPA": [],
     "gpart": [],
     "gprege": [
@@ -1386,23 +923,12 @@
     "gpuMagic": [
         "DescTools"
     ],
-    "granulator": [],
     "graper": [],
-    "GraphAT": [],
-    "graphite": [],
     "GraphPAC": [
         "RMallow"
     ],
-    "GRENITS": [],
-    "GreyListChIP": [],
-    "GRmetrics": [],
-    "groHMM": [],
-    "GRridge": [],
-    "GSALightning": [],
-    "GSAR": [],
     "GSCA": [],
     "gscreend": [],
-    "GSEABase": [],
     "GSEABenchmarkeR": [
         "ExperimentHub",
         "interactiveDisplayBase"
@@ -1421,13 +947,9 @@
     "GSRI": [
         "les"
     ],
-    "GSVA": [],
-    "gtrellis": [],
     "GUIDEseq": [
         "ChIPpeakAnno"
     ],
-    "Guitar": [],
-    "Gviz": [],
     "GWAS.BAYES": [
         "ModelMetrics",
         "recipes"
@@ -1435,47 +957,22 @@
     "gwascat": [
         "interactiveDisplayBase"
     ],
-    "GWASTools": [],
-    "gwasurvivr": [],
     "GWENA": [
         "NetRep",
         "rlist"
     ],
-    "h5vc": [],
     "Harman": [],
-    "Harshlight": [],
-    "hca": [],
-    "HDF5Array": [],
-    "HDTD": [],
-    "heatmaps": [],
-    "Heatplus": [],
-    "HelloRanges": [],
-    "HGC": [],
-    "hiAnnotator": [],
-    "HIBAG": [],
     "HiCcompare": [
         "snowfall"
     ],
     "HiCDCPlus": [
         "GenomicInteractions"
     ],
-    "hierGWAS": [],
-    "hierinf": [],
-    "HilbertCurve": [],
-    "HilbertVis": [],
-    "HilbertVisGUI": [],
     "HiLDA": [],
     "hipathia": [
         "interactiveDisplayBase"
     ],
-    "HIPPO": [],
-    "hiReadsProcessor": [],
     "HIREewas": [],
-    "HiTC": [],
-    "hmdbQuery": [],
-    "HMMcopy": [],
-    "HPAanalyze": [],
-    "HPAStainR": [],
     "HPiP": [
         "ModelMetrics",
         "recipes"
@@ -1484,52 +981,30 @@
     "HTSeqGenie": [
         "ShortRead"
     ],
-    "HTSFilter": [],
     "HubPub": [
         "biocthis",
         "tokenizers"
     ],
-    "HumanTranscriptomeCompendium": [],
-    "hummingbird": [],
-    "HybridMTest": [],
-    "hypeR": [],
-    "hyperdraw": [],
-    "iBBiG": [],
-    "ibh": [],
-    "iBMQ": [],
-    "iCARE": [],
-    "Icens": [],
     "icetea": [
         "ShortRead"
     ],
     "iCheck": [
         "lumi"
     ],
-    "iChip": [],
-    "iCNV": [],
     "iCOBRA": [
         "ROCR"
     ],
     "ideal": [],
-    "IdeoViz": [],
-    "idiogram": [],
-    "idpr": [],
-    "idr2d": [],
-    "iGC": [],
     "IgGeneUsage": [
         "StanHeaders",
         "rstan"
     ],
-    "igvR": [],
-    "IHW": [],
-    "illuminaio": [],
     "ILoReg": [
         "DescTools"
     ],
     "imageHTS": [
         "splots"
     ],
-    "IMAS": [],
     "imcRtools": [
         "SpatialExperiment",
         "scuttle",
@@ -1540,27 +1015,15 @@
     ],
     "ImmuneSpaceR": [],
     "immunoClust": [],
-    "immunotation": [],
-    "IMPCdata": [],
-    "INDEED": [],
-    "infercnv": [],
     "infinityFlow": [
         "uwot"
     ],
     "Informeasure": [],
-    "InPAS": [],
-    "INPower": [],
-    "INSPEcT": [],
-    "InTAD": [],
     "intansv": [],
-    "interacCircos": [],
-    "InteractionSet": [],
-    "InteractiveComplexHeatmap": [],
     "interactiveDisplay": [
         "interactiveDisplayBase"
     ],
     "interactiveDisplayBase": [],
-    "InterCellar": [],
     "IntEREst": [
         "RMySQL"
     ],
@@ -1568,11 +1031,9 @@
         "sqldf"
     ],
     "IntramiRExploreR": [],
-    "inveRsion": [],
     "IONiseR": [
         "ShortRead"
     ],
-    "iPAC": [],
     "iPath": [],
     "ipdDb": [
         "interactiveDisplayBase"
@@ -1581,7 +1042,6 @@
         "xcms",
         "rsm"
     ],
-    "IRanges": [],
     "IRISFGM": [
         "Polychrome",
         "DEsingle",
@@ -1595,11 +1055,7 @@
         "uwot"
     ],
     "ISAnalytics": [],
-    "iSEE": [],
     "iSEEu": [],
-    "isobar": [],
-    "IsoCorrectoR": [],
-    "IsoCorrectoRGUI": [],
     "IsoformSwitchAnalyzeR": [
         "DRIMSeq",
         "tximeta",
@@ -1619,21 +1075,10 @@
         "pd.mapping50k.xba240",
         "oligoClasses"
     ],
-    "iterativeBMA": [],
-    "iterativeBMAsurv": [],
-    "iteremoval": [],
-    "IVAS": [],
-    "ivygapSE": [],
     "IWTomics": [
         "plot3D"
     ],
     "karyoploteR": [],
-    "KCsmart": [],
-    "kebabs": [],
-    "KEGGgraph": [],
-    "KEGGlincs": [],
-    "keggorthology": [],
-    "KEGGREST": [],
     "KinSwingR": [
         "sqldf"
     ],
@@ -1650,44 +1095,30 @@
         "plot3D",
         "ROCR"
     ],
-    "lefser": [],
     "les": [],
     "levi": [],
     "lfa": [],
     "limmaGUI": [],
     "LineagePulse": [],
-    "LinkHD": [],
     "Linnorm": [
         "prabclus"
     ],
-    "lionessR": [],
     "lipidr": [
         "ropls"
     ],
-    "LiquidAssociation": [],
-    "lisaClust": [],
-    "lmdme": [],
     "LOBSTAHS": [
         "xcms"
     ],
     "loci2path": [],
-    "logicFS": [],
-    "logitT": [],
-    "LOLA": [],
-    "LoomExperiment": [],
     "LowMACA": [
         "cgdsr",
         "motifStack"
     ],
-    "lpNet": [],
-    "LRBaseDbi": [],
     "LRcell": [
         "ExperimentHub",
         "interactiveDisplayBase"
     ],
     "lumi": [],
-    "LymphoSeq": [],
-    "M3C": [],
     "M3Drop": [
         "rstan",
         "StanHeaders"
@@ -1701,7 +1132,6 @@
     "Maaslin2": [
         "metagenomeSeq"
     ],
-    "macat": [],
     "MACPET": [
         "ShortRead"
     ],
@@ -1711,7 +1141,6 @@
         "interactiveDisplayBase"
     ],
     "made4": [],
-    "MADSEQ": [],
     "maftools": [],
     "MAGAR": [
         "RnBeads",
@@ -1727,13 +1156,11 @@
         "ModelMetrics",
         "recipes"
     ],
-    "maigesPack": [],
     "MAIT": [
         "xcms",
         "ModelMetrics",
         "recipes"
     ],
-    "makecdfenv": [],
     "MANOR": [],
     "mAPKL": [
         "clusterSim"
@@ -1743,33 +1170,19 @@
         "ModelMetrics",
         "recipes"
     ],
-    "mapscape": [],
-    "marr": [],
-    "martini": [],
     "maser": [],
-    "maSigPro": [],
-    "maskBAD": [],
     "massiR": [],
-    "MassSpecWavelet": [],
-    "MAST": [],
-    "MatrixGenerics": [],
-    "MatrixQCvis": [],
     "MatrixRider": [
         "TFBSTools"
     ],
     "matter": [],
     "MBASED": [],
-    "MBCB": [],
     "mbkmeans": [],
     "mBPCR": [
         "oligoClasses"
     ],
-    "MBQN": [],
     "MBttest": [],
-    "MCbiclust": [],
     "mCSEA": [],
-    "mdp": [],
-    "MDTS": [],
     "MEAL": [
         "missMethyl",
         "IlluminaHumanMethylation450kanno.ilmn12.hg19",
@@ -1780,24 +1193,15 @@
         "lumi",
         "IlluminaHumanMethylation450kanno.ilmn12.hg19"
     ],
-    "MEB": [],
-    "MEDIPS": [],
-    "MEDME": [],
-    "megadepth": [],
     "MEIGOR": [
         "snowfall"
     ],
     "Melissa": [
         "ROCR"
     ],
-    "memes": [],
-    "MeSHDbi": [],
     "meshes": [
         "interactiveDisplayBase"
     ],
-    "meshr": [],
-    "MesKit": [],
-    "messina": [],
     "Metab": [
         "xcms"
     ],
@@ -1805,8 +1209,6 @@
         "ModelMetrics",
         "recipes"
     ],
-    "MetaboCoreUtils": [],
-    "metabolomicsWorkbenchR": [],
     "metabomxtr": [
         "optimx"
     ],
@@ -1822,14 +1224,12 @@
     "metagene": [
         "muStat"
     ],
-    "metagene2": [],
     "metagenomeSeq": [],
     "metaMS": [
         "xcms"
     ],
     "MetaNeighbor": [],
     "metapone": [],
-    "metaSeq": [],
     "metaseqR2": [
         "DSS",
         "EDASeq",
@@ -1841,22 +1241,17 @@
         "epivizrStandalone"
     ],
     "MetaVolcanoR": [],
-    "MetCirc": [],
-    "methimpute": [],
     "methInheritSim": [
         "methylKit"
     ],
-    "MethPed": [],
     "MethReg": [
         "sesameData",
         "ExperimentHub",
         "interactiveDisplayBase"
     ],
-    "methrix": [],
     "MethTargetedNGS": [],
     "MethylAid": [],
     "methylCC": [
-        "FlowSorted.Blood.450k",
         "IlluminaHumanMethylation450kmanifest",
         "IlluminaHumanMethylation450kanno.ilmn12.hg19"
     ],
@@ -1876,25 +1271,16 @@
     ],
     "methylInheritance": [
         "methylKit",
-        "rebus.datetimes",
         "rebus.numbers",
         "rebus.unicode"
     ],
     "methylKit": [],
-    "MethylMix": [],
-    "methylMnM": [],
     "methylscaper": [],
-    "MethylSeekR": [],
     "methylSig": [
         "DSS"
     ],
-    "methylumi": [],
     "MetID": [],
     "MetNet": [],
-    "mfa": [],
-    "Mfuzz": [],
-    "MGFM": [],
-    "MGFR": [],
     "mgsa": [],
     "mia": [
         "TreeSummarizedExperiment",
@@ -1923,33 +1309,19 @@
     "MicrobiomeProfiler": [
         "clusterProfiler"
     ],
-    "MicrobiotaProcess": [],
-    "microRNA": [],
-    "midasHLA": [],
-    "MIGSA": [],
     "miloR": [],
     "mimager": [
         "oligoClasses"
     ],
-    "MIMOSA": [],
-    "mina": [],
     "MineICA": [
         "lumi",
         "prabclus"
     ],
     "minet": [],
-    "minfi": [],
     "MinimumDistance": [
         "oligoClasses"
     ],
-    "MiPP": [],
-    "miQC": [],
     "MIRA": [],
-    "MiRaGE": [],
-    "mirIntegrator": [],
-    "miRLAB": [],
-    "miRmine": [],
-    "miRNAmeConverter": [],
     "miRNAtap": [
         "sqldf"
     ],
@@ -1969,26 +1341,20 @@
         "IlluminaHumanMethylation450kanno.ilmn12.hg19",
         "IlluminaHumanMethylation450kmanifest"
     ],
-    "missRows": [],
     "mistyR": [
         "rlist",
         "ModelMetrics",
         "recipes"
     ],
     "mitch": [],
-    "mitoClone2": [],
-    "mixOmics": [],
     "MLInterfaces": [
         "prabclus"
     ],
-    "MLP": [],
     "MLSeq": [
         "sSeq",
         "ModelMetrics",
         "recipes"
     ],
-    "MMAPPR2": [],
-    "MMDiff2": [],
     "MMUPHin": [
         "Maaslin2",
         "prabclus",
@@ -1999,29 +1365,20 @@
         "Linnorm",
         "prabclus"
     ],
-    "moanin": [],
-    "MODA": [],
     "ModCon": [],
-    "Modstrings": [],
     "MOFA2": [
         "uwot"
     ],
-    "mogsa": [],
-    "MOMA": [],
     "monaLisa": [
         "TFBSTools"
     ],
     "MoonlightR": [
         "clusterProfiler"
     ],
-    "mosaics": [],
     "mosbi": [],
-    "MOSim": [],
     "motifbreakR": [
         "motifStack"
     ],
-    "motifcounter": [],
-    "MotifDb": [],
     "motifmatchr": [
         "TFBSTools"
     ],
@@ -2029,10 +1386,7 @@
     "MouseFM": [
         "rlist"
     ],
-    "mpra": [],
     "MPRAnalyze": [],
-    "MQmetrics": [],
-    "msa": [],
     "MsBackendMassbank": [
         "Spectra"
     ],
@@ -2042,8 +1396,6 @@
     "MsBackendRawFileReader": [
         "Spectra"
     ],
-    "MsCoreUtils": [],
-    "MsFeatures": [],
     "msgbsR": [
         "ShortRead"
     ],
@@ -2059,7 +1411,6 @@
     "msmsTests": [
         "msmsEDA"
     ],
-    "MSnbase": [],
     "MSnID": [
         "msmsTests",
         "interactiveDisplayBase",
@@ -2068,16 +1419,12 @@
     "MSPrep": [
         "VIM"
     ],
-    "msPurity": [],
     "msqrob2": [],
-    "MSstats": [],
-    "MSstatsConvert": [],
     "MSstatsLiP": [
         "MSstatsPTM",
         "tidyverse",
         "MSstatsTMT"
     ],
-    "MSstatsLOBD": [],
     "MSstatsPTM": [
         "MSstatsTMT"
     ],
@@ -2093,26 +1440,19 @@
         "recipes"
     ],
     "MSstatsTMT": [],
-    "Mulcom": [],
-    "MultiAssayExperiment": [],
     "MultiBaC": [
         "ropls"
     ],
-    "multiClust": [],
     "multicrispr": [
         "karyoploteR",
         "assertive.sets",
         "assertive.models",
         "assertive.reflection"
     ],
-    "MultiDataSet": [],
-    "multiGSEA": [],
     "multiHiCcompare": [
         "HiCcompare",
         "snowfall"
     ],
-    "multiMiR": [],
-    "multiOmicsViz": [],
     "multiSight": [
         "clusterProfiler",
         "rWikiPathways",
@@ -2121,19 +1461,16 @@
         "ModelMetrics",
         "recipes"
     ],
-    "multtest": [],
     "mumosa": [
         "scuttle",
         "scran",
         "uwot"
     ],
-    "MungeSumstats": [],
     "muscat": [
         "scater",
         "scuttle",
         "variancePartition"
     ],
-    "muscle": [],
     "musicatk": [
         "MCMCprecision",
         "uwot",
@@ -2141,14 +1478,9 @@
         "maftools",
         "tm"
     ],
-    "MutationalPatterns": [],
-    "MWASTools": [],
     "mygene": [
         "sqldf"
     ],
-    "myvariant": [],
-    "mzID": [],
-    "mzR": [],
     "NADfinder": [
         "trackViewer",
         "ATACseqQC",
@@ -2158,23 +1490,16 @@
         "interactiveDisplayBase"
     ],
     "NanoMethViz": [],
-    "NanoStringDiff": [],
-    "NanoStringNCTools": [],
-    "NanoStringQCPro": [],
     "nanotatoR": [
         "tidyverse"
     ],
     "NanoTube": [],
-    "NBAMSeq": [],
     "NBSplice": [
         "mppa"
     ],
     "ncGTW": [
         "xcms"
     ],
-    "NCIgraph": [],
-    "ncRNAtools": [],
-    "ndexr": [],
     "nearBynding": [
         "transport"
     ],
@@ -2184,7 +1509,6 @@
         "ROCR",
         "uwot"
     ],
-    "NeighborNet": [],
     "nempi": [
         "mnem",
         "epiNEM",
@@ -2193,8 +1517,6 @@
         "Linnorm",
         "prabclus"
     ],
-    "netbiov": [],
-    "netboost": [],
     "netboxr": [
         "clusterProfiler"
     ],
@@ -2207,13 +1529,10 @@
     "netOmics": [
         "minet"
     ],
-    "NetPathMiner": [],
-    "netprioR": [],
     "netresponse": [
         "minet",
         "dmt"
     ],
-    "NetSAM": [],
     "netSmooth": [
         "scater",
         "clusterExperiment",
@@ -2222,28 +1541,21 @@
         "rncl"
     ],
     "networkBMA": [],
-    "NeuCA": [],
     "NewWave": [
         "SharedObject"
     ],
     "ngsReports": [],
     "nnNorm": [],
-    "NOISeq": [],
     "nondetects": [
         "HTqPCR"
     ],
     "NoRCE": [
         "rWikiPathways"
     ],
-    "normalize450K": [],
-    "NormalyzerDE": [],
     "NormqPCR": [
         "ReadqPCR"
     ],
-    "normr": [],
     "NPARC": [],
-    "npGSEA": [],
-    "NTW": [],
     "nucleR": [
         "ShortRead"
     ],
@@ -2255,21 +1567,14 @@
         "interactiveDisplayBase",
         "ExperimentHub"
     ],
-    "OCplus": [],
     "ODER": [],
-    "odseq": [],
     "oligo": [
         "oligoClasses"
     ],
     "oligoClasses": [],
-    "OLIN": [],
-    "OLINgui": [],
-    "OmaDB": [],
     "omicade4": [
         "made4"
     ],
-    "OmicCircos": [],
-    "omicplotR": [],
     "omicRexposome": [
         "omicade4",
         "made4"
@@ -2278,14 +1583,7 @@
     "OMICsPCA": [
         "prabclus"
     ],
-    "omicsPrint": [],
-    "Omixer": [],
-    "OmnipathR": [],
-    "oncomix": [],
-    "OncoScore": [],
-    "OncoSimulR": [],
     "oneSENSE": [],
-    "onlineFDR": [],
     "ontoProc": [
         "interactiveDisplayBase"
     ],
@@ -2293,66 +1591,36 @@
         "flowViz",
         "plot3D"
     ],
-    "openPrimeR": [],
-    "openPrimeRui": [],
     "OpenStats": [
         "rlist",
         "summarytools"
     ],
-    "oposSOM": [],
-    "oppar": [],
-    "oppti": [],
     "optimalFlow": [
         "transport",
         "plot3D"
     ],
-    "OPWeight": [],
-    "OrderedList": [],
-    "ORFhunteR": [],
-    "ORFik": [],
-    "Organism.dplyr": [],
-    "OrganismDbi": [],
     "orthogene": [],
     "OTUbase": [
         "ShortRead"
     ],
-    "OUTRIDER": [],
     "OVESEG": [],
     "PAA": [
         "ROCR"
     ],
-    "packFinder": [],
     "padma": [],
-    "PADOG": [],
     "pageRank": [
         "motifmatchr",
         "TFBSTools"
     ],
     "PAIRADISE": [],
-    "pairkat": [],
-    "pandaR": [],
-    "panelcn.mops": [],
-    "panp": [],
-    "PANR": [],
     "PanVizGenerator": [
         "FindMyFriends"
     ],
-    "parglms": [],
-    "PAST": [],
-    "Path2PPI": [],
-    "pathifier": [],
     "PathoStat": [
         "ROCR"
     ],
-    "pathRender": [],
-    "pathVar": [],
-    "pathview": [],
-    "pathwayPCA": [],
-    "paxtoolsr": [],
-    "pcaExplorer": [],
     "PCAN": [],
     "PCAtools": [],
-    "pcxn": [],
     "PDATK": [
         "piano",
         "ModelMetrics",
@@ -2372,14 +1640,9 @@
         "scuttle"
     ],
     "pengls": [],
-    "PepsNMR": [],
-    "pepStat": [],
-    "PERFect": [],
-    "periodicDNA": [],
     "PFP": [
         "clusterProfiler"
     ],
-    "phantasus": [],
     "PharmacoGx": [
         "piano"
     ],
@@ -2390,19 +1653,12 @@
         "ROCR",
         "uwot"
     ],
-    "PhenoGeneRanker": [],
-    "phenopath": [],
-    "phenoTest": [],
-    "PhenStat": [],
-    "philr": [],
     "PhIPData": [],
-    "phosphonormalizer": [],
     "PhosR": [],
     "PhyloProfile": [
         "ExperimentHub",
         "interactiveDisplayBase"
     ],
-    "phyloseq": [],
     "Pi": [
         "ROCR",
         "plot3D",
@@ -2410,7 +1666,6 @@
         "recipes"
     ],
     "piano": [],
-    "PICS": [],
     "Pigengene": [
         "clusterProfiler",
         "ReactomePA"
@@ -2426,35 +1681,22 @@
         "scuttle",
         "ROCR"
     ],
-    "pipeFrame": [],
-    "planet": [],
     "plethy": [
         "Streamer"
     ],
-    "plier": [],
-    "PloGO2": [],
-    "plotgardener": [],
-    "plotGrouper": [],
-    "plyranges": [],
-    "pmm": [],
     "pmp": [],
     "PoDCall": [
         "rlist"
     ],
-    "podkat": [],
     "pogos": [
         "ontoProc",
         "interactiveDisplayBase"
     ],
-    "polyester": [],
     "POMA": [
         "ModelMetrics",
         "recipes",
         "Rmpfr"
     ],
-    "PoTRA": [],
-    "powerTCR": [],
-    "POWSC": [],
     "ppcseq": [
         "rstan",
         "StanHeaders"
@@ -2462,10 +1704,7 @@
     "PPInfer": [
         "sqldf"
     ],
-    "ppiStats": [],
     "pqsfinder": [],
-    "pram": [],
-    "prebs": [],
     "preciseTAD": [
         "ModelMetrics",
         "recipes"
@@ -2473,7 +1712,6 @@
     "PrecisionTrialDrawer": [
         "cgdsr"
     ],
-    "PREDA": [],
     "predictionet": [],
     "primirTSS": [
         "phastCons100way.UCSC.hg38",
@@ -2481,13 +1719,6 @@
         "TFBSTools",
         "interactiveDisplayBase"
     ],
-    "PrInCE": [],
-    "proActiv": [],
-    "proBAMr": [],
-    "proBatch": [],
-    "PROcess": [],
-    "procoil": [],
-    "proDA": [],
     "proFIA": [
         "xcms",
         "ropls"
@@ -2513,9 +1744,7 @@
         "recipes",
         "prabclus"
     ],
-    "PROMISE": [],
     "PROPER": [],
-    "PROPS": [],
     "Prostar": [
         "DAPAR",
         "clusterProfiler",
@@ -2523,32 +1752,22 @@
         "rlist",
         "missMDA"
     ],
-    "ProteoDisco": [],
     "ProteomicsAnnotationHubData": [
         "AnnotationHubData",
         "interactiveDisplayBase"
     ],
-    "ProteoMM": [],
     "psichomics": [
         "recount",
         "interactiveDisplayBase",
         "rlist"
     ],
-    "PSICQUIC": [],
-    "psygenet2r": [],
-    "ptairMS": [],
-    "PubScore": [],
     "pulsedSilac": [
         "taRifx"
     ],
     "puma": [
         "oligoClasses"
     ],
-    "PureCN": [],
-    "pvac": [],
-    "pvca": [],
     "Pviz": [],
-    "PWMEnrich": [],
     "pwOmics": [
         "rBiopaxParser",
         "interactiveDisplayBase",
@@ -2559,33 +1778,21 @@
         "ExperimentHub",
         "interactiveDisplayBase"
     ],
-    "qckitfastq": [],
     "qcmetrics": [],
     "QDNAseq": [
         "snowfall"
     ],
-    "QFeatures": [],
-    "qpcrNorm": [],
     "qpgraph": [],
     "qPLEXanalyzer": [],
     "qrqc": [],
     "qsea": [],
-    "qsmooth": [],
-    "QSutils": [],
-    "Qtlizer": [],
-    "quantiseqr": [],
-    "quantro": [],
-    "quantsmooth": [],
     "QuartPAC": [
         "RMallow"
     ],
     "QuasR": [
         "ShortRead"
     ],
-    "QuaternaryProd": [],
-    "QUBIC": [],
     "qusage": [],
-    "qvalue": [],
     "R3CPET": [],
     "r3Cseq": [
         "sqldf"
@@ -2593,18 +1800,12 @@
     "R453Plus1Toolbox": [
         "ShortRead"
     ],
-    "R4RNA": [],
     "RadioGx": [
         "piano"
     ],
-    "RaggedExperiment": [],
-    "rain": [],
     "ramr": [
         "optimx"
     ],
-    "ramwas": [],
-    "RandomWalkRestartMH": [],
-    "randRotation": [],
     "RankProd": [
         "Rmpfr"
     ],
@@ -2613,59 +1814,36 @@
         "GenomicScores",
         "interactiveDisplayBase"
     ],
-    "RbcBook1": [],
     "Rbec": [
         "ShortRead"
     ],
-    "RBGL": [],
     "rBiopaxParser": [],
-    "RBM": [],
-    "Rbowtie2": [],
-    "rbsurv": [],
-    "Rcade": [],
-    "RCAS": [],
     "rcellminer": [],
-    "rCGH": [],
     "RcisTarget": [],
     "RCM": [],
     "Rcpi": [
         "fmcsR",
         "rcdk"
     ],
-    "RCSL": [],
     "Rcwl": [],
     "RcwlPipelines": [
         "Rcwl"
     ],
-    "RCy3": [],
     "RCyjs": [],
-    "rDGIdb": [],
-    "RDRToolbox": [],
-    "ReactomeContentService4R": [],
     "ReactomeGraph4R": [],
     "ReactomeGSA": [],
     "ReactomePA": [],
     "ReadqPCR": [],
-    "REBET": [],
-    "rebook": [],
-    "receptLoss": [],
     "recount": [],
-    "recount3": [],
     "recountmethylation": [
         "IlluminaHumanMethylation450kmanifest"
     ],
-    "recoup": [],
-    "RedeR": [],
     "REDseq": [
         "ChIPpeakAnno"
     ],
-    "RefPlus": [],
-    "RegEnrich": [],
-    "regioneR": [],
     "regionReport": [
         "RefManageR"
     ],
-    "regsplice": [],
     "regutools": [
         "interactiveDisplayBase"
     ],
@@ -2674,20 +1852,11 @@
         "ModelMetrics",
         "recipes"
     ],
-    "Repitools": [],
     "ReportingTools": [],
-    "RepViz": [],
-    "ReQON": [],
-    "ResidualMatrix": [],
     "restfulSE": [
         "ExperimentHub",
         "interactiveDisplayBase"
     ],
-    "rexposome": [],
-    "rfaRm": [],
-    "Rfastp": [],
-    "rfPred": [],
-    "rGADEM": [],
     "RGalaxy": [],
     "rGenomeTracks": [
         "rGenomeTracksData",
@@ -2695,15 +1864,6 @@
         "interactiveDisplayBase"
     ],
     "Rgin": [],
-    "RGMQL": [],
-    "RGraph2js": [],
-    "Rgraphviz": [],
-    "rGREAT": [],
-    "rgsepd": [],
-    "rhdf5": [],
-    "rhdf5client": [],
-    "Rhisat2": [],
-    "Rhtslib": [],
     "RiboCrypt": [],
     "RiboDiPA": [
         "rstan",
@@ -2712,8 +1872,6 @@
     "RiboProfiling": [
         "sqldf"
     ],
-    "ribor": [],
-    "riboSeqR": [],
     "ribosomeProfilingQC": [
         "EDASeq",
         "motifStack",
@@ -2723,7 +1881,6 @@
     "RImmPort": [
         "sqldf"
     ],
-    "Ringo": [],
     "RIPAT": [
         "karyoploteR"
     ],
@@ -2733,9 +1890,6 @@
     "RITAN": [
         "sqldf"
     ],
-    "RIVER": [],
-    "RJMCMCNucleosomes": [],
-    "RLassoCox": [],
     "RLSeq": [
         "valr",
         "RLHub",
@@ -2744,17 +1898,13 @@
         "ModelMetrics",
         "recipes"
     ],
-    "Rmagpie": [],
     "RMassBank": [
         "rcdk"
     ],
-    "Rmmquant": [],
-    "rmspc": [],
     "RNAAgeCalc": [
         "recount"
     ],
     "RNAdecay": [],
-    "rnaEditr": [],
     "RNAinteract": [
         "splots"
     ],
@@ -2773,7 +1923,6 @@
         "RNAmodR",
         "ROCR"
     ],
-    "RNAsense": [],
     "rnaseqcomp": [],
     "RNASeqR": [
         "systemPipeR",
@@ -2784,40 +1933,19 @@
         "RnaSeqSampleSizeData"
     ],
     "RnBeads": [],
-    "Rnits": [],
-    "roar": [],
-    "ROC": [],
-    "ROCpAI": [],
-    "rols": [],
-    "ROntoTools": [],
     "ropls": [],
-    "ROTS": [],
-    "RPA": [],
-    "RpsiXML": [],
-    "rpx": [],
     "Rqc": [
         "ShortRead"
     ],
     "rqt": [
         "ropls"
     ],
-    "rqubic": [],
-    "rRDP": [],
-    "RRHO": [],
     "rrvgo": [
         "tm"
     ],
-    "Rsamtools": [],
-    "rScudo": [],
-    "rsemmed": [],
-    "RSeqAn": [],
-    "Rsubread": [],
     "RSVSim": [
         "ShortRead"
     ],
-    "RTCA": [],
-    "RTCGA": [],
-    "RTCGAToolbox": [],
     "RTN": [
         "minet"
     ],
@@ -2828,13 +1956,6 @@
         "RTNduals",
         "minet"
     ],
-    "RTopper": [],
-    "Rtpca": [],
-    "rtracklayer": [],
-    "Rtreemix": [],
-    "rTRM": [],
-    "rTRMui": [],
-    "runibic": [],
     "RUVcorr": [
         "snowfall"
     ],
@@ -2844,22 +1965,10 @@
     ],
     "RVS": [],
     "rWikiPathways": [],
-    "safe": [],
-    "SAIGEgds": [],
-    "sampleClassifier": [],
-    "sangeranalyseR": [],
-    "sangerseqR": [],
-    "SANTA": [],
-    "sarks": [],
     "satuRn": [],
-    "savR": [],
-    "SBGNview": [],
-    "SBMLR": [],
     "SC3": [
         "ROCR"
     ],
-    "Scale4C": [],
-    "ScaledMatrix": [],
     "scAlign": [
         "Seurat",
         "ROCR",
@@ -2883,7 +1992,6 @@
         "uwot"
     ],
     "SCANVIS": [],
-    "SCArray": [],
     "SCATE": [
         "SCATEData",
         "ExperimentHub",
@@ -2892,7 +2000,6 @@
     "scater": [
         "scuttle"
     ],
-    "scatterHatch": [],
     "scBFA": [
         "Seurat",
         "ROCR",
@@ -2911,7 +2018,6 @@
         "recipes",
         "uwot"
     ],
-    "scClassify": [],
     "scDataviz": [
         "Seurat",
         "ROCR",
@@ -2929,9 +2035,7 @@
     "scde": [
         "extRemes"
     ],
-    "scds": [],
     "SCFA": [],
-    "scFeatureFilter": [],
     "scGPS": [
         "ModelMetrics",
         "recipes"
@@ -2968,8 +2072,6 @@
     "SCOPE": [
         "DescTools"
     ],
-    "scoreInvHap": [],
-    "scp": [],
     "scPCA": [
         "sparsepca"
     ],
@@ -2980,9 +2082,7 @@
     "scran": [
         "scuttle"
     ],
-    "scReClassify": [],
     "scRecover": [],
-    "scRepertoire": [],
     "scruff": [
         "ShortRead"
     ],
@@ -3012,8 +2112,6 @@
         "uwot"
     ],
     "scuttle": [],
-    "SDAMS": [],
-    "sechm": [],
     "segmenter": [],
     "segmentSeq": [
         "ShortRead"
@@ -3021,34 +2119,20 @@
     "selectKSigs": [
         "HiLDA"
     ],
-    "SELEX": [],
-    "SemDist": [],
     "SEPIRA": [],
-    "seq2pathway": [],
-    "SeqArray": [],
-    "seqbias": [],
-    "seqCAT": [],
     "seqCNA": [],
-    "seqcombo": [],
-    "SeqGate": [],
-    "SeqGSEA": [],
-    "seqPattern": [],
     "seqsetvis": [],
     "SeqSQC": [
         "ExperimentHub",
         "interactiveDisplayBase"
     ],
-    "seqTools": [],
-    "SeqVarTools": [],
     "sesame": [
         "sesameData",
         "ExperimentHub",
         "interactiveDisplayBase"
     ],
-    "SEtools": [],
     "sevenbridges": [],
     "sevenC": [],
-    "SGSeq": [],
     "SharedObject": [],
     "shinyepico": [],
     "shinyMethyl": [
@@ -3060,10 +2144,6 @@
     "SigCheck": [
         "prabclus"
     ],
-    "sigFeature": [],
-    "SigFuge": [],
-    "siggenes": [],
-    "sights": [],
     "signatureSearch": [
         "ExperimentHub",
         "clusterProfiler",
@@ -3072,19 +2152,12 @@
     "signeR": [
         "Rmpfr"
     ],
-    "SigsPack": [],
-    "sigsquared": [],
-    "SIM": [],
-    "SIMAT": [],
-    "SimBindProfiles": [],
-    "SIMD": [],
     "SimFFPE": [],
     "SIMLR": [],
     "simplifyEnrichment": [
         "tm"
     ],
     "sincell": [],
-    "SingleCellExperiment": [],
     "SingleCellSignalR": [
         "SIMLR",
         "scran",
@@ -3116,35 +2189,21 @@
         "ShortRead"
     ],
     "SingleR": [],
-    "singscore": [],
-    "SISPA": [],
-    "sitadela": [],
-    "sitePath": [],
     "skewr": [
         "wateRmelon",
         "IlluminaHumanMethylation450kmanifest",
         "lumi",
         "IlluminaHumanMethylation450kanno.ilmn12.hg19"
     ],
-    "slalom": [],
     "SLGI": [
         "ScISI"
     ],
-    "slingshot": [],
     "slinky": [],
     "SMAD": [],
     "SMITE": [],
-    "SNAGEE": [],
     "snapCGH": [
         "strucchange"
     ],
-    "snapcount": [],
-    "snifter": [],
-    "snm": [],
-    "SNPediaR": [],
-    "SNPhood": [],
-    "SNPRelate": [],
-    "snpStats": [],
     "soGGi": [
         "ShortRead"
     ],
@@ -3152,8 +2211,6 @@
         "sampSurf"
     ],
     "SomaticSignatures": [],
-    "SOMNiBUS": [],
-    "SpacePAC": [],
     "Spaniel": [
         "Seurat",
         "scater",
@@ -3162,10 +2219,6 @@
         "ROCR",
         "uwot"
     ],
-    "sparrow": [],
-    "sparseDOSSA": [],
-    "sparsenetgls": [],
-    "SparseSignatures": [],
     "spatialDE": [
         "SpatialExperiment",
         "scuttle"
@@ -3185,16 +2238,11 @@
         "motifmatchr",
         "TFBSTools"
     ],
-    "specL": [],
-    "SpeCond": [],
     "Spectra": [],
     "SpectralTAD": [
         "HiCcompare",
         "snowfall"
     ],
-    "SPEM": [],
-    "SPIA": [],
-    "spicyR": [],
     "SpidermiR": [
         "miRNAtap.db",
         "MAGeCKFlute",
@@ -3208,29 +2256,21 @@
         "scater",
         "scuttle"
     ],
-    "SplicingFactory": [],
-    "SplicingGraphs": [],
     "splineTimeR": [
         "longitudinal"
     ],
     "SPLINTER": [],
     "splots": [],
     "SPONGE": [],
-    "spqn": [],
-    "SPsimSeq": [],
     "SQLDataFrame": [],
     "sRACIPE": [],
     "SRAdb": [],
     "srnadiff": [],
-    "sscore": [],
-    "sscu": [],
     "sSeq": [],
-    "ssize": [],
     "ssPATHS": [
         "ROCR"
     ],
     "ssviz": [],
-    "stageR": [],
     "STAN": [],
     "staRank": [
         "splots"
@@ -3246,70 +2286,42 @@
     ],
     "STATegRa": [],
     "statTarget": [],
-    "stepNorm": [],
-    "strandCheckR": [],
     "Streamer": [],
     "STRINGdb": [
         "sqldf"
     ],
     "STROMA4": [],
-    "struct": [],
-    "Structstrings": [],
     "structToolbox": [],
-    "StructuralVariantAnnotation": [],
     "SubCellBarCode": [
         "ModelMetrics",
         "recipes"
     ],
-    "subSeq": [],
     "SummarizedBenchmark": [],
-    "SummarizedExperiment": [],
-    "Summix": [],
     "supersigs": [
         "ModelMetrics",
         "recipes"
     ],
-    "supraHex": [],
-    "surfaltr": [],
-    "survcomp": [],
-    "survtype": [],
-    "Sushi": [],
-    "sva": [],
     "svaNUMT": [],
-    "svaRetro": [],
-    "SWATH2stats": [],
     "SwathXtend": [],
-    "switchde": [],
     "synapsis": [],
     "synergyfinder": [
         "tidyverse"
     ],
-    "SynExtend": [],
     "synlet": [
         "Rmpfr"
     ],
-    "SynMut": [],
     "systemPipeR": [
         "ShortRead"
     ],
     "systemPipeShiny": [
         "spsUtil"
     ],
-    "systemPipeTools": [],
     "TADCompare": [
         "HiCcompare",
         "snowfall"
     ],
-    "tanggle": [],
-    "TAPseq": [],
-    "target": [],
     "TargetDecoy": [],
-    "TargetScore": [],
     "TargetSearch": [],
-    "TarSeqQC": [],
-    "TBSignatureProfiler": [],
-    "TCC": [],
-    "TCGAbiolinks": [],
     "TCGAbiolinksGUI": [
         "maftools",
         "ELMER",
@@ -3321,8 +2333,6 @@
         "ExperimentHub",
         "interactiveDisplayBase"
     ],
-    "TCGAutils": [],
-    "TCseq": [],
     "TDARACNE": [
         "GenKern"
     ],
@@ -3336,20 +2346,10 @@
     "ternarynet": [],
     "TFARM": [],
     "TFBSTools": [],
-    "TFEA.ChIP": [],
-    "TFHAZ": [],
-    "TFutils": [],
-    "tidybulk": [],
-    "tidySingleCellExperiment": [],
-    "tidySummarizedExperiment": [],
-    "tigre": [],
-    "TileDBArray": [],
     "tilingArray": [
         "strucchange"
     ],
     "timeOmics": [],
-    "timescape": [],
-    "TimeSeriesExperiment": [],
     "TimiRGeN": [
         "clusterProfiler",
         "rWikiPathways"
@@ -3358,51 +2358,30 @@
         "aroma.affymetrix",
         "R.rsp"
     ],
-    "TissueEnrich": [],
-    "TitanCNA": [],
-    "tkWidgets": [],
-    "tLOH": [],
-    "TNBC.CMS": [],
-    "TnT": [],
-    "TOAST": [],
     "tofsims": [
         "alsace"
     ],
-    "tomoda": [],
-    "topconfects": [],
     "topdownr": [],
-    "topGO": [],
     "ToxicoGx": [
         "piano"
     ],
-    "TPP": [],
     "TPP2D": [],
     "tracktables": [
         "tractor.base"
     ],
     "trackViewer": [],
     "tradeSeq": [],
-    "TrajectoryGeometry": [],
-    "TrajectoryUtils": [],
-    "transcriptogramer": [],
     "transcriptR": [
         "ModelMetrics",
         "recipes",
         "ShortRead"
     ],
-    "transformGamPoi": [],
-    "transite": [],
     "tRanslatome": [
         "Rmpfr"
     ],
-    "transomics2cytoscape": [],
     "TraRe": [
         "vbsr"
     ],
-    "traseR": [],
-    "traviz": [],
-    "TreeAndLeaf": [],
-    "treeio": [],
     "treekoR": [
         "diffcyt",
         "FlowSOM",
@@ -3418,24 +2397,18 @@
         "RPostgreSQL"
     ],
     "Trendy": [],
-    "TRESS": [],
     "tricycle": [
         "scater",
         "scuttle"
     ],
-    "trigger": [],
-    "triplex": [],
     "tripr": [
         "plot3D"
     ],
-    "tRNA": [],
-    "tRNAdbImport": [],
     "tRNAscanImport": [],
     "TRONCO": [
         "cgdsr"
     ],
     "TSCAN": [],
-    "tscR": [],
     "TSRchitect": [
         "interactiveDisplayBase"
     ],
@@ -3445,11 +2418,7 @@
         "stopwords",
         "sylly.en"
     ],
-    "TTMap": [],
-    "TurboNorm": [],
     "TVTB": [],
-    "twoddpcr": [],
-    "txcutr": [],
     "tximeta": [
         "interactiveDisplayBase"
     ],
@@ -3463,13 +2432,9 @@
     "uncoverappLib": [
         "rlist"
     ],
-    "UNDO": [],
     "unifiedWMWqPCR": [
         "HTqPCR"
     ],
-    "UniProt.ws": [],
-    "Uniquorn": [],
-    "universalmotif": [],
     "uSORT": [
         "prabclus"
     ],
@@ -3488,25 +2453,15 @@
     "VanillaICE": [
         "oligoClasses"
     ],
-    "VarCon": [],
     "variancePartition": [],
-    "VariantAnnotation": [],
     "VariantExperiment": [],
     "VariantFiltering": [
         "GenomicScores",
         "interactiveDisplayBase"
     ],
-    "VariantTools": [],
-    "VaSP": [],
-    "VCFArray": [],
-    "VegaMC": [],
     "velociraptor": [
         "scuttle"
     ],
-    "VennDetail": [],
-    "VERSO": [],
-    "vidger": [],
-    "ViSEAGO": [],
     "vissE": [
         "tm",
         "msigdb",
@@ -3516,7 +2471,6 @@
         "stopwords"
     ],
     "VplotR": [],
-    "vsn": [],
     "vtpnet": [
         "interactiveDisplayBase"
     ],
@@ -3527,20 +2481,14 @@
         "mixsqp",
         "ShortRead"
     ],
-    "waddR": [],
     "wateRmelon": [
         "lumi",
         "IlluminaHumanMethylation450kanno.ilmn12.hg19"
     ],
-    "wavClusteR": [],
-    "webbioc": [],
     "weitrix": [],
     "wiggleplotr": [],
     "wpm": [],
-    "wppi": [],
-    "Wrench": [],
     "xcms": [],
-    "XDE": [],
     "Xeva": [
         "PharmacoGx",
         "piano"
@@ -3548,214 +2496,42 @@
     "XINA": [
         "sqldf"
     ],
-    "XNAString": [],
-    "XVector": [],
-    "yamss": [],
     "YAPSA": [
         "SomaticSignatures",
         "Rmpfr"
     ],
     "yarn": [],
-    "zellkonverter": [],
-    "zFPKM": [],
-    "zinbwave": [],
-    "glmnet": [],
-    "gplots": [],
     "ROCR": [],
-    "pamr": [],
-    "GO.db": [],
-    "Matrix": [],
-    "foreach": [],
-    "RcppEigen": [],
-    "httr": [],
-    "RSQLite": [],
-    "openssl": [],
-    "bit64": [],
-    "blob": [],
-    "memoise": [],
-    "cachem": [],
-    "askpass": [],
-    "RCurl": [],
     "ABAData": [],
-    "ggplot2": [],
-    "circlize": [],
-    "reshape2": [],
-    "VennDiagram": [],
-    "flexdashboard": [],
-    "gridExtra": [],
-    "rmarkdown": [],
-    "knitr": [],
-    "ggcorrplot": [],
-    "ggdendro": [],
-    "plotly": [],
-    "futile.logger": [],
-    "bookdown": [],
-    "htmltools": [],
-    "htmlwidgets": [],
-    "shiny": [],
-    "scales": [],
-    "bslib": [],
-    "mgcv": [],
-    "tibble": [],
-    "highr": [],
-    "tidyr": [],
-    "dplyr": [],
-    "crosstalk": [],
-    "purrr": [],
-    "promises": [],
-    "jquerylib": [],
-    "tinytex": [],
-    "lifecycle": [],
-    "tidyselect": [],
-    "pillar": [],
-    "later": [],
-    "httpuv": [],
-    "fontawesome": [],
-    "ellipsis": [],
-    "future.apply": [],
     "snowfall": [],
-    "future": [],
     "ffbase": [],
-    "aws": [],
     "strucchange": [],
-    "sandwich": [],
-    "DT": [],
-    "ggrepel": [],
-    "ggpubr": [],
-    "ggsignif": [],
-    "shinyjs": [],
-    "testthat": [],
-    "ggsci": [],
-    "cowplot": [],
-    "rstatix": [],
-    "callr": [],
-    "desc": [],
-    "pkgload": [],
-    "processx": [],
-    "broom": [],
-    "car": [],
-    "rematch2": [],
-    "pbkrtest": [],
-    "quantreg": [],
-    "maptools": [],
-    "lme4": [],
-    "nloptr": [],
-    "MatrixModels": [],
     "adductData": [
         "ExperimentHub",
         "interactiveDisplayBase"
     ],
-    "ade4": [],
-    "rvest": [],
     "fpc": [
         "prabclus"
     ],
-    "doSNOW": [],
-    "smoother": [],
-    "flexmix": [],
     "prabclus": [],
-    "selectr": [],
-    "TTR": [],
-    "dbplyr": [],
-    "xts": [],
-    "DrImpute": [],
-    "SAVER": [],
-    "RcppArmadillo": [],
-    "doParallel": [],
-    "affydata": [],
-    "PFAM.db": [],
-    "Hmisc": [],
-    "GGally": [],
-    "forcats": [],
-    "progress": [],
-    "latticeExtra": [],
-    "htmlTable": [],
-    "viridis": [],
-    "restfulr": [],
-    "interp": [],
-    "hms": [],
-    "e1071": [],
-    "smurf": [],
-    "emdbook": [],
-    "clue": [],
-    "forestplot": [],
-    "RcppNumerical": [],
-    "GetoptLong": [],
-    "coda": [],
-    "bbmle": [],
-    "ggbeeswarm": [],
-    "RcppHNSW": [],
-    "irlba": [],
-    "RcppZiggurat": [],
-    "NADA": [],
-    "RcppGSL": [],
-    "shinydashboard": [],
-    "seqinr": [],
     "optimx": [],
-    "expm": [],
-    "igraph": [],
-    "readxl": [],
     "speaq": [],
-    "furrr": [],
-    "baseline": [],
-    "limSolve": [],
-    "cellranger": [],
-    "missForest": [],
-    "doRNG": [],
-    "RSpectra": [],
-    "ALS": [],
-    "RcppDE": [],
     "curatedTCGAData": [
         "ExperimentHub",
         "interactiveDisplayBase"
     ],
-    "readr": [],
-    "vroom": [],
-    "ggthemes": [],
-    "waffle": [],
-    "extrafont": [],
-    "Rdpack": [],
-    "ape": [],
     "ReorderCluster": [],
     "caret": [
         "ModelMetrics",
         "recipes"
     ],
-    "rentrez": [],
     "covr": [
         "rex"
     ],
-    "plotROC": [],
-    "umap": [],
-    "GUniFrac": [],
     "ModelMetrics": [],
-    "pROC": [],
     "recipes": [],
     "rex": [],
-    "modeest": [],
-    "gridSVG": [],
-    "reticulate": [],
-    "fBasics": [],
-    "hardhat": [],
-    "ipred": [],
-    "RcppTOML": [],
-    "here": [],
-    "prodlim": [],
-    "lava": [],
     "RMySQL": [],
-    "rapiclient": [],
-    "bigrquery": [],
-    "shinytoastr": [],
-    "gargle": [],
-    "repmis": [],
-    "R.cache": [],
-    "org.Sc.sgd.db": [],
-    "BSgenome.Hsapiens.UCSC.hg19": [],
-    "TxDb.Hsapiens.UCSC.hg19.knownGene": [],
-    "Homo.sapiens": [],
-    "SNPlocs.Hsapiens.dbSNP144.GRCh37": [],
-    "XtraSNPlocs.Hsapiens.dbSNP144.GRCh37": [],
-    "rsnps": [],
     "MafDb.1Kgenomes.phase3.hs37d5": [
         "GenomicScores",
         "interactiveDisplayBase"
@@ -3768,71 +2544,27 @@
         "GenomicScores",
         "interactiveDisplayBase"
     ],
-    "COSMIC.67": [],
-    "PolyPhen.Hsapiens.dbSNP131": [],
-    "SIFT.Hsapiens.dbSNP137": [],
-    "openxlsx": [],
-    "org.Hs.eg.db": [],
-    "crul": [],
     "sampling": [],
-    "FDb.InfiniumMethylation.hg19": [],
-    "base64": [],
-    "hexbin": [],
-    "svglite": [],
-    "pheatmap": [],
-    "UpSetR": [],
     "DRaWR": [
         "ROCR"
     ],
     "mGSZ": [],
-    "ggfortify": [],
-    "msm": [],
-    "reactome.db": [],
-    "mixtools": [],
     "assertive": [
         "assertive.sets",
         "assertive.models",
         "assertive.reflection"
     ],
-    "assertive.types": [],
-    "assertive.strings": [],
-    "assertive.datetimes": [],
-    "assertive.files": [],
     "assertive.sets": [],
     "assertive.models": [],
-    "assertive.data": [],
-    "assertive.data.uk": [],
-    "assertive.data.us": [],
     "assertive.reflection": [],
-    "assertive.code": [],
-    "doBy": [],
     "rstan": [
         "StanHeaders"
     ],
     "StanHeaders": [],
-    "loo": [],
-    "pkgbuild": [],
-    "ggridges": [],
-    "prettydoc": [],
-    "raster": [],
-    "BSgenome.Ecoli.NCBI.20080805": [],
-    "ggExtra": [],
-    "colourpicker": [],
-    "miniUI": [],
-    "dqrng": [],
-    "MCMCpack": [],
-    "ggvis": [],
-    "heatmaply": [],
-    "dendextend": [],
-    "egg": [],
-    "TSP": [],
     "DirichletReg": [
         "maxLik"
     ],
-    "RcppDist": [],
     "maxLik": [],
-    "BB": [],
-    "fitdistrplus": [],
     "corncob": [
         "ROI.plugin.lpsolve"
     ],
@@ -3840,90 +2572,25 @@
         "ROCR",
         "uwot"
     ],
-    "optimr": [],
     "detectseparation": [
         "ROI.plugin.lpsolve"
     ],
-    "leiden": [],
-    "lmtest": [],
-    "patchwork": [],
-    "RcppAnnoy": [],
-    "scattermore": [],
-    "sctransform": [],
-    "SeuratObject": [],
-    "spatstat.core": [],
-    "spatstat.geom": [],
     "uwot": [],
-    "ROI": [],
     "ROI.plugin.lpsolve": [],
-    "Rvmmin": [],
-    "Rcgmin": [],
-    "rgeos": [],
-    "spatstat.data": [],
-    "spatstat.random": [],
-    "spatstat.sparse": [],
-    "sjmisc": [],
-    "rslurm": [],
-    "datawizard": [],
-    "LIM": [],
-    "diagram": [],
     "IlluminaHumanMethylation450kanno.ilmn12.hg19": [],
-    "shinycssloaders": [],
-    "ggforce": [],
-    "tweenr": [],
     "radiant.data": [],
     "cgdsr": [],
-    "shinythemes": [],
-    "org.Bt.eg.db": [],
-    "DiagrammeR": [],
-    "visNetwork": [],
-    "influenceR": [],
-    "DO.db": [],
-    "markdown": [],
-    "shinyAce": [],
-    "shinyFiles": [],
-    "ggraph": [],
-    "aplot": [],
-    "scatterpie": [],
-    "shadowtext": [],
-    "tidygraph": [],
-    "graphlayouts": [],
-    "ggfun": [],
-    "ggplotify": [],
-    "tidytree": [],
-    "gh": [],
-    "styler": [],
-    "usethis": [],
-    "gert": [],
-    "credentials": [],
-    "chk": [],
-    "rms": [],
-    "precrec": [],
     "imager": [
         "readbitmap"
     ],
-    "xlsx": [],
     "readbitmap": [],
-    "multcomp": [],
-    "TH.data": [],
-    "WGCNA": [],
-    "ggnetwork": [],
-    "intergraph": [],
-    "networkD3": [],
-    "ggnewscale": [],
     "NetRep": [],
-    "network": [],
-    "sna": [],
-    "shinyBS": [],
-    "superheat": [],
     "drtmle": [
         "ROCR"
     ],
     "SuperLearner": [
         "ROCR"
     ],
-    "np": [],
-    "gam": [],
     "cvAUC": [
         "ROCR"
     ],
@@ -3931,67 +2598,18 @@
         "ExperimentHub",
         "interactiveDisplayBase"
     ],
-    "Mus.musculus": [],
-    "org.Mm.eg.db": [],
-    "TxDb.Mmusculus.UCSC.mm10.knownGene": [],
-    "betareg": [],
-    "lokern": [],
     "pasilla": [],
-    "metafor": [],
-    "hgu133plus2.db": [],
-    "hgu133a.db": [],
-    "randomcoloR": [],
-    "V8": [],
-    "flexclust": [],
-    "BoolNet": [],
-    "pcalg": [],
-    "latex2exp": [],
-    "apcluster": [],
-    "gmodels": [],
-    "ggm": [],
-    "vcd": [],
-    "gdata": [],
-    "earth": [],
-    "PolynomF": [],
     "GenomicState": [
         "interactiveDisplayBase"
     ],
-    "gbm": [],
-    "BSgenome.Hsapiens.UCSC.hg38": [],
-    "devtools": [],
-    "pkgdown": [],
-    "profvis": [],
-    "rcmdcheck": [],
-    "roxygen2": [],
-    "rversions": [],
-    "urlchecker": [],
-    "downlit": [],
-    "ragg": [],
-    "pryr": [],
-    "lobstr": [],
-    "ggtext": [],
-    "gridtext": [],
-    "formula.tools": [],
-    "BMA": [],
-    "NMF": [],
     "iCluster": [],
-    "ALL": [],
-    "pkgmaker": [],
-    "bc3net": [],
-    "c3net": [],
     "sqldf": [],
-    "gsubfn": [],
-    "drc": [],
-    "ggpointdensity": [],
-    "aws.s3": [],
-    "aws.signature": [],
     "ks": [
         "plot3D"
     ],
     "fda": [
         "plot3D"
     ],
-    "IDPmisc": [],
     "plot3D": [],
     "fds": [
         "plot3D"
@@ -4002,379 +2620,124 @@
     "hdrcde": [
         "plot3D"
     ],
-    "IRkernel": [],
-    "IRdisplay": [],
-    "repr": [],
-    "rapportools": [],
-    "rintrojs": [],
-    "enrichR": [],
     "MCMCprecision": [],
-    "multipanelfigure": [],
-    "magick": [],
-    "Ckmeans.1d.dp": [],
-    "mvoutlier": [],
-    "FME": [],
     "SpatialTools": [
         "spBayes"
     ],
-    "FactoMineR": [],
-    "emmeans": [],
     "spBayes": [],
-    "cba": [],
-    "dtw": [],
-    "EnvStats": [],
-    "maptree": [],
     "topicmodels": [
         "tm"
     ],
-    "maptpx": [],
     "tm": [],
-    "ggpmisc": [],
-    "ggpp": [],
-    "broom.mixed": [],
-    "mice": [],
     "GenomicTools": [
         "gMWT"
     ],
-    "GenomicTools.fileHandler": [],
     "gMWT": [],
-    "clinfun": [],
-    "quantmod": [],
-    "ChAMPdata": [],
-    "IlluminaHumanMethylationEPICmanifest": [],
-    "RPMM": [],
     "IlluminaHumanMethylation450kmanifest": [],
-    "IlluminaHumanMethylationEPICanno.ilm10b4.hg19": [],
-    "kpmt": [],
-    "isva": [],
-    "geneLenDataBase": [],
-    "JADE": [],
-    "ruv": [],
     "spp": [],
     "ChIC.data": [
         "ModelMetrics",
         "recipes"
     ],
-    "RcppRoll": [],
-    "BSgenome.Mmusculus.UCSC.mm9": [],
-    "chipenrich.data": [],
-    "org.Dm.eg.db": [],
-    "org.Dr.eg.db": [],
-    "org.Rn.eg.db": [],
-    "TxDb.Hsapiens.UCSC.hg18.knownGene": [],
-    "TxDb.Mmusculus.UCSC.mm9.knownGene": [],
-    "TxDb.Rnorvegicus.UCSC.rn4.ensGene": [],
-    "TxDb.Celegans.UCSC.ce6.ensGene": [],
-    "TxDb.Dmelanogaster.UCSC.dm3.ensGene": [],
     "ashr": [
         "mixsqp"
     ],
     "mixsqp": [],
     "ChIPXpressData": [],
-    "bigmemory": [],
-    "biganalytics": [],
-    "shinyhelper": [],
-    "shinyWidgets": [],
-    "shinydashboardPlus": [],
-    "kableExtra": [],
-    "qs": [],
     "rlist": [],
-    "msigdbr": [],
-    "babelgene": [],
-    "fresh": [],
-    "waiter": [],
     "nabor": [],
-    "poweRlaw": [],
-    "DDRTree": [],
-    "densityClust": [],
-    "qlcMatrix": [],
-    "propr": [],
-    "BSgenome.Drerio.UCSC.danRer7": [],
-    "rgl": [],
-    "gRbase": [],
     "phylobase": [
         "rncl"
     ],
-    "ClusterR": [],
-    "benchmarkme": [],
     "rncl": [],
-    "RNeXML": [],
-    "benchmarkmeData": [],
-    "brglm": [],
-    "biwt": [],
-    "skmeans": [],
-    "eulerr": [],
-    "alabama": [],
-    "cobs": [],
     "colortools": [],
-    "rio": [],
-    "haven": [],
-    "factoextra": [],
     "Ecume": [
         "transport",
         "ModelMetrics",
         "recipes"
     ],
-    "spatstat": [],
     "transport": [],
-    "spatstat.linnet": [],
-    "changepoint": [],
-    "contrast": [],
     "feature": [
         "plot3D"
     ],
-    "airway": [],
-    "EnsDb.Hsapiens.v86": [],
-    "iC10": [],
-    "IlluminaHumanMethylationEPICanno.ilm10b2.hg19": [],
-    "arules": [],
-    "relations": [],
     "pals": [],
-    "mapproj": [],
-    "Rmixmod": [],
     "HTSCluster": [],
-    "compositions": [],
     "faahKO": [
         "xcms"
     ],
-    "dorothea": [],
-    "keras": [],
-    "tensorflow": [],
-    "tfruns": [],
-    "config": [],
-    "tfautograph": [],
-    "shinypanel": [],
-    "NCmisc": [],
-    "fields": [],
     "highcharter": [
         "rlist"
     ],
-    "ccaPP": [],
-    "AhoCorasickTrie": [],
-    "cytometree": [],
     "mrfDepth": [],
-    "GoFKernel": [],
     "RFOC": [
         "MBA"
     ],
-    "geometry": [],
-    "linprog": [],
     "GEOmap": [
         "MBA"
     ],
     "MBA": [],
-    "rpart.plot": [],
-    "shinyFeedback": [],
-    "shinyMatrix": [],
     "mbest": [],
-    "svgPanZoom": [],
-    "ggplot.multistats": [],
     "VIM": [],
-    "knn.covertree": [],
     "plsVarSel": [],
-    "kknn": [],
-    "FSelector": [],
-    "arm": [],
-    "RSNNS": [],
-    "RWeka": [],
-    "MSQC": [],
-    "RWekajars": [],
-    "tmvtnorm": [],
-    "cp4p": [],
     "imp4p": [
         "missMDA"
     ],
-    "DAPARdata": [],
     "tidyverse": [],
-    "MESS": [],
     "missMDA": [],
-    "dtplyr": [],
-    "googledrive": [],
-    "googlesheets4": [],
-    "modelr": [],
-    "reprex": [],
-    "gmm": [],
-    "ids": [],
-    "geepack": [],
-    "geeM": [],
-    "ggformula": [],
-    "kinship2": [],
-    "ggstance": [],
-    "mosaicCore": [],
-    "labelled": [],
-    "cmdfun": [],
     "CombinePValue": [],
-    "metap": [],
-    "TFisher": [],
-    "mutoss": [],
-    "qqconf": [],
-    "sn": [],
-    "survey": [],
-    "DMwR2": [],
-    "ggseqlogo": [],
-    "rsq": [],
-    "diffr": [],
-    "CatEncoders": [],
     "rcdk": [],
     "tokenizers": [],
-    "webchem": [],
     "textstem": [
         "sylly.en",
         "stopwords"
     ],
     "stopwords": [],
-    "data.tree": [],
     "koRpus.lang.en": [
         "sylly.en"
     ],
-    "koRpus": [],
-    "lexicon": [],
     "quanteda": [
         "stopwords"
     ],
-    "textclean": [],
     "sylly.en": [],
-    "syuzhet": [],
-    "MatrixExtra": [],
-    "qdapRegex": [],
     "lasso2": [],
-    "einsum": [],
-    "tseries": [],
-    "imputeLCMD": [],
-    "gamlss": [],
-    "NBPSeq": [],
-    "blockmodeling": [],
     "swamp": [],
-    "bnstruct": [],
-    "phangorn": [],
-    "RMSNumpress": [],
-    "DiffCorr": [],
-    "MetaCycle": [],
-    "gnm": [],
-    "fastDummies": [],
-    "hgu133a2.db": [],
-    "gganimate": [],
-    "aricode": [],
     "easierData": [
         "ExperimentHub",
         "interactiveDisplayBase"
     ],
-    "coin": [],
-    "libcoin": [],
     "jackstraw": [],
-    "HTMLUtils": [],
-    "ELMER.data": [],
-    "ggalt": [],
-    "ggrastr": [],
-    "mboost": [],
-    "survivalsvm": [],
-    "partykit": [],
-    "inum": [],
     "EntropyExplorer": [],
-    "RNOmni": [],
     "ewceData": [
         "ExperimentHub",
         "interactiveDisplayBase"
     ],
-    "gap": [],
     "MPINet": [],
-    "gprofiler2": [],
     "SPARQL": [],
-    "ggiraph": [],
-    "ada": [],
-    "BBmisc": [],
-    "NHPoisson": [],
-    "googleAuthR": [],
-    "googleCloudStorageR": [],
-    "dplR": [],
-    "survminer": [],
-    "maxstat": [],
-    "survMisc": [],
-    "km.ci": [],
-    "logistf": [],
-    "BSgenome.Mmusculus.UCSC.mm10": [],
-    "genetics": [],
-    "backbone": [],
-    "bs4Dash": [],
-    "tippy": [],
-    "flextable": [],
-    "officer": [],
-    "gdtools": [],
-    "rPref": [],
     "FField": [],
-    "robust": [],
-    "lmerTest": [],
-    "fit.models": [],
-    "shinyHeatmaply": [],
-    "shinybusy": [],
-    "seqmagick": [],
-    "ggside": [],
     "HH": [
         "Rmpfr"
     ],
     "Rmpfr": [],
     "sparsebn": [],
     "loose.rock": [],
-    "gRain": [],
-    "gProfileR": [],
-    "TxDb.Hsapiens.UCSC.hg38.knownGene": [],
     "gptk": [],
     "DescTools": [],
-    "Exact": [],
-    "gld": [],
-    "epiR": [],
-    "sf": [],
-    "classInt": [],
-    "s2": [],
     "RMallow": [],
-    "penalized": [],
-    "fGarch": [],
     "tidytext": [
         "tokenizers"
     ],
-    "ggwordcloud": [],
     "nsga2R": [],
-    "BatchJobs": [],
-    "R2jags": [],
-    "servr": [],
     "available": [
         "tokenizers"
     ],
-    "reactable": [],
-    "reactR": [],
-    "biclust": [],
-    "TxDb.Dmelanogaster.UCSC.dm6.ensGene": [],
-    "threejs": [],
-    "concaveman": [],
-    "Rlabkey": [],
-    "argparse": [],
-    "depmixS4": [],
-    "Rsolnp": [],
-    "golem": [],
-    "shinyalert": [],
-    "wordcloud2": [],
-    "attempt": [],
-    "haplo.stats": [],
-    "arsenal": [],
     "rsm": [],
-    "MCL": [],
-    "anocva": [],
     "Polychrome": [],
-    "AdaptGauss": [],
-    "DataVisualizations": [],
-    "distr": [],
     "IsoGene": [],
     "orQA": [],
-    "goric": [],
     "DiscriMiner": [],
     "pd.mapping50k.xba240": [
         "oligoClasses"
     ],
-    "hgu95av2.db": [],
-    "EnsDb.Hsapiens.v75": [],
-    "akima": [],
-    "irr": [],
-    "LogicReg": [],
     "reldist": [
         "rstan",
         "StanHeaders"
@@ -4387,172 +2750,54 @@
         "ModelMetrics",
         "recipes"
     ],
-    "chemometrics": [],
-    "glmmTMB": [],
-    "cplm": [],
-    "TMB": [],
-    "vcfR": [],
     "bigstatsr": [
         "rmio"
     ],
-    "RnBeads.hg19": [],
-    "bigparallelr": [],
     "rmio": [],
-    "plsgenomics": [],
-    "agricolae": [],
-    "klaR": [],
-    "questionr": [],
     "clusterSim": [],
-    "PairedData": [],
-    "SmartSVA": [],
-    "svDialogs": [],
     "muStat": [],
-    "rmdformats": [],
     "sesameData": [
         "ExperimentHub",
         "interactiveDisplayBase"
     ],
-    "FlowSorted.Blood.450k": [],
     "methylclockData": [
         "ExperimentHubData",
         "ExperimentHub",
         "AnnotationHubData",
         "interactiveDisplayBase"
     ],
-    "PerformanceAnalytics": [],
     "rebus": [
-        "rebus.datetimes",
         "rebus.numbers",
         "rebus.unicode"
     ],
-    "rebus.datetimes": [],
     "rebus.numbers": [],
     "rebus.unicode": [],
-    "R.matlab": [],
-    "mhsmm": [],
-    "ggmcmc": [],
-    "MCMCglmm": [],
-    "shinycustomloader": [],
-    "ggstar": [],
-    "formattable": [],
-    "HardyWeinberg": [],
-    "ismev": [],
-    "lumiHumanAll.db": [],
-    "BSgenome.Hsapiens.UCSC.hg18": [],
-    "energy": [],
-    "InvariantCausalPrediction": [],
-    "miRBaseVersions.db": [],
-    "linkcomm": [],
-    "isa2": [],
-    "s4vd": [],
-    "BiBitR": [],
-    "subspace": [],
     "SOMbrero": [],
     "ppclust": [],
-    "MatrixCorrelation": [],
-    "inaparc": [],
-    "metR": [],
-    "echarts4r": [],
-    "MKmisc": [],
-    "HiveR": [],
-    "RISmed": [],
-    "gghalves": [],
-    "crmn": [],
-    "ddpcr": [],
-    "anyLib": [],
-    "blme": [],
-    "deconstructSigs": [],
-    "philentropy": [],
-    "sortable": [],
-    "shinyjqui": [],
-    "learnr": [],
-    "ggalluvial": [],
-    "scico": [],
-    "VarfromPDB": [],
-    "XML2R": [],
     "mppa": [],
     "GeneNet": [
         "longitudinal"
     ],
-    "huge": [],
-    "ICSNP": [],
     "longitudinal": [],
-    "ICS": [],
-    "dnet": [],
     "dmt": [],
-    "RcmdrMisc": [],
-    "qpcR": [],
     "NxtIRFdata": [
         "ExperimentHub",
         "interactiveDisplayBase"
     ],
-    "fst": [],
-    "OMICsPCAdata": [],
-    "pdftools": [],
-    "clValid": [],
-    "qpdf": [],
-    "ontologyPlot": [],
-    "distrEx": [],
-    "AICcmodavg": [],
     "summarytools": [],
-    "unmarked": [],
-    "Peptides": [],
-    "biomartr": [],
-    "homologene": [],
-    "Matrix.utils": [],
-    "mRMRe": [],
-    "kmer": [],
     "FindMyFriends": [],
-    "reportROC": [],
-    "verification": [],
-    "CircStats": [],
     "aroma.affymetrix": [
         "R.rsp"
     ],
     "aroma.core": [
         "R.rsp"
     ],
-    "R.devices": [],
-    "R.filesets": [],
-    "aroma.apd": [],
     "R.rsp": [],
-    "PSCBS": [],
-    "R.huge": [],
-    "circular": [],
-    "conicfit": [],
-    "genlasso": [],
-    "Rook": [],
-    "opencpu": [],
-    "magicaxis": [],
-    "celestial": [],
-    "phateR": [],
-    "SmoothWin": [],
-    "pingr": [],
-    "osfr": [],
-    "C50": [],
-    "Cubist": [],
-    "intrinsicDimension": [],
-    "evmix": [],
-    "tidybayes": [],
-    "ggdist": [],
-    "arrayhelpers": [],
-    "posterior": [],
-    "distributional": [],
-    "googleVis": [],
     "phastCons100way.UCSC.hg38": [
         "GenomicScores",
         "interactiveDisplayBase"
     ],
-    "forecast": [],
-    "rhandsontable": [],
-    "rclipboard": [],
-    "shinyTree": [],
-    "ParallelLogger": [],
-    "pairsD3": [],
-    "shinyscreenshot": [],
     "taRifx": [],
-    "MuMIn": [],
-    "CpGassoc": [],
     "pwrEWAS.data": [
         "ExperimentHub",
         "interactiveDisplayBase"
@@ -4564,25 +2809,15 @@
         "GenomicScores",
         "interactiveDisplayBase"
     ],
-    "feather": [],
-    "arrow": [],
-    "batchtools": [],
-    "neo4r": [],
-    "getPass": [],
-    "CodeDepends": [],
-    "BSgenome.Celegans.UCSC.ce2": [],
-    "knitrBootstrap": [],
     "RefManageR": [],
     "rGenomeTracksData": [
         "interactiveDisplayBase"
     ],
-    "ggfittext": [],
     "valr": [],
     "caretEnsemble": [
         "ModelMetrics",
         "recipes"
     ],
-    "ggprism": [],
     "RLHub": [
         "ExperimentHub",
         "interactiveDisplayBase"
@@ -4591,11 +2826,6 @@
         "ShortRead"
     ],
     "RnaSeqSampleSizeData": [],
-    "fission": [],
-    "treemap": [],
-    "GENLIB": [],
-    "excelR": [],
-    "SBGNview.data": [],
     "scanMiRData": [
         "scanMiR"
     ],
@@ -4603,34 +2833,18 @@
         "ExperimentHub",
         "interactiveDisplayBase"
     ],
-    "copula": [],
     "extRemes": [],
-    "Lmoments": [],
-    "elasticnet": [],
     "sparsepca": [],
-    "origami": [],
-    "Rmagic": [],
     "nnTensor": [
         "plot3D"
     ],
-    "ccTensor": [],
-    "clustree": [],
-    "adehabitatLT": [],
-    "adehabitatMA": [],
-    "rbokeh": [],
-    "gistr": [],
-    "objectProperties": [],
-    "mlr": [],
-    "ParamHelpers": [],
     "PMCMRplus": [
         "Rmpfr"
     ],
-    "BWStest": [],
     "celldex": [
         "ExperimentHub",
         "interactiveDisplayBase"
     ],
-    "GSVAdata": [],
     "scRNAseq": [
         "ExperimentHub",
         "interactiveDisplayBase"
@@ -4639,57 +2853,26 @@
         "ExperimentHub",
         "interactiveDisplayBase"
     ],
-    "VAM": [],
-    "hgu95a.db": [],
-    "mixsmsn": [],
     "ScISI": [],
-    "RcppAlgos": [],
-    "nls2": [],
     "sampSurf": [],
-    "PRIMME": [],
     "miRNAtap.db": [
         "sqldf"
     ],
     "bamlss": [
         "MBA"
     ],
-    "dml": [],
-    "lfda": [],
     "MLmetrics": [
         "ROCR"
     ],
-    "rsample": [],
-    "slider": [],
-    "clustvarsel": [],
-    "gstat": [],
-    "SpatialExtremes": [],
-    "spacetime": [],
     "spsUtil": [],
-    "spsComps": [],
-    "drawer": [],
-    "bsplus": [],
     "GenKern": [],
-    "tiledb": [],
-    "nanotime": [],
-    "RcppCCTZ": [],
-    "FreqProf": [],
-    "gghighlight": [],
     "tractor.base": [],
-    "RNifti": [],
     "vbsr": [],
     "lassopv": [],
     "RPostgreSQL": [],
-    "SNPlocs.Hsapiens.dbSNP150.GRCh38": [],
-    "kmlShape": [],
-    "longitudinalData": [],
-    "kml": [],
-    "mirbase.db": [],
-    "condformat": [],
     "gradDescent": [],
     "msigdb": [
         "ExperimentHub",
         "interactiveDisplayBase"
-    ],
-    "eva": [],
-    "Rmisc": []
+    ]
 }

@@ -20,6 +20,8 @@ for pkg in list(pkgs):
     if "https://github.com/" in runid:
         runurl = runid.strip().replace("null\n", "")
         r = requests.get(runurl)
+        while r.status_code not in [404, 200]:
+            r = requests.get(runurl)
         if r.status_code == 404:
             runurl = runurl.replace("gha-build", "gha-build-old")
             r = requests.get(runurl)
@@ -35,12 +37,12 @@ for pkg in list(pkgs):
         status = "Succeeded"
         tarname = plog.strip()
         tarname = f"[{tarname}](https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/{tarname})"
-    tables[status].append([name, status, tarname])
+    tables[status].append([name, status, tarname])\
 
 headers = ["Package", "Status", "Tarball"]
 failedheaders = ["Package", "Status", "Log"]
 with open("README.md", "w") as f:
-    f.write(f"# Summary\n{len(tables['Succeeded'])} built packages\n{len(tables['Failed'])} failed packages\n{len(tables['Unclaimed'])} unclaimed packages\n")
+    f.write(f"# Summary\n\n{len(tables['Succeeded'])} built packages\n\n{len(tables['Failed'])} failed packages\n\n{len(tables['Unclaimed'])} unclaimed packages\n\n")
     f.write(f"\n\n## Failed ({len(tables['Failed'])})\n")
     f.write(tabulate(tables["Failed"], failedheaders, tablefmt="github"))
     f.write(f"\n\n## Succeeded ({len(tables['Succeeded'])})\n")
