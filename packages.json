@@ -322,9 +322,7 @@
     "conumee": [],
     "CopyNumberPlots": [],
     "CopywriteR": [],
-    "CoreGx": [
-        "piano"
-    ],
+    "CoreGx": [],
     "corral": [],
     "coseq": [],
     "cosmiq": [
@@ -1082,7 +1080,6 @@
     ],
     "PCAN": [],
     "PDATK": [
-        "piano",
         "ModelMetrics"
     ],
     "pdInfoBuilder": [],
@@ -1099,9 +1096,7 @@
     "PFP": [
         "clusterProfiler"
     ],
-    "PharmacoGx": [
-        "piano"
-    ],
+    "PharmacoGx": [],
     "phemd": [
         "Seurat",
         "VIM",
@@ -1116,7 +1111,6 @@
         "ROCR",
         "ModelMetrics"
     ],
-    "piano": [],
     "Pigengene": [
         "clusterProfiler",
         "ReactomePA"
@@ -1205,9 +1199,7 @@
     "QuasR": [],
     "r3Cseq": [],
     "R453Plus1Toolbox": [],
-    "RadioGx": [
-        "piano"
-    ],
+    "RadioGx": [],
     "ramr": [
         "optimx"
     ],
@@ -1619,9 +1611,7 @@
     "tofsims": [
         "alsace"
     ],
-    "ToxicoGx": [
-        "piano"
-    ],
+    "ToxicoGx": [],
     "tracktables": [],
     "trackViewer": [],
     "tradeSeq": [],
@@ -1705,8 +1695,7 @@
     "wpm": [],
     "xcms": [],
     "Xeva": [
-        "PharmacoGx",
-        "piano"
+        "PharmacoGx"
     ],
     "XINA": [],
     "YAPSA": [
