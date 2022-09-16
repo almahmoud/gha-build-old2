@@ -1,4 +1,3 @@
-oligoClasses
 ReactomePA
 motifStack
 rWikiPathways
