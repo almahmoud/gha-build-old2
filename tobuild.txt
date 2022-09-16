@@ -1,4 +1,3 @@
-MSstatsTMT
 DRIMSeq
 BioTIP
 DiscriMiner
