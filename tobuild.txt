@@ -1,4 +1,3 @@
-MetNet
 cytomapper
 compartmap
 structToolbox
