@@ -1,4 +1,3 @@
-SCAN.UPC
 sparsebn
 ramr
 MLSeq
