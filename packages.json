@@ -704,7 +704,6 @@
     "ExploreModelMatrix": [],
     "famat": [
         "MPINet",
-        "rWikiPathways",
         "clusterProfiler"
     ],
     "FastqCleaner": [
@@ -1349,7 +1348,6 @@
     ],
     "multiSight": [
         "clusterProfiler",
-        "rWikiPathways",
         "ReactomePA",
         "ropls",
         "ModelMetrics"
@@ -1439,9 +1437,7 @@
     "nondetects": [
         "HTqPCR"
     ],
-    "NoRCE": [
-        "rWikiPathways"
-    ],
+    "NoRCE": [],
     "NormqPCR": [],
     "NPARC": [],
     "nucleR": [
@@ -1827,7 +1823,6 @@
         "ShortRead"
     ],
     "RVS": [],
-    "rWikiPathways": [],
     "satuRn": [],
     "SC3": [
         "ROCR"
@@ -2198,8 +2193,7 @@
     ],
     "timeOmics": [],
     "TimiRGeN": [
-        "clusterProfiler",
-        "rWikiPathways"
+        "clusterProfiler"
     ],
     "TIN": [
         "aroma.affymetrix",
