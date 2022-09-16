@@ -926,9 +926,7 @@
         "nsga2R"
     ],
     "GSReg": [],
-    "GSRI": [
-        "les"
-    ],
+    "GSRI": [],
     "GUIDEseq": [
         "ChIPpeakAnno"
     ],
@@ -1071,7 +1069,6 @@
         "plot3D",
         "ROCR"
     ],
-    "les": [],
     "levi": [],
     "lfa": [],
     "limmaGUI": [],
