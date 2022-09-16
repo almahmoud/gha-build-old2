@@ -1,4 +1,3 @@
-DMRforPairs
 GeneStructureTools
 Pviz
 timeOmics
