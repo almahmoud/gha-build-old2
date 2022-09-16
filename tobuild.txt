@@ -1,4 +1,3 @@
-piano
 missMDA
 rBiopaxParser
 MethylAid
