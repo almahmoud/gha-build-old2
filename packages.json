@@ -298,11 +298,9 @@
     "clusterProfiler": [],
     "cn.farms": [],
     "CNVfilteR": [
-        "karyoploteR",
         "CopyNumberPlots"
     ],
     "CNViz": [
-        "karyoploteR",
         "CopyNumberPlots"
     ],
     "COCOA": [],
@@ -332,9 +330,7 @@
         "RUVSeq"
     ],
     "conumee": [],
-    "CopyNumberPlots": [
-        "karyoploteR"
-    ],
+    "CopyNumberPlots": [],
     "CopywriteR": [],
     "CoreGx": [
         "piano"
@@ -760,7 +756,6 @@
         "pd.mapping50k.xba240"
     ],
     "IWTomics": [],
-    "karyoploteR": [],
     "KinSwingR": [],
     "kissDE": [],
     "KnowSeq": [
@@ -1013,7 +1008,6 @@
     ],
     "MultiBaC": [],
     "multicrispr": [
-        "karyoploteR",
         "assertive.sets",
         "assertive.models"
     ],
@@ -1329,9 +1323,7 @@
         "RUVSeq"
     ],
     "RImmPort": [],
-    "RIPAT": [
-        "karyoploteR"
-    ],
+    "RIPAT": [],
     "Risa": [
         "xcms"
     ],
