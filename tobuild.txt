@@ -1,4 +1,3 @@
-STAN
 SummarizedBenchmark
 RefManageR
 tradeSeq
