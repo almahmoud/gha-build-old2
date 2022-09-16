@@ -240,9 +240,7 @@
         "ROCR",
         "uwot"
     ],
-    "cellmigRation": [
-        "spBayes"
-    ],
+    "cellmigRation": [],
     "CellMixS": [
         "scater",
         "scuttle"
@@ -1977,7 +1975,6 @@
         "HiCcompare",
         "snowfall"
     ],
-    "TargetDecoy": [],
     "TargetSearch": [],
     "TCGAbiolinksGUI": [
         "ELMER",
@@ -2230,10 +2227,7 @@
         "plot3D"
     ],
     "MCMCprecision": [],
-    "SpatialTools": [
-        "spBayes"
-    ],
-    "spBayes": [],
+    "SpatialTools": [],
     "topicmodels": [
         "tm"
     ],
