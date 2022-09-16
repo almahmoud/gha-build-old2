@@ -1,4 +1,3 @@
-GenomicScores
 gggenes
 hermes
 lbfgs
