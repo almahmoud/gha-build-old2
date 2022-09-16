@@ -555,7 +555,6 @@
     "debCAM": [],
     "debrowser": [
         "clusterProfiler",
-        "Harman",
         "mixsqp"
     ],
     "deco": [
@@ -946,7 +945,6 @@
         "NetRep",
         "rlist"
     ],
-    "Harman": [],
     "HiCcompare": [
         "snowfall"
     ],
