@@ -1,5 +1,3 @@
-rsm
-HTSeqGenie
 statTarget
 chromswitch
 mCSEA
