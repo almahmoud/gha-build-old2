@@ -1,4 +1,3 @@
-xcms
 CancerInSilico
 flowCyBar
 mbkmeans
