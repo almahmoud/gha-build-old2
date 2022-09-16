@@ -530,7 +530,6 @@
     ],
     "ExperimentSubset": [
         "SpatialExperiment",
-        "TreeSummarizedExperiment",
         "scuttle"
     ],
     "famat": [
@@ -882,13 +881,11 @@
     "methylSig": [],
     "MetID": [],
     "mia": [
-        "TreeSummarizedExperiment",
         "scuttle",
         "scater"
     ],
     "miaSim": [],
     "miaViz": [
-        "TreeSummarizedExperiment",
         "scater",
         "scuttle"
     ],
@@ -1687,7 +1684,6 @@
         "FlowSOM",
         "openCyto"
     ],
-    "TreeSummarizedExperiment": [],
     "trena": [
         "RMySQL",
         "lassopv",
