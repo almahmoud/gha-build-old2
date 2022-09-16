@@ -117,8 +117,7 @@
         "ROI.plugin.lpsolve"
     ],
     "bigmelon": [
-        "wateRmelon",
-        "IlluminaHumanMethylation450kanno.ilmn12.hg19"
+        "wateRmelon"
     ],
     "bioCancer": [
         "radiant.data",
@@ -264,8 +263,7 @@
         "wateRmelon",
         "missMethyl",
         "ExperimentHub",
-        "DSS",
-        "IlluminaHumanMethylation450kanno.ilmn12.hg19"
+        "DSS"
     ],
     "ChIC": [
         "spp",
@@ -359,7 +357,6 @@
         "RUVSeq"
     ],
     "conumee": [
-        "IlluminaHumanMethylation450kanno.ilmn12.hg19",
         "IlluminaHumanMethylation450kmanifest"
     ],
     "CopyNumberPlots": [
@@ -508,7 +505,6 @@
         "ExperimentHub",
         "DSS",
         "missMethyl",
-        "IlluminaHumanMethylation450kanno.ilmn12.hg19",
         "IlluminaHumanMethylation450kmanifest"
     ],
     "dmrseq": [
@@ -546,9 +542,7 @@
         "motifmatchr",
         "TFBSTools"
     ],
-    "EnMCB": [
-        "IlluminaHumanMethylation450kanno.ilmn12.hg19"
-    ],
+    "EnMCB": [],
     "ENmix": [
         "ExperimentHub"
     ],
@@ -664,8 +658,7 @@
         "plot3D"
     ],
     "funtooNorm": [
-        "IlluminaHumanMethylation450kmanifest",
-        "IlluminaHumanMethylation450kanno.ilmn12.hg19"
+        "IlluminaHumanMethylation450kmanifest"
     ],
     "GARS": [
         "DaMiRseq",
@@ -938,12 +931,10 @@
     "mCSEA": [],
     "MEAL": [
         "missMethyl",
-        "IlluminaHumanMethylation450kanno.ilmn12.hg19",
         "IlluminaHumanMethylation450kmanifest"
     ],
     "MEAT": [
-        "wateRmelon",
-        "IlluminaHumanMethylation450kanno.ilmn12.hg19"
+        "wateRmelon"
     ],
     "MEIGOR": [
         "snowfall"
@@ -998,8 +989,7 @@
     "MethTargetedNGS": [],
     "MethylAid": [],
     "methylCC": [
-        "IlluminaHumanMethylation450kmanifest",
-        "IlluminaHumanMethylation450kanno.ilmn12.hg19"
+        "IlluminaHumanMethylation450kmanifest"
     ],
     "methylclock": [
         "methylclockData",
@@ -1011,7 +1001,6 @@
     "methylGSA": [
         "clusterProfiler",
         "missMethyl",
-        "IlluminaHumanMethylation450kanno.ilmn12.hg19",
         "IlluminaHumanMethylation450kmanifest"
     ],
     "methylInheritance": [
@@ -1075,7 +1064,6 @@
     ],
     "mirTarRnaSeq": [],
     "missMethyl": [
-        "IlluminaHumanMethylation450kanno.ilmn12.hg19",
         "IlluminaHumanMethylation450kmanifest"
     ],
     "mistyR": [
@@ -1783,8 +1771,7 @@
     "SingleR": [],
     "skewr": [
         "wateRmelon",
-        "IlluminaHumanMethylation450kmanifest",
-        "IlluminaHumanMethylation450kanno.ilmn12.hg19"
+        "IlluminaHumanMethylation450kmanifest"
     ],
     "SLGI": [
         "ScISI"
@@ -2028,9 +2015,7 @@
         "systemPipeR",
         "mixsqp"
     ],
-    "wateRmelon": [
-        "IlluminaHumanMethylation450kanno.ilmn12.hg19"
-    ],
+    "wateRmelon": [],
     "weitrix": [],
     "wpm": [],
     "xcms": [],
@@ -2106,7 +2091,6 @@
     ],
     "uwot": [],
     "ROI.plugin.lpsolve": [],
-    "IlluminaHumanMethylation450kanno.ilmn12.hg19": [],
     "radiant.data": [],
     "cgdsr": [],
     "imager": [
