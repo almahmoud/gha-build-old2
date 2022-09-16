@@ -1359,9 +1359,7 @@
     "TIN": [
         "aroma.affymetrix"
     ],
-    "tomoseqr": [
-        "animation"
-    ],
+    "tomoseqr": [],
     "ToxicoGx": [
         "profmem"
     ],
@@ -1640,7 +1638,6 @@
     "spsUtil": [],
     "GenKern": [],
     "ttservice": [],
-    "animation": [],
     "vbsr": [],
     "msigdb": [
         "ExperimentHub"
