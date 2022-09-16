@@ -1,5 +1,3 @@
-EnMCB
-hipathia
 motifbreakR
 GISPA
 BOBaFIT
