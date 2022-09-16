@@ -1,4 +1,3 @@
-OmaDB
 NetSAM
 CNVrd2
 proBatch
