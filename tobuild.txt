@@ -1,4 +1,3 @@
-FlowSorted.Blood.450k
 GmicR
 IlluminaHumanMethylation450kmanifest
 HTSeqGenie
