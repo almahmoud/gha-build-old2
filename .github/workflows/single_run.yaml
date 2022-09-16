@@ -128,6 +128,4 @@ jobs:
             git config user.name github-actions
             git config user.email github-actions@github.com
             if bash -c "bash .github/scripts/rclone_push.sh ${{steps.claim.outputs.pkg}} ${{steps.tar.outputs.name}} 2>&1 | grep -i 'error'"; then exit 1; else 
-            echo "Marked pushed" && exit 0; fi
-        env:
-          GITHUB_PAT: ${{ secrets.GIT_PAT }}
+            echo "Marked pushed"; fi
