@@ -1,4 +1,3 @@
-GenomicFiles
 spatialHeatmap
 MSnID
 DominoEffect
