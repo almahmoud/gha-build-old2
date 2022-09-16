@@ -1,5 +1,3 @@
-slinky
-RCM
 RNAdecay
 ODER
 qpgraph
