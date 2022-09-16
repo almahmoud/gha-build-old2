@@ -1,4 +1,3 @@
-EnsDb.Hsapiens.v75
 DOSE
 RiboCrypt
 StructuralVariantAnnotation
