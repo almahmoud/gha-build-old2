@@ -1,4 +1,3 @@
-scoreInvHap
 Pi
 EGSEA
 transcriptogramer
