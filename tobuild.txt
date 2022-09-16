@@ -1,4 +1,3 @@
-GWAS.BAYES
 INSPEcT
 biocthis
 GCSscore
