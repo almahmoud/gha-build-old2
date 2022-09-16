@@ -1,4 +1,3 @@
-TitanCNA
 customCMPdb
 epialleleR
 PolyPhen.Hsapiens.dbSNP131
