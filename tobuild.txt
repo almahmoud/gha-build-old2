@@ -1,4 +1,3 @@
-moanin
 networkBMA
 BEclear
 gradDescent
