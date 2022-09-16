@@ -1,4 +1,3 @@
-scTGIF
 seq2pathway
 tLOH
 BayesSpace
