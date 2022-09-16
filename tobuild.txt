@@ -1,4 +1,3 @@
-Informeasure
 MACSQuantifyR
 ssviz
 IlluminaHumanMethylation450kmanifest
