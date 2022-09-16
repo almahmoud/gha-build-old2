@@ -284,7 +284,6 @@
     "ChromSCape": [
         "scran",
         "scater",
-        "rlist",
         "scuttle"
     ],
     "chromswitch": [],
@@ -377,9 +376,7 @@
     "ctgGEM": [
         "TSCAN"
     ],
-    "cTRAP": [
-        "rlist"
-    ],
+    "cTRAP": [],
     "cummeRbund": [],
     "customCMPdb": [],
     "cyanoFilter": [
@@ -423,7 +420,6 @@
     "DAPAR": [
         "clusterProfiler",
         "tidyverse",
-        "rlist",
         "missMDA"
     ],
     "dce": [
@@ -741,8 +737,7 @@
     ],
     "gwascat": [],
     "GWENA": [
-        "NetRep",
-        "rlist"
+        "NetRep"
     ],
     "HiCcompare": [
         "snowfall"
@@ -836,7 +831,6 @@
     ],
     "kissDE": [],
     "KnowSeq": [
-        "rlist",
         "ModelMetrics"
     ],
     "ldblock": [],
@@ -1036,7 +1030,6 @@
         "IlluminaHumanMethylation450kmanifest"
     ],
     "mistyR": [
-        "rlist",
         "ModelMetrics"
     ],
     "mitch": [],
@@ -1070,9 +1063,7 @@
     "motifmatchr": [
         "TFBSTools"
     ],
-    "MouseFM": [
-        "rlist"
-    ],
+    "MouseFM": [],
     "MsBackendMassbank": [],
     "MsBackendMgf": [],
     "MsBackendRawFileReader": [],
@@ -1230,7 +1221,6 @@
         "plot3D"
     ],
     "OpenStats": [
-        "rlist",
         "summarytools"
     ],
     "optimalFlow": [
@@ -1312,9 +1302,7 @@
         "Streamer"
     ],
     "pmp": [],
-    "PoDCall": [
-        "rlist"
-    ],
+    "PoDCall": [],
     "pogos": [
         "ontoProc"
     ],
@@ -1363,15 +1351,12 @@
         "DAPAR",
         "clusterProfiler",
         "tidyverse",
-        "rlist",
         "missMDA"
     ],
     "ProteomicsAnnotationHubData": [
         "AnnotationHubData"
     ],
-    "psichomics": [
-        "rlist"
-    ],
+    "psichomics": [],
     "pulsedSilac": [
         "taRifx"
     ],
@@ -1916,9 +1901,7 @@
     "UMI4Cats": [
         "plot3D"
     ],
-    "uncoverappLib": [
-        "rlist"
-    ],
+    "uncoverappLib": [],
     "unifiedWMWqPCR": [
         "HTqPCR"
     ],
@@ -1937,7 +1920,6 @@
         "sylly.en"
     ],
     "VanillaICE": [],
-    "VariantExperiment": [],
     "VariantFiltering": [
         "GenomicScores"
     ],
@@ -2086,7 +2068,6 @@
     ],
     "mixsqp": [],
     "ChIPXpressData": [],
-    "rlist": [],
     "nabor": [],
     "phylobase": [],
     "colortools": [],
@@ -2101,9 +2082,7 @@
     "faahKO": [
         "xcms"
     ],
-    "highcharter": [
-        "rlist"
-    ],
+    "highcharter": [],
     "mrfDepth": [],
     "RFOC": [
         "MBA"
