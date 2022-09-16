@@ -1,13 +1,3 @@
-biocthis
-GCSscore
-Uniquorn
-methylInheritance
-condiments
-VariantTools
-supersigs
-rnaEditr
-IMAS
-loose.rock
 MutationalPatterns
 VaSP
 signeR
