@@ -1,4 +1,3 @@
-GRaNIE
 sampSurf
 mGSZ
 HPiP
