@@ -1750,7 +1750,6 @@
     ],
     "RCyjs": [],
     "ReactomeGraph4R": [],
-    "ReactomeGSA": [],
     "ReactomePA": [],
     "recountmethylation": [
         "IlluminaHumanMethylation450kmanifest"
@@ -2036,7 +2035,6 @@
         "ExperimentHub",
         "interactiveDisplayBase"
     ],
-    "sevenbridges": [],
     "sevenC": [],
     "SharedObject": [],
     "shinyepico": [],
