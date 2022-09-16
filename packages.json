@@ -633,7 +633,6 @@
     ],
     "ClusterJudge": [],
     "clusterProfiler": [],
-    "clusterSeq": [],
     "ClusterSignificance": [],
     "clustifyr": [],
     "cmapR": [],
@@ -660,7 +659,6 @@
         "karyoploteR",
         "CopyNumberPlots"
     ],
-    "CNVPanelizer": [],
     "CNVRanger": [],
     "CNVrd2": [],
     "CoCiteStats": [],
@@ -1564,7 +1562,6 @@
     "Guitar": [],
     "Gviz": [],
     "GWAS.BAYES": [
-        "GA",
         "ModelMetrics",
         "recipes"
     ],
@@ -2862,7 +2859,6 @@
         "ShortRead"
     ],
     "RBGL": [],
-    "RBioinf": [],
     "rBiopaxParser": [],
     "RBM": [],
     "Rbowtie2": [],
@@ -3261,7 +3257,6 @@
         "ShortRead"
     ],
     "scry": [],
-    "scShapes": [],
     "scTensor": [
         "ReactomePA",
         "interactiveDisplayBase",
@@ -3451,7 +3446,6 @@
     "sparseDOSSA": [],
     "sparsenetgls": [],
     "SparseSignatures": [],
-    "SpatialCPie": [],
     "spatialDE": [
         "SpatialExperiment",
         "R.utils",
@@ -4683,7 +4677,6 @@
     ],
     "ggwordcloud": [],
     "nsga2R": [],
-    "GA": [],
     "BatchJobs": [],
     "R2jags": [
         "R2WinBUGS"
