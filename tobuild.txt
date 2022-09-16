@@ -1,5 +1,3 @@
-VIM
-maxLik
 ROI.plugin.lpsolve
 MPINet
 pqsfinder
