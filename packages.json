@@ -49,9 +49,7 @@
     "ANCOMBC": [
         "microbiome"
     ],
-    "AneuFinder": [
-        "ReorderCluster"
-    ],
+    "AneuFinder": [],
     "animalcules": [
         "ModelMetrics",
         "rex"
@@ -1664,7 +1662,6 @@
     "curatedTCGAData": [
         "ExperimentHub"
     ],
-    "ReorderCluster": [],
     "caret": [
         "ModelMetrics"
     ],
