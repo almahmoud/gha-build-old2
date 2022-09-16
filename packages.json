@@ -660,7 +660,6 @@
         "karyoploteR",
         "CopyNumberPlots"
     ],
-    "CNVPanelizer": [],
     "CNVRanger": [],
     "CNVrd2": [],
     "CoCiteStats": [],
@@ -3259,7 +3258,6 @@
         "ShortRead"
     ],
     "scry": [],
-    "scShapes": [],
     "scTensor": [
         "ReactomePA",
         "interactiveDisplayBase",
