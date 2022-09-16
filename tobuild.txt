@@ -1,5 +1,3 @@
-phylolm
-UCell
 multicrispr
 GSEAmining
 HiCBricks
