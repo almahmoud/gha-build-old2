@@ -1,1 +1,30 @@
-claimed
+Already up to date.
+rebus.base/DESCRIPTION
+rebus.base/INDEX
+rebus.base/Meta/
+rebus.base/Meta/Rd.rds
+rebus.base/Meta/features.rds
+rebus.base/Meta/hsearch.rds
+rebus.base/Meta/links.rds
+rebus.base/Meta/nsInfo.rds
+rebus.base/Meta/package.rds
+rebus.base/NAMESPACE
+rebus.base/NEWS
+rebus.base/R/
+rebus.base/R/rebus.base
+rebus.base/R/rebus.base.rdb
+rebus.base/R/rebus.base.rdx
+rebus.base/help/
+rebus.base/help/AnIndex
+rebus.base/help/aliases.rds
+rebus.base/help/paths.rds
+rebus.base/help/rebus.base.rdb
+rebus.base/help/rebus.base.rdx
+rebus.base/html/
+rebus.base/html/00Index.html
+rebus.base/html/R.css
+* installing *binary* package ‘rebus.unicode’ ...
+* ‘rebus.unicode’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘rebus.unicode’ as ‘rebus.unicode_0.0-2_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (rebus.unicode)
