@@ -1,5 +1,3 @@
-networkBMA
-BEclear
 gradDescent
 POMA
 PureCN
