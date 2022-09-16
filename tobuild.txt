@@ -1,4 +1,3 @@
-derfinder
 methylumi
 psygenet2r
 ggbio
