@@ -1,4 +1,8 @@
-Already up to date.
+Updating f581669..426a316
+Fast-forward
+ lists/GCSscore | 2 +-
+ tobuild.txt    | 1 -
+ 2 files changed, 1 insertion(+), 2 deletions(-)
 askpass/DESCRIPTION
 askpass/INDEX
 askpass/LICENSE
