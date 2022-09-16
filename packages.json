@@ -518,7 +518,6 @@
         "lumi"
     ],
     "MIRA": [],
-    "miRLAB": [],
     "miRSM": [
         "miRspongeR",
         "clusterProfiler",
