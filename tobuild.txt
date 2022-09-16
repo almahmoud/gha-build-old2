@@ -1,4 +1,3 @@
-SpatialCPie
 cgdsr
 RBioinf
 ChIPseeker
