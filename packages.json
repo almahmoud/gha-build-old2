@@ -377,7 +377,6 @@
     "cytoKernel": [
         "mixsqp"
     ],
-    "cytomapper": [],
     "CytoML": [
         "openCyto"
     ],
@@ -713,8 +712,7 @@
     ],
     "imcRtools": [
         "SpatialExperiment",
-        "scuttle",
-        "cytomapper"
+        "scuttle"
     ],
     "IMMAN": [],
     "ImmuneSpaceR": [],
