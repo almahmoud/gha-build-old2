@@ -1,0 +1,28 @@
+* installing *source* package ‘scran’ ...
+** using staged installation
+** libs
+g++ -std=gnu++11 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/__w/gha-build/gha-build/built/Rcpp/include' -I'/__w/gha-build/gha-build/built/beachmat/include' -I'/__w/gha-build/gha-build/built/BH/include' -I'/__w/gha-build/gha-build/built/dqrng/include' -I'/__w/gha-build/gha-build/built/scuttle/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c RcppExports.cpp -o RcppExports.o
+g++ -std=gnu++11 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/__w/gha-build/gha-build/built/Rcpp/include' -I'/__w/gha-build/gha-build/built/beachmat/include' -I'/__w/gha-build/gha-build/built/BH/include' -I'/__w/gha-build/gha-build/built/dqrng/include' -I'/__w/gha-build/gha-build/built/scuttle/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c choose_effect_size.cpp -o choose_effect_size.o
+g++ -std=gnu++11 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/__w/gha-build/gha-build/built/Rcpp/include' -I'/__w/gha-build/gha-build/built/beachmat/include' -I'/__w/gha-build/gha-build/built/BH/include' -I'/__w/gha-build/gha-build/built/dqrng/include' -I'/__w/gha-build/gha-build/built/scuttle/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c combine_rho.cpp -o combine_rho.o
+g++ -std=gnu++11 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/__w/gha-build/gha-build/built/Rcpp/include' -I'/__w/gha-build/gha-build/built/beachmat/include' -I'/__w/gha-build/gha-build/built/BH/include' -I'/__w/gha-build/gha-build/built/dqrng/include' -I'/__w/gha-build/gha-build/built/scuttle/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c compute_blocked_stats.cpp -o compute_blocked_stats.o
+g++ -std=gnu++11 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/__w/gha-build/gha-build/built/Rcpp/include' -I'/__w/gha-build/gha-build/built/beachmat/include' -I'/__w/gha-build/gha-build/built/BH/include' -I'/__w/gha-build/gha-build/built/dqrng/include' -I'/__w/gha-build/gha-build/built/scuttle/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c compute_residual_stats.cpp -o compute_residual_stats.o
+g++ -std=gnu++11 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/__w/gha-build/gha-build/built/Rcpp/include' -I'/__w/gha-build/gha-build/built/beachmat/include' -I'/__w/gha-build/gha-build/built/BH/include' -I'/__w/gha-build/gha-build/built/dqrng/include' -I'/__w/gha-build/gha-build/built/scuttle/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c compute_rho_null.cpp -o compute_rho_null.o
+g++ -std=gnu++11 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/__w/gha-build/gha-build/built/Rcpp/include' -I'/__w/gha-build/gha-build/built/beachmat/include' -I'/__w/gha-build/gha-build/built/BH/include' -I'/__w/gha-build/gha-build/built/dqrng/include' -I'/__w/gha-build/gha-build/built/scuttle/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c cyclone_scores.cpp -o cyclone_scores.o
+g++ -std=gnu++11 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/__w/gha-build/gha-build/built/Rcpp/include' -I'/__w/gha-build/gha-build/built/beachmat/include' -I'/__w/gha-build/gha-build/built/BH/include' -I'/__w/gha-build/gha-build/built/dqrng/include' -I'/__w/gha-build/gha-build/built/scuttle/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c overlap_exprs.cpp -o overlap_exprs.o
+g++ -std=gnu++11 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/__w/gha-build/gha-build/built/Rcpp/include' -I'/__w/gha-build/gha-build/built/beachmat/include' -I'/__w/gha-build/gha-build/built/BH/include' -I'/__w/gha-build/gha-build/built/dqrng/include' -I'/__w/gha-build/gha-build/built/scuttle/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c rand_custom.cpp -o rand_custom.o
+g++ -std=gnu++11 -shared -L/usr/local/lib/R/lib -L/usr/local/lib -o scran.so RcppExports.o choose_effect_size.o combine_rho.o compute_blocked_stats.o compute_residual_stats.o compute_rho_null.o cyclone_scores.o overlap_exprs.o rand_custom.o -llapack -lblas -lgfortran -lm -lquadmath -L/usr/local/lib/R/lib -lR
+installing to /__w/gha-build/gha-build/built/00LOCK-scran/00new/scran/libs
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘scran’ as ‘scran_1.24.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (scran)
