@@ -1,4 +1,3 @@
-ggmsa
 rmio
 tRNAscanImport
 msqrob2
