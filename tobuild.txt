@@ -1,4 +1,3 @@
-VariantTools
 supersigs
 rnaEditr
 IMAS
