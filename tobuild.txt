@@ -1,4 +1,3 @@
-scHOT
 wpm
 SomaticSignatures
 progeny
