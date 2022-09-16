@@ -1,4 +1,3 @@
-ARRmNormalization
 ReadqPCR
 scTHI
 drugTargetInteractions
