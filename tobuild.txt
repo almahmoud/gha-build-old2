@@ -1,4 +1,3 @@
-SMITE
 TreeSummarizedExperiment
 sevenC
 transport
