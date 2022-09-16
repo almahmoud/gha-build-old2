@@ -1,4 +1,3 @@
-recount
 qPLEXanalyzer
 maftools
 seqsetvis
