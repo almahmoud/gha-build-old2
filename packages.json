@@ -891,7 +891,6 @@
     "methylKit": [],
     "methylSig": [],
     "MetID": [],
-    "mgsa": [],
     "mia": [
         "TreeSummarizedExperiment",
         "scuttle",
