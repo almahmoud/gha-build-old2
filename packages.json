@@ -802,7 +802,6 @@
         "snowfall"
     ],
     "GeneOverlap": [],
-    "GeneStructureTools": [],
     "geNetClassifier": [
         "minet"
     ],
@@ -1643,7 +1642,6 @@
     "puma": [
         "oligoClasses"
     ],
-    "Pviz": [],
     "pwOmics": [
         "rBiopaxParser",
         "interactiveDisplayBase",
