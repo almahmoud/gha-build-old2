@@ -1,4 +1,3 @@
-HTqPCR
 SMAD
 flowViz
 iPath
