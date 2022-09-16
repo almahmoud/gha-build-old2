@@ -1,4 +1,3 @@
-MungeSumstats
 SubCellBarCode
 simplifyEnrichment
 DiffBind
