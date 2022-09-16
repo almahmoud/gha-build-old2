@@ -1,4 +1,3 @@
-cellity
 scAnnotatR
 rrvgo
 minfi
