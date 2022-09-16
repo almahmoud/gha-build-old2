@@ -855,7 +855,6 @@
     "TADCompare": [
         "HiCcompare"
     ],
-    "TBSignatureProfiler": [],
     "TCGAbiolinksGUI": [
         "ELMER",
         "clusterProfiler",
