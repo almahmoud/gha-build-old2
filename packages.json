@@ -750,9 +750,7 @@
     ],
     "mirTarRnaSeq": [],
     "missMethyl": [],
-    "mistyR": [
-        "ridge"
-    ],
+    "mistyR": [],
     "mitch": [],
     "MLSeq": [],
     "MMUPHin": [
@@ -1558,7 +1556,6 @@
     ],
     "rearrr": [],
     "bayestestR": [],
-    "ridge": [],
     "mppa": [],
     "BRISC": [
         "rdist"
