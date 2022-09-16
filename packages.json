@@ -1185,8 +1185,7 @@
         "mlr3learners",
         "mlr3tuning",
         "paradox",
-        "mlr3measures",
-        "mlr3misc"
+        "mlr3measures"
     ],
     "signatureSearch": [
         "ExperimentHub",
@@ -1570,29 +1569,22 @@
     "cvTools": [],
     "mlr3": [
         "mlr3measures",
-        "mlr3misc",
         "paradox"
     ],
     "mlr3learners": [
         "mlr3",
-        "mlr3misc",
         "paradox",
         "mlr3measures"
     ],
     "mlr3tuning": [
         "mlr3",
         "paradox",
-        "mlr3misc",
         "mlr3measures"
     ],
-    "paradox": [
-        "mlr3misc"
-    ],
+    "paradox": [],
     "mlr3measures": [],
-    "mlr3misc": [],
     "bbotk": [
-        "paradox",
-        "mlr3misc"
+        "paradox"
     ],
     "celldex": [
         "ExperimentHub"
