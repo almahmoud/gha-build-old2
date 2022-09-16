@@ -1,5 +1,3 @@
-ffbase
-ChIPXpressData
 nnNorm
 matter
 OVESEG
