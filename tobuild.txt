@@ -1,4 +1,3 @@
-CNVrd2
 proBatch
 drugTargetInteractions
 spiky
