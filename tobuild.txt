@@ -1,0 +1,15 @@
+infercnv
+transcriptogramer
+seqCAT
+Rcpi
+BEclear
+SigsPack
+minfi
+biovizBase
+GenomicFiles
+ProteoDisco
+MODA
+pwOmics
+LymphoSeq
+scCB2
+decompTumor2Sig
