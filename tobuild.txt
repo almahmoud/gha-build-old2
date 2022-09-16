@@ -1,4 +1,3 @@
-GSEAmining
 COSMIC.67
 nethet
 EnsDb.Hsapiens.v75
