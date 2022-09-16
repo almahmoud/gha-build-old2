@@ -1,4 +1,3 @@
-ExploreModelMatrix
 interactiveDisplayBase
 taRifx
 IlluminaHumanMethylation450kanno.ilmn12.hg19
