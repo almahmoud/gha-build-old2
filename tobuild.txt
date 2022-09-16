@@ -1,4 +1,3 @@
-MAI
 TitanCNA
 customCMPdb
 epialleleR
