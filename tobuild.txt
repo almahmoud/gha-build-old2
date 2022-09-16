@@ -1,4 +1,3 @@
-transcriptogramer
 seqCAT
 animalcules
 maPredictDSC
