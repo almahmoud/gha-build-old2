@@ -784,7 +784,6 @@
         "sqldf"
     ],
     "ImmuneSpaceR": [],
-    "immunoClust": [],
     "infinityFlow": [
         "uwot"
     ],
@@ -965,7 +964,6 @@
         "sesameData",
         "ExperimentHub"
     ],
-    "MethTargetedNGS": [],
     "MethylAid": [],
     "methylCC": [
         "IlluminaHumanMethylation450kmanifest"
