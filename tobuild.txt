@@ -1,4 +1,3 @@
-IlluminaHumanMethylation450kmanifest
 sampSurf
 BufferedMatrixMethods
 rex
