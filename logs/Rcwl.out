@@ -1,0 +1,13 @@
+* installing *source* package ‘Rcwl’ ...
+** using non-staged installation via StagedInstall field
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded
+* creating tarball
+packaged installation of ‘Rcwl’ as ‘Rcwl_1.12.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (Rcwl)
