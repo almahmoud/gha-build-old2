@@ -1,4 +1,3 @@
-MsBackendMsp
 RSVSim
 HiCDCPlus
 PING
