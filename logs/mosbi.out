@@ -1,0 +1,419 @@
+* installing *source* package ‘mosbi’ ...
+** using staged installation
+** libs
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/__w/gha-build/gha-build/built/Rcpp/include' -I'/__w/gha-build/gha-build/built/BH/include' -I'/__w/gha-build/gha-build/built/RcppParallel/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c RcppExports.cpp -o RcppExports.o
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/__w/gha-build/gha-build/built/Rcpp/include' -I'/__w/gha-build/gha-build/built/BH/include' -I'/__w/gha-build/gha-build/built/RcppParallel/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c attr_graph.cpp -o attr_graph.o
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/__w/gha-build/gha-build/built/Rcpp/include' -I'/__w/gha-build/gha-build/built/BH/include' -I'/__w/gha-build/gha-build/built/RcppParallel/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c attributeConnector.cpp -o attributeConnector.o
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/__w/gha-build/gha-build/built/Rcpp/include' -I'/__w/gha-build/gha-build/built/BH/include' -I'/__w/gha-build/gha-build/built/RcppParallel/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c attribute_overlap.cpp -o attribute_overlap.o
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/__w/gha-build/gha-build/built/Rcpp/include' -I'/__w/gha-build/gha-build/built/BH/include' -I'/__w/gha-build/gha-build/built/RcppParallel/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c bicluster_methods.cpp -o bicluster_methods.o
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/__w/gha-build/gha-build/built/Rcpp/include' -I'/__w/gha-build/gha-build/built/BH/include' -I'/__w/gha-build/gha-build/built/RcppParallel/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c boost_graph.cpp -o boost_graph.o
+In file included from /__w/gha-build/gha-build/built/BH/include/boost/scoped_ptr.hpp:13,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/graph/adjacency_list.hpp:22,
+                 from boost_graph.cpp:2:
+/__w/gha-build/gha-build/built/BH/include/boost/smart_ptr/scoped_ptr.hpp:74:31: warning: ‘template<class> class std::auto_ptr’ is deprecated [-Wdeprecated-declarations]
+   74 |     explicit scoped_ptr( std::auto_ptr<T> p ) BOOST_SP_NOEXCEPT : px( p.release() )
+      |                               ^~~~~~~~
+In file included from /usr/include/c++/9/memory:80,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/container_hash/extensions.hpp:34,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/container_hash/hash.hpp:766,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/functional/hash.hpp:6,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/unordered/unordered_set.hpp:18,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/unordered_set.hpp:17,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/graph/adjacency_list.hpp:20,
+                 from boost_graph.cpp:2:
+/usr/include/c++/9/bits/unique_ptr.h:53:28: note: declared here
+   53 |   template<typename> class auto_ptr;
+      |                            ^~~~~~~~
+In file included from /__w/gha-build/gha-build/built/BH/include/boost/smart_ptr/shared_ptr.hpp:17,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/property_map/vector_property_map.hpp:14,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/property_map/property_map.hpp:606,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/graph/adjacency_list.hpp:27,
+                 from boost_graph.cpp:2:
+/__w/gha-build/gha-build/built/BH/include/boost/smart_ptr/detail/shared_count.hpp:361:33: warning: ‘template<class> class std::auto_ptr’ is deprecated [-Wdeprecated-declarations]
+  361 |     explicit shared_count( std::auto_ptr<Y> & r ): pi_( new sp_counted_impl_p<Y>( r.get() ) )
+      |                                 ^~~~~~~~
+In file included from /usr/include/c++/9/memory:80,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/container_hash/extensions.hpp:34,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/container_hash/hash.hpp:766,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/functional/hash.hpp:6,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/unordered/unordered_set.hpp:18,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/unordered_set.hpp:17,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/graph/adjacency_list.hpp:20,
+                 from boost_graph.cpp:2:
+/usr/include/c++/9/bits/unique_ptr.h:53:28: note: declared here
+   53 |   template<typename> class auto_ptr;
+      |                            ^~~~~~~~
+In file included from /__w/gha-build/gha-build/built/BH/include/boost/property_map/vector_property_map.hpp:14,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/property_map/property_map.hpp:606,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/graph/adjacency_list.hpp:27,
+                 from boost_graph.cpp:2:
+/__w/gha-build/gha-build/built/BH/include/boost/smart_ptr/shared_ptr.hpp:250:65: warning: ‘template<class> class std::auto_ptr’ is deprecated [-Wdeprecated-declarations]
+  250 | template< class T, class R > struct sp_enable_if_auto_ptr< std::auto_ptr< T >, R >
+      |                                                                 ^~~~~~~~
+In file included from /usr/include/c++/9/memory:80,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/container_hash/extensions.hpp:34,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/container_hash/hash.hpp:766,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/functional/hash.hpp:6,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/unordered/unordered_set.hpp:18,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/unordered_set.hpp:17,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/graph/adjacency_list.hpp:20,
+                 from boost_graph.cpp:2:
+/usr/include/c++/9/bits/unique_ptr.h:53:28: note: declared here
+   53 |   template<typename> class auto_ptr;
+      |                            ^~~~~~~~
+In file included from /__w/gha-build/gha-build/built/BH/include/boost/property_map/vector_property_map.hpp:14,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/property_map/property_map.hpp:606,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/graph/adjacency_list.hpp:27,
+                 from boost_graph.cpp:2:
+/__w/gha-build/gha-build/built/BH/include/boost/smart_ptr/shared_ptr.hpp:507:31: warning: ‘template<class> class std::auto_ptr’ is deprecated [-Wdeprecated-declarations]
+  507 |     explicit shared_ptr( std::auto_ptr<Y> & r ): px(r.get()), pn()
+      |                               ^~~~~~~~
+In file included from /usr/include/c++/9/memory:80,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/container_hash/extensions.hpp:34,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/container_hash/hash.hpp:766,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/functional/hash.hpp:6,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/unordered/unordered_set.hpp:18,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/unordered_set.hpp:17,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/graph/adjacency_list.hpp:20,
+                 from boost_graph.cpp:2:
+/usr/include/c++/9/bits/unique_ptr.h:53:28: note: declared here
+   53 |   template<typename> class auto_ptr;
+      |                            ^~~~~~~~
+In file included from /__w/gha-build/gha-build/built/BH/include/boost/property_map/vector_property_map.hpp:14,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/property_map/property_map.hpp:606,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/graph/adjacency_list.hpp:27,
+                 from boost_graph.cpp:2:
+/__w/gha-build/gha-build/built/BH/include/boost/smart_ptr/shared_ptr.hpp:520:22: warning: ‘template<class> class std::auto_ptr’ is deprecated [-Wdeprecated-declarations]
+  520 |     shared_ptr( std::auto_ptr<Y> && r ): px(r.get()), pn()
+      |                      ^~~~~~~~
+In file included from /usr/include/c++/9/memory:80,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/container_hash/extensions.hpp:34,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/container_hash/hash.hpp:766,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/functional/hash.hpp:6,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/unordered/unordered_set.hpp:18,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/unordered_set.hpp:17,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/graph/adjacency_list.hpp:20,
+                 from boost_graph.cpp:2:
+/usr/include/c++/9/bits/unique_ptr.h:53:28: note: declared here
+   53 |   template<typename> class auto_ptr;
+      |                            ^~~~~~~~
+In file included from /__w/gha-build/gha-build/built/BH/include/boost/property_map/vector_property_map.hpp:14,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/property_map/property_map.hpp:606,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/graph/adjacency_list.hpp:27,
+                 from boost_graph.cpp:2:
+/__w/gha-build/gha-build/built/BH/include/boost/smart_ptr/shared_ptr.hpp:603:34: warning: ‘template<class> class std::auto_ptr’ is deprecated [-Wdeprecated-declarations]
+  603 |     shared_ptr & operator=( std::auto_ptr<Y> & r )
+      |                                  ^~~~~~~~
+In file included from /usr/include/c++/9/memory:80,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/container_hash/extensions.hpp:34,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/container_hash/hash.hpp:766,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/functional/hash.hpp:6,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/unordered/unordered_set.hpp:18,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/unordered_set.hpp:17,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/graph/adjacency_list.hpp:20,
+                 from boost_graph.cpp:2:
+/usr/include/c++/9/bits/unique_ptr.h:53:28: note: declared here
+   53 |   template<typename> class auto_ptr;
+      |                            ^~~~~~~~
+In file included from /__w/gha-build/gha-build/built/BH/include/boost/property_map/vector_property_map.hpp:14,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/property_map/property_map.hpp:606,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/graph/adjacency_list.hpp:27,
+                 from boost_graph.cpp:2:
+/__w/gha-build/gha-build/built/BH/include/boost/smart_ptr/shared_ptr.hpp:612:34: warning: ‘template<class> class std::auto_ptr’ is deprecated [-Wdeprecated-declarations]
+  612 |     shared_ptr & operator=( std::auto_ptr<Y> && r )
+      |                                  ^~~~~~~~
+In file included from /usr/include/c++/9/memory:80,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/container_hash/extensions.hpp:34,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/container_hash/hash.hpp:766,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/functional/hash.hpp:6,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/unordered/unordered_set.hpp:18,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/unordered_set.hpp:17,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/graph/adjacency_list.hpp:20,
+                 from boost_graph.cpp:2:
+/usr/include/c++/9/bits/unique_ptr.h:53:28: note: declared here
+   53 |   template<typename> class auto_ptr;
+      |                            ^~~~~~~~
+In file included from /__w/gha-build/gha-build/built/BH/include/boost/property_map/vector_property_map.hpp:14,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/property_map/property_map.hpp:606,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/graph/adjacency_list.hpp:27,
+                 from boost_graph.cpp:2:
+/__w/gha-build/gha-build/built/BH/include/boost/smart_ptr/shared_ptr.hpp: In member function ‘boost::shared_ptr<T>& boost::shared_ptr<T>::operator=(std::auto_ptr<_Up>&&)’:
+/__w/gha-build/gha-build/built/BH/include/boost/smart_ptr/shared_ptr.hpp:614:38: warning: ‘template<class> class std::auto_ptr’ is deprecated [-Wdeprecated-declarations]
+  614 |         this_type( static_cast< std::auto_ptr<Y> && >( r ) ).swap( *this );
+      |                                      ^~~~~~~~
+In file included from /usr/include/c++/9/memory:80,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/container_hash/extensions.hpp:34,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/container_hash/hash.hpp:766,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/functional/hash.hpp:6,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/unordered/unordered_set.hpp:18,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/unordered_set.hpp:17,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/graph/adjacency_list.hpp:20,
+                 from boost_graph.cpp:2:
+/usr/include/c++/9/bits/unique_ptr.h:53:28: note: declared here
+   53 |   template<typename> class auto_ptr;
+      |                            ^~~~~~~~
+In file included from /__w/gha-build/gha-build/built/BH/include/boost/bind/mem_fn.hpp:25,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/mem_fn.hpp:22,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/function/detail/prologue.hpp:18,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/function/function_template.hpp:13,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/function/detail/maybe_include.hpp:36,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/function/function3.hpp:11,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/property_map/dynamic_property_map.hpp:25,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/graph/graphviz.hpp:25,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/graph/graphml.hpp:20,
+                 from boost_graph.cpp:3:
+/__w/gha-build/gha-build/built/BH/include/boost/get_pointer.hpp: At global scope:
+/__w/gha-build/gha-build/built/BH/include/boost/get_pointer.hpp:48:40: warning: ‘template<class> class std::auto_ptr’ is deprecated [-Wdeprecated-declarations]
+   48 | template<class T> T * get_pointer(std::auto_ptr<T> const& p)
+      |                                        ^~~~~~~~
+In file included from /usr/include/c++/9/memory:80,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/container_hash/extensions.hpp:34,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/container_hash/hash.hpp:766,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/functional/hash.hpp:6,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/unordered/unordered_set.hpp:18,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/unordered_set.hpp:17,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/graph/adjacency_list.hpp:20,
+                 from boost_graph.cpp:2:
+/usr/include/c++/9/bits/unique_ptr.h:53:28: note: declared here
+   53 |   template<typename> class auto_ptr;
+      |                            ^~~~~~~~
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/__w/gha-build/gha-build/built/Rcpp/include' -I'/__w/gha-build/gha-build/built/BH/include' -I'/__w/gha-build/gha-build/built/RcppParallel/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c boost_write.cpp -o boost_write.o
+In file included from /__w/gha-build/gha-build/built/BH/include/boost/scoped_ptr.hpp:13,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/graph/adjacency_list.hpp:22,
+                 from boost_write.cpp:2:
+/__w/gha-build/gha-build/built/BH/include/boost/smart_ptr/scoped_ptr.hpp:74:31: warning: ‘template<class> class std::auto_ptr’ is deprecated [-Wdeprecated-declarations]
+   74 |     explicit scoped_ptr( std::auto_ptr<T> p ) BOOST_SP_NOEXCEPT : px( p.release() )
+      |                               ^~~~~~~~
+In file included from /usr/include/c++/9/memory:80,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/container_hash/extensions.hpp:34,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/container_hash/hash.hpp:766,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/functional/hash.hpp:6,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/unordered/unordered_set.hpp:18,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/unordered_set.hpp:17,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/graph/adjacency_list.hpp:20,
+                 from boost_write.cpp:2:
+/usr/include/c++/9/bits/unique_ptr.h:53:28: note: declared here
+   53 |   template<typename> class auto_ptr;
+      |                            ^~~~~~~~
+In file included from /__w/gha-build/gha-build/built/BH/include/boost/smart_ptr/shared_ptr.hpp:17,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/property_map/vector_property_map.hpp:14,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/property_map/property_map.hpp:606,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/graph/adjacency_list.hpp:27,
+                 from boost_write.cpp:2:
+/__w/gha-build/gha-build/built/BH/include/boost/smart_ptr/detail/shared_count.hpp:361:33: warning: ‘template<class> class std::auto_ptr’ is deprecated [-Wdeprecated-declarations]
+  361 |     explicit shared_count( std::auto_ptr<Y> & r ): pi_( new sp_counted_impl_p<Y>( r.get() ) )
+      |                                 ^~~~~~~~
+In file included from /usr/include/c++/9/memory:80,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/container_hash/extensions.hpp:34,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/container_hash/hash.hpp:766,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/functional/hash.hpp:6,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/unordered/unordered_set.hpp:18,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/unordered_set.hpp:17,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/graph/adjacency_list.hpp:20,
+                 from boost_write.cpp:2:
+/usr/include/c++/9/bits/unique_ptr.h:53:28: note: declared here
+   53 |   template<typename> class auto_ptr;
+      |                            ^~~~~~~~
+In file included from /__w/gha-build/gha-build/built/BH/include/boost/property_map/vector_property_map.hpp:14,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/property_map/property_map.hpp:606,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/graph/adjacency_list.hpp:27,
+                 from boost_write.cpp:2:
+/__w/gha-build/gha-build/built/BH/include/boost/smart_ptr/shared_ptr.hpp:250:65: warning: ‘template<class> class std::auto_ptr’ is deprecated [-Wdeprecated-declarations]
+  250 | template< class T, class R > struct sp_enable_if_auto_ptr< std::auto_ptr< T >, R >
+      |                                                                 ^~~~~~~~
+In file included from /usr/include/c++/9/memory:80,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/container_hash/extensions.hpp:34,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/container_hash/hash.hpp:766,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/functional/hash.hpp:6,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/unordered/unordered_set.hpp:18,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/unordered_set.hpp:17,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/graph/adjacency_list.hpp:20,
+                 from boost_write.cpp:2:
+/usr/include/c++/9/bits/unique_ptr.h:53:28: note: declared here
+   53 |   template<typename> class auto_ptr;
+      |                            ^~~~~~~~
+In file included from /__w/gha-build/gha-build/built/BH/include/boost/property_map/vector_property_map.hpp:14,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/property_map/property_map.hpp:606,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/graph/adjacency_list.hpp:27,
+                 from boost_write.cpp:2:
+/__w/gha-build/gha-build/built/BH/include/boost/smart_ptr/shared_ptr.hpp:507:31: warning: ‘template<class> class std::auto_ptr’ is deprecated [-Wdeprecated-declarations]
+  507 |     explicit shared_ptr( std::auto_ptr<Y> & r ): px(r.get()), pn()
+      |                               ^~~~~~~~
+In file included from /usr/include/c++/9/memory:80,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/container_hash/extensions.hpp:34,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/container_hash/hash.hpp:766,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/functional/hash.hpp:6,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/unordered/unordered_set.hpp:18,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/unordered_set.hpp:17,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/graph/adjacency_list.hpp:20,
+                 from boost_write.cpp:2:
+/usr/include/c++/9/bits/unique_ptr.h:53:28: note: declared here
+   53 |   template<typename> class auto_ptr;
+      |                            ^~~~~~~~
+In file included from /__w/gha-build/gha-build/built/BH/include/boost/property_map/vector_property_map.hpp:14,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/property_map/property_map.hpp:606,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/graph/adjacency_list.hpp:27,
+                 from boost_write.cpp:2:
+/__w/gha-build/gha-build/built/BH/include/boost/smart_ptr/shared_ptr.hpp:520:22: warning: ‘template<class> class std::auto_ptr’ is deprecated [-Wdeprecated-declarations]
+  520 |     shared_ptr( std::auto_ptr<Y> && r ): px(r.get()), pn()
+      |                      ^~~~~~~~
+In file included from /usr/include/c++/9/memory:80,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/container_hash/extensions.hpp:34,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/container_hash/hash.hpp:766,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/functional/hash.hpp:6,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/unordered/unordered_set.hpp:18,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/unordered_set.hpp:17,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/graph/adjacency_list.hpp:20,
+                 from boost_write.cpp:2:
+/usr/include/c++/9/bits/unique_ptr.h:53:28: note: declared here
+   53 |   template<typename> class auto_ptr;
+      |                            ^~~~~~~~
+In file included from /__w/gha-build/gha-build/built/BH/include/boost/property_map/vector_property_map.hpp:14,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/property_map/property_map.hpp:606,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/graph/adjacency_list.hpp:27,
+                 from boost_write.cpp:2:
+/__w/gha-build/gha-build/built/BH/include/boost/smart_ptr/shared_ptr.hpp:603:34: warning: ‘template<class> class std::auto_ptr’ is deprecated [-Wdeprecated-declarations]
+  603 |     shared_ptr & operator=( std::auto_ptr<Y> & r )
+      |                                  ^~~~~~~~
+In file included from /usr/include/c++/9/memory:80,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/container_hash/extensions.hpp:34,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/container_hash/hash.hpp:766,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/functional/hash.hpp:6,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/unordered/unordered_set.hpp:18,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/unordered_set.hpp:17,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/graph/adjacency_list.hpp:20,
+                 from boost_write.cpp:2:
+/usr/include/c++/9/bits/unique_ptr.h:53:28: note: declared here
+   53 |   template<typename> class auto_ptr;
+      |                            ^~~~~~~~
+In file included from /__w/gha-build/gha-build/built/BH/include/boost/property_map/vector_property_map.hpp:14,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/property_map/property_map.hpp:606,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/graph/adjacency_list.hpp:27,
+                 from boost_write.cpp:2:
+/__w/gha-build/gha-build/built/BH/include/boost/smart_ptr/shared_ptr.hpp:612:34: warning: ‘template<class> class std::auto_ptr’ is deprecated [-Wdeprecated-declarations]
+  612 |     shared_ptr & operator=( std::auto_ptr<Y> && r )
+      |                                  ^~~~~~~~
+In file included from /usr/include/c++/9/memory:80,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/container_hash/extensions.hpp:34,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/container_hash/hash.hpp:766,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/functional/hash.hpp:6,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/unordered/unordered_set.hpp:18,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/unordered_set.hpp:17,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/graph/adjacency_list.hpp:20,
+                 from boost_write.cpp:2:
+/usr/include/c++/9/bits/unique_ptr.h:53:28: note: declared here
+   53 |   template<typename> class auto_ptr;
+      |                            ^~~~~~~~
+In file included from /__w/gha-build/gha-build/built/BH/include/boost/property_map/vector_property_map.hpp:14,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/property_map/property_map.hpp:606,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/graph/adjacency_list.hpp:27,
+                 from boost_write.cpp:2:
+/__w/gha-build/gha-build/built/BH/include/boost/smart_ptr/shared_ptr.hpp: In member function ‘boost::shared_ptr<T>& boost::shared_ptr<T>::operator=(std::auto_ptr<_Up>&&)’:
+/__w/gha-build/gha-build/built/BH/include/boost/smart_ptr/shared_ptr.hpp:614:38: warning: ‘template<class> class std::auto_ptr’ is deprecated [-Wdeprecated-declarations]
+  614 |         this_type( static_cast< std::auto_ptr<Y> && >( r ) ).swap( *this );
+      |                                      ^~~~~~~~
+In file included from /usr/include/c++/9/memory:80,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/container_hash/extensions.hpp:34,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/container_hash/hash.hpp:766,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/functional/hash.hpp:6,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/unordered/unordered_set.hpp:18,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/unordered_set.hpp:17,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/graph/adjacency_list.hpp:20,
+                 from boost_write.cpp:2:
+/usr/include/c++/9/bits/unique_ptr.h:53:28: note: declared here
+   53 |   template<typename> class auto_ptr;
+      |                            ^~~~~~~~
+In file included from /__w/gha-build/gha-build/built/BH/include/boost/bind/mem_fn.hpp:25,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/mem_fn.hpp:22,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/function/detail/prologue.hpp:18,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/function/function_template.hpp:13,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/function/detail/maybe_include.hpp:36,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/function/function3.hpp:11,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/property_map/dynamic_property_map.hpp:25,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/graph/graphviz.hpp:25,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/graph/graphml.hpp:20,
+                 from boost_write.cpp:3:
+/__w/gha-build/gha-build/built/BH/include/boost/get_pointer.hpp: At global scope:
+/__w/gha-build/gha-build/built/BH/include/boost/get_pointer.hpp:48:40: warning: ‘template<class> class std::auto_ptr’ is deprecated [-Wdeprecated-declarations]
+   48 | template<class T> T * get_pointer(std::auto_ptr<T> const& p)
+      |                                        ^~~~~~~~
+In file included from /usr/include/c++/9/memory:80,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/container_hash/extensions.hpp:34,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/container_hash/hash.hpp:766,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/functional/hash.hpp:6,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/unordered/unordered_set.hpp:18,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/unordered_set.hpp:17,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/graph/adjacency_list.hpp:20,
+                 from boost_write.cpp:2:
+/usr/include/c++/9/bits/unique_ptr.h:53:28: note: declared here
+   53 |   template<typename> class auto_ptr;
+      |                            ^~~~~~~~
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/__w/gha-build/gha-build/built/Rcpp/include' -I'/__w/gha-build/gha-build/built/BH/include' -I'/__w/gha-build/gha-build/built/RcppParallel/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c distance_matrix.cpp -o distance_matrix.o
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/__w/gha-build/gha-build/built/Rcpp/include' -I'/__w/gha-build/gha-build/built/BH/include' -I'/__w/gha-build/gha-build/built/RcppParallel/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c extractBF.cpp -o extractBF.o
+In file included from /__w/gha-build/gha-build/built/BH/include/boost/bind/mem_fn.hpp:25,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/mem_fn.hpp:22,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/function/detail/prologue.hpp:18,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/function.hpp:30,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/algorithm/string/detail/find_iterator.hpp:18,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/algorithm/string/find_iterator.hpp:24,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/algorithm/string/iter_find.hpp:27,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/algorithm/string/split.hpp:16,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/algorithm/string.hpp:23,
+                 from extractBF.cpp:3:
+/__w/gha-build/gha-build/built/BH/include/boost/get_pointer.hpp:48:40: warning: ‘template<class> class std::auto_ptr’ is deprecated [-Wdeprecated-declarations]
+   48 | template<class T> T * get_pointer(std::auto_ptr<T> const& p)
+      |                                        ^~~~~~~~
+In file included from /usr/include/c++/9/bits/locale_conv.h:41,
+                 from /usr/include/c++/9/locale:43,
+                 from /usr/include/c++/9/iomanip:43,
+                 from /__w/gha-build/gha-build/built/Rcpp/include/RcppCommon.h:53,
+                 from /__w/gha-build/gha-build/built/Rcpp/include/Rcpp.h:27,
+                 from extractBF.cpp:2:
+/usr/include/c++/9/bits/unique_ptr.h:53:28: note: declared here
+   53 |   template<typename> class auto_ptr;
+      |                            ^~~~~~~~
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/__w/gha-build/gha-build/built/Rcpp/include' -I'/__w/gha-build/gha-build/built/BH/include' -I'/__w/gha-build/gha-build/built/RcppParallel/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c extractQUBIC2.cpp -o extractQUBIC2.o
+In file included from /__w/gha-build/gha-build/built/BH/include/boost/bind/mem_fn.hpp:25,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/mem_fn.hpp:22,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/function/detail/prologue.hpp:18,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/function.hpp:30,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/algorithm/string/detail/find_iterator.hpp:18,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/algorithm/string/find_iterator.hpp:24,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/algorithm/string/iter_find.hpp:27,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/algorithm/string/split.hpp:16,
+                 from /__w/gha-build/gha-build/built/BH/include/boost/algorithm/string.hpp:23,
+                 from extractQUBIC2.cpp:7:
+/__w/gha-build/gha-build/built/BH/include/boost/get_pointer.hpp:48:40: warning: ‘template<class> class std::auto_ptr’ is deprecated [-Wdeprecated-declarations]
+   48 | template<class T> T * get_pointer(std::auto_ptr<T> const& p)
+      |                                        ^~~~~~~~
+In file included from /usr/include/c++/9/bits/locale_conv.h:41,
+                 from /usr/include/c++/9/locale:43,
+                 from /usr/include/c++/9/iomanip:43,
+                 from /__w/gha-build/gha-build/built/Rcpp/include/RcppCommon.h:53,
+                 from /__w/gha-build/gha-build/built/Rcpp/include/Rcpp.h:27,
+                 from extractQUBIC2.cpp:2:
+/usr/include/c++/9/bits/unique_ptr.h:53:28: note: declared here
+   53 |   template<typename> class auto_ptr;
+      |                            ^~~~~~~~
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/__w/gha-build/gha-build/built/Rcpp/include' -I'/__w/gha-build/gha-build/built/BH/include' -I'/__w/gha-build/gha-build/built/RcppParallel/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c full_graph.cpp -o full_graph.o
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/__w/gha-build/gha-build/built/Rcpp/include' -I'/__w/gha-build/gha-build/built/BH/include' -I'/__w/gha-build/gha-build/built/RcppParallel/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c misc.cpp -o misc.o
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/__w/gha-build/gha-build/built/Rcpp/include' -I'/__w/gha-build/gha-build/built/BH/include' -I'/__w/gha-build/gha-build/built/RcppParallel/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c network_edge_strength.cpp -o network_edge_strength.o
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/__w/gha-build/gha-build/built/Rcpp/include' -I'/__w/gha-build/gha-build/built/BH/include' -I'/__w/gha-build/gha-build/built/RcppParallel/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c sample_biclusters.cpp -o sample_biclusters.o
+g++ -std=gnu++17 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/__w/gha-build/gha-build/built/Rcpp/include' -I'/__w/gha-build/gha-build/built/BH/include' -I'/__w/gha-build/gha-build/built/RcppParallel/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c write_matrix.cpp -o write_matrix.o
+g++ -std=gnu++17 -shared -L/usr/local/lib/R/lib -L/usr/local/lib -o mosbi.so RcppExports.o attr_graph.o attributeConnector.o attribute_overlap.o bicluster_methods.o boost_graph.o boost_write.o distance_matrix.o extractBF.o extractQUBIC2.o full_graph.o misc.o network_edge_strength.o sample_biclusters.o write_matrix.o -L/usr/local/lib/R/lib -lR
+installing to /__w/gha-build/gha-build/built/00LOCK-mosbi/00new/mosbi/libs
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘mosbi’ as ‘mosbi_1.2.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (mosbi)
