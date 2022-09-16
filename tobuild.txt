@@ -1,5 +1,3 @@
-Spectra
-assertive.reflection
 derfinderPlot
 flowClean
 scHOT
