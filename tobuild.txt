@@ -1,4 +1,3 @@
-ODER
 qpgraph
 HIREewas
 Spectra
