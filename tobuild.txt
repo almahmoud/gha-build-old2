@@ -1,6 +1,3 @@
-padma
-SRAdb
-tractor.base
 recount
 qPLEXanalyzer
 maftools
