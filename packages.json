@@ -13,13 +13,11 @@
         "ExperimentHub"
     ],
     "affycoretools": [
-        "ReportingTools",
-        "ggbio"
+        "ReportingTools"
     ],
     "AgiMicroRna": [
         "affycoretools",
-        "ReportingTools",
-        "ggbio"
+        "ReportingTools"
     ],
     "AllelicImbalance": [
         "Gviz"
@@ -100,20 +98,16 @@
     ],
     "brainflowprobes": [
         "derfinderPlot",
-        "GenomicState",
-        "ggbio"
+        "GenomicState"
     ],
     "branchpointer": [],
     "BubbleTree": [],
-    "CAFE": [
-        "ggbio"
-    ],
+    "CAFE": [],
     "CAGEfightR": [
         "Gviz",
         "GenomicInteractions"
     ],
     "cageminer": [
-        "ggbio",
         "BioNERO"
     ],
     "canceR": [
@@ -272,9 +266,7 @@
     "DEGreport": [
         "lasso2"
     ],
-    "derfinderPlot": [
-        "ggbio"
-    ],
+    "derfinderPlot": [],
     "DEScan2": [
         "ChIPpeakAnno"
     ],
@@ -412,15 +404,12 @@
     "GenomicInteractions": [
         "Gviz"
     ],
-    "GenomicOZone": [
-        "ggbio"
-    ],
+    "GenomicOZone": [],
     "GenomicScores": [],
     "GenVisR": [
         "FField"
     ],
     "gespeR": [],
-    "ggbio": [],
     "GGPA": [],
     "ggspavis": [],
     "GISPA": [],
@@ -467,9 +456,7 @@
     "imcRtools": [],
     "IMMAN": [],
     "ImmuneSpaceR": [],
-    "intansv": [
-        "ggbio"
-    ],
+    "intansv": [],
     "IntramiRExploreR": [],
     "ipdDb": [],
     "IRISFGM": [
@@ -647,9 +634,7 @@
     "motifmatchr": [
         "TFBSTools"
     ],
-    "msgbsR": [
-        "ggbio"
-    ],
+    "msgbsR": [],
     "MSGFgui": [
         "MSGFplus"
     ],
@@ -785,9 +770,7 @@
     "qrqc": [],
     "QuartPAC": [],
     "QuasR": [],
-    "R3CPET": [
-        "ggbio"
-    ],
+    "R3CPET": [],
     "ramr": [],
     "RareVariantVis": [
         "phastCons100way.UCSC.hg19",
@@ -811,9 +794,7 @@
         "Gviz"
     ],
     "REMP": [],
-    "ReportingTools": [
-        "ggbio"
-    ],
+    "ReportingTools": [],
     "restfulSE": [
         "ExperimentHub"
     ],
@@ -825,9 +806,7 @@
     "rgsepd": [],
     "RiboCrypt": [],
     "RiboDiPA": [],
-    "RiboProfiling": [
-        "ggbio"
-    ],
+    "RiboProfiling": [],
     "ribosomeProfilingQC": [
         "EDASeq",
         "RUVSeq"
@@ -866,7 +845,6 @@
     "RnBeads": [
         "methylumi"
     ],
-    "Rqc": [],
     "RTNduals": [],
     "RTNsurvival": [
         "RTNduals"
@@ -894,9 +872,7 @@
         "RUVSeq",
         "EDASeq"
     ],
-    "scruff": [
-        "ggbio"
-    ],
+    "scruff": [],
     "scTensor": [
         "ReactomePA",
         "enrichplot"
@@ -957,9 +933,7 @@
     "sojourner": [
         "sampSurf"
     ],
-    "SomaticSignatures": [
-        "ggbio"
-    ],
+    "SomaticSignatures": [],
     "spatialDE": [],
     "SpatialDecon": [],
     "spatzie": [
@@ -1088,8 +1062,7 @@
     ],
     "XINA": [],
     "YAPSA": [
-        "SomaticSignatures",
-        "ggbio"
+        "SomaticSignatures"
     ],
     "yarn": [],
     "ABAData": [],
