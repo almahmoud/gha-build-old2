@@ -821,7 +821,6 @@
         "MLSeq",
         "EDASeq",
         "plsVarSel",
-        "sSeq",
         "ModelMetrics",
         "recipes",
         "ShortRead"
@@ -1315,7 +1314,6 @@
         "prabclus"
     ],
     "MLSeq": [
-        "sSeq",
         "ModelMetrics",
         "recipes"
     ],
@@ -2206,7 +2204,6 @@
     "SQLDataFrame": [],
     "sRACIPE": [],
     "srnadiff": [],
-    "sSeq": [],
     "ssPATHS": [
         "ROCR"
     ],
