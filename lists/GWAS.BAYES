@@ -1,4 +1,7 @@
-Already up to date.
+Updating 1c4f3c3..4b5e753
+Fast-forward
+ logs/run_ids/doMC | 2 ++
+ 1 file changed, 2 insertions(+)
 cachem/DESCRIPTION
 cachem/INDEX
 cachem/LICENSE
