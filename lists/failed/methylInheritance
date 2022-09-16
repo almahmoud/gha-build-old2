@@ -1,7 +1,8 @@
-Updating 53c35f9..5343603
+Updating 1b044ad..aaded78
 Fast-forward
- logs/run_ids/soGGi | 1 +
- 1 file changed, 1 insertion(+)
+ lists/failed/mppa | 7 ++++---
+ lists/mppa        | 6 +++---
+ 2 files changed, 7 insertions(+), 6 deletions(-)
 bbmle/DESCRIPTION
 bbmle/INDEX
 bbmle/Meta/
