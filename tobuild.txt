@@ -1,11 +1,3 @@
-imcRtools
-icetea
-MAI
-TitanCNA
-customCMPdb
-epialleleR
-PolyPhen.Hsapiens.dbSNP131
-BBCAnalyzer
 BioNERO
 GenomicFiles
 spatialHeatmap
