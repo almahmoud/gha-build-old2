@@ -1,4 +1,3 @@
-ComPrAn
 moanin
 networkBMA
 BEclear
