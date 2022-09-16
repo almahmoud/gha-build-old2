@@ -1,7 +1,8 @@
-Auto-merging tobuild.txt
-CONFLICT (content): Merge conflict in tobuild.txt
-Automatic merge failed; fix conflicts and then commit the result.
-HEAD is now at 7e4f9d9 Claim soGGi
+Updating 8dd1d75..7e4f9d9
+Fast-forward
+ lists/soGGi | 2 +-
+ tobuild.txt | 1 -
+ 2 files changed, 1 insertion(+), 2 deletions(-)
 affy/CITATION
 affy/DESCRIPTION
 affy/INDEX
