@@ -1,4 +1,3 @@
-GeomxTools
 GenomicOZone
 ppclust
 FindMyFriends
