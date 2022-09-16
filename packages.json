@@ -1742,7 +1742,6 @@
     "sojourner": [
         "sampSurf"
     ],
-    "SomaticSignatures": [],
     "Spaniel": [
         "Seurat",
         "scater",
@@ -1978,7 +1977,6 @@
         "sqldf"
     ],
     "YAPSA": [
-        "SomaticSignatures",
         "Rmpfr"
     ],
     "ROCR": [],
