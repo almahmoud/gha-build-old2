@@ -1,4 +1,3 @@
-SharedObject
 DescTools
 lasso2
 oneSENSE
