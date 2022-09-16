@@ -1,4 +1,3 @@
-shinyMethyl
 biodbExpasy
 NewWave
 EGAD
