@@ -201,9 +201,7 @@
         "scuttle"
     ],
     "CellBarcode": [],
-    "cellHTS2": [
-        "splots"
-    ],
+    "cellHTS2": [],
     "CelliD": [
         "Seurat",
         "scater",
@@ -614,9 +612,7 @@
         "GeomxTools"
     ],
     "GeomxTools": [],
-    "gespeR": [
-        "splots"
-    ],
+    "gespeR": [],
     "ggmsa": [],
     "GGPA": [],
     "ggspavis": [
@@ -694,9 +690,7 @@
         "rstan"
     ],
     "ILoReg": [],
-    "imageHTS": [
-        "splots"
-    ],
+    "imageHTS": [],
     "imcRtools": [
         "SpatialExperiment",
         "scuttle"
@@ -842,7 +836,6 @@
     "metaMS": [
         "xcms"
     ],
-    "MetaNeighbor": [],
     "metapone": [],
     "metaseqR2": [
         "EDASeq"
@@ -1309,9 +1302,7 @@
         "rcdk"
     ],
     "RNAAgeCalc": [],
-    "RNAinteract": [
-        "splots"
-    ],
+    "RNAinteract": [],
     "RNAmodR": [
         "ROCR"
     ],
@@ -1585,15 +1576,12 @@
         "scuttle"
     ],
     "splineTimeR": [],
-    "splots": [],
     "sRACIPE": [],
     "ssPATHS": [
         "ROCR"
     ],
     "STAN": [],
-    "staRank": [
-        "splots"
-    ],
+    "staRank": [],
     "StarBioTrek": [
         "SpidermiR",
         "ROCR",
