@@ -1,4 +1,3 @@
-MOGAMUN
 TMixClust
 geneRecommender
 monocle
