@@ -1,4 +1,3 @@
-RTNduals
 openCyto
 gpart
 cytoMEM
