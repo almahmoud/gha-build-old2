@@ -1,4 +1,3 @@
-gMWT
 dcGSA
 HTSCluster
 ideal
