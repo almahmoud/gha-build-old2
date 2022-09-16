@@ -1,4 +1,3 @@
-dixonTest
 ridge
 Kendall
 MACPET
