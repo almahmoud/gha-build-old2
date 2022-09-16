@@ -647,7 +647,6 @@
     "easyRNASeq": [
         "ShortRead"
     ],
-    "EBSeqHMM": [],
     "EDASeq": [
         "ShortRead"
     ],
@@ -1714,7 +1713,6 @@
         "interactiveDisplayBase"
     ],
     "psichomics": [
-        "recount",
         "interactiveDisplayBase",
         "rlist"
     ],
@@ -1790,7 +1788,6 @@
     "ReactomeGraph4R": [],
     "ReactomeGSA": [],
     "ReactomePA": [],
-    "recount": [],
     "recountmethylation": [
         "IlluminaHumanMethylation450kmanifest"
     ],
@@ -1857,9 +1854,7 @@
     "RMassBank": [
         "rcdk"
     ],
-    "RNAAgeCalc": [
-        "recount"
-    ],
+    "RNAAgeCalc": [],
     "RNAdecay": [],
     "RNAinteract": [
         "splots"
