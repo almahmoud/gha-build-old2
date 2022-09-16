@@ -1,4 +1,3 @@
-epivizr
 ISAnalytics
 NanoTube
 ldblock
