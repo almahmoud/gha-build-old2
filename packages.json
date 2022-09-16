@@ -727,7 +727,6 @@
         "xcms"
     ],
     "IRISFGM": [
-        "Polychrome",
         "DEsingle",
         "Seurat",
         "clusterProfiler",
@@ -1959,7 +1958,6 @@
     "available": [
         "tokenizers"
     ],
-    "Polychrome": [],
     "orQA": [],
     "DiscriMiner": [],
     "pd.mapping50k.xba240": [],
