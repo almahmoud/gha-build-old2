@@ -1,5 +1,3 @@
-clusterSeq
-heatmap3
 GA
 scShapes
 plotmo
