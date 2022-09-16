@@ -1,4 +1,3 @@
-DSS
 spBayes
 pengls
 seqCNA
