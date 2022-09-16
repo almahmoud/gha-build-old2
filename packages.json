@@ -1085,15 +1085,9 @@
     "MouseFM": [
         "rlist"
     ],
-    "MsBackendMassbank": [
-        "Spectra"
-    ],
-    "MsBackendMgf": [
-        "Spectra"
-    ],
-    "MsBackendRawFileReader": [
-        "Spectra"
-    ],
+    "MsBackendMassbank": [],
+    "MsBackendMgf": [],
+    "MsBackendRawFileReader": [],
     "msgbsR": [],
     "MSGFgui": [
         "MSGFplus"
@@ -1244,7 +1238,6 @@
     "OMICsPCA": [
         "prabclus"
     ],
-    "oneSENSE": [],
     "ontoProc": [],
     "openCyto": [
         "plot3D"
@@ -1786,7 +1779,6 @@
         "motifmatchr",
         "TFBSTools"
     ],
-    "Spectra": [],
     "SpectralTAD": [
         "HiCcompare",
         "snowfall"
