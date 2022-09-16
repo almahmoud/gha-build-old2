@@ -1,4 +1,3 @@
-ensemblVEP
 hipathia
 fCI
 customProDB
