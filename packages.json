@@ -412,7 +412,6 @@
         "scater",
         "scuttle",
         "openCyto",
-        "ncdfFlow",
         "flowViz",
         "plot3D"
     ],
@@ -477,7 +476,6 @@
         "diffcyt",
         "FlowSOM",
         "openCyto",
-        "ncdfFlow",
         "flowViz",
         "plot3D"
     ],
@@ -750,7 +748,6 @@
         "flowDensity",
         "mrfDepth",
         "flowViz",
-        "ncdfFlow",
         "MBA"
     ],
     "cycle": [],
@@ -765,7 +762,6 @@
         "ModelMetrics",
         "recipes",
         "openCyto",
-        "ncdfFlow",
         "flowViz",
         "plot3D"
     ],
@@ -781,7 +777,6 @@
     "cytomapper": [],
     "CytoML": [
         "openCyto",
-        "ncdfFlow",
         "flowViz",
         "plot3D"
     ],
@@ -790,7 +785,6 @@
         "flowUtils",
         "VIM",
         "openCyto",
-        "ncdfFlow",
         "flowViz",
         "plot3D"
     ],
@@ -833,7 +827,6 @@
     "ddPCRclust": [
         "flowDensity",
         "flowViz",
-        "ncdfFlow",
         "MBA"
     ],
     "dearseq": [],
@@ -914,7 +907,6 @@
     "diffcyt": [
         "FlowSOM",
         "openCyto",
-        "ncdfFlow",
         "flowViz",
         "plot3D"
     ],
@@ -1177,13 +1169,11 @@
     "flowCut": [
         "flowDensity",
         "flowViz",
-        "ncdfFlow",
         "MBA"
     ],
     "flowCyBar": [],
     "flowDensity": [
         "flowViz",
-        "ncdfFlow",
         "MBA"
     ],
     "flowFP": [
@@ -1202,13 +1192,11 @@
     "flowPloidy": [],
     "FlowSOM": [
         "openCyto",
-        "ncdfFlow",
         "flowViz",
         "plot3D"
     ],
     "flowSpecs": [],
     "flowStats": [
-        "ncdfFlow",
         "flowViz",
         "plot3D"
     ],
@@ -1220,12 +1208,9 @@
     "flowViz": [],
     "flowVS": [
         "flowViz",
-        "ncdfFlow",
         "plot3D"
     ],
-    "flowWorkspace": [
-        "ncdfFlow"
-    ],
+    "flowWorkspace": [],
     "fmcsR": [],
     "fmrs": [],
     "fobitools": [
@@ -1359,9 +1344,7 @@
     "geva": [],
     "GEWIST": [],
     "ggbio": [],
-    "ggcyto": [
-        "ncdfFlow"
-    ],
+    "ggcyto": [],
     "ggmsa": [],
     "GGPA": [],
     "ggspavis": [
@@ -1573,9 +1556,7 @@
     "IMMAN": [
         "sqldf"
     ],
-    "ImmuneSpaceR": [
-        "ncdfFlow"
-    ],
+    "ImmuneSpaceR": [],
     "immunoClust": [],
     "immunotation": [],
     "IMPCdata": [],
@@ -1855,7 +1836,6 @@
     "MetaCyto": [
         "FlowSOM",
         "openCyto",
-        "ncdfFlow",
         "flowViz",
         "plot3D"
     ],
@@ -2212,7 +2192,6 @@
     "NBSplice": [
         "mppa"
     ],
-    "ncdfFlow": [],
     "ncGTW": [
         "xcms"
     ],
@@ -2335,7 +2314,6 @@
     ],
     "openCyto": [
         "flowViz",
-        "ncdfFlow",
         "plot3D"
     ],
     "openPrimeR": [],
@@ -2407,9 +2385,7 @@
     "pdInfoBuilder": [
         "oligoClasses"
     ],
-    "PeacoQC": [
-        "ncdfFlow"
-    ],
+    "PeacoQC": [],
     "peakPantheR": [],
     "PECA": [
         "aroma.affymetrix",
@@ -3462,7 +3438,6 @@
         "diffcyt",
         "FlowSOM",
         "openCyto",
-        "ncdfFlow",
         "flowViz",
         "plot3D"
     ],
