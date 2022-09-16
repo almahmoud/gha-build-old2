@@ -1,0 +1,162 @@
+* installing *source* package ‘Rhtslib’ ...
+** using non-staged installation via StagedInstall field
+** libs
+cd "htslib-1.7" && make -f "/usr/local/lib/R/etc/Makeconf" -f "Makefile.Rhtslib"
+make[1]: Entering directory '/tmp/Rtmpqa8YHf/R.INSTALL6fa9e36946/Rhtslib/src/htslib-1.7'
+Makefile.Rhtslib:131: warning: overriding recipe for target '.c.o'
+/usr/local/lib/R/etc/Makeconf:168: warning: ignoring old recipe for target '.c.o'
+gcc -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -fpic -I. -I/usr/local/include -D_FILE_OFFSET_BITS=64 -c -o kfunc.o kfunc.c
+gcc -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -fpic -I. -I/usr/local/include -D_FILE_OFFSET_BITS=64 -c -o knetfile.o knetfile.c
+gcc -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -fpic -I. -I/usr/local/include -D_FILE_OFFSET_BITS=64 -c -o kstring.o kstring.c
+gcc -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -fpic -I. -I/usr/local/include -D_FILE_OFFSET_BITS=64 -c -o bcf_sr_sort.o bcf_sr_sort.c
+gcc -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -fpic -I. -I/usr/local/include -D_FILE_OFFSET_BITS=64 -c -o bgzf.o bgzf.c
+gcc -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -fpic -I. -I/usr/local/include -D_FILE_OFFSET_BITS=64 -c -o errmod.o errmod.c
+gcc -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -fpic -I. -I/usr/local/include -D_FILE_OFFSET_BITS=64 -c -o faidx.o faidx.c
+gcc -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -fpic -I. -I/usr/local/include -D_FILE_OFFSET_BITS=64 -c -o hfile.o hfile.c
+gcc -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -fpic -I. -I/usr/local/include -D_FILE_OFFSET_BITS=64 -c -o hfile_net.o hfile_net.c
+echo '#define HTS_VERSION "1.7"' > version.h
+gcc -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -fpic -I. -I/usr/local/include -D_FILE_OFFSET_BITS=64 -c -o hts.o hts.c
+gcc -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -fpic -I. -I/usr/local/include -D_FILE_OFFSET_BITS=64 -c -o hts_os.o hts_os.c
+gcc -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -fpic -I. -I/usr/local/include -D_FILE_OFFSET_BITS=64 -c -o md5.o md5.c
+gcc -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -fpic -I. -I/usr/local/include -D_FILE_OFFSET_BITS=64 -c -o multipart.o multipart.c
+gcc -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -fpic -I. -I/usr/local/include -D_FILE_OFFSET_BITS=64 -c -o probaln.o probaln.c
+gcc -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -fpic -I. -I/usr/local/include -D_FILE_OFFSET_BITS=64 -c -o realn.o realn.c
+gcc -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -fpic -I. -I/usr/local/include -D_FILE_OFFSET_BITS=64 -c -o regidx.o regidx.c
+gcc -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -fpic -I. -I/usr/local/include -D_FILE_OFFSET_BITS=64 -c -o sam.o sam.c
+gcc -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -fpic -I. -I/usr/local/include -D_FILE_OFFSET_BITS=64 -c -o synced_bcf_reader.o synced_bcf_reader.c
+gcc -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -fpic -I. -I/usr/local/include -D_FILE_OFFSET_BITS=64 -c -o vcf_sweep.o vcf_sweep.c
+gcc -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -fpic -I. -I/usr/local/include -D_FILE_OFFSET_BITS=64 -c -o tbx.o tbx.c
+gcc -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -fpic -I. -I/usr/local/include -D_FILE_OFFSET_BITS=64 -c -o textutils.o textutils.c
+gcc -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -fpic -I. -I/usr/local/include -D_FILE_OFFSET_BITS=64 -c -o thread_pool.o thread_pool.c
+gcc -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -fpic -I. -I/usr/local/include -D_FILE_OFFSET_BITS=64 -c -o vcf.o vcf.c
+gcc -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -fpic -I. -I/usr/local/include -D_FILE_OFFSET_BITS=64 -c -o vcfutils.o vcfutils.c
+gcc -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -fpic -I. -I/usr/local/include -D_FILE_OFFSET_BITS=64 -c -o cram/cram_codecs.o cram/cram_codecs.c
+gcc -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -fpic -I. -I/usr/local/include -D_FILE_OFFSET_BITS=64 -c -o cram/cram_decode.o cram/cram_decode.c
+gcc -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -fpic -I. -I/usr/local/include -D_FILE_OFFSET_BITS=64 -c -o cram/cram_encode.o cram/cram_encode.c
+gcc -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -fpic -I. -I/usr/local/include -D_FILE_OFFSET_BITS=64 -c -o cram/cram_external.o cram/cram_external.c
+gcc -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -fpic -I. -I/usr/local/include -D_FILE_OFFSET_BITS=64 -c -o cram/cram_index.o cram/cram_index.c
+In file included from /usr/include/string.h:495,
+                 from cram/cram_index.c:57:
+In function ‘memcpy’,
+    inlined from ‘kputsn’ at ./htslib/kstring.h:148:2,
+    inlined from ‘kputs’ at ./htslib/kstring.h:156:9,
+    inlined from ‘cram_index_build’ at cram/cram_index.c:571:9:
+/usr/include/x86_64-linux-gnu/bits/string_fortified.h:34:10: warning: ‘__builtin_memcpy’ specified bound 18446744073709551614 exceeds maximum object size 9223372036854775807 [-Wstringop-overflow=]
+   34 |   return __builtin___memcpy_chk (__dest, __src, __len, __bos0 (__dest));
+      |          ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+gcc -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -fpic -I. -I/usr/local/include -D_FILE_OFFSET_BITS=64 -c -o cram/cram_io.o cram/cram_io.c
+cram/cram_io.c: In function ‘cram_populate_ref’:
+cram/cram_io.c:2178:27: warning: ‘.tmp_’ directive writing 5 bytes into a region of size between 1 and 4096 [-Wformat-overflow=]
+ 2178 |      sprintf(path_tmp, "%s.tmp_%d_%u_%u", path, pid, thrid, t);
+      |                           ^~~~~
+cram/cram_io.c:2178:24: note: using the range [0, 4294967295] for directive argument
+ 2178 |      sprintf(path_tmp, "%s.tmp_%d_%u_%u", path, pid, thrid, t);
+      |                        ^~~~~~~~~~~~~~~~~
+cram/cram_io.c:2178:24: note: using the range [0, 4294967295] for directive argument
+In file included from /usr/include/stdio.h:867,
+                 from cram/cram_io.c:49:
+/usr/include/x86_64-linux-gnu/bits/stdio2.h:36:10: note: ‘__builtin___sprintf_chk’ output between 11 and 4134 bytes into a destination of size 4096
+   36 |   return __builtin___sprintf_chk (__s, __USE_FORTIFY_LEVEL - 1,
+      |          ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+   37 |       __bos (__s), __fmt, __va_arg_pack ());
+      |       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+gcc -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -fpic -I. -I/usr/local/include -D_FILE_OFFSET_BITS=64 -c -o cram/cram_samtools.o cram/cram_samtools.c
+gcc -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -fpic -I. -I/usr/local/include -D_FILE_OFFSET_BITS=64 -c -o cram/cram_stats.o cram/cram_stats.c
+gcc -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -fpic -I. -I/usr/local/include -D_FILE_OFFSET_BITS=64 -c -o cram/files.o cram/files.c
+gcc -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -fpic -I. -I/usr/local/include -D_FILE_OFFSET_BITS=64 -c -o cram/mFILE.o cram/mFILE.c
+gcc -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -fpic -I. -I/usr/local/include -D_FILE_OFFSET_BITS=64 -c -o cram/open_trace_file.o cram/open_trace_file.c
+gcc -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -fpic -I. -I/usr/local/include -D_FILE_OFFSET_BITS=64 -c -o cram/pooled_alloc.o cram/pooled_alloc.c
+gcc -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -fpic -I. -I/usr/local/include -D_FILE_OFFSET_BITS=64 -c -o cram/rANS_static.o cram/rANS_static.c
+gcc -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -fpic -I. -I/usr/local/include -D_FILE_OFFSET_BITS=64 -c -o cram/sam_header.o cram/sam_header.c
+gcc -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -fpic -I. -I/usr/local/include -D_FILE_OFFSET_BITS=64 -c -o cram/string_alloc.o cram/string_alloc.c
+gcc -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -fpic -I. -I/usr/local/include -D_FILE_OFFSET_BITS=64 -c -o hfile_libcurl.o hfile_libcurl.c
+ar -rc libhts.a kfunc.o knetfile.o kstring.o bcf_sr_sort.o bgzf.o errmod.o faidx.o hfile.o hfile_net.o hts.o hts_os.o md5.o multipart.o probaln.o realn.o regidx.o sam.o synced_bcf_reader.o vcf_sweep.o tbx.o textutils.o thread_pool.o vcf.o vcfutils.o cram/cram_codecs.o cram/cram_decode.o cram/cram_encode.o cram/cram_external.o cram/cram_index.o cram/cram_io.o cram/cram_samtools.o cram/cram_stats.o cram/files.o cram/mFILE.o cram/open_trace_file.o cram/pooled_alloc.o cram/rANS_static.o cram/sam_header.o cram/string_alloc.o hfile_libcurl.o
+ranlib libhts.a
+gcc -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -fpic -I. -I/usr/local/include -D_FILE_OFFSET_BITS=64  -c -o kfunc.pico kfunc.c
+gcc -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -fpic -I. -I/usr/local/include -D_FILE_OFFSET_BITS=64  -c -o knetfile.pico knetfile.c
+gcc -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -fpic -I. -I/usr/local/include -D_FILE_OFFSET_BITS=64  -c -o kstring.pico kstring.c
+gcc -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -fpic -I. -I/usr/local/include -D_FILE_OFFSET_BITS=64  -c -o bcf_sr_sort.pico bcf_sr_sort.c
+gcc -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -fpic -I. -I/usr/local/include -D_FILE_OFFSET_BITS=64  -c -o bgzf.pico bgzf.c
+gcc -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -fpic -I. -I/usr/local/include -D_FILE_OFFSET_BITS=64  -c -o errmod.pico errmod.c
+gcc -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -fpic -I. -I/usr/local/include -D_FILE_OFFSET_BITS=64  -c -o faidx.pico faidx.c
+gcc -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -fpic -I. -I/usr/local/include -D_FILE_OFFSET_BITS=64  -c -o hfile.pico hfile.c
+gcc -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -fpic -I. -I/usr/local/include -D_FILE_OFFSET_BITS=64  -c -o hfile_net.pico hfile_net.c
+gcc -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -fpic -I. -I/usr/local/include -D_FILE_OFFSET_BITS=64  -c -o hts.pico hts.c
+gcc -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -fpic -I. -I/usr/local/include -D_FILE_OFFSET_BITS=64  -c -o hts_os.pico hts_os.c
+gcc -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -fpic -I. -I/usr/local/include -D_FILE_OFFSET_BITS=64  -c -o md5.pico md5.c
+gcc -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -fpic -I. -I/usr/local/include -D_FILE_OFFSET_BITS=64  -c -o multipart.pico multipart.c
+gcc -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -fpic -I. -I/usr/local/include -D_FILE_OFFSET_BITS=64  -c -o probaln.pico probaln.c
+gcc -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -fpic -I. -I/usr/local/include -D_FILE_OFFSET_BITS=64  -c -o realn.pico realn.c
+gcc -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -fpic -I. -I/usr/local/include -D_FILE_OFFSET_BITS=64  -c -o regidx.pico regidx.c
+gcc -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -fpic -I. -I/usr/local/include -D_FILE_OFFSET_BITS=64  -c -o sam.pico sam.c
+gcc -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -fpic -I. -I/usr/local/include -D_FILE_OFFSET_BITS=64  -c -o synced_bcf_reader.pico synced_bcf_reader.c
+gcc -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -fpic -I. -I/usr/local/include -D_FILE_OFFSET_BITS=64  -c -o vcf_sweep.pico vcf_sweep.c
+gcc -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -fpic -I. -I/usr/local/include -D_FILE_OFFSET_BITS=64  -c -o tbx.pico tbx.c
+gcc -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -fpic -I. -I/usr/local/include -D_FILE_OFFSET_BITS=64  -c -o textutils.pico textutils.c
+gcc -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -fpic -I. -I/usr/local/include -D_FILE_OFFSET_BITS=64  -c -o thread_pool.pico thread_pool.c
+gcc -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -fpic -I. -I/usr/local/include -D_FILE_OFFSET_BITS=64  -c -o vcf.pico vcf.c
+gcc -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -fpic -I. -I/usr/local/include -D_FILE_OFFSET_BITS=64  -c -o vcfutils.pico vcfutils.c
+gcc -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -fpic -I. -I/usr/local/include -D_FILE_OFFSET_BITS=64  -c -o cram/cram_codecs.pico cram/cram_codecs.c
+gcc -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -fpic -I. -I/usr/local/include -D_FILE_OFFSET_BITS=64  -c -o cram/cram_decode.pico cram/cram_decode.c
+gcc -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -fpic -I. -I/usr/local/include -D_FILE_OFFSET_BITS=64  -c -o cram/cram_encode.pico cram/cram_encode.c
+gcc -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -fpic -I. -I/usr/local/include -D_FILE_OFFSET_BITS=64  -c -o cram/cram_external.pico cram/cram_external.c
+gcc -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -fpic -I. -I/usr/local/include -D_FILE_OFFSET_BITS=64  -c -o cram/cram_index.pico cram/cram_index.c
+In file included from /usr/include/string.h:495,
+                 from cram/cram_index.c:57:
+In function ‘memcpy’,
+    inlined from ‘kputsn’ at ./htslib/kstring.h:148:2,
+    inlined from ‘kputs’ at ./htslib/kstring.h:156:9,
+    inlined from ‘cram_index_build’ at cram/cram_index.c:571:9:
+/usr/include/x86_64-linux-gnu/bits/string_fortified.h:34:10: warning: ‘__builtin_memcpy’ specified bound 18446744073709551614 exceeds maximum object size 9223372036854775807 [-Wstringop-overflow=]
+   34 |   return __builtin___memcpy_chk (__dest, __src, __len, __bos0 (__dest));
+      |          ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+gcc -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -fpic -I. -I/usr/local/include -D_FILE_OFFSET_BITS=64  -c -o cram/cram_io.pico cram/cram_io.c
+cram/cram_io.c: In function ‘cram_populate_ref’:
+cram/cram_io.c:2178:27: warning: ‘.tmp_’ directive writing 5 bytes into a region of size between 1 and 4096 [-Wformat-overflow=]
+ 2178 |      sprintf(path_tmp, "%s.tmp_%d_%u_%u", path, pid, thrid, t);
+      |                           ^~~~~
+cram/cram_io.c:2178:24: note: using the range [0, 4294967295] for directive argument
+ 2178 |      sprintf(path_tmp, "%s.tmp_%d_%u_%u", path, pid, thrid, t);
+      |                        ^~~~~~~~~~~~~~~~~
+cram/cram_io.c:2178:24: note: using the range [0, 4294967295] for directive argument
+In file included from /usr/include/stdio.h:867,
+                 from cram/cram_io.c:49:
+/usr/include/x86_64-linux-gnu/bits/stdio2.h:36:10: note: ‘__builtin___sprintf_chk’ output between 11 and 4134 bytes into a destination of size 4096
+   36 |   return __builtin___sprintf_chk (__s, __USE_FORTIFY_LEVEL - 1,
+      |          ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+   37 |       __bos (__s), __fmt, __va_arg_pack ());
+      |       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+gcc -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -fpic -I. -I/usr/local/include -D_FILE_OFFSET_BITS=64  -c -o cram/cram_samtools.pico cram/cram_samtools.c
+gcc -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -fpic -I. -I/usr/local/include -D_FILE_OFFSET_BITS=64  -c -o cram/cram_stats.pico cram/cram_stats.c
+gcc -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -fpic -I. -I/usr/local/include -D_FILE_OFFSET_BITS=64  -c -o cram/files.pico cram/files.c
+gcc -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -fpic -I. -I/usr/local/include -D_FILE_OFFSET_BITS=64  -c -o cram/mFILE.pico cram/mFILE.c
+gcc -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -fpic -I. -I/usr/local/include -D_FILE_OFFSET_BITS=64  -c -o cram/open_trace_file.pico cram/open_trace_file.c
+gcc -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -fpic -I. -I/usr/local/include -D_FILE_OFFSET_BITS=64  -c -o cram/pooled_alloc.pico cram/pooled_alloc.c
+gcc -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -fpic -I. -I/usr/local/include -D_FILE_OFFSET_BITS=64  -c -o cram/rANS_static.pico cram/rANS_static.c
+gcc -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -fpic -I. -I/usr/local/include -D_FILE_OFFSET_BITS=64  -c -o cram/sam_header.pico cram/sam_header.c
+gcc -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -fpic -I. -I/usr/local/include -D_FILE_OFFSET_BITS=64  -c -o cram/string_alloc.pico cram/string_alloc.c
+gcc -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -fpic -I. -I/usr/local/include -D_FILE_OFFSET_BITS=64  -c -o hfile_libcurl.pico hfile_libcurl.c
+gcc -shared -Wl,-soname,libhts.so.2 -L/usr/local/lib -o libhts.so kfunc.pico knetfile.pico kstring.pico bcf_sr_sort.pico bgzf.pico errmod.pico faidx.pico hfile.pico hfile_net.pico hts.pico hts_os.pico md5.pico multipart.pico probaln.pico realn.pico regidx.pico sam.pico synced_bcf_reader.pico vcf_sweep.pico tbx.pico textutils.pico thread_pool.pico vcf.pico vcfutils.pico cram/cram_codecs.pico cram/cram_decode.pico cram/cram_encode.pico cram/cram_external.pico cram/cram_index.pico cram/cram_io.pico cram/cram_samtools.pico cram/cram_stats.pico cram/files.pico cram/mFILE.pico cram/open_trace_file.pico cram/pooled_alloc.pico cram/rANS_static.pico cram/sam_header.pico cram/string_alloc.pico hfile_libcurl.pico -lz -lm -lbz2 -llzma -lcurl -lpthread
+ln -sf libhts.so libhts.so.2
+make[1]: Leaving directory '/tmp/Rtmpqa8YHf/R.INSTALL6fa9e36946/Rhtslib/src/htslib-1.7'
+mkdir -p "/__w/gha-build/gha-build/built/Rhtslib/include/htslib"
+cd "htslib-1.7/htslib" && cp * "/__w/gha-build/gha-build/built/Rhtslib/include/htslib" && cd .. && cp textutils_internal.h hts_internal.h "/__w/gha-build/gha-build/built/Rhtslib/include"
+gcc -I"/usr/local/lib/R/include" -DNDEBUG -D_FILE_OFFSET_BITS=64 -I"/__w/gha-build/gha-build/built/Rhtslib/include" -I'/__w/gha-build/gha-build/built/zlibbioc/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c R_init_Rhtslib.c -o R_init_Rhtslib.o
+mkdir -p "/__w/gha-build/gha-build/built/Rhtslib/usrlib"
+cd "htslib-1.7" && cp libhts.so libhts.a "/__w/gha-build/gha-build/built/Rhtslib/usrlib"
+cd "/__w/gha-build/gha-build/built/Rhtslib/usrlib" && ln -s libhts.so libhts.so.2
+gcc -shared -L/usr/local/lib/R/lib -L/usr/local/lib -o Rhtslib.so R_init_Rhtslib.o /__w/gha-build/gha-build/built/Rhtslib/usrlib/libhts.a -lcurl -L/usr/local/lib/R/lib -lR
+mkdir -p "/__w/gha-build/gha-build/built/Rhtslib/testdata/tabix"
+cd "htslib-1.7/test" && (cp *.sam *.bam *.vcf *.bcf *.cram *.fa *.fa.fai *.gff *.bed "/__w/gha-build/gha-build/built/Rhtslib/testdata" 2>/dev/null || true) && cd tabix && (cp *.sam *.bam *.vcf *.bcf *.cram *.fa *.fa.fai *.gff *.bed "/__w/gha-build/gha-build/built/Rhtslib/testdata/tabix" 2>/dev/null || true)
+installing to /__w/gha-build/gha-build/built/Rhtslib/libs
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded
+* creating tarball
+packaged installation of ‘Rhtslib’ as ‘Rhtslib_1.28.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (Rhtslib)
