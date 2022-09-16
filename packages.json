@@ -839,8 +839,7 @@
     ],
     "methylInheritance": [
         "methylKit",
-        "rebus.numbers",
-        "rebus.unicode"
+        "rebus.numbers"
     ],
     "methylKit": [],
     "methylSig": [],
@@ -1853,11 +1852,9 @@
         "AnnotationHubData"
     ],
     "rebus": [
-        "rebus.numbers",
-        "rebus.unicode"
+        "rebus.numbers"
     ],
     "rebus.numbers": [],
-    "rebus.unicode": [],
     "SOMbrero": [],
     "ppclust": [],
     "mppa": [],
