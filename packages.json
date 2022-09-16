@@ -160,9 +160,7 @@
     ],
     "BubbleTree": [],
     "BUS": [],
-    "CAGEfightR": [
-        "GenomicInteractions"
-    ],
+    "CAGEfightR": [],
     "cageminer": [
         "BioNERO",
         "NetRep"
@@ -589,7 +587,6 @@
     "geneXtendeR": [
         "tm"
     ],
-    "GenomicInteractions": [],
     "GenomicOZone": [],
     "GenomicScores": [],
     "genphen": [
@@ -660,9 +657,7 @@
     "HiCcompare": [
         "snowfall"
     ],
-    "HiCDCPlus": [
-        "GenomicInteractions"
-    ],
+    "HiCDCPlus": [],
     "hipathia": [],
     "HPiP": [
         "ModelMetrics"
@@ -1517,7 +1512,6 @@
         "scuttle"
     ],
     "spatzie": [
-        "GenomicInteractions",
         "motifmatchr",
         "TFBSTools"
     ],
