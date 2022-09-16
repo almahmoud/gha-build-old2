@@ -1,4 +1,3 @@
-PCAtools
 sSeq
 wiggleplotr
 clusterSim
