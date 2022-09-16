@@ -8,9 +8,7 @@
     "ABAEnrichment": [
         "ABAData"
     ],
-    "ACE": [
-        "snowfall"
-    ],
+    "ACE": [],
     "ADaCGH2": [
         "ffbase",
         "snapCGH"
@@ -30,45 +28,27 @@
         "scater",
         "scuttle"
     ],
-    "AllelicImbalance": [],
     "AlphaBeta": [
         "optimx"
-    ],
-    "AlpsNMR": [
-        "speaq"
     ],
     "alsace": [],
     "AMARETTO": [
         "curatedTCGAData",
         "ExperimentHub"
     ],
-    "amplican": [],
     "Anaquin": [
         "ROCR"
     ],
-    "ANCOMBC": [
-        "microbiome"
-    ],
-    "AneuFinder": [],
-    "animalcules": [
-        "ModelMetrics",
-        "rex"
-    ],
-    "annmap": [],
-    "AnnotationHub": [],
+    "animalcules": [],
     "AnnotationHubData": [],
     "annotatr": [],
-    "APAlyzer": [],
     "appreci8R": [
         "MafDb.1Kgenomes.phase3.hs37d5",
         "MafDb.ExAC.r1.0.hs37d5",
         "MafDb.gnomADex.r2.1.hs37d5",
         "GenomicScores"
     ],
-    "ArrayExpress": [],
-    "ArrayExpressHTS": [],
     "arrayMvout": [],
-    "ASICS": [],
     "ASpediaFI": [
         "ROCR",
         "mGSZ"
@@ -77,15 +57,10 @@
         "ChIPpeakAnno",
         "GenomicScores"
     ],
-    "atSNP": [],
-    "autonomics": [
-        "assertive.sets"
-    ],
-    "BANDITS": [],
+    "autonomics": [],
     "banocc": [
         "rstan"
     ],
-    "basecallQC": [],
     "BASiCS": [
         "scran",
         "scuttle"
@@ -98,22 +73,17 @@
         "scran",
         "scuttle"
     ],
-    "BEAT": [],
     "benchdamic": [
         "Seurat",
         "ffpe",
-        "ROCR",
-        "uwot",
-        "ROI.plugin.lpsolve"
+        "ROCR"
     ],
     "bigmelon": [
         "wateRmelon"
     ],
     "bioCancer": [
-        "radiant.data",
         "cgdsr",
-        "clusterProfiler",
-        "ReactomePA"
+        "clusterProfiler"
     ],
     "BiocOncoTK": [
         "curatedTCGAData",
@@ -122,10 +92,7 @@
     "BioMM": [
         "readbitmap"
     ],
-    "BioNERO": [
-        "NetRep"
-    ],
-    "biosigner": [],
+    "BioNERO": [],
     "biotmle": [
         "ROCR"
     ],
@@ -133,15 +100,13 @@
         "biscuiteerData",
         "dmrseq",
         "ExperimentHub",
-        "annotatr",
-        "snowfall"
+        "annotatr"
     ],
     "blacksheepr": [],
     "BloodGen3Module": [
         "ExperimentHub"
     ],
     "bnem": [
-        "snowfall",
         "epiNEM",
         "mnem",
         "Linnorm"
@@ -149,18 +114,11 @@
     "brainflowprobes": [
         "GenomicState"
     ],
-    "branchpointer": [
-        "ModelMetrics"
-    ],
+    "branchpointer": [],
     "BubbleTree": [],
-    "BUS": [],
     "CAGEfightR": [],
     "cageminer": [
-        "BioNERO",
-        "NetRep"
-    ],
-    "CAMERA": [
-        "xcms"
+        "BioNERO"
     ],
     "canceR": [
         "cgdsr"
@@ -168,10 +126,6 @@
     "CancerSubtypes": [
         "iCluster"
     ],
-    "Cardinal": [
-        "matter"
-    ],
-    "casper": [],
     "CATALYST": [
         "FlowSOM",
         "scater",
@@ -184,27 +138,21 @@
     ],
     "cBioPortalData": [],
     "celda": [
-        "uwot",
-        "MCMCprecision",
         "scater",
         "scran",
         "scuttle"
     ],
-    "CellBarcode": [],
-    "cellHTS2": [],
     "CelliD": [
         "Seurat",
         "scater",
         "scuttle",
-        "ROCR",
-        "uwot"
+        "ROCR"
     ],
     "cellmigRation": [],
     "CellMixS": [
         "scater",
         "scuttle"
     ],
-    "CellScore": [],
     "cellTree": [
         "topicmodels"
     ],
@@ -219,12 +167,7 @@
     "CeTF": [
         "clusterProfiler"
     ],
-    "CGHcall": [
-        "snowfall"
-    ],
-    "CGHnormaliter": [
-        "snowfall"
-    ],
+    "CGHnormaliter": [],
     "ChAMP": [
         "DMRcate",
         "wateRmelon",
@@ -232,11 +175,8 @@
         "ExperimentHub"
     ],
     "ChIC": [
-        "spp",
-        "ChIC.data",
-        "ModelMetrics"
+        "ChIC.data"
     ],
-    "chimeraviz": [],
     "ChIPanalyser": [
         "ROCR"
     ],
@@ -245,9 +185,6 @@
         "DiffBind",
         "systemPipeR"
     ],
-    "chipseq": [],
-    "ChIPseqR": [],
-    "ChIPsim": [],
     "ChIPXpress": [
         "ChIPXpressData"
     ],
@@ -256,29 +193,18 @@
         "scater",
         "scuttle"
     ],
-    "chromVAR": [
-        "TFBSTools"
-    ],
+    "chromVAR": [],
     "cicero": [],
-    "CIMICE": [],
     "CINdex": [],
     "CiteFuse": [
-        "uwot",
         "scran",
         "scuttle"
     ],
-    "ClassifyR": [],
     "clipper": [
         "qpgraph"
     ],
-    "cliqueMS": [
-        "xcms"
-    ],
-    "clusterExperiment": [
-        "mbkmeans"
-    ],
+    "clusterExperiment": [],
     "clusterProfiler": [],
-    "cn.farms": [],
     "CNVfilteR": [
         "CopyNumberPlots"
     ],
@@ -298,9 +224,7 @@
         "clusterProfiler",
         "scuttle"
     ],
-    "condiments": [
-        "ModelMetrics"
-    ],
+    "condiments": [],
     "CONFESS": [
         "readbitmap"
     ],
@@ -311,18 +235,10 @@
     "conumee": [],
     "CopyNumberPlots": [],
     "CopywriteR": [],
-    "CoreGx": [],
-    "corral": [],
-    "coseq": [],
-    "cosmiq": [
-        "xcms"
-    ],
     "crisprseekplus": [
         "GUIDEseq",
         "ChIPpeakAnno"
     ],
-    "crlmm": [],
-    "crossmeta": [],
     "ctgGEM": [
         "TSCAN"
     ],
@@ -330,51 +246,38 @@
     "cummeRbund": [],
     "customCMPdb": [],
     "cyanoFilter": [
-        "flowDensity",
-        "mrfDepth",
-        "MBA"
+        "flowDensity"
     ],
-    "cydar": [],
     "CyTOFpower": [
         "CytoGLMM",
         "diffcyt",
         "FlowSOM",
-        "ModelMetrics",
         "openCyto"
     ],
-    "CytoGLMM": [
-        "ModelMetrics"
-    ],
+    "CytoGLMM": [],
     "cytoKernel": [],
     "CytoML": [
         "openCyto"
     ],
     "CytoTree": [
         "FlowSOM",
-        "VIM",
         "openCyto"
     ],
-    "dada2": [],
     "dagLogo": [],
     "DaMiRseq": [
-        "EDASeq",
-        "ModelMetrics"
+        "EDASeq"
     ],
     "DAPAR": [
-        "clusterProfiler",
-        "tidyverse"
+        "clusterProfiler"
     ],
     "dce": [
-        "tidyverse",
         "CombinePValue",
         "epiNEM",
         "mnem",
-        "snowfall",
         "Linnorm"
     ],
     "ddPCRclust": [
-        "flowDensity",
-        "MBA"
+        "flowDensity"
     ],
     "dearseq": [],
     "debrowser": [
@@ -383,12 +286,7 @@
     "deco": [
         "made4"
     ],
-    "deconvR": [
-        "methylKit"
-    ],
     "DeepPINCS": [
-        "rcdk",
-        "tokenizers",
         "ttgsea"
     ],
     "DEGreport": [
@@ -398,9 +296,6 @@
         "ChIPpeakAnno"
     ],
     "DEsingle": [],
-    "destiny": [
-        "VIM"
-    ],
     "DExMA": [
         "swamp"
     ],
@@ -411,13 +306,11 @@
         "FlowSOM",
         "openCyto"
     ],
-    "diggit": [],
     "Dino": [
         "Seurat",
         "scran",
         "scuttle",
-        "ROCR",
-        "uwot"
+        "ROCR"
     ],
     "distinct": [
         "scater",
@@ -430,7 +323,6 @@
     "dmrseq": [
         "annotatr"
     ],
-    "DNABarcodeCompatibility": [],
     "DropletUtils": [
         "scuttle"
     ],
@@ -442,7 +334,6 @@
         "ROCR",
         "ExperimentHub"
     ],
-    "easyRNASeq": [],
     "EDASeq": [],
     "edge": [
         "jackstraw"
@@ -451,14 +342,9 @@
         "clusterProfiler"
     ],
     "EGAD": [],
-    "eiR": [
-        "snowfall"
-    ],
-    "ELMER": [],
-    "EMDomics": [],
+    "eiR": [],
     "enhancerHomologSearch": [
-        "motifmatchr",
-        "TFBSTools"
+        "motifmatchr"
     ],
     "EnMCB": [],
     "ENmix": [
@@ -466,16 +352,13 @@
     ],
     "enrichTF": [
         "motifmatchr",
-        "TFBSTools",
         "clusterProfiler"
     ],
     "epihet": [
-        "EntropyExplorer",
-        "ReactomePA"
+        "EntropyExplorer"
     ],
     "epiNEM": [
         "mnem",
-        "snowfall",
         "Linnorm"
     ],
     "epivizrStandalone": [],
@@ -484,10 +367,8 @@
     ],
     "esATAC": [
         "clusterProfiler",
-        "TFBSTools",
         "motifmatchr"
     ],
-    "evaluomeR": [],
     "EWCE": [
         "ewceData",
         "ExperimentHub"
@@ -506,7 +387,6 @@
         "clusterProfiler"
     ],
     "FastqCleaner": [],
-    "fCCAC": [],
     "fcoex": [
         "clusterProfiler"
     ],
@@ -515,9 +395,6 @@
         "ROCR"
     ],
     "ffpe": [],
-    "flagme": [
-        "xcms"
-    ],
     "FLAMES": [
         "scater",
         "scuttle"
@@ -526,48 +403,28 @@
     "flowCL": [
         "SPARQL"
     ],
-    "flowClust": [],
     "flowCut": [
-        "flowDensity",
-        "MBA"
+        "flowDensity"
     ],
-    "flowDensity": [
-        "MBA"
-    ],
-    "flowFP": [],
-    "flowMeans": [],
-    "flowMerge": [],
+    "flowDensity": [],
     "flowPloidy": [],
     "FlowSOM": [
         "openCyto"
     ],
-    "flowSpecs": [],
-    "flowStats": [],
-    "flowTrans": [],
     "flowVS": [],
     "fmcsR": [],
-    "FRGEpistasis": [],
-    "frma": [],
-    "FunChIP": [],
     "funtooNorm": [],
     "GARS": [
         "DaMiRseq",
         "MLSeq",
-        "EDASeq",
-        "ModelMetrics"
+        "EDASeq"
     ],
     "GateFinder": [],
-    "gcatest": [],
     "GDCRNATools": [
         "clusterProfiler"
     ],
-    "GeneAccord": [],
     "GeneAnswers": [],
-    "GeneBreak": [
-        "snowfall"
-    ],
-    "geNetClassifier": [],
-    "geneXtendeR": [],
+    "GeneBreak": [],
     "GenomicOZone": [],
     "GenomicScores": [],
     "genphen": [
@@ -582,67 +439,38 @@
     "GeomxTools": [],
     "gespeR": [],
     "ggmsa": [],
-    "GGPA": [],
     "ggspavis": [
         "SpatialExperiment",
         "scuttle"
     ],
-    "girafe": [],
-    "GISPA": [
-        "Rmpfr"
-    ],
-    "GladiaTOX": [],
+    "GISPA": [],
     "glmSparseNet": [
         "sparsebn",
         "loose.rock"
     ],
-    "GOTHiC": [],
     "gpart": [],
     "gprege": [
         "gptk"
     ],
-    "gpuMagic": [],
     "graper": [],
-    "GraphPAC": [],
     "GSCA": [],
     "gscreend": [],
     "GSEABenchmarkeR": [
         "ExperimentHub"
     ],
-    "GSEAmining": [
-        "tokenizers"
-    ],
+    "GSEAmining": [],
     "gsean": [
         "PPInfer"
     ],
-    "GSgalgoR": [
-        "nsga2R"
-    ],
-    "GSReg": [],
-    "GSRI": [],
     "GUIDEseq": [
         "ChIPpeakAnno"
     ],
-    "GWAS.BAYES": [
-        "ModelMetrics"
-    ],
-    "gwascat": [],
-    "GWENA": [
-        "NetRep"
-    ],
-    "HiCcompare": [
-        "snowfall"
-    ],
+    "GWAS.BAYES": [],
+    "HiCcompare": [],
     "HiCDCPlus": [],
     "hipathia": [],
-    "HPiP": [
-        "ModelMetrics"
-    ],
-    "HTqPCR": [],
-    "HubPub": [
-        "tokenizers"
-    ],
-    "icetea": [],
+    "HPiP": [],
+    "HubPub": [],
     "iCheck": [],
     "iCOBRA": [
         "ROCR"
@@ -650,7 +478,6 @@
     "IgGeneUsage": [
         "rstan"
     ],
-    "ILoReg": [],
     "imageHTS": [],
     "imcRtools": [
         "SpatialExperiment",
@@ -658,19 +485,8 @@
     ],
     "IMMAN": [],
     "ImmuneSpaceR": [],
-    "infinityFlow": [
-        "uwot"
-    ],
-    "intansv": [],
-    "interactiveDisplay": [],
-    "IntEREst": [],
-    "InterMineR": [],
-    "IONiseR": [],
-    "iPath": [],
+    "infinityFlow": [],
     "ipdDb": [],
-    "IPO": [
-        "xcms"
-    ],
     "IRISFGM": [
         "DEsingle",
         "Seurat",
@@ -678,11 +494,9 @@
         "scater",
         "scran",
         "scuttle",
-        "ROCR",
-        "uwot"
+        "ROCR"
     ],
     "ISAnalytics": [],
-    "iSEEu": [],
     "IsoformSwitchAnalyzeR": [
         "tximeta"
     ],
@@ -691,29 +505,20 @@
     ],
     "isomiRs": [
         "DiscriMiner",
-        "assertive.sets",
         "DEGreport",
         "lasso2"
     ],
     "ITALICS": [
         "pd.mapping50k.xba240"
     ],
-    "IWTomics": [],
-    "KinSwingR": [],
     "kissDE": [],
-    "KnowSeq": [
-        "ModelMetrics"
-    ],
+    "KnowSeq": [],
     "LedPred": [
         "ROCR"
     ],
-    "levi": [],
     "limmaGUI": [],
     "Linnorm": [],
     "lipidr": [],
-    "LOBSTAHS": [
-        "xcms"
-    ],
     "LowMACA": [
         "cgdsr"
     ],
@@ -724,8 +529,7 @@
         "rstan"
     ],
     "m6Aboost": [
-        "ExperimentHub",
-        "ModelMetrics"
+        "ExperimentHub"
     ],
     "Maaslin2": [],
     "MACPET": [],
@@ -739,45 +543,23 @@
     "MAGeCKFlute": [
         "clusterProfiler"
     ],
-    "MAI": [
-        "tidyverse",
-        "ModelMetrics"
-    ],
-    "MAIT": [
-        "xcms",
-        "ModelMetrics"
-    ],
-    "mAPKL": [],
+    "MAI": [],
+    "MAIT": [],
     "maPredictDSC": [
-        "ROCR",
-        "ModelMetrics"
+        "ROCR"
     ],
-    "massiR": [],
-    "MatrixRider": [
-        "TFBSTools"
-    ],
-    "matter": [],
-    "mbkmeans": [],
-    "mBPCR": [],
+    "MatrixRider": [],
     "MEAL": [
         "missMethyl"
     ],
     "MEAT": [
         "wateRmelon"
     ],
-    "MEIGOR": [
-        "snowfall"
-    ],
     "Melissa": [
         "ROCR"
     ],
     "meshes": [],
-    "Metab": [
-        "xcms"
-    ],
-    "metabCombiner": [
-        "ModelMetrics"
-    ],
+    "metabCombiner": [],
     "metabomxtr": [
         "optimx"
     ],
@@ -789,9 +571,6 @@
     "metagene": [
         "muStat"
     ],
-    "metaMS": [
-        "xcms"
-    ],
     "metaseqR2": [
         "EDASeq"
     ],
@@ -799,9 +578,6 @@
         "epivizrStandalone"
     ],
     "MetaVolcanoR": [],
-    "methInheritSim": [
-        "methylKit"
-    ],
     "MethReg": [
         "sesameData",
         "ExperimentHub"
@@ -810,7 +586,6 @@
     "methylclock": [
         "methylclockData",
         "ExperimentHub",
-        "tidyverse",
         "ExperimentHubData",
         "AnnotationHubData"
     ],
@@ -818,11 +593,7 @@
         "clusterProfiler",
         "missMethyl"
     ],
-    "methylInheritance": [
-        "methylKit",
-        "rebus.numbers"
-    ],
-    "methylKit": [],
+    "methylInheritance": [],
     "methylSig": [],
     "mia": [
         "scuttle",
@@ -833,64 +604,36 @@
         "scater",
         "scuttle"
     ],
-    "microbiome": [],
     "microbiomeDASim": [],
-    "microbiomeExplorer": [],
-    "microbiomeMarker": [
-        "microbiome",
-        "ModelMetrics"
-    ],
+    "microbiomeMarker": [],
     "MicrobiomeProfiler": [
         "clusterProfiler"
     ],
-    "mimager": [],
     "MineICA": [],
-    "MinimumDistance": [],
-    "miRNAtap": [],
     "miRSM": [
         "miRspongeR",
-        "clusterProfiler",
-        "ReactomePA"
+        "clusterProfiler"
     ],
     "miRspongeR": [
-        "clusterProfiler",
-        "ReactomePA"
+        "clusterProfiler"
     ],
     "mirTarRnaSeq": [],
     "missMethyl": [],
-    "mistyR": [
-        "ModelMetrics"
-    ],
     "mitch": [],
-    "MLInterfaces": [],
-    "MLSeq": [
-        "ModelMetrics"
-    ],
+    "MLSeq": [],
     "MMUPHin": [
         "Maaslin2"
     ],
     "mnem": [
-        "snowfall",
         "Linnorm"
     ],
     "ModCon": [],
-    "MOFA2": [
-        "uwot"
-    ],
-    "monaLisa": [
-        "TFBSTools"
-    ],
+    "monaLisa": [],
     "MoonlightR": [
         "clusterProfiler"
     ],
     "motifbreakR": [],
-    "motifmatchr": [
-        "TFBSTools"
-    ],
-    "MouseFM": [],
-    "MsBackendMassbank": [],
-    "MsBackendMgf": [],
-    "MsBackendRawFileReader": [],
+    "motifmatchr": [],
     "msgbsR": [],
     "MSGFgui": [
         "MSGFplus"
@@ -904,76 +647,49 @@
     "MSnID": [
         "msmsTests"
     ],
-    "MSPrep": [
-        "VIM"
-    ],
     "msqrob2": [],
     "MSstatsLiP": [
-        "MSstatsPTM",
-        "tidyverse"
+        "MSstatsPTM"
     ],
     "MSstatsPTM": [],
     "MSstatsQC": [],
     "MSstatsQCgui": [
         "MSstatsQC"
     ],
-    "MSstatsSampleSize": [
-        "ModelMetrics"
-    ],
-    "MultiBaC": [],
-    "multicrispr": [
-        "assertive.sets"
-    ],
+    "MSstatsSampleSize": [],
+    "multicrispr": [],
     "multiHiCcompare": [
-        "HiCcompare",
-        "snowfall"
+        "HiCcompare"
     ],
     "multiSight": [
-        "clusterProfiler",
-        "ReactomePA",
-        "ModelMetrics"
+        "clusterProfiler"
     ],
     "mumosa": [
         "scuttle",
-        "scran",
-        "uwot"
+        "scran"
     ],
     "muscat": [
         "scater",
         "scuttle"
     ],
     "musicatk": [
-        "MCMCprecision",
-        "uwot",
         "topicmodels"
     ],
-    "mygene": [],
     "NADfinder": [
-        "trackViewer",
         "ATACseqQC",
         "ChIPpeakAnno",
         "GenomicScores"
     ],
-    "NanoMethViz": [],
-    "nanotatoR": [
-        "tidyverse"
-    ],
     "NBSplice": [
         "mppa"
     ],
-    "ncGTW": [
-        "xcms"
-    ],
-    "nearBynding": [],
     "Nebulosa": [
         "Seurat",
-        "ROCR",
-        "uwot"
+        "ROCR"
     ],
     "nempi": [
         "mnem",
         "epiNEM",
-        "snowfall",
         "Linnorm"
     ],
     "netboxr": [
@@ -983,32 +699,23 @@
         "ROCR"
     ],
     "nethet": [],
-    "netOmics": [],
     "netresponse": [
         "dmt"
     ],
     "netSmooth": [
         "scater",
         "clusterExperiment",
-        "mbkmeans",
         "scuttle"
     ],
     "networkBMA": [],
     "NewWave": [],
     "ngsReports": [],
-    "nondetects": [
-        "HTqPCR"
-    ],
-    "NoRCE": [],
-    "NormqPCR": [],
+    "nondetects": [],
     "NPARC": [],
-    "nucleR": [],
-    "nullranges": [],
     "NxtIRFcore": [
         "NxtIRFdata",
         "ExperimentHub"
     ],
-    "oligo": [],
     "omicade4": [
         "made4"
     ],
@@ -1019,19 +726,12 @@
     "OMICsPCA": [],
     "ontoProc": [],
     "openCyto": [],
-    "OpenStats": [
-        "summarytools"
-    ],
     "optimalFlow": [],
-    "orthogene": [],
-    "OTUbase": [],
-    "OVESEG": [],
     "PAA": [
         "ROCR"
     ],
     "pageRank": [
-        "motifmatchr",
-        "TFBSTools"
+        "motifmatchr"
     ],
     "PanVizGenerator": [
         "FindMyFriends"
@@ -1039,10 +739,7 @@
     "PathoStat": [
         "ROCR"
     ],
-    "PCAN": [],
-    "PDATK": [
-        "ModelMetrics"
-    ],
+    "PDATK": [],
     "pdInfoBuilder": [],
     "PeacoQC": [],
     "PECA": [
@@ -1058,61 +755,45 @@
     "PharmacoGx": [],
     "phemd": [
         "Seurat",
-        "VIM",
-        "ROCR",
-        "uwot"
+        "ROCR"
     ],
-    "PhIPData": [],
     "PhyloProfile": [
         "ExperimentHub"
     ],
     "Pi": [
-        "ROCR",
-        "ModelMetrics"
+        "ROCR"
     ],
     "Pigengene": [
-        "clusterProfiler",
-        "ReactomePA"
+        "clusterProfiler"
     ],
     "PING": [],
     "pipeComp": [
         "Seurat",
         "scran",
         "scater",
-        "uwot",
         "scuttle",
         "ROCR"
     ],
     "plethy": [
         "Streamer"
     ],
-    "pmp": [],
     "PoDCall": [],
     "pogos": [
         "ontoProc"
     ],
-    "POMA": [
-        "ModelMetrics",
-        "Rmpfr"
-    ],
+    "POMA": [],
     "ppcseq": [
         "rstan"
     ],
     "PPInfer": [],
-    "preciseTAD": [
-        "ModelMetrics"
-    ],
+    "preciseTAD": [],
     "PrecisionTrialDrawer": [
         "cgdsr"
     ],
     "predictionet": [],
     "primirTSS": [
         "phastCons100way.UCSC.hg38",
-        "GenomicScores",
-        "TFBSTools"
-    ],
-    "proFIA": [
-        "xcms"
+        "GenomicScores"
     ],
     "profileplyr": [
         "soGGi"
@@ -1120,18 +801,13 @@
     "projectR": [
         "ROCR"
     ],
-    "pRoloc": [
-        "ModelMetrics"
-    ],
+    "pRoloc": [],
     "pRolocGUI": [
-        "pRoloc",
-        "ModelMetrics"
+        "pRoloc"
     ],
-    "PROPER": [],
     "Prostar": [
         "DAPAR",
-        "clusterProfiler",
-        "tidyverse"
+        "clusterProfiler"
     ],
     "ProteomicsAnnotationHubData": [
         "AnnotationHubData"
@@ -1146,49 +822,31 @@
         "pwrEWAS.data",
         "ExperimentHub"
     ],
-    "QDNAseq": [
-        "snowfall"
-    ],
     "qpgraph": [],
     "qrqc": [],
-    "qsea": [],
     "QuartPAC": [],
     "QuasR": [],
-    "r3Cseq": [],
-    "R453Plus1Toolbox": [],
     "RadioGx": [],
     "ramr": [
         "optimx"
-    ],
-    "RankProd": [
-        "Rmpfr"
     ],
     "RareVariantVis": [
         "phastCons100way.UCSC.hg19",
         "GenomicScores"
     ],
     "Rbec": [],
-    "rcellminer": [],
     "RcisTarget": [],
     "Rcpi": [
-        "fmcsR",
-        "rcdk"
-    ],
-    "Rcwl": [],
-    "RcwlPipelines": [
-        "Rcwl"
+        "fmcsR"
     ],
     "RCyjs": [],
-    "ReactomePA": [],
     "recountmethylation": [],
     "REDseq": [
         "ChIPpeakAnno"
     ],
     "regionReport": [],
     "regutools": [],
-    "REMP": [
-        "ModelMetrics"
-    ],
+    "REMP": [],
     "ReportingTools": [],
     "restfulSE": [
         "ExperimentHub"
@@ -1207,21 +865,13 @@
         "EDASeq",
         "RUVSeq"
     ],
-    "RImmPort": [],
     "RIPAT": [],
-    "Risa": [
-        "xcms"
-    ],
     "RITAN": [],
     "RLSeq": [
-        "valr",
         "RLHub",
-        "ExperimentHub",
-        "ModelMetrics"
+        "ExperimentHub"
     ],
-    "RMassBank": [
-        "rcdk"
-    ],
+    "RMassBank": [],
     "RNAAgeCalc": [],
     "RNAinteract": [],
     "RNAmodR": [
@@ -1243,19 +893,13 @@
         "systemPipeR",
         "clusterProfiler"
     ],
-    "RnaSeqSampleSize": [],
-    "Rqc": [],
     "rqt": [],
-    "rrvgo": [],
     "RSVSim": [],
-    "RTN": [],
     "RTNduals": [],
     "RTNsurvival": [
         "RTNduals"
     ],
-    "RUVcorr": [
-        "snowfall"
-    ],
+    "RUVcorr": [],
     "RUVSeq": [
         "EDASeq"
     ],
@@ -1264,8 +908,7 @@
     ],
     "scAlign": [
         "Seurat",
-        "ROCR",
-        "uwot"
+        "ROCR"
     ],
     "SCAN.UPC": [],
     "scanMiR": [],
@@ -1275,9 +918,7 @@
     ],
     "scAnnotatR": [
         "Seurat",
-        "ROCR",
-        "ModelMetrics",
-        "uwot"
+        "ROCR"
     ],
     "SCANVIS": [],
     "SCATE": [
@@ -1289,25 +930,20 @@
     ],
     "scBFA": [
         "Seurat",
-        "ROCR",
-        "uwot"
+        "ROCR"
     ],
     "scCB2": [
         "Seurat",
         "scuttle",
-        "ROCR",
-        "uwot"
+        "ROCR"
     ],
     "scClassifR": [
         "Seurat",
-        "ROCR",
-        "ModelMetrics",
-        "uwot"
+        "ROCR"
     ],
     "scDataviz": [
         "Seurat",
-        "ROCR",
-        "uwot"
+        "ROCR"
     ],
     "scDblFinder": [
         "scran",
@@ -1319,18 +955,14 @@
         "scuttle"
     ],
     "scde": [],
-    "scGPS": [
-        "ModelMetrics"
-    ],
+    "scGPS": [],
     "schex": [
         "Seurat",
-        "ROCR",
-        "uwot"
+        "ROCR"
     ],
     "scMAGeCK": [
         "Seurat",
-        "ROCR",
-        "uwot"
+        "ROCR"
     ],
     "scmap": [],
     "scMerge": [
@@ -1344,10 +976,7 @@
         "RUVSeq",
         "EDASeq"
     ],
-    "SCOPE": [],
-    "scPCA": [
-        "sparsepca"
-    ],
+    "scPCA": [],
     "scPipe": [
         "scater",
         "scuttle"
@@ -1359,30 +988,25 @@
     "scruff": [],
     "scry": [],
     "scTensor": [
-        "ReactomePA",
         "Seurat",
-        "ROCR",
-        "uwot"
+        "ROCR"
     ],
     "scTGIF": [
         "Seurat",
-        "ROCR",
-        "uwot"
+        "ROCR"
     ],
     "scTreeViz": [
         "scran",
         "scater",
         "Seurat",
         "scuttle",
-        "ROCR",
-        "uwot"
+        "ROCR"
     ],
     "scuttle": [],
     "segmenter": [],
     "segmentSeq": [],
     "selectKSigs": [],
     "SEPIRA": [],
-    "seqsetvis": [],
     "SeqSQC": [
         "ExperimentHub"
     ],
@@ -1393,18 +1017,12 @@
     "shinyepico": [],
     "shinyMethyl": [],
     "SIAMCAT": [],
-    "SigCheck": [],
     "signatureSearch": [
         "ExperimentHub",
         "clusterProfiler"
     ],
-    "signeR": [
-        "Rmpfr"
-    ],
-    "SIMLR": [],
-    "simplifyEnrichment": [],
+    "signeR": [],
     "SingleCellSignalR": [
-        "SIMLR",
         "scran",
         "scuttle"
     ],
@@ -1421,8 +1039,6 @@
         "TENxPBMCData",
         "scDblFinder",
         "scuttle",
-        "uwot",
-        "MCMCprecision",
         "M3Drop",
         "rstan"
     ],
@@ -1436,7 +1052,6 @@
         "ScISI"
     ],
     "slinky": [],
-    "SMAD": [],
     "snapCGH": [],
     "soGGi": [],
     "sojourner": [
@@ -1447,8 +1062,7 @@
         "scater",
         "scran",
         "scuttle",
-        "ROCR",
-        "uwot"
+        "ROCR"
     ],
     "spatialDE": [
         "SpatialExperiment",
@@ -1465,26 +1079,21 @@
         "scuttle"
     ],
     "spatzie": [
-        "motifmatchr",
-        "TFBSTools"
+        "motifmatchr"
     ],
     "SpectralTAD": [
-        "HiCcompare",
-        "snowfall"
+        "HiCcompare"
     ],
     "SpidermiR": [
         "miRNAtap.db",
         "MAGeCKFlute",
         "clusterProfiler"
     ],
-    "spiky": [
-        "MBA"
-    ],
+    "spiky": [],
     "splatter": [
         "scater",
         "scuttle"
     ],
-    "splineTimeR": [],
     "sRACIPE": [],
     "ssPATHS": [
         "ROCR"
@@ -1500,37 +1109,24 @@
         "clusterProfiler"
     ],
     "Streamer": [],
-    "STRINGdb": [],
     "STROMA4": [],
-    "SubCellBarCode": [
-        "ModelMetrics"
-    ],
+    "SubCellBarCode": [],
     "SummarizedBenchmark": [],
-    "supersigs": [
-        "ModelMetrics"
-    ],
+    "supersigs": [],
     "svaNUMT": [],
-    "SwathXtend": [],
-    "synergyfinder": [
-        "tidyverse"
-    ],
-    "synlet": [
-        "Rmpfr"
-    ],
+    "synergyfinder": [],
+    "synlet": [],
     "systemPipeR": [],
     "systemPipeShiny": [
         "spsUtil"
     ],
     "TADCompare": [
-        "HiCcompare",
-        "snowfall"
+        "HiCcompare"
     ],
     "TargetSearch": [],
     "TCGAbiolinksGUI": [
-        "ELMER",
         "clusterProfiler",
         "sesame",
-        "ModelMetrics",
         "sesameData",
         "ExperimentHub"
     ],
@@ -1542,11 +1138,7 @@
         "ontoProc",
         "ExperimentHub"
     ],
-    "TEQC": [],
     "TFARM": [],
-    "TFBSTools": [],
-    "tilingArray": [],
-    "timeOmics": [],
     "TimiRGeN": [
         "clusterProfiler"
     ],
@@ -1558,14 +1150,9 @@
     ],
     "ToxicoGx": [],
     "tracktables": [],
-    "trackViewer": [],
     "tradeSeq": [],
-    "transcriptR": [
-        "ModelMetrics"
-    ],
-    "tRanslatome": [
-        "Rmpfr"
-    ],
+    "transcriptR": [],
+    "tRanslatome": [],
     "TraRe": [
         "vbsr"
     ],
@@ -1588,27 +1175,18 @@
     ],
     "TSCAN": [],
     "TSRchitect": [],
-    "ttgsea": [
-        "tokenizers"
-    ],
+    "ttgsea": [],
     "tximeta": [],
-    "Ularcirc": [],
-    "UMI4Cats": [],
     "uncoverappLib": [],
-    "unifiedWMWqPCR": [
-        "HTqPCR"
-    ],
+    "unifiedWMWqPCR": [],
     "uSORT": [],
     "VAExprs": [
         "scater",
         "gradDescent",
         "DeepPINCS",
-        "rcdk",
-        "tokenizers",
         "ttgsea",
         "scuttle"
     ],
-    "VanillaICE": [],
     "VariantFiltering": [
         "GenomicScores"
     ],
@@ -1620,7 +1198,6 @@
         "ExperimentHub"
     ],
     "VplotR": [],
-    "vtpnet": [],
     "vulcan": [
         "ChIPpeakAnno",
         "DiffBind",
@@ -1628,36 +1205,21 @@
     ],
     "wateRmelon": [],
     "weitrix": [],
-    "wpm": [],
-    "xcms": [],
     "Xeva": [
         "PharmacoGx"
     ],
     "XINA": [],
-    "YAPSA": [
-        "Rmpfr"
-    ],
+    "YAPSA": [],
     "ROCR": [],
     "ABAData": [],
-    "snowfall": [],
     "ffbase": [],
     "adductData": [
         "ExperimentHub"
     ],
-    "fpc": [],
     "optimx": [],
-    "speaq": [],
     "curatedTCGAData": [
         "ExperimentHub"
     ],
-    "caret": [
-        "ModelMetrics"
-    ],
-    "covr": [
-        "rex"
-    ],
-    "ModelMetrics": [],
-    "rex": [],
     "MafDb.1Kgenomes.phase3.hs37d5": [
         "GenomicScores"
     ],
@@ -1671,31 +1233,15 @@
         "ROCR"
     ],
     "mGSZ": [],
-    "assertive": [
-        "assertive.sets"
-    ],
-    "assertive.sets": [],
     "rstan": [],
-    "DirichletReg": [],
-    "corncob": [
-        "ROI.plugin.lpsolve"
-    ],
     "Seurat": [
-        "ROCR",
-        "uwot"
+        "ROCR"
     ],
-    "detectseparation": [
-        "ROI.plugin.lpsolve"
-    ],
-    "uwot": [],
-    "ROI.plugin.lpsolve": [],
-    "radiant.data": [],
     "cgdsr": [],
     "imager": [
         "readbitmap"
     ],
     "readbitmap": [],
-    "NetRep": [],
     "drtmle": [
         "ROCR"
     ],
@@ -1710,48 +1256,11 @@
     ],
     "GenomicState": [],
     "iCluster": [],
-    "ks": [],
-    "fda": [],
-    "fds": [],
-    "rainbow": [],
-    "hdrcde": [],
-    "MCMCprecision": [],
-    "SpatialTools": [],
     "topicmodels": [],
-    "GenomicTools": [],
-    "spp": [],
-    "ChIC.data": [
-        "ModelMetrics"
-    ],
-    "ashr": [],
+    "ChIC.data": [],
     "ChIPXpressData": [],
-    "phylobase": [],
     "colortools": [],
-    "Ecume": [
-        "ModelMetrics"
-    ],
-    "feature": [],
-    "faahKO": [
-        "xcms"
-    ],
-    "highcharter": [],
-    "mrfDepth": [],
-    "RFOC": [
-        "MBA"
-    ],
-    "GEOmap": [
-        "MBA"
-    ],
-    "MBA": [],
-    "VIM": [],
-    "imp4p": [],
-    "tidyverse": [],
     "CombinePValue": [],
-    "rcdk": [],
-    "tokenizers": [],
-    "textstem": [],
-    "koRpus.lang.en": [],
-    "quanteda": [],
     "lasso2": [],
     "swamp": [],
     "easierData": [
@@ -1765,20 +1274,9 @@
     "MPINet": [],
     "SPARQL": [],
     "FField": [],
-    "HH": [
-        "Rmpfr"
-    ],
-    "Rmpfr": [],
     "sparsebn": [],
     "loose.rock": [],
     "gptk": [],
-    "tidytext": [
-        "tokenizers"
-    ],
-    "nsga2R": [],
-    "available": [
-        "tokenizers"
-    ],
     "orQA": [],
     "DiscriMiner": [],
     "pd.mapping50k.xba240": [],
@@ -1787,9 +1285,6 @@
     ],
     "densEstBayes": [
         "rstan"
-    ],
-    "adabag": [
-        "ModelMetrics"
     ],
     "bigstatsr": [],
     "muStat": [],
@@ -1801,20 +1296,13 @@
         "ExperimentHub",
         "AnnotationHubData"
     ],
-    "rebus": [
-        "rebus.numbers"
-    ],
-    "rebus.numbers": [],
     "mppa": [],
-    "GeneNet": [],
     "dmt": [],
     "NxtIRFdata": [
         "ExperimentHub"
     ],
-    "summarytools": [],
     "FindMyFriends": [],
     "aroma.affymetrix": [],
-    "aroma.core": [],
     "phastCons100way.UCSC.hg38": [
         "GenomicScores"
     ],
@@ -1829,24 +1317,14 @@
         "GenomicScores"
     ],
     "rGenomeTracksData": [],
-    "valr": [],
-    "caretEnsemble": [
-        "ModelMetrics"
-    ],
     "RLHub": [
         "ExperimentHub"
     ],
-    "systemPipeRdata": [],
     "scanMiRData": [
         "scanMiR"
     ],
     "SCATEData": [
         "ExperimentHub"
-    ],
-    "sparsepca": [],
-    "nnTensor": [],
-    "PMCMRplus": [
-        "Rmpfr"
     ],
     "celldex": [
         "ExperimentHub"
@@ -1860,9 +1338,6 @@
     "ScISI": [],
     "sampSurf": [],
     "miRNAtap.db": [],
-    "bamlss": [
-        "MBA"
-    ],
     "MLmetrics": [
         "ROCR"
     ],
