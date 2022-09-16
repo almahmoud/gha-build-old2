@@ -1,4 +1,3 @@
-cellTree
 tximeta
 qpgraph
 GA4GHclient
