@@ -1139,8 +1139,7 @@
         "mlr3",
         "mlr3learners",
         "mlr3tuning",
-        "paradox",
-        "mlr3measures"
+        "paradox"
     ],
     "signatureSearch": [
         "ExperimentHub",
@@ -1503,21 +1502,17 @@
     ],
     "cvTools": [],
     "mlr3": [
-        "mlr3measures",
         "paradox"
     ],
     "mlr3learners": [
         "mlr3",
-        "paradox",
-        "mlr3measures"
+        "paradox"
     ],
     "mlr3tuning": [
         "mlr3",
-        "paradox",
-        "mlr3measures"
+        "paradox"
     ],
     "paradox": [],
-    "mlr3measures": [],
     "bbotk": [
         "paradox"
     ],
