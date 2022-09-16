@@ -616,9 +616,7 @@
     ],
     "gpuMagic": [],
     "graper": [],
-    "GraphPAC": [
-        "RMallow"
-    ],
+    "GraphPAC": [],
     "GSCA": [],
     "gscreend": [],
     "GSEABenchmarkeR": [
@@ -1174,9 +1172,7 @@
     "qpgraph": [],
     "qrqc": [],
     "qsea": [],
-    "QuartPAC": [
-        "RMallow"
-    ],
+    "QuartPAC": [],
     "QuasR": [],
     "r3Cseq": [],
     "R453Plus1Toolbox": [],
@@ -1812,7 +1808,6 @@
     "sparsebn": [],
     "loose.rock": [],
     "gptk": [],
-    "RMallow": [],
     "tidytext": [
         "tokenizers"
     ],
