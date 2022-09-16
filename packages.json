@@ -453,7 +453,6 @@
         "piano"
     ],
     "corral": [
-        "pals",
         "transport"
     ],
     "coseq": [
@@ -2658,7 +2657,6 @@
     "feature": [
         "plot3D"
     ],
-    "pals": [],
     "HTSCluster": [],
     "faahKO": [
         "xcms"
