@@ -616,7 +616,6 @@
         "loose.rock"
     ],
     "GOTHiC": [],
-    "GPA": [],
     "gpart": [],
     "gprege": [
         "gptk"
@@ -1456,7 +1455,6 @@
         "scMerge",
         "scran",
         "Seurat",
-        "SingleR",
         "celda",
         "scRNAseq",
         "TENxPBMCData",
@@ -1470,7 +1468,6 @@
     "SingleMoleculeFootprinting": [
         "QuasR"
     ],
-    "SingleR": [],
     "skewr": [
         "wateRmelon"
     ],
