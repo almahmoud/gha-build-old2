@@ -1,4 +1,3 @@
-seqCAT
 Rcpi
 BEclear
 SigsPack
