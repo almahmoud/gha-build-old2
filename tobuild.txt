@@ -1,4 +1,3 @@
-lineagespot
 snapCGH
 XINA
 rdist
