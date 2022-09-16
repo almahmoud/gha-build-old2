@@ -1,4 +1,3 @@
-cTRAP
 TSRchitect
 ACE
 RRHO
