@@ -840,7 +840,6 @@
     "iCOBRA": [
         "ROCR"
     ],
-    "ideal": [],
     "IgGeneUsage": [
         "StanHeaders",
         "rstan"
