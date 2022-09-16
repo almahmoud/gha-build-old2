@@ -378,8 +378,7 @@
     ],
     "DAPAR": [
         "clusterProfiler",
-        "tidyverse",
-        "missMDA"
+        "tidyverse"
     ],
     "dce": [
         "tidyverse",
@@ -1179,8 +1178,7 @@
     "Prostar": [
         "DAPAR",
         "clusterProfiler",
-        "tidyverse",
-        "missMDA"
+        "tidyverse"
     ],
     "ProteomicsAnnotationHubData": [
         "AnnotationHubData"
@@ -1832,11 +1830,8 @@
     "MBA": [],
     "VIM": [],
     "plsVarSel": [],
-    "imp4p": [
-        "missMDA"
-    ],
+    "imp4p": [],
     "tidyverse": [],
-    "missMDA": [],
     "CombinePValue": [],
     "rcdk": [],
     "tokenizers": [],
