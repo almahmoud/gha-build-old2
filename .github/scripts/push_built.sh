@@ -3,7 +3,7 @@ set -xe
 git pull origin main || git reset --hard origin/main
 
 PKG=$1
-sed -i 's/claimed/built/g' "lists/$PKG"
+sed -i 's/runidpushed/built/g' "lists/$PKG"
 git add lists
 #cp /tmp/tars/*.tar.gz tars/
 mkdir -p logs/
