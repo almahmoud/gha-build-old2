@@ -558,9 +558,7 @@
         "TFBSTools"
     ],
     "CHRONOS": [],
-    "cicero": [
-        "monocle"
-    ],
+    "cicero": [],
     "CIMICE": [
         "maftools"
     ],
@@ -726,7 +724,6 @@
     "CSSQ": [],
     "CTDquerier": [],
     "ctgGEM": [
-        "monocle",
         "sincell",
         "TSCAN"
     ],
@@ -2021,7 +2018,6 @@
     "monaLisa": [
         "TFBSTools"
     ],
-    "monocle": [],
     "MoonlightR": [
         "clusterProfiler"
     ],
@@ -2396,7 +2392,6 @@
         "piano"
     ],
     "phemd": [
-        "monocle",
         "Seurat",
         "transport",
         "VIM",
@@ -3485,7 +3480,6 @@
     "Uniquorn": [],
     "universalmotif": [],
     "uSORT": [
-        "monocle",
         "prabclus"
     ],
     "VAExprs": [
