@@ -729,7 +729,6 @@
         "MBA"
     ],
     "flowFP": [],
-    "flowMatch": [],
     "flowMeans": [
         "plot3D"
     ],
@@ -1970,7 +1969,6 @@
     "signeR": [
         "Rmpfr"
     ],
-    "SimFFPE": [],
     "SIMLR": [],
     "simplifyEnrichment": [
         "tm"
