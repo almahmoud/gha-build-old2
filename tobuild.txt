@@ -1,4 +1,3 @@
-BioQC
 FISHalyseR
 MetaNeighbor
 extRemes
