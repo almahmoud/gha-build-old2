@@ -1,4 +1,3 @@
-CopywriteR
 idr2d
 aroma.affymetrix
 BUSpaRse
