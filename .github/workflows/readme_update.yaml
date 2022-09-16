@@ -6,13 +6,12 @@ on:
     - cron: '*/5 * * * *'
 
 jobs:
-  build:
+  readme:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
 
-      - name: Initialize if necessary then claim package
-        id: claim
+      - name: Update README and push
         uses: nick-fields/retry@v2
         with:
           timeout_minutes: 10
