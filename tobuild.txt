@@ -1,4 +1,3 @@
-rstan
 biodbNci
 puma
 funtooNorm
