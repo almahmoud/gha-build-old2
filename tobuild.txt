@@ -1,4 +1,3 @@
-MCbiclust
 SNPhood
 dagLogo
 MACPET
