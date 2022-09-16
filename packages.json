@@ -364,9 +364,7 @@
         "Linnorm",
         "prabclus"
     ],
-    "BPRMeth": [
-        "plotmo"
-    ],
+    "BPRMeth": [],
     "BRAIN": [],
     "brainflowprobes": [
         "derfinderPlot",
@@ -1954,8 +1952,7 @@
         "snowfall"
     ],
     "Melissa": [
-        "ROCR",
-        "plotmo"
+        "ROCR"
     ],
     "memes": [
         "R.utils"
@@ -4288,10 +4285,7 @@
     "ggm": [],
     "vcd": [],
     "gdata": [],
-    "earth": [
-        "plotmo"
-    ],
-    "plotmo": [],
+    "earth": [],
     "PolynomF": [],
     "GenomicState": [
         "interactiveDisplayBase"
