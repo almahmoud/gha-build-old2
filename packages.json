@@ -1489,9 +1489,7 @@
         "biocthis",
         "tokenizers"
     ],
-    "HumanTranscriptomeCompendium": [
-        "ssrch"
-    ],
+    "HumanTranscriptomeCompendium": [],
     "hummingbird": [],
     "HybridMTest": [],
     "hypeR": [],
@@ -3233,7 +3231,6 @@
     "ssPATHS": [
         "ROCR"
     ],
-    "ssrch": [],
     "ssviz": [],
     "stageR": [],
     "STAN": [],
