@@ -1589,7 +1589,6 @@
     ],
     "trena": [
         "RMySQL",
-        "lassopv",
         "vbsr"
     ],
     "tricycle": [
@@ -1896,7 +1895,6 @@
     "spsUtil": [],
     "GenKern": [],
     "vbsr": [],
-    "lassopv": [],
     "gradDescent": [],
     "msigdb": [
         "ExperimentHub"
