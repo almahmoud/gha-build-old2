@@ -814,7 +814,6 @@
     "nnSVG": [
         "SpatialExperiment",
         "BRISC",
-        "rdist",
         "scuttle"
     ],
     "nondetects": [],
@@ -1472,10 +1471,7 @@
     "rearrr": [],
     "bayestestR": [],
     "mppa": [],
-    "BRISC": [
-        "rdist"
-    ],
-    "rdist": [],
+    "BRISC": [],
     "NxtIRFdata": [
         "ExperimentHub"
     ],
