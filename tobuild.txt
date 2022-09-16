@@ -1,4 +1,3 @@
-ternarynet
 Polychrome
 mgsa
 Rmpfr
