@@ -1,0 +1,29 @@
+* installing *source* package ‘pqsfinder’ ...
+** using staged installation
+** libs
+g++ -std=gnu++11 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/__w/gha-build/gha-build/built/Rcpp/include' -I'/__w/gha-build/gha-build/built/BH/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c RcppExports.cpp -o RcppExports.o
+g++ -std=gnu++11 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/__w/gha-build/gha-build/built/Rcpp/include' -I'/__w/gha-build/gha-build/built/BH/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c pqsfinder.cpp -o pqsfinder.o
+g++ -std=gnu++11 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/__w/gha-build/gha-build/built/Rcpp/include' -I'/__w/gha-build/gha-build/built/BH/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c boost_regex/regex.cpp -o boost_regex/regex.o
+g++ -std=gnu++11 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/__w/gha-build/gha-build/built/Rcpp/include' -I'/__w/gha-build/gha-build/built/BH/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c boost_regex/posix_api.cpp -o boost_regex/posix_api.o
+g++ -std=gnu++11 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/__w/gha-build/gha-build/built/Rcpp/include' -I'/__w/gha-build/gha-build/built/BH/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c boost_regex/wide_posix_api.cpp -o boost_regex/wide_posix_api.o
+g++ -std=gnu++11 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/__w/gha-build/gha-build/built/Rcpp/include' -I'/__w/gha-build/gha-build/built/BH/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c boost_regex/regex_debug.cpp -o boost_regex/regex_debug.o
+g++ -std=gnu++11 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/__w/gha-build/gha-build/built/Rcpp/include' -I'/__w/gha-build/gha-build/built/BH/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c boost_regex/static_mutex.cpp -o boost_regex/static_mutex.o
+mkdir -p "/__w/gha-build/gha-build/built/00LOCK-pqsfinder/00new/pqsfinder/lib"
+ar rs "/__w/gha-build/gha-build/built/00LOCK-pqsfinder/00new/pqsfinder/lib/libboost_regex.a" boost_regex/regex.o boost_regex/posix_api.o boost_regex/wide_posix_api.o boost_regex/regex_debug.o boost_regex/static_mutex.o
+ar: creating /__w/gha-build/gha-build/built/00LOCK-pqsfinder/00new/pqsfinder/lib/libboost_regex.a
+g++ -std=gnu++11 -shared -L/usr/local/lib/R/lib -L/usr/local/lib -o pqsfinder.so RcppExports.o pqsfinder.o /__w/gha-build/gha-build/built/00LOCK-pqsfinder/00new/pqsfinder/lib/libboost_regex.a -L/usr/local/lib/R/lib -lR
+installing to /__w/gha-build/gha-build/built/00LOCK-pqsfinder/00new/pqsfinder/libs
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘pqsfinder’ as ‘pqsfinder_2.12.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (pqsfinder)
