@@ -1,4 +1,3 @@
-FISHalyseR
 MetaNeighbor
 extRemes
 alsace
