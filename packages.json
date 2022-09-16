@@ -1055,8 +1055,7 @@
     "pdInfoBuilder": [],
     "PeacoQC": [],
     "PECA": [
-        "aroma.affymetrix",
-        "R.rsp"
+        "aroma.affymetrix"
     ],
     "peco": [
         "scater",
@@ -1561,8 +1560,7 @@
         "clusterProfiler"
     ],
     "TIN": [
-        "aroma.affymetrix",
-        "R.rsp"
+        "aroma.affymetrix"
     ],
     "tofsims": [
         "alsace"
@@ -1831,13 +1829,8 @@
     ],
     "summarytools": [],
     "FindMyFriends": [],
-    "aroma.affymetrix": [
-        "R.rsp"
-    ],
-    "aroma.core": [
-        "R.rsp"
-    ],
-    "R.rsp": [],
+    "aroma.affymetrix": [],
+    "aroma.core": [],
     "phastCons100way.UCSC.hg38": [
         "GenomicScores"
     ],
