@@ -388,8 +388,7 @@
     ],
     "CluMSID": [],
     "clusterExperiment": [
-        "mbkmeans",
-        "rncl"
+        "mbkmeans"
     ],
     "clusterProfiler": [],
     "cn.farms": [
@@ -1531,8 +1530,7 @@
         "scater",
         "clusterExperiment",
         "mbkmeans",
-        "scuttle",
-        "rncl"
+        "scuttle"
     ],
     "networkBMA": [],
     "NewWave": [
@@ -2633,10 +2631,7 @@
     "ChIPXpressData": [],
     "rlist": [],
     "nabor": [],
-    "phylobase": [
-        "rncl"
-    ],
-    "rncl": [],
+    "phylobase": [],
     "colortools": [],
     "Ecume": [
         "transport",
