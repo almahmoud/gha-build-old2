@@ -1,4 +1,3 @@
-VennDetail
 scoreInvHap
 Pi
 EGSEA
