@@ -458,7 +458,6 @@
         "tokenizers",
         "ttgsea",
         "tm",
-        "stopwords",
         "sylly.en"
     ],
     "DEGreport": [
@@ -1940,7 +1939,6 @@
     "ttgsea": [
         "tm",
         "tokenizers",
-        "stopwords",
         "sylly.en"
     ],
     "tximeta": [],
@@ -1966,7 +1964,6 @@
         "ttgsea",
         "scuttle",
         "tm",
-        "stopwords",
         "sylly.en"
     ],
     "VanillaICE": [],
@@ -1981,8 +1978,7 @@
         "tm",
         "msigdb",
         "ExperimentHub",
-        "sylly.en",
-        "stopwords"
+        "sylly.en"
     ],
     "VplotR": [],
     "vtpnet": [],
@@ -2160,16 +2156,12 @@
     "rcdk": [],
     "tokenizers": [],
     "textstem": [
-        "sylly.en",
-        "stopwords"
+        "sylly.en"
     ],
-    "stopwords": [],
     "koRpus.lang.en": [
         "sylly.en"
     ],
-    "quanteda": [
-        "stopwords"
-    ],
+    "quanteda": [],
     "sylly.en": [],
     "lasso2": [],
     "swamp": [],
