@@ -1,4 +1,3 @@
-DepecheR
 NanoMethViz
 PROPER
 VIM
