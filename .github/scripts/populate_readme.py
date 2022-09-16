@@ -42,7 +42,7 @@ failedheaders = ["Package", "Status", "Log"]
 with open("README.md", "w") as f:
     f.write("## Failed\n")
     f.write(tabulate(tables["Failed"], failedheaders, tablefmt="github"))
-    f.write("## Succeeded\n")
+    f.write("\n\n## Succeeded\n")
     f.write(tabulate(tables["Succeeded"], headers, tablefmt="github"))
-    f.write("## Unclaimed\n")
+    f.write("\n\n## Unclaimed\n")
     f.write(tabulate(tables["Unclaimed"], headers, tablefmt="github"))
