@@ -1,4 +1,9 @@
-Already up to date.
+Updating 8f0af10..0d0215d
+Fast-forward
+ lists/failed/synlet | 4779 ++++++++++++++++++++++++++++++++++++++++++++++++++
+ lists/synlet        | 4780 ++++++++++++++++++++++++++++++++++++++++++++++++++-
+ 2 files changed, 9558 insertions(+), 1 deletion(-)
+ create mode 100644 lists/failed/synlet
 annotate/DESCRIPTION
 annotate/INDEX
 annotate/Meta/
