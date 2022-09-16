@@ -1,4 +1,3 @@
-methylumi
 psygenet2r
 ggbio
 mitoClone2
