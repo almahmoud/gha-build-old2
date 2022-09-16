@@ -176,7 +176,6 @@
     "biosigner": [
         "ropls"
     ],
-    "BioTIP": [],
     "biotmle": [
         "ROCR"
     ],
@@ -508,7 +507,6 @@
     ],
     "CytoTree": [
         "FlowSOM",
-        "flowUtils",
         "VIM",
         "openCyto",
         "flowViz",
@@ -799,7 +797,6 @@
     "flowTrans": [
         "flowViz"
     ],
-    "flowUtils": [],
     "flowViz": [],
     "flowVS": [
         "flowViz",
