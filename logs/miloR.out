@@ -1,0 +1,17 @@
+* installing *source* package ‘miloR’ ...
+** using staged installation
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+Creating a new generic function for ‘graph’ in package ‘miloR’
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘miloR’ as ‘miloR_1.4.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (miloR)
