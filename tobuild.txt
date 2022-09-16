@@ -1,4 +1,3 @@
-ChIPpeakAnno
 SubCellBarCode
 mlr3misc
 epimutacionsData
