@@ -240,9 +240,7 @@
         "ROCR",
         "uwot"
     ],
-    "cellmigRation": [
-        "spBayes"
-    ],
+    "cellmigRation": [],
     "CellMixS": [
         "scater",
         "scuttle"
@@ -1100,7 +1098,6 @@
     "MicrobiomeProfiler": [
         "clusterProfiler"
     ],
-    "miloR": [],
     "mimager": [],
     "MineICA": [
         "prabclus"
@@ -2231,10 +2228,7 @@
         "plot3D"
     ],
     "MCMCprecision": [],
-    "SpatialTools": [
-        "spBayes"
-    ],
-    "spBayes": [],
+    "SpatialTools": [],
     "topicmodels": [
         "tm"
     ],
