@@ -1,4 +1,3 @@
-sqldf
 GmicR
 plot3D
 COHCAP
