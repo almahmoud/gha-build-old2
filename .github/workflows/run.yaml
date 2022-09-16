@@ -46,14 +46,29 @@ jobs:
             if grep -i 'error' /tmp/claimlog; then exit 1; else 
             echo "::set-output name=pkg::$(cat tmp${{steps.uniq.outputs.uniq}})" && exit 0; fi
 
+      - name: Push run_id
+        id: push
+        uses: nick-fields/retry@v2
+        with:
+          timeout_minutes: 10
+          max_attempts: 20
+          shell: bash
+          command: |
+            git pull origin main || git reset --hard origin/main
+            git config user.name github-actions
+            git config user.email github-actions@github.com
+            PKG=$(cat tmp${{steps.uniq.outputs.uniq}})
+            mkdir -p logs/run_ids
+            echo ${{ steps.jobs.outputs.html_url }} >> logs/run_ids/$PKG
+            git add logs
+            git commit -m "push run_id $PKG"
+            git push
 
       - name: Build claimed package
         id: pkgbuild
         run: |
           LIBRARY=$(echo "$(pwd)/built/")
           PKG=$(cat tmp${{steps.uniq.outputs.uniq}})
-          mkdir -p logs/run_ids
-          echo ${{ steps.jobs.outputs.html_url }} >> logs/run_ids/$PKG
           bash .github/scripts/build_package.sh $LIBRARY $PKG 2>&1 > /tmp/$PKG
         continue-on-error: true
         if: steps.claim.outcome=='success'
