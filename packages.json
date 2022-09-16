@@ -870,9 +870,7 @@
         "made4"
     ],
     "OMICsPCA": [],
-    "omicsViewer": [
-        "flatxml"
-    ],
+    "omicsViewer": [],
     "ompBAM": [],
     "ontoProc": [],
     "openCyto": [],
@@ -1557,7 +1555,6 @@
     "NxtIRFdata": [
         "ExperimentHub"
     ],
-    "flatxml": [],
     "tfprobability": [],
     "aroma.affymetrix": [],
     "phastCons100way.UCSC.hg38": [
