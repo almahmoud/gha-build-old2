@@ -1,4 +1,3 @@
-SCFA
 SingleR
 speaq
 peakPantheR
