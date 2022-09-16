@@ -1,0 +1,14 @@
+* installing *source* package ‘SIFT.Hsapiens.dbSNP137’ ...
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘SIFT.Hsapiens.dbSNP137’ as ‘SIFT.Hsapiens.dbSNP137_1.0.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (SIFT.Hsapiens.dbSNP137)
