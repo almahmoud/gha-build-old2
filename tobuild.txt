@@ -1,4 +1,3 @@
-methylInheritance
 condiments
 VariantTools
 supersigs
