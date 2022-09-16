@@ -955,7 +955,6 @@
     ],
     "made4": [],
     "MAGAR": [
-        "RnBeads",
         "bigstatsr",
         "rmio"
     ],
@@ -1631,7 +1630,6 @@
         "ShortRead"
     ],
     "RnaSeqSampleSize": [],
-    "RnBeads": [],
     "Rqc": [
         "ShortRead"
     ],
