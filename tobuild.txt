@@ -1,4 +1,3 @@
-RnaSeqSampleSizeData
 mosbi
 flowUtils
 TVTB
