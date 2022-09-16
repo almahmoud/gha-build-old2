@@ -1,4 +1,3 @@
-CytoGLMM
 EDASeq
 GenomicInteractionNodes
 RVenn
