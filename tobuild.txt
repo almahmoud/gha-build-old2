@@ -1,4 +1,3 @@
-radiant.data
 PCAtools
 sSeq
 wiggleplotr
