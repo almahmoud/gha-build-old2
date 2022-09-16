@@ -3446,7 +3446,6 @@
     "sparseDOSSA": [],
     "sparsenetgls": [],
     "SparseSignatures": [],
-    "SpatialCPie": [],
     "spatialDE": [
         "SpatialExperiment",
         "R.utils",
