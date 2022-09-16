@@ -1500,9 +1500,7 @@
     "HilbertCurve": [],
     "HilbertVis": [],
     "HilbertVisGUI": [],
-    "HiLDA": [
-        "R2WinBUGS"
-    ],
+    "HiLDA": [],
     "hipathia": [
         "interactiveDisplayBase"
     ],
@@ -3080,8 +3078,7 @@
         "ShortRead"
     ],
     "selectKSigs": [
-        "HiLDA",
-        "R2WinBUGS"
+        "HiLDA"
     ],
     "SELEX": [],
     "SemDist": [],
@@ -4406,10 +4403,7 @@
     "ggwordcloud": [],
     "nsga2R": [],
     "BatchJobs": [],
-    "R2jags": [
-        "R2WinBUGS"
-    ],
-    "R2WinBUGS": [],
+    "R2jags": [],
     "servr": [],
     "available": [
         "tokenizers"
