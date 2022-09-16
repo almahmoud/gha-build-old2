@@ -22,8 +22,7 @@
     ],
     "airpart": [
         "scater",
-        "scuttle",
-        "RcppML"
+        "scuttle"
     ],
     "AlphaBeta": [
         "optimx"
@@ -74,8 +73,7 @@
     "BayesSpace": [
         "scater",
         "scran",
-        "scuttle",
-        "RcppML"
+        "scuttle"
     ],
     "BEclear": [],
     "beer": [],
@@ -143,7 +141,6 @@
         "FlowSOM",
         "scater",
         "scuttle",
-        "RcppML",
         "openCyto"
     ],
     "categoryCompare": [],
@@ -155,21 +152,18 @@
     "celda": [
         "scater",
         "scran",
-        "scuttle",
-        "RcppML"
+        "scuttle"
     ],
     "CelliD": [
         "Seurat",
         "scater",
         "scuttle",
-        "RcppML",
         "ROCR"
     ],
     "cellmigRation": [],
     "CellMixS": [
         "scater",
-        "scuttle",
-        "RcppML"
+        "scuttle"
     ],
     "cellTree": [
         "topicmodels"
@@ -215,8 +209,7 @@
     "ChromSCape": [
         "scran",
         "scater",
-        "scuttle",
-        "RcppML"
+        "scuttle"
     ],
     "chromVAR": [],
     "cicero": [
@@ -259,13 +252,11 @@
         "scran",
         "scater",
         "clusterProfiler",
-        "scuttle",
-        "RcppML"
+        "scuttle"
     ],
     "condiments": [
         "scater",
-        "scuttle",
-        "RcppML"
+        "scuttle"
     ],
     "CONFESS": [
         "readbitmap"
@@ -375,8 +366,7 @@
     ],
     "distinct": [
         "scater",
-        "scuttle",
-        "RcppML"
+        "scuttle"
     ],
     "DMRcate": [
         "ExperimentHub",
@@ -476,8 +466,7 @@
     "FLAMES": [
         "scater",
         "scuttle",
-        "scran",
-        "RcppML"
+        "scran"
     ],
     "flowBin": [],
     "flowCL": [
@@ -577,7 +566,6 @@
         "scater",
         "scran",
         "scuttle",
-        "RcppML",
         "ROCR"
     ],
     "ISAnalytics": [
@@ -691,14 +679,12 @@
     "methylSig": [],
     "mia": [
         "scuttle",
-        "scater",
-        "RcppML"
+        "scater"
     ],
     "miaSim": [],
     "miaViz": [
         "scater",
-        "scuttle",
-        "RcppML"
+        "scuttle"
     ],
     "microbiomeDASim": [],
     "microbiomeMarker": [],
@@ -783,8 +769,7 @@
     ],
     "muscat": [
         "scater",
-        "scuttle",
-        "RcppML"
+        "scuttle"
     ],
     "musicatk": [
         "topicmodels"
@@ -820,8 +805,7 @@
     "netSmooth": [
         "scater",
         "clusterExperiment",
-        "scuttle",
-        "RcppML"
+        "scuttle"
     ],
     "networkBMA": [],
     "netZooR": [],
@@ -878,8 +862,7 @@
     ],
     "peco": [
         "scater",
-        "scuttle",
-        "RcppML"
+        "scuttle"
     ],
     "PFP": [
         "clusterProfiler"
@@ -907,7 +890,6 @@
         "scran",
         "scater",
         "scuttle",
-        "RcppML",
         "ROCR"
     ],
     "plethy": [
@@ -1062,8 +1044,7 @@
         "ExperimentHub"
     ],
     "scater": [
-        "scuttle",
-        "RcppML"
+        "scuttle"
     ],
     "scBFA": [
         "Seurat",
@@ -1082,8 +1063,7 @@
     "scDblFinder": [
         "scran",
         "scater",
-        "scuttle",
-        "RcppML"
+        "scuttle"
     ],
     "scDD": [
         "scran",
@@ -1113,8 +1093,7 @@
     "scPCA": [],
     "scPipe": [
         "scater",
-        "scuttle",
-        "RcppML"
+        "scuttle"
     ],
     "scran": [
         "scuttle"
@@ -1135,7 +1114,6 @@
         "scater",
         "Seurat",
         "scuttle",
-        "RcppML",
         "ROCR"
     ],
     "scuttle": [],
@@ -1190,7 +1168,6 @@
         "scDblFinder",
         "TSCAN",
         "scuttle",
-        "RcppML",
         "M3Drop"
     ],
     "SingleMoleculeFootprinting": [
@@ -1209,7 +1186,6 @@
         "scater",
         "scran",
         "scuttle",
-        "RcppML",
         "ROCR"
     ],
     "spatialDE": [
@@ -1225,8 +1201,7 @@
     "spatialHeatmap": [
         "scater",
         "scuttle",
-        "scran",
-        "RcppML"
+        "scran"
     ],
     "spatzie": [
         "motifmatchr"
@@ -1244,8 +1219,7 @@
     "spiky": [],
     "splatter": [
         "scater",
-        "scuttle",
-        "RcppML"
+        "scuttle"
     ],
     "SPONGE": [
         "cvms",
@@ -1344,8 +1318,7 @@
     "trena": [],
     "tricycle": [
         "scater",
-        "scuttle",
-        "RcppML"
+        "scuttle"
     ],
     "tripr": [],
     "tRNAscanImport": [],
@@ -1367,8 +1340,7 @@
         "scater",
         "DeepPINCS",
         "ttgsea",
-        "scuttle",
-        "RcppML"
+        "scuttle"
     ],
     "VariantFiltering": [
         "GenomicScores"
@@ -1399,7 +1371,6 @@
     "adductData": [
         "ExperimentHub"
     ],
-    "RcppML": [],
     "optimx": [],
     "curatedTCGAData": [
         "ExperimentHub"
