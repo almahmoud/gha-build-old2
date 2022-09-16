@@ -1,4 +1,3 @@
-scClassifR
 branchpointer
 scanMiRApp
 clusterExperiment
