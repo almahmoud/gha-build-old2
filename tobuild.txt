@@ -1,4 +1,3 @@
-POMA
 Maaslin2
 unifiedWMWqPCR
 ompBAM
