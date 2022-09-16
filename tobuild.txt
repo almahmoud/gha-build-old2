@@ -1,4 +1,3 @@
-rdist
 MetBrewer
 microbiomeDASim
 CytoGLMM
