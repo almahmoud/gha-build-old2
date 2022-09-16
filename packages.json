@@ -262,8 +262,7 @@
         "IlluminaHumanMethylation450kmanifest",
         "wateRmelon",
         "missMethyl",
-        "ExperimentHub",
-        "DSS"
+        "ExperimentHub"
     ],
     "ChIC": [
         "spp",
@@ -503,7 +502,6 @@
     ],
     "DMRcate": [
         "ExperimentHub",
-        "DSS",
         "missMethyl",
         "IlluminaHumanMethylation450kmanifest"
     ],
@@ -516,7 +514,6 @@
     ],
     "drugTargetInteractions": [],
     "DrugVsDisease": [],
-    "DSS": [],
     "Dune": [],
     "easier": [
         "progeny",
@@ -856,9 +853,7 @@
     "KinSwingR": [
         "sqldf"
     ],
-    "kissDE": [
-        "DSS"
-    ],
+    "kissDE": [],
     "KnowSeq": [
         "rlist",
         "ModelMetrics"
@@ -970,7 +965,6 @@
     "MetaNeighbor": [],
     "metapone": [],
     "metaseqR2": [
-        "DSS",
         "EDASeq"
     ],
     "metavizr": [
@@ -1010,9 +1004,7 @@
     ],
     "methylKit": [],
     "methylscaper": [],
-    "methylSig": [
-        "DSS"
-    ],
+    "methylSig": [],
     "MetID": [],
     "MetNet": [],
     "mgsa": [],
