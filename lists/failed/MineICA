@@ -1,8 +1,9 @@
-Updating ad1f5a9..bf53004
+Updating dd5e017..9c76db8
 Fast-forward
- lists/doMC    | 144 +---------------------------------------------------------
- packages.json |   5 +-
- 2 files changed, 2 insertions(+), 147 deletions(-)
+ lists/biodbExpasy        | 3642 +++++++++++++++++++++++++++++++++++++++++++++-
+ lists/failed/biodbExpasy | 3641 +++++++++++++++++++++++++++++++++++++++++++++
+ 2 files changed, 7282 insertions(+), 1 deletion(-)
+ create mode 100644 lists/failed/biodbExpasy
 affy/CITATION
 affy/DESCRIPTION
 affy/INDEX
