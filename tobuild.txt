@@ -1,4 +1,3 @@
-goseq
 fcScan
 gwasurvivr
 ComPrAn
