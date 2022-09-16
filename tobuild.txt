@@ -1,4 +1,3 @@
-genotypeeval
 FRASER
 scClassifR
 branchpointer
