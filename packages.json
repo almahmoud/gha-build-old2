@@ -81,7 +81,6 @@
         "ChIPpeakAnno",
         "GenomicScores"
     ],
-    "atena": [],
     "atSNP": [],
     "autonomics": [
         "assertive.sets"
