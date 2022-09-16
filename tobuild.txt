@@ -1,4 +1,3 @@
-PCAN
 IsoGene
 immunoClust
 VariantExperiment
