@@ -1,4 +1,3 @@
-HiLDA
 GWAS.BAYES
 INSPEcT
 biocthis
