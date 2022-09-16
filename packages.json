@@ -13,8 +13,7 @@
     ],
     "ADaCGH2": [
         "ffbase",
-        "snapCGH",
-        "strucchange"
+        "snapCGH"
     ],
     "adductomicsR": [
         "adductData",
@@ -448,14 +447,12 @@
     "CyTOFpower": [
         "CytoGLMM",
         "diffcyt",
-        "strucchange",
         "FlowSOM",
         "ModelMetrics",
         "openCyto",
         "plot3D"
     ],
     "CytoGLMM": [
-        "strucchange",
         "ModelMetrics"
     ],
     "cytoKernel": [
@@ -1977,9 +1974,7 @@
     "slinky": [],
     "SMAD": [],
     "SMITE": [],
-    "snapCGH": [
-        "strucchange"
-    ],
+    "snapCGH": [],
     "soGGi": [
         "ShortRead"
     ],
@@ -2112,9 +2107,7 @@
     "ternarynet": [],
     "TFARM": [],
     "TFBSTools": [],
-    "tilingArray": [
-        "strucchange"
-    ],
+    "tilingArray": [],
     "timeOmics": [],
     "TimiRGeN": [
         "clusterProfiler"
@@ -2258,7 +2251,6 @@
     "ABAData": [],
     "snowfall": [],
     "ffbase": [],
-    "strucchange": [],
     "adductData": [
         "ExperimentHub",
         "interactiveDisplayBase"
