@@ -287,8 +287,7 @@
         "plot3D"
     ],
     "CeTF": [
-        "clusterProfiler",
-        "gMWT"
+        "clusterProfiler"
     ],
     "CGHcall": [
         "snowfall"
@@ -2395,10 +2394,7 @@
         "tm"
     ],
     "tm": [],
-    "GenomicTools": [
-        "gMWT"
-    ],
-    "gMWT": [],
+    "GenomicTools": [],
     "IlluminaHumanMethylation450kmanifest": [],
     "spp": [],
     "ChIC.data": [
