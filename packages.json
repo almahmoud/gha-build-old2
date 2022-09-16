@@ -856,7 +856,6 @@
     "miRNAtap": [],
     "miRSM": [
         "SOMbrero",
-        "ppclust",
         "miRspongeR",
         "clusterProfiler",
         "ReactomePA"
@@ -1820,7 +1819,6 @@
     ],
     "rebus.numbers": [],
     "SOMbrero": [],
-    "ppclust": [],
     "mppa": [],
     "GeneNet": [],
     "dmt": [],
