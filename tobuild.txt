@@ -1,5 +1,3 @@
-lasso2
-oneSENSE
 CombinePValue
 ELMER
 vbsr
