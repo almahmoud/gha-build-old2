@@ -282,7 +282,6 @@
     "cliqueMS": [
         "xcms"
     ],
-    "CluMSID": [],
     "clusterExperiment": [
         "mbkmeans"
     ],
@@ -833,7 +832,6 @@
         "sesameData",
         "ExperimentHub"
     ],
-    "MethylAid": [],
     "methylCC": [],
     "methylclock": [
         "methylclockData",
