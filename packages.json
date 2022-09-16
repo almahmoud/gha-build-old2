@@ -240,9 +240,7 @@
         "ROCR",
         "uwot"
     ],
-    "cellmigRation": [
-        "spBayes"
-    ],
+    "cellmigRation": [],
     "CellMixS": [
         "scater",
         "scuttle"
@@ -2230,10 +2228,7 @@
         "plot3D"
     ],
     "MCMCprecision": [],
-    "SpatialTools": [
-        "spBayes"
-    ],
-    "spBayes": [],
+    "SpatialTools": [],
     "topicmodels": [
         "tm"
     ],
