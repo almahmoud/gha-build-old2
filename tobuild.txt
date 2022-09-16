@@ -1,4 +1,3 @@
-IsoGene
 immunoClust
 VariantExperiment
 ASpli
