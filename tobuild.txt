@@ -1,4 +1,3 @@
-SCnorm
 RPostgreSQL
 circRNAprofiler
 ternarynet
