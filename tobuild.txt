@@ -1,4 +1,3 @@
-ideal
 MIRA
 RnBeads
 MBASED
