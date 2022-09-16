@@ -1,4 +1,3 @@
-mixsqp
 rebus.unicode
 Streamer
 STAN
