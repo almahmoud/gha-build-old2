@@ -1107,9 +1107,7 @@
     "netDx": [
         "ROCR"
     ],
-    "nethet": [
-        "longitudinal"
-    ],
+    "nethet": [],
     "netOmics": [],
     "netresponse": [
         "dmt"
@@ -1666,9 +1664,7 @@
         "scater",
         "scuttle"
     ],
-    "splineTimeR": [
-        "longitudinal"
-    ],
+    "splineTimeR": [],
     "splots": [],
     "sRACIPE": [],
     "ssPATHS": [
@@ -2048,10 +2044,7 @@
     "SOMbrero": [],
     "ppclust": [],
     "mppa": [],
-    "GeneNet": [
-        "longitudinal"
-    ],
-    "longitudinal": [],
+    "GeneNet": [],
     "dmt": [],
     "NxtIRFdata": [
         "ExperimentHub"
