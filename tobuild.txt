@@ -1,4 +1,3 @@
-rBiopaxParser
 MethylAid
 prabclus
 satuRn
