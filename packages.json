@@ -2401,7 +2401,6 @@
     "pcxn": [],
     "PDATK": [
         "piano",
-        "switchBox",
         "ModelMetrics",
         "recipes"
     ],
@@ -3334,7 +3333,6 @@
     "svaRetro": [],
     "SWATH2stats": [],
     "SwathXtend": [],
-    "switchBox": [],
     "switchde": [],
     "synapsis": [],
     "synergyfinder": [
