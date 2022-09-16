@@ -1,4 +1,3 @@
-DAMEfinder
 OmaDB
 NetSAM
 CNVrd2
