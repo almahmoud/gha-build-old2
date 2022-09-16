@@ -1,4 +1,3 @@
-SIMLR
 assertive.sets
 longitudinal
 colortools
