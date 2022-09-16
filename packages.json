@@ -282,7 +282,6 @@
     "cliqueMS": [
         "xcms"
     ],
-    "CluMSID": [],
     "clusterExperiment": [
         "mbkmeans"
     ],
