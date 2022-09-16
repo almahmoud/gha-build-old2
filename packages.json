@@ -125,7 +125,6 @@
     "CGHnormaliter": [],
     "ChAMP": [
         "DMRcate",
-        "IlluminaHumanMethylationEPICmanifest",
         "IlluminaHumanMethylation450kmanifest",
         "wateRmelon",
         "missMethyl",
@@ -181,8 +180,7 @@
     "conumee": [
         "IlluminaHumanMethylation450kanno.ilmn12.hg19",
         "IlluminaHumanMethylation450kmanifest",
-        "IlluminaHumanMethylationEPICanno.ilm10b2.hg19",
-        "IlluminaHumanMethylationEPICmanifest"
+        "IlluminaHumanMethylationEPICanno.ilm10b2.hg19"
     ],
     "CopyNumberPlots": [
         "karyoploteR"
@@ -246,8 +244,7 @@
         "DSS",
         "missMethyl",
         "IlluminaHumanMethylation450kanno.ilmn12.hg19",
-        "IlluminaHumanMethylation450kmanifest",
-        "IlluminaHumanMethylationEPICmanifest"
+        "IlluminaHumanMethylation450kmanifest"
     ],
     "DMRforPairs": [],
     "dmrseq": [
@@ -457,8 +454,7 @@
     "MEAL": [
         "missMethyl",
         "IlluminaHumanMethylation450kanno.ilmn12.hg19",
-        "IlluminaHumanMethylation450kmanifest",
-        "IlluminaHumanMethylationEPICmanifest"
+        "IlluminaHumanMethylation450kmanifest"
     ],
     "MEAT": [
         "wateRmelon",
@@ -502,8 +498,7 @@
         "clusterProfiler",
         "missMethyl",
         "IlluminaHumanMethylation450kanno.ilmn12.hg19",
-        "IlluminaHumanMethylation450kmanifest",
-        "IlluminaHumanMethylationEPICmanifest"
+        "IlluminaHumanMethylation450kmanifest"
     ],
     "methylInheritance": [],
     "methylSig": [
@@ -529,8 +524,7 @@
     ],
     "missMethyl": [
         "IlluminaHumanMethylation450kanno.ilmn12.hg19",
-        "IlluminaHumanMethylation450kmanifest",
-        "IlluminaHumanMethylationEPICmanifest"
+        "IlluminaHumanMethylation450kmanifest"
     ],
     "MLSeq": [],
     "MMAPPR2": [],
@@ -950,7 +944,6 @@
     ],
     "GenomicState": [],
     "iCluster": [],
-    "IlluminaHumanMethylationEPICmanifest": [],
     "IlluminaHumanMethylation450kmanifest": [],
     "ChIC.data": [],
     "colortools": [],
