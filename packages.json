@@ -1120,7 +1120,6 @@
         "motifmatchr",
         "TFBSTools",
         "R.utils",
-        "heatmap3",
         "clusterProfiler"
     ],
     "ensembldb": [],
@@ -3051,8 +3050,7 @@
         "ShortRead"
     ],
     "RnaSeqSampleSize": [
-        "RnaSeqSampleSizeData",
-        "heatmap3"
+        "RnaSeqSampleSizeData"
     ],
     "RnBeads": [
         "R.utils"
@@ -4625,7 +4623,6 @@
     "survivalsvm": [],
     "partykit": [],
     "inum": [],
-    "heatmap3": [],
     "EntropyExplorer": [],
     "RNOmni": [],
     "ewceData": [
