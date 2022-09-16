@@ -318,7 +318,6 @@
         "scuttle"
     ],
     "condiments": [
-        "transport",
         "ModelMetrics"
     ],
     "CONFESS": [
@@ -334,9 +333,7 @@
     "CoreGx": [
         "piano"
     ],
-    "corral": [
-        "transport"
-    ],
+    "corral": [],
     "coseq": [],
     "cosmiq": [
         "xcms"
@@ -1049,9 +1046,7 @@
     "ncGTW": [
         "xcms"
     ],
-    "nearBynding": [
-        "transport"
-    ],
+    "nearBynding": [],
     "Nebulosa": [
         "Seurat",
         "ROCR",
@@ -1112,9 +1107,7 @@
     "OpenStats": [
         "summarytools"
     ],
-    "optimalFlow": [
-        "transport"
-    ],
+    "optimalFlow": [],
     "orthogene": [],
     "OTUbase": [],
     "OVESEG": [],
@@ -1155,7 +1148,6 @@
     ],
     "phemd": [
         "Seurat",
-        "transport",
         "VIM",
         "ROCR",
         "uwot"
@@ -1889,10 +1881,8 @@
     "phylobase": [],
     "colortools": [],
     "Ecume": [
-        "transport",
         "ModelMetrics"
     ],
-    "transport": [],
     "feature": [],
     "faahKO": [
         "xcms"
