@@ -1,4 +1,3 @@
-scry
 graper
 lassopv
 mirTarRnaSeq

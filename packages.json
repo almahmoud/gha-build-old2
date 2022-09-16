@@ -210,8 +210,7 @@
     ],
     "CellScore": [],
     "cellTree": [
-        "topicmodels",
-        "tm"
+        "topicmodels"
     ],
     "CEMiTool": [
         "clusterProfiler"
@@ -395,8 +394,7 @@
     "DeepPINCS": [
         "rcdk",
         "tokenizers",
-        "ttgsea",
-        "tm"
+        "ttgsea"
     ],
     "DEGreport": [
         "lasso2"
@@ -575,9 +573,7 @@
         "snowfall"
     ],
     "geNetClassifier": [],
-    "geneXtendeR": [
-        "tm"
-    ],
+    "geneXtendeR": [],
     "GenomicOZone": [],
     "GenomicScores": [],
     "genphen": [
@@ -962,8 +958,7 @@
     "musicatk": [
         "MCMCprecision",
         "uwot",
-        "topicmodels",
-        "tm"
+        "topicmodels"
     ],
     "mygene": [],
     "NADfinder": [
@@ -1265,9 +1260,7 @@
     "RnaSeqSampleSize": [],
     "Rqc": [],
     "rqt": [],
-    "rrvgo": [
-        "tm"
-    ],
+    "rrvgo": [],
     "RSVSim": [],
     "RTN": [],
     "RTNduals": [],
@@ -1423,9 +1416,7 @@
         "Rmpfr"
     ],
     "SIMLR": [],
-    "simplifyEnrichment": [
-        "tm"
-    ],
+    "simplifyEnrichment": [],
     "SingleCellSignalR": [
         "SIMLR",
         "scran",
@@ -1615,7 +1606,6 @@
     "TSCAN": [],
     "TSRchitect": [],
     "ttgsea": [
-        "tm",
         "tokenizers"
     ],
     "tximeta": [],
@@ -1633,8 +1623,7 @@
         "rcdk",
         "tokenizers",
         "ttgsea",
-        "scuttle",
-        "tm"
+        "scuttle"
     ],
     "VanillaICE": [],
     "VariantFiltering": [
@@ -1644,7 +1633,6 @@
         "scuttle"
     ],
     "vissE": [
-        "tm",
         "msigdb",
         "ExperimentHub"
     ],
@@ -1748,10 +1736,7 @@
     "hdrcde": [],
     "MCMCprecision": [],
     "SpatialTools": [],
-    "topicmodels": [
-        "tm"
-    ],
-    "tm": [],
+    "topicmodels": [],
     "GenomicTools": [],
     "spp": [],
     "ChIC.data": [
