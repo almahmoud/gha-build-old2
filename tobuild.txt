@@ -1,4 +1,3 @@
-GSCA
 valr
 shinyepico
 VplotR
