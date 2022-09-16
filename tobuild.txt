@@ -1,4 +1,3 @@
-supersigs
 rnaEditr
 IMAS
 loose.rock
