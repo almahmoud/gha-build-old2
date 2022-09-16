@@ -1,10 +1,3 @@
-ontoProc
-HiCcompare
-MSPrep
-oppar
-FDb.InfiniumMethylation.hg19
-ASSIGN
-diffUTR
 MODA
 pwOmics
 LymphoSeq
