@@ -118,9 +118,7 @@
         "assertive.models",
         "assertive.reflection"
     ],
-    "BANDITS": [
-        "DRIMSeq"
-    ],
+    "BANDITS": [],
     "banocc": [
         "rstan",
         "StanHeaders"
@@ -638,7 +636,6 @@
         "DNABarcodes"
     ],
     "DNABarcodes": [],
-    "DRIMSeq": [],
     "DropletUtils": [
         "scuttle"
     ],
@@ -1050,7 +1047,6 @@
     "ISAnalytics": [],
     "iSEEu": [],
     "IsoformSwitchAnalyzeR": [
-        "DRIMSeq",
         "tximeta",
         "interactiveDisplayBase"
     ],
