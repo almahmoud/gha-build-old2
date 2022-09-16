@@ -1,1 +1,151 @@
-claimed
+Already up to date.
+limma/CITATION
+limma/DESCRIPTION
+limma/INDEX
+limma/Meta/
+limma/Meta/Rd.rds
+limma/Meta/features.rds
+limma/Meta/hsearch.rds
+limma/Meta/links.rds
+limma/Meta/nsInfo.rds
+limma/Meta/package.rds
+limma/Meta/vignette.rds
+limma/NAMESPACE
+limma/NEWS.Rd
+limma/R/
+limma/R/limma
+limma/R/limma.rdb
+limma/R/limma.rdx
+limma/doc/
+limma/doc/changelog.txt
+limma/doc/index.html
+limma/doc/intro.Rnw
+limma/doc/intro.pdf
+limma/doc/usersguide.pdf
+limma/help/
+limma/help/AnIndex
+limma/help/aliases.rds
+limma/help/limma.rdb
+limma/help/limma.rdx
+limma/help/paths.rds
+limma/html/
+limma/html/00Index.html
+limma/html/R.css
+limma/libs/
+limma/libs/limma.so
+marray/DESCRIPTION
+marray/INDEX
+marray/LICENSE
+marray/Meta/
+marray/Meta/Rd.rds
+marray/Meta/data.rds
+marray/Meta/features.rds
+marray/Meta/hsearch.rds
+marray/Meta/links.rds
+marray/Meta/nsInfo.rds
+marray/Meta/package.rds
+marray/Meta/vignette.rds
+marray/NAMESPACE
+marray/R/
+marray/R/marray
+marray/R/marray.rdb
+marray/R/marray.rdx
+marray/data/
+marray/data/swirl.RData
+marray/doc/
+marray/doc/index.html
+marray/doc/marray.R
+marray/doc/marray.Rnw
+marray/doc/marray.pdf
+marray/doc/marrayClasses.R
+marray/doc/marrayClasses.Rnw
+marray/doc/marrayClasses.pdf
+marray/doc/marrayClassesShort.R
+marray/doc/marrayClassesShort.Rnw
+marray/doc/marrayClassesShort.pdf
+marray/doc/marrayInput.R
+marray/doc/marrayInput.Rnw
+marray/doc/marrayInput.pdf
+marray/doc/marrayNorm.R
+marray/doc/marrayNorm.Rnw
+marray/doc/marrayNorm.pdf
+marray/doc/marrayPlots.R
+marray/doc/marrayPlots.Rnw
+marray/doc/marrayPlots.pdf
+marray/help/
+marray/help/AnIndex
+marray/help/aliases.rds
+marray/help/marray.rdb
+marray/help/marray.rdx
+marray/help/paths.rds
+marray/html/
+marray/html/00Index.html
+marray/html/R.css
+marray/swirldata/
+marray/swirldata/SwirlSample.txt
+marray/swirldata/fish.gal
+marray/swirldata/swirl.1.spot
+marray/swirldata/swirl.2.spot
+marray/swirldata/swirl.3.spot
+marray/swirldata/swirl.4.spot
+nnet/CITATION
+nnet/DESCRIPTION
+nnet/INDEX
+nnet/Meta/
+nnet/Meta/Rd.rds
+nnet/Meta/features.rds
+nnet/Meta/hsearch.rds
+nnet/Meta/links.rds
+nnet/Meta/nsInfo.rds
+nnet/Meta/package.rds
+nnet/NAMESPACE
+nnet/NEWS
+nnet/R/
+nnet/R/nnet
+nnet/R/nnet.rdb
+nnet/R/nnet.rdx
+nnet/help/
+nnet/help/AnIndex
+nnet/help/aliases.rds
+nnet/help/nnet.rdb
+nnet/help/nnet.rdx
+nnet/help/paths.rds
+nnet/html/
+nnet/html/00Index.html
+nnet/html/R.css
+nnet/libs/
+nnet/libs/nnet.so
+nnet/po/
+nnet/po/de/
+nnet/po/de/LC_MESSAGES/
+nnet/po/de/LC_MESSAGES/R-nnet.mo
+nnet/po/en@quot/
+nnet/po/en@quot/LC_MESSAGES/
+nnet/po/en@quot/LC_MESSAGES/R-nnet.mo
+nnet/po/fr/
+nnet/po/fr/LC_MESSAGES/
+nnet/po/fr/LC_MESSAGES/R-nnet.mo
+nnet/po/it/
+nnet/po/it/LC_MESSAGES/
+nnet/po/it/LC_MESSAGES/R-nnet.mo
+nnet/po/ko/
+nnet/po/ko/LC_MESSAGES/
+nnet/po/ko/LC_MESSAGES/R-nnet.mo
+nnet/po/pl/
+nnet/po/pl/LC_MESSAGES/
+nnet/po/pl/LC_MESSAGES/R-nnet.mo
+* installing *source* package ‘nnNorm’ ...
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘nnNorm’ as ‘nnNorm_2.60.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (nnNorm)
