@@ -1,4 +1,3 @@
-infercnv
 transcriptogramer
 seqCAT
 Rcpi
