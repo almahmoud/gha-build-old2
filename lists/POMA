@@ -1,5 +1,4 @@
-Updating b93278b..6081600
-Fast-forward
+Merge made by the 'recursive' strategy.
  lists/failed/gradDescent | 1 +
  lists/gradDescent        | 2 +-
  2 files changed, 2 insertions(+), 1 deletion(-)
