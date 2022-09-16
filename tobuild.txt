@@ -1,4 +1,3 @@
-iSEEu
 sparsebn
 pmp
 strucchange
