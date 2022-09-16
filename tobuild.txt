@@ -1,4 +1,3 @@
-openCyto
 gpart
 cytoMEM
 DrugVsDisease
