@@ -1,4 +1,3 @@
-ChIC.data
 CombinePValue
 UMI4Cats
 vbsr
