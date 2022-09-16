@@ -1,0 +1,18 @@
+* installing *source* package ‘igvR’ ...
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+See system.file("LICENSE", package="MotifDb") for use restrictions.
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+See system.file("LICENSE", package="MotifDb") for use restrictions.
+** testing if installed package can be loaded from final location
+See system.file("LICENSE", package="MotifDb") for use restrictions.
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘igvR’ as ‘igvR_1.16.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (igvR)
