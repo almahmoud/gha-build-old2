@@ -1,5 +1,3 @@
-MetaNeighbor
-extRemes
 alsace
 sparsepca
 metapone
