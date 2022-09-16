@@ -1,4 +1,3 @@
-beer
 ChIPpeakAnno
 SubCellBarCode
 mlr3misc
