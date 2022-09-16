@@ -1,5 +1,3 @@
-RCX
-rgoslin
 mbOmic
 tracktables
 crisprBase
