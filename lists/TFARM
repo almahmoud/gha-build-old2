@@ -1,4 +1,7 @@
-Already up to date.
+Updating abc9847b..e4095f80
+Fast-forward
+ logs/run_ids/RNAinteract | 1 +
+ 1 file changed, 1 insertion(+)
 arules/CITATION
 arules/DESCRIPTION
 arules/INDEX
