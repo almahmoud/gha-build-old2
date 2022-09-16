@@ -1,4 +1,3 @@
-cgdsr
 RBioinf
 ChIPseeker
 R.utils
