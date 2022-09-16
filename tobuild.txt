@@ -1,4 +1,3 @@
-seq2pathway
 tLOH
 BayesSpace
 abseqR
