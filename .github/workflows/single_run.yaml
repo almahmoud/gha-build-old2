@@ -53,6 +53,7 @@ jobs:
             git config user.name github-actions
             git config user.email github-actions@github.com
             PKG=$(cat tmp${{steps.uniq.outputs.uniq}})
+            sed -i 's/claimed/runidpushed/g' "lists/$PKG"
             mkdir -p logs/run_ids
             echo ${{ steps.jobs.outputs.html_url }} >> logs/run_ids/$PKG
             git add logs
