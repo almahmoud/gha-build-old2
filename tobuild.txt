@@ -1,5 +1,3 @@
-rqt
-statebins
 Motif2Site
 cogeqc
 animalcules
