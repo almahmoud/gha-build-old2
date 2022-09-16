@@ -1,0 +1,27 @@
+* installing *source* package ‘ncdfFlow’ ...
+** using staged installation
+** libs
+g++ -std=gnu++11 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/__w/gha-build/gha-build/built/Rcpp/include' -I'/__w/gha-build/gha-build/built/RcppArmadillo/include' -I'/__w/gha-build/gha-build/built/BH/include' -I'/__w/gha-build/gha-build/built/Rhdf5lib/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c RcppExports.cpp -o RcppExports.o
+g++ -std=gnu++11 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/__w/gha-build/gha-build/built/Rcpp/include' -I'/__w/gha-build/gha-build/built/RcppArmadillo/include' -I'/__w/gha-build/gha-build/built/BH/include' -I'/__w/gha-build/gha-build/built/Rhdf5lib/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c bitOps.cpp -o bitOps.o
+g++ -std=gnu++11 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/__w/gha-build/gha-build/built/Rcpp/include' -I'/__w/gha-build/gha-build/built/RcppArmadillo/include' -I'/__w/gha-build/gha-build/built/BH/include' -I'/__w/gha-build/gha-build/built/Rhdf5lib/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c hdfFlow.cpp -o hdfFlow.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG  -I'/__w/gha-build/gha-build/built/Rcpp/include' -I'/__w/gha-build/gha-build/built/RcppArmadillo/include' -I'/__w/gha-build/gha-build/built/BH/include' -I'/__w/gha-build/gha-build/built/Rhdf5lib/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c init.c -o init.o
+g++ -std=gnu++11 -I"/usr/local/lib/R/include" -DNDEBUG  -I'/__w/gha-build/gha-build/built/Rcpp/include' -I'/__w/gha-build/gha-build/built/RcppArmadillo/include' -I'/__w/gha-build/gha-build/built/BH/include' -I'/__w/gha-build/gha-build/built/Rhdf5lib/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c readFrame.cpp -o readFrame.o
+mkdir -p "/__w/gha-build/gha-build/built/00LOCK-ncdfFlow/00new/ncdfFlow/lib"
+ar rs "/__w/gha-build/gha-build/built/00LOCK-ncdfFlow/00new/ncdfFlow/lib/libncdfFlow.a" RcppExports.o bitOps.o hdfFlow.o init.o readFrame.o
+ar: creating /__w/gha-build/gha-build/built/00LOCK-ncdfFlow/00new/ncdfFlow/lib/libncdfFlow.a
+g++ -std=gnu++11 -shared -L/usr/local/lib/R/lib -L/usr/local/lib -o ncdfFlow.so RcppExports.o bitOps.o hdfFlow.o init.o readFrame.o /__w/gha-build/gha-build/built/Rhdf5lib/lib/libhdf5_cpp.a /__w/gha-build/gha-build/built/Rhdf5lib/lib/libhdf5.a -lcrypto -lcurl -lsz -laec -lz -ldl -lm -L/usr/local/lib/R/lib -lR
+installing to /__w/gha-build/gha-build/built/00LOCK-ncdfFlow/00new/ncdfFlow/libs
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘ncdfFlow’ as ‘ncdfFlow_2.42.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (ncdfFlow)
