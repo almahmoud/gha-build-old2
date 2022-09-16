@@ -1,1 +1,41 @@
-claimed
+Merge made by the 'recursive' strategy.
+ lists/tmp/claimlog | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+fastcluster/CITATION
+fastcluster/DESCRIPTION
+fastcluster/INDEX
+fastcluster/LICENSE
+fastcluster/Meta/
+fastcluster/Meta/Rd.rds
+fastcluster/Meta/features.rds
+fastcluster/Meta/hsearch.rds
+fastcluster/Meta/links.rds
+fastcluster/Meta/nsInfo.rds
+fastcluster/Meta/package.rds
+fastcluster/Meta/vignette.rds
+fastcluster/NAMESPACE
+fastcluster/NEWS
+fastcluster/R/
+fastcluster/R/fastcluster
+fastcluster/R/fastcluster.rdb
+fastcluster/R/fastcluster.rdx
+fastcluster/doc/
+fastcluster/doc/fastcluster.Rtex
+fastcluster/doc/fastcluster.pdf
+fastcluster/doc/index.html
+fastcluster/help/
+fastcluster/help/AnIndex
+fastcluster/help/aliases.rds
+fastcluster/help/fastcluster.rdb
+fastcluster/help/fastcluster.rdx
+fastcluster/help/paths.rds
+fastcluster/html/
+fastcluster/html/00Index.html
+fastcluster/html/R.css
+fastcluster/libs/
+fastcluster/libs/fastcluster.so
+* installing *binary* package ‘heatmap3’ ...
+* ‘heatmap3’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘heatmap3’ as ‘heatmap3_1.1.9_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (heatmap3)
