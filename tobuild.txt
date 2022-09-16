@@ -1,4 +1,3 @@
-EGAD
 pals
 ARRmNormalization
 ReadqPCR
