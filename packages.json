@@ -594,8 +594,7 @@
         "ROCR"
     ],
     "ISAnalytics": [
-        "datamods",
-        "phosphoricons"
+        "datamods"
     ],
     "IsoformSwitchAnalyzeR": [
         "tximeta"
@@ -1502,10 +1501,7 @@
     "SPARQL": [],
     "FField": [],
     "gptk": [],
-    "datamods": [
-        "phosphoricons"
-    ],
-    "phosphoricons": [],
+    "datamods": [],
     "orQA": [],
     "pd.mapping50k.xba240": [],
     "aods3": [],
