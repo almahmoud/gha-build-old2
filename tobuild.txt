@@ -1,6 +1,3 @@
-ridge
-Kendall
-MACPET
 Linnorm
 configr
 cgdsr
