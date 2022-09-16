@@ -1,4 +1,3 @@
-SQUADD
 ncdfFlow
 RSEIS
 ROSeq
