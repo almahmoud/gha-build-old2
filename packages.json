@@ -280,7 +280,6 @@
     ],
     "chromswitch": [],
     "chromVAR": [
-        "nabor",
         "TFBSTools"
     ],
     "cicero": [],
@@ -1827,7 +1826,6 @@
     "ToxicoGx": [
         "piano"
     ],
-    "TPP2D": [],
     "tracktables": [],
     "trackViewer": [],
     "tradeSeq": [],
@@ -2043,7 +2041,6 @@
     ],
     "mixsqp": [],
     "ChIPXpressData": [],
-    "nabor": [],
     "phylobase": [],
     "colortools": [],
     "Ecume": [
