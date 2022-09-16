@@ -1,4 +1,3 @@
-RMySQL
 svaNUMT
 qrqc
 imageHTS
