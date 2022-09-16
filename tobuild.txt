@@ -1,4 +1,3 @@
-Ularcirc
 M3Drop
 EDASeq
 GGPA
