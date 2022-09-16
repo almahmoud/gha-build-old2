@@ -1,0 +1,16 @@
+* installing *source* package ‘DRIMSeq’ ...
+** using staged installation
+** R
+** inst
+** preparing package for lazy loading
+Creating a new generic function for ‘proportions’ in package ‘DRIMSeq’
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘DRIMSeq’ as ‘DRIMSeq_1.24.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (DRIMSeq)
