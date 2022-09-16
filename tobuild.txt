@@ -1,4 +1,3 @@
-LinTInd
 regutools
 bigstatsr
 infinityFlow
