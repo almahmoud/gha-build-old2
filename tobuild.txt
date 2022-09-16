@@ -1,4 +1,3 @@
-genbankr
 webbioc
 soGGi
 HiLDA
