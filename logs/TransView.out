@@ -1,0 +1,35 @@
+* installing *source* package ‘TransView’ ...
+** using staged installation
+** libs
+gcc -I"/usr/local/lib/R/include" -DNDEBUG -D_FILE_OFFSET_BITS=64 -I'/__w/gha-build/gha-build/built/Rhtslib/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c R_init_TransView.c -o R_init_TransView.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG -D_FILE_OFFSET_BITS=64 -I'/__w/gha-build/gha-build/built/Rhtslib/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c bam_plbuf.c -o bam_plbuf.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG -D_FILE_OFFSET_BITS=64 -I'/__w/gha-build/gha-build/built/Rhtslib/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c bin_density.c -o bin_density.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG -D_FILE_OFFSET_BITS=64 -I'/__w/gha-build/gha-build/built/Rhtslib/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c construct_dc.c -o construct_dc.o
+In file included from /__w/gha-build/gha-build/built/Rhtslib/include/htslib/hts.h:35,
+                 from /__w/gha-build/gha-build/built/Rhtslib/include/htslib/sam.h:31,
+                 from /__w/gha-build/gha-build/built/Rhtslib/include/sam.h:28,
+                 from parse_sam.h:4,
+                 from construct_dc.c:23:
+/__w/gha-build/gha-build/built/Rhtslib/include/htslib/hts_log.h:72:1: warning: ‘Rprintf’ is an unrecognized format function type [-Wformat=]
+   72 | HTS_FORMAT(printf, 3, 4);
+      | ^~~~~~~~~~
+gcc -I"/usr/local/lib/R/include" -DNDEBUG -D_FILE_OFFSET_BITS=64 -I'/__w/gha-build/gha-build/built/Rhtslib/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c parse_sam.c -o parse_sam.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG -D_FILE_OFFSET_BITS=64 -I'/__w/gha-build/gha-build/built/Rhtslib/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c sam.c -o sam.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG -D_FILE_OFFSET_BITS=64 -I'/__w/gha-build/gha-build/built/Rhtslib/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c slice_dc.c -o slice_dc.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG -D_FILE_OFFSET_BITS=64 -I'/__w/gha-build/gha-build/built/Rhtslib/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c visuals.c -o visuals.o
+gcc -shared -L/usr/local/lib/R/lib -L/usr/local/lib -o TransView.so R_init_TransView.o bam_plbuf.o bin_density.o construct_dc.o parse_sam.o sam.o slice_dc.o visuals.o /__w/gha-build/gha-build/built/Rhtslib/usrlib/libhts.a -lcurl -L/usr/local/lib/R/lib -lR
+installing to /__w/gha-build/gha-build/built/00LOCK-TransView/00new/TransView/libs
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘TransView’ as ‘TransView_1.40.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (TransView)
