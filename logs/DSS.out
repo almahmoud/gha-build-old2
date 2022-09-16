@@ -1,0 +1,29 @@
+* installing *source* package ‘DSS’ ...
+** using staged installation
+** libs
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c compute_var_smooth.c -o compute_var_smooth.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c filter.c -o filter.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c nitem.c -o nitem.o
+gcc -shared -L/usr/local/lib/R/lib -L/usr/local/lib -o DSS.so compute_var_smooth.o filter.o nitem.o -L/usr/local/lib/R/lib -lR
+installing to /__w/gha-build/gha-build/built/00LOCK-DSS/00new/DSS/libs
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+Warning: replacing previous import ‘matrixStats::rowMedians’ by ‘Biobase::rowMedians’ when loading ‘DSS’
+Warning: replacing previous import ‘matrixStats::anyMissing’ by ‘Biobase::anyMissing’ when loading ‘DSS’
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+Warning: replacing previous import ‘matrixStats::rowMedians’ by ‘Biobase::rowMedians’ when loading ‘DSS’
+Warning: replacing previous import ‘matrixStats::anyMissing’ by ‘Biobase::anyMissing’ when loading ‘DSS’
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+Warning: replacing previous import ‘matrixStats::rowMedians’ by ‘Biobase::rowMedians’ when loading ‘DSS’
+Warning: replacing previous import ‘matrixStats::anyMissing’ by ‘Biobase::anyMissing’ when loading ‘DSS’
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘DSS’ as ‘DSS_2.44.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (DSS)
