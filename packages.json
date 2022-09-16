@@ -1030,9 +1030,7 @@
         "EDASeq",
         "RUVSeq"
     ],
-    "rifi": [
-        "doMC"
-    ],
+    "rifi": [],
     "RIPAT": [],
     "RITAN": [],
     "RLSeq": [
@@ -1582,7 +1580,6 @@
         "GenomicScores"
     ],
     "rGenomeTracksData": [],
-    "doMC": [],
     "RLHub": [
         "ExperimentHub"
     ],
