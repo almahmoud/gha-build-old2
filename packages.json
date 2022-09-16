@@ -360,9 +360,7 @@
         "TFBSTools"
     ],
     "cicero": [],
-    "CIMICE": [
-        "maftools"
-    ],
+    "CIMICE": [],
     "CINdex": [],
     "circRNAprofiler": [
         "interactiveDisplayBase"
@@ -1118,7 +1116,6 @@
         "interactiveDisplayBase"
     ],
     "made4": [],
-    "maftools": [],
     "MAGAR": [
         "RnBeads",
         "bigstatsr",
@@ -1445,7 +1442,6 @@
         "MCMCprecision",
         "uwot",
         "topicmodels",
-        "maftools",
         "tm"
     ],
     "mygene": [
@@ -2282,7 +2278,6 @@
     "TargetDecoy": [],
     "TargetSearch": [],
     "TCGAbiolinksGUI": [
-        "maftools",
         "ELMER",
         "clusterProfiler",
         "sesame",
