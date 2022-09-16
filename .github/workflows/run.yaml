@@ -97,7 +97,7 @@ jobs:
           echo "::set-output name=name::$(ls /tmp/tars/ | grep ${{steps.claim.outputs.pkg}} | sed 's#/tmp/tars/##g')"
         if: steps.pkgbuild.outcome=='success'
 
-      - name: Exit on build failure
+      - name: Push failed before exit
         uses: nick-fields/retry@v2
         with:
           timeout_minutes: 10
@@ -107,6 +107,7 @@ jobs:
             git pull origin main || git reset --hard origin/main
             mkdir -p lists/failed
             cp /tmp/${{steps.claim.outputs.pkg}} lists/failed/${{steps.claim.outputs.pkg}};
+            PKG=$(cat tmp${{steps.uniq.outputs.uniq}})
             git config user.name github-actions
             git config user.email github-actions@github.com
             git add lists
