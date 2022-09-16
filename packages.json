@@ -54,9 +54,7 @@
         "ModelMetrics",
         "rex"
     ],
-    "annmap": [
-        "RMySQL"
-    ],
+    "annmap": [],
     "AnnotationHub": [],
     "AnnotationHubData": [],
     "annotatr": [],
@@ -593,9 +591,7 @@
     "GISPA": [
         "Rmpfr"
     ],
-    "GladiaTOX": [
-        "RMySQL"
-    ],
+    "GladiaTOX": [],
     "glmSparseNet": [
         "sparsebn",
         "loose.rock"
@@ -667,9 +663,7 @@
     ],
     "intansv": [],
     "interactiveDisplay": [],
-    "IntEREst": [
-        "RMySQL"
-    ],
+    "IntEREst": [],
     "InterMineR": [],
     "IONiseR": [],
     "iPath": [],
@@ -1582,7 +1576,6 @@
         "openCyto"
     ],
     "trena": [
-        "RMySQL",
         "vbsr"
     ],
     "tricycle": [
@@ -1666,7 +1659,6 @@
     ],
     "ModelMetrics": [],
     "rex": [],
-    "RMySQL": [],
     "MafDb.1Kgenomes.phase3.hs37d5": [
         "GenomicScores"
     ],
