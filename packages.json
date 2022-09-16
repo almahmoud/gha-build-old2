@@ -78,7 +78,6 @@
         "ROCR",
         "mGSZ"
     ],
-    "ASpli": [],
     "ATACseqQC": [
         "ChIPpeakAnno",
         "GenomicScores"
@@ -1452,7 +1451,6 @@
         "rcdk"
     ],
     "RNAAgeCalc": [],
-    "RNAdecay": [],
     "RNAinteract": [
         "splots"
     ],
