@@ -656,9 +656,7 @@
         "ModelMetrics"
     ],
     "GateFinder": [],
-    "gcatest": [
-        "lfa"
-    ],
+    "gcatest": [],
     "GDCRNATools": [
         "clusterProfiler"
     ],
@@ -847,7 +845,6 @@
         "ROCR"
     ],
     "levi": [],
-    "lfa": [],
     "limmaGUI": [],
     "Linnorm": [
         "prabclus"
