@@ -23,12 +23,10 @@
         "prabclus"
     ],
     "affycoretools": [
-        "oligoClasses",
         "ReportingTools"
     ],
     "AgiMicroRna": [
         "affycoretools",
-        "oligoClasses",
         "ReportingTools"
     ],
     "airpart": [
@@ -84,9 +82,7 @@
         "GenomicScores",
         "interactiveDisplayBase"
     ],
-    "ArrayExpress": [
-        "oligoClasses"
-    ],
+    "ArrayExpress": [],
     "ArrayExpressHTS": [
         "ShortRead"
     ],
@@ -337,8 +333,7 @@
         "ShortRead"
     ],
     "ChIPXpress": [
-        "ChIPXpressData",
-        "oligoClasses"
+        "ChIPXpressData"
     ],
     "ChromSCape": [
         "scran",
@@ -374,9 +369,7 @@
         "mbkmeans"
     ],
     "clusterProfiler": [],
-    "cn.farms": [
-        "oligoClasses"
-    ],
+    "cn.farms": [],
     "CNVfilteR": [
         "karyoploteR",
         "CopyNumberPlots"
@@ -443,12 +436,8 @@
         "GUIDEseq",
         "ChIPpeakAnno"
     ],
-    "crlmm": [
-        "oligoClasses"
-    ],
-    "crossmeta": [
-        "oligoClasses"
-    ],
+    "crlmm": [],
+    "crossmeta": [],
     "ctgGEM": [
         "sincell",
         "TSCAN"
@@ -610,9 +599,7 @@
         "scuttle"
     ],
     "drugTargetInteractions": [],
-    "DrugVsDisease": [
-        "oligoClasses"
-    ],
+    "DrugVsDisease": [],
     "DSS": [],
     "Dune": [],
     "easier": [
@@ -768,9 +755,7 @@
     "FRGEpistasis": [
         "plot3D"
     ],
-    "frma": [
-        "oligoClasses"
-    ],
+    "frma": [],
     "FunChIP": [
         "plot3D"
     ],
@@ -996,8 +981,7 @@
         "lasso2"
     ],
     "ITALICS": [
-        "pd.mapping50k.xba240",
-        "oligoClasses"
+        "pd.mapping50k.xba240"
     ],
     "IWTomics": [
         "plot3D"
@@ -1063,8 +1047,7 @@
     "MAGAR": [
         "RnBeads",
         "bigstatsr",
-        "rmio",
-        "oligoClasses"
+        "rmio"
     ],
     "MAGeCKFlute": [
         "clusterProfiler"
@@ -1090,9 +1073,7 @@
     "matter": [],
     "MBASED": [],
     "mbkmeans": [],
-    "mBPCR": [
-        "oligoClasses"
-    ],
+    "mBPCR": [],
     "MBttest": [],
     "mCSEA": [],
     "MEAL": [
@@ -1218,16 +1199,12 @@
         "clusterProfiler"
     ],
     "miloR": [],
-    "mimager": [
-        "oligoClasses"
-    ],
+    "mimager": [],
     "MineICA": [
         "prabclus"
     ],
     "minet": [],
-    "MinimumDistance": [
-        "oligoClasses"
-    ],
+    "MinimumDistance": [],
     "MIRA": [],
     "miRNAtap": [
         "sqldf"
@@ -1452,10 +1429,7 @@
         "ExperimentHub"
     ],
     "ODER": [],
-    "oligo": [
-        "oligoClasses"
-    ],
-    "oligoClasses": [],
+    "oligo": [],
     "omicade4": [
         "made4"
     ],
@@ -1505,9 +1479,7 @@
         "piano",
         "ModelMetrics"
     ],
-    "pdInfoBuilder": [
-        "oligoClasses"
-    ],
+    "pdInfoBuilder": [],
     "PeacoQC": [],
     "peakPantheR": [],
     "PECA": [
@@ -1635,9 +1607,7 @@
     "pulsedSilac": [
         "taRifx"
     ],
-    "puma": [
-        "oligoClasses"
-    ],
+    "puma": [],
     "pwOmics": [
         "rBiopaxParser",
         "interactiveDisplayBase",
@@ -1832,9 +1802,7 @@
         "ROCR",
         "uwot"
     ],
-    "SCAN.UPC": [
-        "oligoClasses"
-    ],
+    "SCAN.UPC": [],
     "scanMiR": [],
     "scanMiRApp": [
         "scanMiR",
@@ -2286,9 +2254,7 @@
         "stopwords",
         "sylly.en"
     ],
-    "VanillaICE": [
-        "oligoClasses"
-    ],
+    "VanillaICE": [],
     "VariantExperiment": [],
     "VariantFiltering": [
         "GenomicScores",
@@ -2558,9 +2524,7 @@
     "IsoGene": [],
     "orQA": [],
     "DiscriMiner": [],
-    "pd.mapping50k.xba240": [
-        "oligoClasses"
-    ],
+    "pd.mapping50k.xba240": [],
     "reldist": [
         "rstan",
         "StanHeaders"
