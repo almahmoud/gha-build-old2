@@ -1,0 +1,16 @@
+* installing *source* package ‘FDb.InfiniumMethylation.hg19’ ...
+** using staged installation
+** R
+** data
+** demo
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘FDb.InfiniumMethylation.hg19’ as ‘FDb.InfiniumMethylation.hg19_2.2.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (FDb.InfiniumMethylation.hg19)
