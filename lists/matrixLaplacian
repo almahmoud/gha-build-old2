@@ -1,1 +1,42 @@
-claimed
+Already up to date.
+scatterplot3d/CITATION
+scatterplot3d/DESCRIPTION
+scatterplot3d/INDEX
+scatterplot3d/Meta/
+scatterplot3d/Meta/Rd.rds
+scatterplot3d/Meta/features.rds
+scatterplot3d/Meta/hsearch.rds
+scatterplot3d/Meta/links.rds
+scatterplot3d/Meta/nsInfo.rds
+scatterplot3d/Meta/package.rds
+scatterplot3d/Meta/vignette.rds
+scatterplot3d/NAMESPACE
+scatterplot3d/R/
+scatterplot3d/R/scatterplot3d
+scatterplot3d/R/scatterplot3d.rdb
+scatterplot3d/R/scatterplot3d.rdx
+scatterplot3d/doc/
+scatterplot3d/doc/index.html
+scatterplot3d/doc/s3d.Rnw
+scatterplot3d/doc/s3d.pdf
+scatterplot3d/help/
+scatterplot3d/help/AnIndex
+scatterplot3d/help/aliases.rds
+scatterplot3d/help/paths.rds
+scatterplot3d/help/scatterplot3d.rdb
+scatterplot3d/help/scatterplot3d.rdx
+scatterplot3d/html/
+scatterplot3d/html/00Index.html
+scatterplot3d/html/R.css
+scatterplot3d/po/
+scatterplot3d/po/de/
+scatterplot3d/po/de/LC_MESSAGES/
+scatterplot3d/po/de/LC_MESSAGES/R-scatterplot3d.mo
+scatterplot3d/po/en/
+scatterplot3d/po/en/LC_MESSAGES/
+scatterplot3d/po/en/LC_MESSAGES/R-scatterplot3d.mo
+* installing *binary* package ‘matrixLaplacian’ ...
+* ‘matrixLaplacian’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘matrixLaplacian’ as ‘matrixLaplacian_1.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (matrixLaplacian)
