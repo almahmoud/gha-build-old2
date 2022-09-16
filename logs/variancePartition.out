@@ -1,0 +1,20 @@
+* installing *source* package ‘variancePartition’ ...
+** using staged installation
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+in method for ‘calcVarPart’ with signature ‘"negbin"’: no definition for class “negbin”
+in method for ‘checkModelStatus’ with signature ‘"negbin"’: no definition for class “negbin”
+Creating a new generic function for ‘classifyTestsF’ in package ‘variancePartition’
+** help
+*** installing help indices
+*** copying figures
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘variancePartition’ as ‘variancePartition_1.26.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (variancePartition)
