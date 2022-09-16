@@ -1,4 +1,3 @@
-methylSig
 CGHnormaliter
 RAREsim
 IMMAN
