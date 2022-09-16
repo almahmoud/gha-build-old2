@@ -1,5 +1,3 @@
-TMixClust
-geneRecommender
 monocle
 reconsi
 factDesign
