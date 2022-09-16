@@ -1,4 +1,3 @@
-GateFinder
 beer
 ChIPpeakAnno
 SubCellBarCode
