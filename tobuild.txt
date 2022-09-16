@@ -1,4 +1,3 @@
-flowCyBar
 mbkmeans
 synapsis
 dmt
