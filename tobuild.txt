@@ -1,4 +1,3 @@
-SNPhood
 dagLogo
 MACPET
 Linnorm
