@@ -1586,7 +1586,6 @@
         "prabclus",
         "EDASeq"
     ],
-    "Sconify": [],
     "SCOPE": [],
     "scPCA": [
         "sparsepca"
