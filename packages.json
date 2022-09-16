@@ -108,7 +108,6 @@
     "BEAT": [],
     "benchdamic": [
         "Seurat",
-        "metagenomeSeq",
         "ffpe",
         "ROCR",
         "uwot",
@@ -781,9 +780,7 @@
         "ExperimentHub",
         "ModelMetrics"
     ],
-    "Maaslin2": [
-        "metagenomeSeq"
-    ],
+    "Maaslin2": [],
     "MACPET": [],
     "MACSr": [
         "ExperimentHub"
@@ -846,7 +843,6 @@
     "metagene": [
         "muStat"
     ],
-    "metagenomeSeq": [],
     "metaMS": [
         "xcms"
     ],
@@ -856,7 +852,6 @@
         "EDASeq"
     ],
     "metavizr": [
-        "metagenomeSeq",
         "epivizrStandalone"
     ],
     "MetaVolcanoR": [],
@@ -900,14 +895,9 @@
         "scuttle"
     ],
     "microbiome": [],
-    "microbiomeDASim": [
-        "metagenomeSeq"
-    ],
-    "microbiomeExplorer": [
-        "metagenomeSeq"
-    ],
+    "microbiomeDASim": [],
+    "microbiomeExplorer": [],
     "microbiomeMarker": [
-        "metagenomeSeq",
         "microbiome",
         "ModelMetrics"
     ],
@@ -945,8 +935,7 @@
     ],
     "MMUPHin": [
         "Maaslin2",
-        "prabclus",
-        "metagenomeSeq"
+        "prabclus"
     ],
     "mnem": [
         "snowfall",
