@@ -1,4 +1,3 @@
-DiscriMiner
 variancePartition
 padma
 SRAdb
