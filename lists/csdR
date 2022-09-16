@@ -1,4 +1,7 @@
-Already up to date.
+Auto-merging tobuild.txt
+CONFLICT (content): Merge conflict in tobuild.txt
+Automatic merge failed; fix conflicts and then commit the result.
+HEAD is now at ba4a15a Claim cellmigRation
 AnnotationDbi/DBschemas/
 AnnotationDbi/DBschemas/SchemaGuidelines.txt
 AnnotationDbi/DBschemas/schemas_0.9/
