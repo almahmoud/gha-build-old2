@@ -133,7 +133,6 @@
     "BioMM": [
         "readbitmap"
     ],
-    "biomvRCNS": [],
     "BioNERO": [
         "NetRep",
         "minet"
@@ -722,9 +721,7 @@
     "gprege": [
         "gptk"
     ],
-    "gpuMagic": [
-        "DescTools"
-    ],
+    "gpuMagic": [],
     "graper": [],
     "GraphPAC": [
         "RMallow"
@@ -781,9 +778,7 @@
     "IgGeneUsage": [
         "rstan"
     ],
-    "ILoReg": [
-        "DescTools"
-    ],
+    "ILoReg": [],
     "imageHTS": [
         "splots"
     ],
@@ -1659,9 +1654,7 @@
         "EDASeq"
     ],
     "Sconify": [],
-    "SCOPE": [
-        "DescTools"
-    ],
+    "SCOPE": [],
     "scPCA": [
         "sparsepca"
     ],
@@ -2203,7 +2196,6 @@
     "sparsebn": [],
     "loose.rock": [],
     "gptk": [],
-    "DescTools": [],
     "RMallow": [],
     "tidytext": [
         "tokenizers"
