@@ -1,4 +1,3 @@
-karyoploteR
 levi
 qcmetrics
 MetaboSignal
