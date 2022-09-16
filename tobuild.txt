@@ -1,6 +1,3 @@
-coseq
-ProteoDisco
-netboost
 transcriptR
 ontoProc
 HiCcompare
