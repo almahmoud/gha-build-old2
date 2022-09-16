@@ -1100,7 +1100,6 @@
     "MicrobiomeProfiler": [
         "clusterProfiler"
     ],
-    "miloR": [],
     "mimager": [],
     "MineICA": [
         "prabclus"
