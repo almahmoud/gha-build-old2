@@ -1,4 +1,3 @@
-ChIC.data
 cellxgenedp
 vbsr
 OMICsPCA
