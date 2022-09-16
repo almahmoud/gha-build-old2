@@ -1,4 +1,3 @@
-dks
 pals
 ARRmNormalization
 ReadqPCR
