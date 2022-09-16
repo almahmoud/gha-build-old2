@@ -243,7 +243,6 @@
         "scater",
         "scuttle",
         "openCyto",
-        "flowViz",
         "plot3D"
     ],
     "categoryCompare": [],
@@ -290,7 +289,6 @@
         "diffcyt",
         "FlowSOM",
         "openCyto",
-        "flowViz",
         "plot3D"
     ],
     "CeTF": [
@@ -411,7 +409,6 @@
     ],
     "CONFESS": [
         "readbitmap",
-        "flowViz",
         "plot3D"
     ],
     "consensus": [],
@@ -467,7 +464,6 @@
     "cyanoFilter": [
         "flowDensity",
         "mrfDepth",
-        "flowViz",
         "MBA"
     ],
     "cydar": [],
@@ -479,7 +475,6 @@
         "FlowSOM",
         "ModelMetrics",
         "openCyto",
-        "flowViz",
         "plot3D"
     ],
     "CytoGLMM": [
@@ -493,14 +488,12 @@
     "cytomapper": [],
     "CytoML": [
         "openCyto",
-        "flowViz",
         "plot3D"
     ],
     "CytoTree": [
         "FlowSOM",
         "VIM",
         "openCyto",
-        "flowViz",
         "plot3D"
     ],
     "dada2": [
@@ -534,7 +527,6 @@
     "dcGSA": [],
     "ddPCRclust": [
         "flowDensity",
-        "flowViz",
         "MBA"
     ],
     "dearseq": [],
@@ -582,7 +574,6 @@
     "diffcyt": [
         "FlowSOM",
         "openCyto",
-        "flowViz",
         "plot3D"
     ],
     "diggit": [
@@ -738,55 +729,40 @@
         "scater",
         "scuttle"
     ],
-    "flowBin": [
-        "flowViz"
-    ],
+    "flowBin": [],
     "flowcatchR": [],
     "flowCL": [
         "SPARQL"
     ],
     "flowClean": [],
-    "flowClust": [
-        "flowViz"
-    ],
+    "flowClust": [],
     "flowCut": [
         "flowDensity",
-        "flowViz",
         "MBA"
     ],
     "flowDensity": [
-        "flowViz",
         "MBA"
     ],
-    "flowFP": [
-        "flowViz"
-    ],
+    "flowFP": [],
     "flowMatch": [],
     "flowMeans": [
         "plot3D"
     ],
     "flowMerge": [
-        "plot3D",
-        "flowViz"
+        "plot3D"
     ],
     "flowPloidy": [],
     "FlowSOM": [
         "openCyto",
-        "flowViz",
         "plot3D"
     ],
     "flowSpecs": [],
     "flowStats": [
-        "flowViz",
         "plot3D"
     ],
     "flowTime": [],
-    "flowTrans": [
-        "flowViz"
-    ],
-    "flowViz": [],
+    "flowTrans": [],
     "flowVS": [
-        "flowViz",
         "plot3D"
     ],
     "fmcsR": [],
@@ -811,9 +787,7 @@
         "ModelMetrics",
         "ShortRead"
     ],
-    "GateFinder": [
-        "flowViz"
-    ],
+    "GateFinder": [],
     "gcatest": [
         "lfa"
     ],
@@ -1156,7 +1130,6 @@
     "MetaCyto": [
         "FlowSOM",
         "openCyto",
-        "flowViz",
         "plot3D"
     ],
     "metagene": [
@@ -1504,7 +1477,6 @@
         "interactiveDisplayBase"
     ],
     "openCyto": [
-        "flowViz",
         "plot3D"
     ],
     "OpenStats": [
@@ -2260,7 +2232,6 @@
         "diffcyt",
         "FlowSOM",
         "openCyto",
-        "flowViz",
         "plot3D"
     ],
     "TreeSummarizedExperiment": [],
