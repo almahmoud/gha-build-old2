@@ -1,4 +1,3 @@
-EDASeq
 GGPA
 TNBC.CMS
 nearBynding
