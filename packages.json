@@ -184,9 +184,7 @@
     "Cardinal": [
         "matter"
     ],
-    "casper": [
-        "sqldf"
-    ],
+    "casper": [],
     "CATALYST": [
         "FlowSOM",
         "scater",
@@ -708,8 +706,7 @@
         "tokenizers"
     ],
     "gsean": [
-        "PPInfer",
-        "sqldf"
+        "PPInfer"
     ],
     "GSgalgoR": [
         "nsga2R"
@@ -758,9 +755,7 @@
         "scuttle",
         "cytomapper"
     ],
-    "IMMAN": [
-        "sqldf"
-    ],
+    "IMMAN": [],
     "ImmuneSpaceR": [],
     "infinityFlow": [
         "uwot"
@@ -771,9 +766,7 @@
     "IntEREst": [
         "RMySQL"
     ],
-    "InterMineR": [
-        "sqldf"
-    ],
+    "InterMineR": [],
     "IONiseR": [],
     "iPath": [],
     "ipdDb": [],
@@ -813,9 +806,7 @@
         "plot3D"
     ],
     "karyoploteR": [],
-    "KinSwingR": [
-        "sqldf"
-    ],
+    "KinSwingR": [],
     "kissDE": [],
     "KnowSeq": [
         "ModelMetrics"
@@ -907,9 +898,7 @@
     "metabomxtr": [
         "optimx"
     ],
-    "MetaboSignal": [
-        "sqldf"
-    ],
+    "MetaboSignal": [],
     "MetaCyto": [
         "FlowSOM",
         "openCyto",
@@ -997,9 +986,7 @@
         "prabclus"
     ],
     "MinimumDistance": [],
-    "miRNAtap": [
-        "sqldf"
-    ],
+    "miRNAtap": [],
     "miRSM": [
         "SOMbrero",
         "ppclust",
@@ -1115,9 +1102,7 @@
         "topicmodels",
         "tm"
     ],
-    "mygene": [
-        "sqldf"
-    ],
+    "mygene": [],
     "NADfinder": [
         "trackViewer",
         "ATACseqQC",
@@ -1295,9 +1280,7 @@
     "ppcseq": [
         "rstan"
     ],
-    "PPInfer": [
-        "sqldf"
-    ],
+    "PPInfer": [],
     "preciseTAD": [
         "ModelMetrics"
     ],
@@ -1344,8 +1327,7 @@
     ],
     "puma": [],
     "pwOmics": [
-        "rBiopaxParser",
-        "sqldf"
+        "rBiopaxParser"
     ],
     "pwrEWAS": [
         "pwrEWAS.data",
@@ -1363,9 +1345,7 @@
     ],
     "QuasR": [],
     "R3CPET": [],
-    "r3Cseq": [
-        "sqldf"
-    ],
+    "r3Cseq": [],
     "R453Plus1Toolbox": [],
     "RadioGx": [
         "piano"
@@ -1420,25 +1400,19 @@
     "RiboDiPA": [
         "rstan"
     ],
-    "RiboProfiling": [
-        "sqldf"
-    ],
+    "RiboProfiling": [],
     "ribosomeProfilingQC": [
         "EDASeq",
         "RUVSeq"
     ],
-    "RImmPort": [
-        "sqldf"
-    ],
+    "RImmPort": [],
     "RIPAT": [
         "karyoploteR"
     ],
     "Risa": [
         "xcms"
     ],
-    "RITAN": [
-        "sqldf"
-    ],
+    "RITAN": [],
     "RLSeq": [
         "valr",
         "RLHub",
@@ -1728,8 +1702,7 @@
     "SpidermiR": [
         "miRNAtap.db",
         "MAGeCKFlute",
-        "clusterProfiler",
-        "sqldf"
+        "clusterProfiler"
     ],
     "spiky": [
         "MBA"
@@ -1757,14 +1730,11 @@
         "MLmetrics",
         "miRNAtap.db",
         "MAGeCKFlute",
-        "clusterProfiler",
-        "sqldf"
+        "clusterProfiler"
     ],
     "statTarget": [],
     "Streamer": [],
-    "STRINGdb": [
-        "sqldf"
-    ],
+    "STRINGdb": [],
     "STROMA4": [],
     "structToolbox": [],
     "SubCellBarCode": [
@@ -1921,9 +1891,7 @@
         "PharmacoGx",
         "piano"
     ],
-    "XINA": [
-        "sqldf"
-    ],
+    "XINA": [],
     "YAPSA": [
         "Rmpfr"
     ],
@@ -2007,7 +1975,6 @@
     ],
     "GenomicState": [],
     "iCluster": [],
-    "sqldf": [],
     "ks": [
         "plot3D"
     ],
@@ -2210,9 +2177,7 @@
     ],
     "ScISI": [],
     "sampSurf": [],
-    "miRNAtap.db": [
-        "sqldf"
-    ],
+    "miRNAtap.db": [],
     "bamlss": [
         "MBA"
     ],
