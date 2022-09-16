@@ -250,8 +250,7 @@
     "ChIPpeakAnno": [],
     "ChIPQC": [
         "DiffBind",
-        "systemPipeR",
-        "mixsqp"
+        "systemPipeR"
     ],
     "chipseq": [],
     "ChIPseqR": [],
@@ -353,9 +352,7 @@
     "CytoGLMM": [
         "ModelMetrics"
     ],
-    "cytoKernel": [
-        "mixsqp"
-    ],
+    "cytoKernel": [],
     "CytoML": [
         "openCyto"
     ],
@@ -389,8 +386,7 @@
     ],
     "dearseq": [],
     "debrowser": [
-        "clusterProfiler",
-        "mixsqp"
+        "clusterProfiler"
     ],
     "deco": [
         "made4"
@@ -418,8 +414,7 @@
         "swamp"
     ],
     "DiffBind": [
-        "systemPipeR",
-        "mixsqp"
+        "systemPipeR"
     ],
     "diffcyt": [
         "FlowSOM",
@@ -1668,8 +1663,7 @@
     "vulcan": [
         "ChIPpeakAnno",
         "DiffBind",
-        "systemPipeR",
-        "mixsqp"
+        "systemPipeR"
     ],
     "wateRmelon": [],
     "weitrix": [],
@@ -1775,10 +1769,7 @@
     "ChIC.data": [
         "ModelMetrics"
     ],
-    "ashr": [
-        "mixsqp"
-    ],
-    "mixsqp": [],
+    "ashr": [],
     "ChIPXpressData": [],
     "phylobase": [],
     "colortools": [],
