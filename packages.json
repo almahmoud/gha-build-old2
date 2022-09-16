@@ -3258,7 +3258,6 @@
         "ShortRead"
     ],
     "scry": [],
-    "scShapes": [],
     "scTensor": [
         "ReactomePA",
         "interactiveDisplayBase",
