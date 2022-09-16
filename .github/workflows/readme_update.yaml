@@ -18,10 +18,16 @@ jobs:
           max_attempts: 20
           shell: bash
           command: |
-            set -x
+            set -xe
             git config --global --add safe.directory "$GITHUB_WORKSPACE"
             git config user.name github-actions
             git config user.email github-actions@github.com
             git config pull.ff only
             python -m pip install tabulate
-            python .github/scripts/populate_readme.py && git stash && git pull && git stash pop && git add . && git commit -m "Update README" && git push
+            python .github/scripts/populate_readme.py
+            git stash
+            git pull origin main || git reset --hard origin/main
+            git stash pop
+            git add .
+            git commit -m "Update README"
+            git push
