@@ -1,4 +1,3 @@
-IlluminaHumanMethylationEPICanno.ilm10b4.hg19
 enrichplot
 preciseTAD
 RegEnrich
