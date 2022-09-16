@@ -851,7 +851,6 @@
     "gcatest": [
         "lfa"
     ],
-    "GCSscore": [],
     "GDCRNATools": [
         "clusterProfiler"
     ],
