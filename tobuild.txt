@@ -1,4 +1,3 @@
-categoryCompare
 assertive.models
 SEPIRA
 RMallow
