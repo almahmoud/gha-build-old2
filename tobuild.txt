@@ -1,4 +1,3 @@
-MODA
 pwOmics
 LymphoSeq
 scCB2
