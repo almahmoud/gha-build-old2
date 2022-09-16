@@ -1,4 +1,3 @@
-MCMCprecision
 networkBMA
 CellScore
 gptk
