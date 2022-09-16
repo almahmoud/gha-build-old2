@@ -1,4 +1,3 @@
-BayesSpace
 abseqR
 CGHnormaliter
 IMMAN
