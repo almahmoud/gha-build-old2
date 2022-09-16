@@ -1564,7 +1564,6 @@
     "Guitar": [],
     "Gviz": [],
     "GWAS.BAYES": [
-        "GA",
         "ModelMetrics",
         "recipes"
     ],
@@ -4682,7 +4681,6 @@
     ],
     "ggwordcloud": [],
     "nsga2R": [],
-    "GA": [],
     "BatchJobs": [],
     "R2jags": [
         "R2WinBUGS"
