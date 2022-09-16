@@ -1,4 +1,3 @@
-MMAPPR2
 GA4GHshiny
 gespeR
 OMICsPCA
