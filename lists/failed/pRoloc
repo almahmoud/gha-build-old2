@@ -1,7 +1,8 @@
-Updating c9d00b1..3a3fcca
+Updating 04d88f3..c0416d3
 Fast-forward
- logs/run_ids/pRoloc | 1 +
- 1 file changed, 1 insertion(+)
+ lists/soGGi | 2 +-
+ tobuild.txt | 1 -
+ 2 files changed, 1 insertion(+), 2 deletions(-)
 affy/CITATION
 affy/DESCRIPTION
 affy/INDEX
