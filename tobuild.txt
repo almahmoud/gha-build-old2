@@ -1,4 +1,3 @@
-SomaticSignatures
 progeny
 ClassifyR
 AllelicImbalance
