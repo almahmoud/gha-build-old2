@@ -829,7 +829,6 @@
     "matter": [],
     "mbkmeans": [],
     "mBPCR": [],
-    "mCSEA": [],
     "MEAL": [
         "missMethyl"
     ],
@@ -902,7 +901,6 @@
     "methylKit": [],
     "methylSig": [],
     "MetID": [],
-    "MetNet": [],
     "mgsa": [],
     "mia": [
         "TreeSummarizedExperiment",
