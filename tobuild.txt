@@ -1,4 +1,3 @@
-animalcules
 flowVS
 qmtools
 GenomicScores
