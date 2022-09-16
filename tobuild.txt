@@ -1,4 +1,3 @@
-pwOmics
 LymphoSeq
 scCB2
 decompTumor2Sig
