@@ -1,4 +1,3 @@
-customCMPdb
 epialleleR
 PolyPhen.Hsapiens.dbSNP131
 BBCAnalyzer
