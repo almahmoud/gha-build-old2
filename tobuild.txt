@@ -1,4 +1,3 @@
-qmtools
 GenomicScores
 gggenes
 hermes
