@@ -87,9 +87,7 @@
         "ShortRead"
     ],
     "arrayMvout": [],
-    "ASICS": [
-        "ropls"
-    ],
+    "ASICS": [],
     "ASpediaFI": [
         "ROCR",
         "mGSZ"
@@ -166,9 +164,7 @@
         "minet"
     ],
     "BioQC": [],
-    "biosigner": [
-        "ropls"
-    ],
+    "biosigner": [],
     "biotmle": [
         "ROCR"
     ],
@@ -991,9 +987,7 @@
     "Linnorm": [
         "prabclus"
     ],
-    "lipidr": [
-        "ropls"
-    ],
+    "lipidr": [],
     "LOBSTAHS": [
         "xcms"
     ],
@@ -1291,9 +1285,7 @@
     "MSstatsSampleSize": [
         "ModelMetrics"
     ],
-    "MultiBaC": [
-        "ropls"
-    ],
+    "MultiBaC": [],
     "multicrispr": [
         "karyoploteR",
         "assertive.sets",
@@ -1307,7 +1299,6 @@
     "multiSight": [
         "clusterProfiler",
         "ReactomePA",
-        "ropls",
         "ModelMetrics"
     ],
     "mumosa": [
@@ -1546,8 +1537,7 @@
         "interactiveDisplayBase"
     ],
     "proFIA": [
-        "xcms",
-        "ropls"
+        "xcms"
     ],
     "profileplyr": [
         "soGGi",
@@ -1740,13 +1730,10 @@
     ],
     "RnaSeqSampleSize": [],
     "RnBeads": [],
-    "ropls": [],
     "Rqc": [
         "ShortRead"
     ],
-    "rqt": [
-        "ropls"
-    ],
+    "rqt": [],
     "rrvgo": [
         "tm"
     ],
