@@ -17,8 +17,7 @@
     ],
     "adductomicsR": [
         "adductData",
-        "ExperimentHub",
-        "prabclus"
+        "ExperimentHub"
     ],
     "affycoretools": [
         "ReportingTools"
@@ -151,8 +150,7 @@
         "snowfall",
         "epiNEM",
         "mnem",
-        "Linnorm",
-        "prabclus"
+        "Linnorm"
     ],
     "brainflowprobes": [
         "GenomicState"
@@ -309,7 +307,6 @@
         "scran",
         "scater",
         "clusterProfiler",
-        "prabclus",
         "scuttle"
     ],
     "condiments": [
@@ -390,8 +387,7 @@
         "epiNEM",
         "mnem",
         "snowfall",
-        "Linnorm",
-        "prabclus"
+        "Linnorm"
     ],
     "ddPCRclust": [
         "flowDensity",
@@ -501,8 +497,7 @@
     "epiNEM": [
         "mnem",
         "snowfall",
-        "Linnorm",
-        "prabclus"
+        "Linnorm"
     ],
     "epivizrStandalone": [],
     "erccdashboard": [
@@ -513,9 +508,7 @@
         "TFBSTools",
         "motifmatchr"
     ],
-    "evaluomeR": [
-        "prabclus"
-    ],
+    "evaluomeR": [],
     "EWCE": [
         "ewceData",
         "ExperimentHub"
@@ -750,9 +743,7 @@
     ],
     "levi": [],
     "limmaGUI": [],
-    "Linnorm": [
-        "prabclus"
-    ],
+    "Linnorm": [],
     "lipidr": [],
     "LOBSTAHS": [
         "xcms"
@@ -891,9 +882,7 @@
         "clusterProfiler"
     ],
     "mimager": [],
-    "MineICA": [
-        "prabclus"
-    ],
+    "MineICA": [],
     "MinimumDistance": [],
     "miRNAtap": [],
     "miRSM": [
@@ -913,20 +902,16 @@
         "ModelMetrics"
     ],
     "mitch": [],
-    "MLInterfaces": [
-        "prabclus"
-    ],
+    "MLInterfaces": [],
     "MLSeq": [
         "ModelMetrics"
     ],
     "MMUPHin": [
-        "Maaslin2",
-        "prabclus"
+        "Maaslin2"
     ],
     "mnem": [
         "snowfall",
-        "Linnorm",
-        "prabclus"
+        "Linnorm"
     ],
     "ModCon": [],
     "MOFA2": [
@@ -1031,8 +1016,7 @@
         "mnem",
         "epiNEM",
         "snowfall",
-        "Linnorm",
-        "prabclus"
+        "Linnorm"
     ],
     "netboxr": [
         "clusterProfiler"
@@ -1074,9 +1058,7 @@
         "omicade4",
         "made4"
     ],
-    "OMICsPCA": [
-        "prabclus"
-    ],
+    "OMICsPCA": [],
     "ontoProc": [],
     "openCyto": [],
     "OpenStats": [
@@ -1187,13 +1169,11 @@
         "ROCR"
     ],
     "pRoloc": [
-        "ModelMetrics",
-        "prabclus"
+        "ModelMetrics"
     ],
     "pRolocGUI": [
         "pRoloc",
-        "ModelMetrics",
-        "prabclus"
+        "ModelMetrics"
     ],
     "PROPER": [],
     "Prostar": [
@@ -1421,7 +1401,6 @@
     ],
     "scone": [
         "RUVSeq",
-        "prabclus",
         "EDASeq"
     ],
     "SCOPE": [],
@@ -1473,9 +1452,7 @@
     "shinyepico": [],
     "shinyMethyl": [],
     "SIAMCAT": [],
-    "SigCheck": [
-        "prabclus"
-    ],
+    "SigCheck": [],
     "signatureSearch": [
         "ExperimentHub",
         "clusterProfiler"
@@ -1692,9 +1669,7 @@
     "unifiedWMWqPCR": [
         "HTqPCR"
     ],
-    "uSORT": [
-        "prabclus"
-    ],
+    "uSORT": [],
     "VAExprs": [
         "scater",
         "gradDescent",
@@ -1746,10 +1721,7 @@
     "adductData": [
         "ExperimentHub"
     ],
-    "fpc": [
-        "prabclus"
-    ],
-    "prabclus": [],
+    "fpc": [],
     "optimx": [],
     "speaq": [],
     "curatedTCGAData": [
