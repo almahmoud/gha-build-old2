@@ -1,4 +1,3 @@
-EGSEA
 transcriptogramer
 seqCAT
 animalcules
