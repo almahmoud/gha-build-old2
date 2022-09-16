@@ -1007,12 +1007,9 @@
         "tidyverse"
     ],
     "MSstatsPTM": [],
-    "MSstatsQC": [
-        "qcmetrics"
-    ],
+    "MSstatsQC": [],
     "MSstatsQCgui": [
-        "MSstatsQC",
-        "qcmetrics"
+        "MSstatsQC"
     ],
     "MSstatsSampleSize": [
         "ModelMetrics"
@@ -1266,7 +1263,6 @@
         "pwrEWAS.data",
         "ExperimentHub"
     ],
-    "qcmetrics": [],
     "QDNAseq": [
         "snowfall"
     ],
