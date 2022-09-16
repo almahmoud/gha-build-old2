@@ -619,9 +619,7 @@
         "aods3"
     ],
     "KnowSeq": [],
-    "LACE": [
-        "configr"
-    ],
+    "LACE": [],
     "LedPred": [
         "ROCR"
     ],
@@ -1529,7 +1527,6 @@
     "orQA": [],
     "pd.mapping50k.xba240": [],
     "aods3": [],
-    "configr": [],
     "cgdsr": [],
     "reldist": [
         "rstan"
