@@ -518,7 +518,6 @@
         "MBA"
     ],
     "dearseq": [],
-    "debCAM": [],
     "debrowser": [
         "clusterProfiler",
         "mixsqp"
@@ -2070,7 +2069,6 @@
     "splots": [],
     "SQLDataFrame": [],
     "sRACIPE": [],
-    "srnadiff": [],
     "ssPATHS": [
         "ROCR"
     ],

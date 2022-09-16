@@ -1,4 +1,3 @@
-pqsfinder
 MBttest
 iCluster
 mbest
