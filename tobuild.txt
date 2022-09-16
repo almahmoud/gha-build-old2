@@ -1,12 +1,3 @@
-MSnID
-DominoEffect
-BioMM
-RGalaxy
-PPInfer
-rCGH
-coseq
-ProteoDisco
-netboost
 transcriptR
 ontoProc
 HiCcompare
