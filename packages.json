@@ -242,7 +242,6 @@
     ],
     "ChAMP": [
         "DMRcate",
-        "IlluminaHumanMethylation450kmanifest",
         "wateRmelon",
         "missMethyl",
         "ExperimentHub"
@@ -333,9 +332,7 @@
         "EDASeq",
         "RUVSeq"
     ],
-    "conumee": [
-        "IlluminaHumanMethylation450kmanifest"
-    ],
+    "conumee": [],
     "CopyNumberPlots": [
         "karyoploteR"
     ],
@@ -468,8 +465,7 @@
     ],
     "DMRcate": [
         "ExperimentHub",
-        "missMethyl",
-        "IlluminaHumanMethylation450kmanifest"
+        "missMethyl"
     ],
     "dmrseq": [
         "annotatr"
@@ -601,9 +597,7 @@
     "FRGEpistasis": [],
     "frma": [],
     "FunChIP": [],
-    "funtooNorm": [
-        "IlluminaHumanMethylation450kmanifest"
-    ],
+    "funtooNorm": [],
     "GARS": [
         "DaMiRseq",
         "MLSeq",
@@ -842,8 +836,7 @@
     "mBPCR": [],
     "mCSEA": [],
     "MEAL": [
-        "missMethyl",
-        "IlluminaHumanMethylation450kmanifest"
+        "missMethyl"
     ],
     "MEAT": [
         "wateRmelon"
@@ -895,9 +888,7 @@
         "ExperimentHub"
     ],
     "MethylAid": [],
-    "methylCC": [
-        "IlluminaHumanMethylation450kmanifest"
-    ],
+    "methylCC": [],
     "methylclock": [
         "methylclockData",
         "ExperimentHub",
@@ -907,8 +898,7 @@
     ],
     "methylGSA": [
         "clusterProfiler",
-        "missMethyl",
-        "IlluminaHumanMethylation450kmanifest"
+        "missMethyl"
     ],
     "methylInheritance": [
         "methylKit",
@@ -964,9 +954,7 @@
         "ReactomePA"
     ],
     "mirTarRnaSeq": [],
-    "missMethyl": [
-        "IlluminaHumanMethylation450kmanifest"
-    ],
+    "missMethyl": [],
     "mistyR": [
         "ModelMetrics"
     ],
@@ -1328,9 +1316,7 @@
     ],
     "RCyjs": [],
     "ReactomePA": [],
-    "recountmethylation": [
-        "IlluminaHumanMethylation450kmanifest"
-    ],
+    "recountmethylation": [],
     "REDseq": [
         "ChIPpeakAnno"
     ],
@@ -1559,9 +1545,7 @@
     ],
     "sevenC": [],
     "shinyepico": [],
-    "shinyMethyl": [
-        "IlluminaHumanMethylation450kmanifest"
-    ],
+    "shinyMethyl": [],
     "SIAMCAT": [],
     "SigCheck": [
         "prabclus"
@@ -1606,8 +1590,7 @@
     ],
     "SingleR": [],
     "skewr": [
-        "wateRmelon",
-        "IlluminaHumanMethylation450kmanifest"
+        "wateRmelon"
     ],
     "SLGI": [
         "ScISI"
@@ -1931,7 +1914,6 @@
     ],
     "tm": [],
     "GenomicTools": [],
-    "IlluminaHumanMethylation450kmanifest": [],
     "spp": [],
     "ChIC.data": [
         "ModelMetrics"
