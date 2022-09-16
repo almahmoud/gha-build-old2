@@ -1,1 +1,807 @@
-claimed
+Already up to date.
+BiocGenerics/CITATION
+BiocGenerics/DESCRIPTION
+BiocGenerics/INDEX
+BiocGenerics/Meta/
+BiocGenerics/Meta/Rd.rds
+BiocGenerics/Meta/features.rds
+BiocGenerics/Meta/hsearch.rds
+BiocGenerics/Meta/links.rds
+BiocGenerics/Meta/nsInfo.rds
+BiocGenerics/Meta/package.rds
+BiocGenerics/NAMESPACE
+BiocGenerics/R/
+BiocGenerics/R/BiocGenerics
+BiocGenerics/R/BiocGenerics.rdb
+BiocGenerics/R/BiocGenerics.rdx
+BiocGenerics/help/
+BiocGenerics/help/AnIndex
+BiocGenerics/help/BiocGenerics.rdb
+BiocGenerics/help/BiocGenerics.rdx
+BiocGenerics/help/aliases.rds
+BiocGenerics/help/paths.rds
+BiocGenerics/html/
+BiocGenerics/html/00Index.html
+BiocGenerics/html/R.css
+BiocGenerics/unitTests/
+BiocGenerics/unitTests/test_Extremes.R
+BiocGenerics/unitTests/test_combine.R
+BiocGenerics/unitTests/test_mapply.R
+BiocGenerics/unitTests/test_order.R
+BiocGenerics/unitTests/test_paste.R
+BiocGenerics/unitTests/test_updateObject.R
+bitops/DESCRIPTION
+bitops/INDEX
+bitops/Meta/
+bitops/Meta/Rd.rds
+bitops/Meta/features.rds
+bitops/Meta/hsearch.rds
+bitops/Meta/links.rds
+bitops/Meta/nsInfo.rds
+bitops/Meta/package.rds
+bitops/NAMESPACE
+bitops/R/
+bitops/R/bitops
+bitops/R/bitops.rdb
+bitops/R/bitops.rdx
+bitops/help/
+bitops/help/AnIndex
+bitops/help/aliases.rds
+bitops/help/bitops.rdb
+bitops/help/bitops.rdx
+bitops/help/paths.rds
+bitops/html/
+bitops/html/00Index.html
+bitops/html/R.css
+bitops/libs/
+bitops/libs/bitops.so
+GenomeInfoDb/DESCRIPTION
+GenomeInfoDb/INDEX
+GenomeInfoDb/Meta/
+GenomeInfoDb/Meta/Rd.rds
+GenomeInfoDb/Meta/features.rds
+GenomeInfoDb/Meta/hsearch.rds
+GenomeInfoDb/Meta/links.rds
+GenomeInfoDb/Meta/nsInfo.rds
+GenomeInfoDb/Meta/package.rds
+GenomeInfoDb/Meta/vignette.rds
+GenomeInfoDb/NAMESPACE
+GenomeInfoDb/NEWS
+GenomeInfoDb/R/
+GenomeInfoDb/R/GenomeInfoDb
+GenomeInfoDb/R/GenomeInfoDb.rdb
+GenomeInfoDb/R/GenomeInfoDb.rdx
+GenomeInfoDb/doc/
+GenomeInfoDb/doc/Accept-organism-for-GenomeInfoDb.R
+GenomeInfoDb/doc/Accept-organism-for-GenomeInfoDb.Rnw
+GenomeInfoDb/doc/Accept-organism-for-GenomeInfoDb.pdf
+GenomeInfoDb/doc/GenomeInfoDb.R
+GenomeInfoDb/doc/GenomeInfoDb.Rnw
+GenomeInfoDb/doc/GenomeInfoDb.pdf
+GenomeInfoDb/doc/index.html
+GenomeInfoDb/extdata/
+GenomeInfoDb/extdata/assembly_accessions.rda
+GenomeInfoDb/extdata/dataFiles/
+GenomeInfoDb/extdata/dataFiles/Arabidopsis_thaliana.txt
+GenomeInfoDb/extdata/dataFiles/Caenorhabditis_elegans.txt
+GenomeInfoDb/extdata/dataFiles/Canis_familiaris.txt
+GenomeInfoDb/extdata/dataFiles/Cyanidioschyzon_merolae.txt
+GenomeInfoDb/extdata/dataFiles/Drosophila_melanogaster.txt
+GenomeInfoDb/extdata/dataFiles/Homo_sapiens.txt
+GenomeInfoDb/extdata/dataFiles/Mus_musculus.txt
+GenomeInfoDb/extdata/dataFiles/Oryza_sativa.txt
+GenomeInfoDb/extdata/dataFiles/Populus_trichocarpa.txt
+GenomeInfoDb/extdata/dataFiles/README
+GenomeInfoDb/extdata/dataFiles/Rattus_norvegicus.txt
+GenomeInfoDb/extdata/dataFiles/Saccharomyces_cerevisiae.txt
+GenomeInfoDb/extdata/dataFiles/Zea_mays.txt
+GenomeInfoDb/extdata/dataFiles/genomeMappingTbl.csv
+GenomeInfoDb/help/
+GenomeInfoDb/help/AnIndex
+GenomeInfoDb/help/GenomeInfoDb.rdb
+GenomeInfoDb/help/GenomeInfoDb.rdx
+GenomeInfoDb/help/aliases.rds
+GenomeInfoDb/help/paths.rds
+GenomeInfoDb/html/
+GenomeInfoDb/html/00Index.html
+GenomeInfoDb/html/R.css
+GenomeInfoDb/registered/
+GenomeInfoDb/registered/NCBI_assemblies/
+GenomeInfoDb/registered/NCBI_assemblies/Acyrthosiphon_pisum.R
+GenomeInfoDb/registered/NCBI_assemblies/Ambystoma_mexicanum.R
+GenomeInfoDb/registered/NCBI_assemblies/Apis_mellifera.R
+GenomeInfoDb/registered/NCBI_assemblies/Arabidopsis_thaliana.R
+GenomeInfoDb/registered/NCBI_assemblies/Betacoronavirus.R
+GenomeInfoDb/registered/NCBI_assemblies/Bos_taurus.R
+GenomeInfoDb/registered/NCBI_assemblies/Brassica_napus.R
+GenomeInfoDb/registered/NCBI_assemblies/Caenorhabditis_elegans.R
+GenomeInfoDb/registered/NCBI_assemblies/Callithrix_jacchus.R
+GenomeInfoDb/registered/NCBI_assemblies/Camponotus_floridanus.R
+GenomeInfoDb/registered/NCBI_assemblies/Canis_lupus_familiaris.R
+GenomeInfoDb/registered/NCBI_assemblies/Cannabis_sativa.R
+GenomeInfoDb/registered/NCBI_assemblies/Chlamydomonas_reinhardtii.R
+GenomeInfoDb/registered/NCBI_assemblies/Danio_rerio.R
+GenomeInfoDb/registered/NCBI_assemblies/Drosophila_melanogaster.R
+GenomeInfoDb/registered/NCBI_assemblies/Drosophila_virilis.R
+GenomeInfoDb/registered/NCBI_assemblies/Equus_caballus.R
+GenomeInfoDb/registered/NCBI_assemblies/Eucalyptus_grandis.R
+GenomeInfoDb/registered/NCBI_assemblies/Fundulus_heteroclitus.R
+GenomeInfoDb/registered/NCBI_assemblies/Galleria_mellonella.R
+GenomeInfoDb/registered/NCBI_assemblies/Gallus_gallus.R
+GenomeInfoDb/registered/NCBI_assemblies/Gasterosteus_aculeatus.R
+GenomeInfoDb/registered/NCBI_assemblies/Glycine_max.R
+GenomeInfoDb/registered/NCBI_assemblies/Harpegnathos_saltator.R
+GenomeInfoDb/registered/NCBI_assemblies/Homo_sapiens.R
+GenomeInfoDb/registered/NCBI_assemblies/Hordeum_vulgare.R
+GenomeInfoDb/registered/NCBI_assemblies/Macaca_fascicularis.R
+GenomeInfoDb/registered/NCBI_assemblies/Macaca_mulatta.R
+GenomeInfoDb/registered/NCBI_assemblies/Madurella_mycetomatis.R
+GenomeInfoDb/registered/NCBI_assemblies/Microtus_ochrogaster.R
+GenomeInfoDb/registered/NCBI_assemblies/Monodelphis_domestica.R
+GenomeInfoDb/registered/NCBI_assemblies/Mus_musculus.R
+GenomeInfoDb/registered/NCBI_assemblies/Mustela_putorius_furo.R
+GenomeInfoDb/registered/NCBI_assemblies/Pan_paniscus.R
+GenomeInfoDb/registered/NCBI_assemblies/Pan_troglodytes.R
+GenomeInfoDb/registered/NCBI_assemblies/Patiria_miniata.R
+GenomeInfoDb/registered/NCBI_assemblies/Rattus_norvegicus.R
+GenomeInfoDb/registered/NCBI_assemblies/Saccharomyces_cerevisiae.R
+GenomeInfoDb/registered/NCBI_assemblies/Sus_scrofa.R
+GenomeInfoDb/registered/NCBI_assemblies/Taeniopygia_guttata.R
+GenomeInfoDb/registered/NCBI_assemblies/Triticum_aestivum.R
+GenomeInfoDb/registered/NCBI_assemblies/Vitis_vinifera.R
+GenomeInfoDb/registered/UCSC_genomes/
+GenomeInfoDb/registered/UCSC_genomes/README.TXT
+GenomeInfoDb/registered/UCSC_genomes/apiMel1.R
+GenomeInfoDb/registered/UCSC_genomes/apiMel2.R
+GenomeInfoDb/registered/UCSC_genomes/bosTau1.R
+GenomeInfoDb/registered/UCSC_genomes/bosTau2.R
+GenomeInfoDb/registered/UCSC_genomes/bosTau3.R
+GenomeInfoDb/registered/UCSC_genomes/bosTau4.R
+GenomeInfoDb/registered/UCSC_genomes/bosTau6.R
+GenomeInfoDb/registered/UCSC_genomes/bosTau7.R
+GenomeInfoDb/registered/UCSC_genomes/bosTau8.R
+GenomeInfoDb/registered/UCSC_genomes/bosTau9.R
+GenomeInfoDb/registered/UCSC_genomes/calJac3.R
+GenomeInfoDb/registered/UCSC_genomes/calJac4.R
+GenomeInfoDb/registered/UCSC_genomes/canFam1.R
+GenomeInfoDb/registered/UCSC_genomes/canFam2.R
+GenomeInfoDb/registered/UCSC_genomes/canFam3.R
+GenomeInfoDb/registered/UCSC_genomes/canFam4.R
+GenomeInfoDb/registered/UCSC_genomes/canFam5.R
+GenomeInfoDb/registered/UCSC_genomes/ce10.R
+GenomeInfoDb/registered/UCSC_genomes/ce11.R
+GenomeInfoDb/registered/UCSC_genomes/ce2.R
+GenomeInfoDb/registered/UCSC_genomes/ce4.R
+GenomeInfoDb/registered/UCSC_genomes/ce6.R
+GenomeInfoDb/registered/UCSC_genomes/danRer10.R
+GenomeInfoDb/registered/UCSC_genomes/danRer11.R
+GenomeInfoDb/registered/UCSC_genomes/danRer5.R
+GenomeInfoDb/registered/UCSC_genomes/danRer6.R
+GenomeInfoDb/registered/UCSC_genomes/danRer7.R
+GenomeInfoDb/registered/UCSC_genomes/dm1.R
+GenomeInfoDb/registered/UCSC_genomes/dm2.R
+GenomeInfoDb/registered/UCSC_genomes/dm3.R
+GenomeInfoDb/registered/UCSC_genomes/dm6.R
+GenomeInfoDb/registered/UCSC_genomes/eboVir3.R
+GenomeInfoDb/registered/UCSC_genomes/equCab1.R
+GenomeInfoDb/registered/UCSC_genomes/equCab2.R
+GenomeInfoDb/registered/UCSC_genomes/equCab3.R
+GenomeInfoDb/registered/UCSC_genomes/galGal2.R
+GenomeInfoDb/registered/UCSC_genomes/galGal3.R
+GenomeInfoDb/registered/UCSC_genomes/galGal4.R
+GenomeInfoDb/registered/UCSC_genomes/galGal5.R
+GenomeInfoDb/registered/UCSC_genomes/galGal6.R
+GenomeInfoDb/registered/UCSC_genomes/gasAcu1.R
+GenomeInfoDb/registered/UCSC_genomes/hg15.R
+GenomeInfoDb/registered/UCSC_genomes/hg16.R
+GenomeInfoDb/registered/UCSC_genomes/hg17.R
+GenomeInfoDb/registered/UCSC_genomes/hg18.R
+GenomeInfoDb/registered/UCSC_genomes/hg19.R
+GenomeInfoDb/registered/UCSC_genomes/hg38.R
+GenomeInfoDb/registered/UCSC_genomes/macFas5.R
+GenomeInfoDb/registered/UCSC_genomes/mm10.R
+GenomeInfoDb/registered/UCSC_genomes/mm39.R
+GenomeInfoDb/registered/UCSC_genomes/mm8.R
+GenomeInfoDb/registered/UCSC_genomes/mm9.R
+GenomeInfoDb/registered/UCSC_genomes/monDom5.R
+GenomeInfoDb/registered/UCSC_genomes/musFur1.R
+GenomeInfoDb/registered/UCSC_genomes/panPan1.R
+GenomeInfoDb/registered/UCSC_genomes/panPan2.R
+GenomeInfoDb/registered/UCSC_genomes/panPan3.R
+GenomeInfoDb/registered/UCSC_genomes/panTro1.R
+GenomeInfoDb/registered/UCSC_genomes/panTro2.R
+GenomeInfoDb/registered/UCSC_genomes/panTro3.R
+GenomeInfoDb/registered/UCSC_genomes/panTro4.R
+GenomeInfoDb/registered/UCSC_genomes/panTro5.R
+GenomeInfoDb/registered/UCSC_genomes/panTro6.R
+GenomeInfoDb/registered/UCSC_genomes/rheMac10.R
+GenomeInfoDb/registered/UCSC_genomes/rheMac2.R
+GenomeInfoDb/registered/UCSC_genomes/rheMac3.R
+GenomeInfoDb/registered/UCSC_genomes/rheMac8.R
+GenomeInfoDb/registered/UCSC_genomes/rn1.R
+GenomeInfoDb/registered/UCSC_genomes/rn2.R
+GenomeInfoDb/registered/UCSC_genomes/rn3.R
+GenomeInfoDb/registered/UCSC_genomes/rn4.R
+GenomeInfoDb/registered/UCSC_genomes/rn5.R
+GenomeInfoDb/registered/UCSC_genomes/rn6.R
+GenomeInfoDb/registered/UCSC_genomes/rn7.R
+GenomeInfoDb/registered/UCSC_genomes/sacCer1.R
+GenomeInfoDb/registered/UCSC_genomes/sacCer2.R
+GenomeInfoDb/registered/UCSC_genomes/sacCer3.R
+GenomeInfoDb/registered/UCSC_genomes/susScr11.R
+GenomeInfoDb/registered/UCSC_genomes/susScr2.R
+GenomeInfoDb/registered/UCSC_genomes/susScr3.R
+GenomeInfoDb/registered/UCSC_genomes/taeGut1.R
+GenomeInfoDb/registered/UCSC_genomes/taeGut2.R
+GenomeInfoDb/registered/UCSC_genomes/wuhCor1.R
+GenomeInfoDb/unitTests/
+GenomeInfoDb/unitTests/test_Seqinfo-class.R
+GenomeInfoDb/unitTests/test_mapGenomeBuilds.R
+GenomeInfoDb/unitTests/test_rankSeqlevels.R
+GenomeInfoDb/unitTests/test_seqlevels-wrappers.R
+GenomeInfoDb/unitTests/test_seqlevelsStyle.R
+GenomeInfoDb/unitTests/test_utils.R
+GenomeInfoDbData/DESCRIPTION
+GenomeInfoDbData/INDEX
+GenomeInfoDbData/Meta/
+GenomeInfoDbData/Meta/Rd.rds
+GenomeInfoDbData/Meta/data.rds
+GenomeInfoDbData/Meta/features.rds
+GenomeInfoDbData/Meta/hsearch.rds
+GenomeInfoDbData/Meta/links.rds
+GenomeInfoDbData/Meta/nsInfo.rds
+GenomeInfoDbData/Meta/package.rds
+GenomeInfoDbData/NAMESPACE
+GenomeInfoDbData/data/
+GenomeInfoDbData/data/datalist
+GenomeInfoDbData/data/specData.rda
+GenomeInfoDbData/help/
+GenomeInfoDbData/help/AnIndex
+GenomeInfoDbData/help/GenomeInfoDbData.rdb
+GenomeInfoDbData/help/GenomeInfoDbData.rdx
+GenomeInfoDbData/help/aliases.rds
+GenomeInfoDbData/help/paths.rds
+GenomeInfoDbData/html/
+GenomeInfoDbData/html/00Index.html
+GenomeInfoDbData/html/R.css
+GenomeInfoDbData/scripts/
+GenomeInfoDbData/scripts/updateGenomeInfoDbData.R
+GenomicRanges/CITATION
+GenomicRanges/DESCRIPTION
+GenomicRanges/INDEX
+GenomicRanges/Meta/
+GenomicRanges/Meta/Rd.rds
+GenomicRanges/Meta/features.rds
+GenomicRanges/Meta/hsearch.rds
+GenomicRanges/Meta/links.rds
+GenomicRanges/Meta/nsInfo.rds
+GenomicRanges/Meta/package.rds
+GenomicRanges/Meta/vignette.rds
+GenomicRanges/NAMESPACE
+GenomicRanges/NEWS
+GenomicRanges/R/
+GenomicRanges/R/GenomicRanges
+GenomicRanges/R/GenomicRanges.rdb
+GenomicRanges/R/GenomicRanges.rdx
+GenomicRanges/doc/
+GenomicRanges/doc/ExtendingGenomicRanges.R
+GenomicRanges/doc/ExtendingGenomicRanges.Rnw
+GenomicRanges/doc/ExtendingGenomicRanges.pdf
+GenomicRanges/doc/GRanges_and_GRangesList_slides.R
+GenomicRanges/doc/GRanges_and_GRangesList_slides.Rnw
+GenomicRanges/doc/GRanges_and_GRangesList_slides.pdf
+GenomicRanges/doc/GenomicRangesHOWTOs.R
+GenomicRanges/doc/GenomicRangesHOWTOs.Rnw
+GenomicRanges/doc/GenomicRangesHOWTOs.pdf
+GenomicRanges/doc/GenomicRangesIntroduction.R
+GenomicRanges/doc/GenomicRangesIntroduction.Rmd
+GenomicRanges/doc/GenomicRangesIntroduction.html
+GenomicRanges/doc/Ten_things_slides.R
+GenomicRanges/doc/Ten_things_slides.Rnw
+GenomicRanges/doc/Ten_things_slides.pdf
+GenomicRanges/doc/index.html
+GenomicRanges/extdata/
+GenomicRanges/extdata/feature_frags.txt
+GenomicRanges/help/
+GenomicRanges/help/AnIndex
+GenomicRanges/help/GenomicRanges.rdb
+GenomicRanges/help/GenomicRanges.rdx
+GenomicRanges/help/aliases.rds
+GenomicRanges/help/paths.rds
+GenomicRanges/html/
+GenomicRanges/html/00Index.html
+GenomicRanges/html/R.css
+GenomicRanges/libs/
+GenomicRanges/libs/GenomicRanges.so
+GenomicRanges/scripts/
+GenomicRanges/scripts/timing_overlaps.R
+GenomicRanges/unitTests/
+GenomicRanges/unitTests/test_GNCList-class.R
+GenomicRanges/unitTests/test_GRanges-class.R
+GenomicRanges/unitTests/test_GRangesList-class.R
+GenomicRanges/unitTests/test_GenomicRanges-comparison.R
+GenomicRanges/unitTests/test_coverage-methods.R
+GenomicRanges/unitTests/test_findOverlaps-methods.R
+GenomicRanges/unitTests/test_inter-range-methods.R
+GenomicRanges/unitTests/test_intra-range-methods.R
+GenomicRanges/unitTests/test_makeGRangesFromDataFrame.R
+GenomicRanges/unitTests/test_makeGRangesListFromDataFrame.R
+GenomicRanges/unitTests/test_nearest-methods.R
+GenomicRanges/unitTests/test_precede_follow.R
+GenomicRanges/unitTests/test_setops-methods.R
+IRanges/CITATION
+IRanges/DESCRIPTION
+IRanges/INDEX
+IRanges/Meta/
+IRanges/Meta/Rd.rds
+IRanges/Meta/features.rds
+IRanges/Meta/hsearch.rds
+IRanges/Meta/links.rds
+IRanges/Meta/nsInfo.rds
+IRanges/Meta/package.rds
+IRanges/Meta/vignette.rds
+IRanges/NAMESPACE
+IRanges/NEWS
+IRanges/R/
+IRanges/R/IRanges
+IRanges/R/IRanges.rdb
+IRanges/R/IRanges.rdx
+IRanges/doc/
+IRanges/doc/IRangesOverview.R
+IRanges/doc/IRangesOverview.Rnw
+IRanges/doc/IRangesOverview.pdf
+IRanges/doc/index.html
+IRanges/extdata/
+IRanges/extdata/ce2chrM.bed
+IRanges/extdata/ce2chrM.fa.out
+IRanges/extdata/hg18liftAll.lft
+IRanges/extdata/hs_b36v3_chrY.agp
+IRanges/help/
+IRanges/help/AnIndex
+IRanges/help/IRanges.rdb
+IRanges/help/IRanges.rdx
+IRanges/help/aliases.rds
+IRanges/help/paths.rds
+IRanges/html/
+IRanges/html/00Index.html
+IRanges/html/R.css
+IRanges/include/
+IRanges/include/IRanges_defines.h
+IRanges/include/IRanges_interface.h
+IRanges/include/_IRanges_stubs.c
+IRanges/libs/
+IRanges/libs/IRanges.so
+IRanges/unitTests/
+IRanges/unitTests/test_AtomicList-class.R
+IRanges/unitTests/test_AtomicList-utils.R
+IRanges/unitTests/test_DataFrame-utils.R
+IRanges/unitTests/test_DataFrameList.R
+IRanges/unitTests/test_Grouping-class.R
+IRanges/unitTests/test_HitsList.R
+IRanges/unitTests/test_IPos-class.R
+IRanges/unitTests/test_IRanges-class.R
+IRanges/unitTests/test_IRanges-constructor.R
+IRanges/unitTests/test_IRangesList-class.R
+IRanges/unitTests/test_NCList-class.R
+IRanges/unitTests/test_Ranges-comparison.R
+IRanges/unitTests/test_RleViews.R
+IRanges/unitTests/test_RleViewsList.R
+IRanges/unitTests/test_coverage-methods.R
+IRanges/unitTests/test_extractList.R
+IRanges/unitTests/test_findOverlaps-methods.R
+IRanges/unitTests/test_inter-range-methods.R
+IRanges/unitTests/test_intra-range-methods.R
+IRanges/unitTests/test_nearest-methods.R
+IRanges/unitTests/test_seqapply.R
+IRanges/unitTests/test_setops-methods.R
+IRanges/unitTests/test_split.R
+IRanges/unitTests/test_splitListElements.R
+IRanges/unitTests/test_tile-methods.R
+plotrix/CITATION
+plotrix/DESCRIPTION
+plotrix/INDEX
+plotrix/Meta/
+plotrix/Meta/Rd.rds
+plotrix/Meta/data.rds
+plotrix/Meta/demo.rds
+plotrix/Meta/features.rds
+plotrix/Meta/hsearch.rds
+plotrix/Meta/links.rds
+plotrix/Meta/nsInfo.rds
+plotrix/Meta/package.rds
+plotrix/NAMESPACE
+plotrix/NEWS
+plotrix/R/
+plotrix/R/plotrix
+plotrix/R/plotrix.rdb
+plotrix/R/plotrix.rdx
+plotrix/data/
+plotrix/data/death_reg.rda
+plotrix/data/l2010.rda
+plotrix/data/soils.rda
+plotrix/demo/
+plotrix/demo/plotrix.R
+plotrix/help/
+plotrix/help/AnIndex
+plotrix/help/aliases.rds
+plotrix/help/paths.rds
+plotrix/help/plotrix.rdb
+plotrix/help/plotrix.rdx
+plotrix/html/
+plotrix/html/00Index.html
+plotrix/html/R.css
+RCurl/CurlSSL/
+RCurl/CurlSSL/boost.pem
+RCurl/CurlSSL/ca-bundle.crt
+RCurl/CurlSSL/cacert.pem
+RCurl/CurlSSL/certs
+RCurl/CurlSSL/certs.pem
+RCurl/CurlSSL/curlSSL.xml
+RCurl/CurlSSL/cybertrust.pem
+RCurl/CurlSSL/docs
+RCurl/CurlSSL/google.pem
+RCurl/CurlSSL/myBundle.crt
+RCurl/CurlSSL/ok.R
+RCurl/CurlSSL/server.pem
+RCurl/CurlSSL/statEth.pem
+RCurl/DESCRIPTION
+RCurl/HTTPErrors/
+RCurl/HTTPErrors/makeErrorClasses.R
+RCurl/INDEX
+RCurl/LICENSE
+RCurl/Meta/
+RCurl/Meta/Rd.rds
+RCurl/Meta/data.rds
+RCurl/Meta/features.rds
+RCurl/Meta/hsearch.rds
+RCurl/Meta/links.rds
+RCurl/Meta/nsInfo.rds
+RCurl/Meta/package.rds
+RCurl/NAMESPACE
+RCurl/R/
+RCurl/R/RCurl
+RCurl/R/RCurl.rdb
+RCurl/R/RCurl.rdx
+RCurl/data/
+RCurl/data/mimeTypeExtensions.rda
+RCurl/doc/
+RCurl/doc/Changes.html
+RCurl/doc/FAQ.html
+RCurl/doc/cookies.xml
+RCurl/doc/fileUploads.xml
+RCurl/doc/getURL.html
+RCurl/doc/philosophy.html
+RCurl/doc/philosophy.xml
+RCurl/doc/withCookies.Rdb
+RCurl/doc/withCookies.html
+RCurl/enums/
+RCurl/enums/Renums.c
+RCurl/etc/
+RCurl/etc/README
+RCurl/etc/ca-bundle.crt
+RCurl/examples/
+RCurl/examples/CIS/
+RCurl/examples/CIS/cis.R
+RCurl/examples/CIS/cis1.R
+RCurl/examples/chunks.S
+RCurl/examples/cis1.R
+RCurl/examples/concurrent.S
+RCurl/examples/concurrent.html
+RCurl/examples/concurrent.xml
+RCurl/examples/curl.c
+RCurl/examples/download.R
+RCurl/examples/elapsed.png
+RCurl/examples/encoding.R
+RCurl/examples/ftpList.R
+RCurl/examples/getinfo.S
+RCurl/examples/headers.S
+RCurl/examples/headers2.S
+RCurl/examples/html.S
+RCurl/examples/logo.jpg
+RCurl/examples/multi.S
+RCurl/examples/nestedHTML.html
+RCurl/examples/nestedHTML.xml
+RCurl/examples/omg.netrc
+RCurl/examples/passwd.S
+RCurl/examples/passwd2.S
+RCurl/examples/passwdSSL.S
+RCurl/examples/post.c
+RCurl/examples/post.html
+RCurl/examples/postFormPasswd.R
+RCurl/examples/progress.S
+RCurl/examples/proxy.R
+RCurl/examples/readHeader.S
+RCurl/examples/soap.S
+RCurl/examples/speakeasy.S
+RCurl/examples/system.png
+RCurl/examples/time.R
+RCurl/examples/upload.R
+RCurl/examples/user.png
+RCurl/examples/worm.S
+RCurl/examples/xmlParse.html
+RCurl/examples/xmlParse.xml
+RCurl/help/
+RCurl/help/AnIndex
+RCurl/help/RCurl.rdb
+RCurl/help/RCurl.rdx
+RCurl/help/aliases.rds
+RCurl/help/paths.rds
+RCurl/html/
+RCurl/html/00Index.html
+RCurl/html/R.css
+RCurl/libs/
+RCurl/libs/RCurl.so
+S4Vectors/DESCRIPTION
+S4Vectors/INDEX
+S4Vectors/Meta/
+S4Vectors/Meta/Rd.rds
+S4Vectors/Meta/features.rds
+S4Vectors/Meta/hsearch.rds
+S4Vectors/Meta/links.rds
+S4Vectors/Meta/nsInfo.rds
+S4Vectors/Meta/package.rds
+S4Vectors/Meta/vignette.rds
+S4Vectors/NAMESPACE
+S4Vectors/NEWS
+S4Vectors/R/
+S4Vectors/R/S4Vectors
+S4Vectors/R/S4Vectors.rdb
+S4Vectors/R/S4Vectors.rdx
+S4Vectors/doc/
+S4Vectors/doc/HTS_core_package_stack.txt
+S4Vectors/doc/RleTricks.R
+S4Vectors/doc/RleTricks.Rnw
+S4Vectors/doc/RleTricks.pdf
+S4Vectors/doc/S4QuickOverview.R
+S4Vectors/doc/S4QuickOverview.Rnw
+S4Vectors/doc/S4QuickOverview.pdf
+S4Vectors/doc/S4VectorsOverview.R
+S4Vectors/doc/S4VectorsOverview.Rnw
+S4Vectors/doc/S4VectorsOverview.pdf
+S4Vectors/doc/index.html
+S4Vectors/help/
+S4Vectors/help/AnIndex
+S4Vectors/help/S4Vectors.rdb
+S4Vectors/help/S4Vectors.rdx
+S4Vectors/help/aliases.rds
+S4Vectors/help/paths.rds
+S4Vectors/html/
+S4Vectors/html/00Index.html
+S4Vectors/html/R.css
+S4Vectors/include/
+S4Vectors/include/S4Vectors_defines.h
+S4Vectors/include/S4Vectors_interface.h
+S4Vectors/include/_S4Vectors_stubs.c
+S4Vectors/libs/
+S4Vectors/libs/S4Vectors.so
+S4Vectors/unitTests/
+S4Vectors/unitTests/test_DataFrame-class.R
+S4Vectors/unitTests/test_DataFrame-combine.R
+S4Vectors/unitTests/test_DataFrame-comparison.R
+S4Vectors/unitTests/test_FilterRules.R
+S4Vectors/unitTests/test_Hits-class.R
+S4Vectors/unitTests/test_List-class.R
+S4Vectors/unitTests/test_List-utils.R
+S4Vectors/unitTests/test_Pairs-class.R
+S4Vectors/unitTests/test_RectangularData-class.R
+S4Vectors/unitTests/test_Rle-class.R
+S4Vectors/unitTests/test_Rle-utils.R
+S4Vectors/unitTests/test_Vector-comparison.R
+S4Vectors/unitTests/test_Vector-merge.R
+S4Vectors/unitTests/test_bindROWS.R
+S4Vectors/unitTests/test_expand-methods.R
+S4Vectors/unitTests/test_map_ranges_to_runs.R
+S4Vectors/unitTests/test_raw-utils.R
+S4Vectors/unitTests/test_subsetting-utils.R
+viridisLite/CITATION
+viridisLite/DESCRIPTION
+viridisLite/INDEX
+viridisLite/LICENSE
+viridisLite/Meta/
+viridisLite/Meta/Rd.rds
+viridisLite/Meta/features.rds
+viridisLite/Meta/hsearch.rds
+viridisLite/Meta/links.rds
+viridisLite/Meta/nsInfo.rds
+viridisLite/Meta/package.rds
+viridisLite/NAMESPACE
+viridisLite/NEWS.md
+viridisLite/R/
+viridisLite/R/viridisLite
+viridisLite/R/viridisLite.rdb
+viridisLite/R/viridisLite.rdx
+viridisLite/help/
+viridisLite/help/AnIndex
+viridisLite/help/aliases.rds
+viridisLite/help/figures/
+viridisLite/help/figures/logo.png
+viridisLite/help/figures/maps.png
+viridisLite/help/figures/viridis-scales.png
+viridisLite/help/paths.rds
+viridisLite/help/viridisLite.rdb
+viridisLite/help/viridisLite.rdx
+viridisLite/html/
+viridisLite/html/00Index.html
+viridisLite/html/R.css
+XVector/DESCRIPTION
+XVector/INDEX
+XVector/Meta/
+XVector/Meta/Rd.rds
+XVector/Meta/features.rds
+XVector/Meta/hsearch.rds
+XVector/Meta/links.rds
+XVector/Meta/nsInfo.rds
+XVector/Meta/package.rds
+XVector/NAMESPACE
+XVector/R/
+XVector/R/XVector
+XVector/R/XVector.rdb
+XVector/R/XVector.rdx
+XVector/help/
+XVector/help/AnIndex
+XVector/help/XVector.rdb
+XVector/help/XVector.rdx
+XVector/help/aliases.rds
+XVector/help/paths.rds
+XVector/html/
+XVector/html/00Index.html
+XVector/html/R.css
+XVector/include/
+XVector/include/XVector_defines.h
+XVector/include/XVector_interface.h
+XVector/include/_XVector_stubs.c
+XVector/libs/
+XVector/libs/XVector.so
+XVector/unitTests/
+XVector/unitTests/test_slice-methods.R
+XVector/unitTests/test_view-summarization-methods.R
+zlibbioc/DESCRIPTION
+zlibbioc/INDEX
+zlibbioc/LICENSE
+zlibbioc/Meta/
+zlibbioc/Meta/Rd.rds
+zlibbioc/Meta/features.rds
+zlibbioc/Meta/hsearch.rds
+zlibbioc/Meta/links.rds
+zlibbioc/Meta/nsInfo.rds
+zlibbioc/Meta/package.rds
+zlibbioc/Meta/vignette.rds
+zlibbioc/NAMESPACE
+zlibbioc/R/
+zlibbioc/R/zlibbioc
+zlibbioc/R/zlibbioc.rdb
+zlibbioc/R/zlibbioc.rdx
+zlibbioc/doc/
+zlibbioc/doc/UsingZlibbioc.Rnw
+zlibbioc/doc/UsingZlibbioc.pdf
+zlibbioc/doc/index.html
+zlibbioc/help/
+zlibbioc/help/AnIndex
+zlibbioc/help/aliases.rds
+zlibbioc/help/paths.rds
+zlibbioc/help/zlibbioc.rdb
+zlibbioc/help/zlibbioc.rdx
+zlibbioc/html/
+zlibbioc/html/00Index.html
+zlibbioc/html/R.css
+zlibbioc/include/
+zlibbioc/libs/
+zlibbioc/libs/zlibbioc.so
+* installing *binary* package ‘matrixStats’ ...
+* ‘matrixStats’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘matrixStats’ as ‘matrixStats_0.62.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (matrixStats)
+* installing *source* package ‘Biobase’ ...
+** using staged installation
+** libs
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c Rinit.c -o Rinit.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c anyMissing.c -o anyMissing.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c envir.c -o envir.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c matchpt.c -o matchpt.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c rowMedians.c -o rowMedians.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c sublist_extract.c -o sublist_extract.o
+gcc -shared -L/usr/local/lib/R/lib -L/usr/local/lib -o Biobase.so Rinit.o anyMissing.o envir.o matchpt.o rowMedians.o sublist_extract.o -L/usr/local/lib/R/lib -lR
+installing to /__w/gha-build/gha-build/built/00LOCK-Biobase/00new/Biobase/libs
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘Biobase’ as ‘Biobase_2.56.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (Biobase)
+* installing *source* package ‘MatrixGenerics’ ...
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘MatrixGenerics’ as ‘MatrixGenerics_1.8.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (MatrixGenerics)
+* installing *source* package ‘DelayedArray’ ...
+** using staged installation
+** libs
+gcc -I"/usr/local/lib/R/include" -DNDEBUG  -I'/__w/gha-build/gha-build/built/S4Vectors/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c R_init_DelayedArray.c -o R_init_DelayedArray.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG  -I'/__w/gha-build/gha-build/built/S4Vectors/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c S4Vectors_stubs.c -o S4Vectors_stubs.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG  -I'/__w/gha-build/gha-build/built/S4Vectors/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c abind.c -o abind.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG  -I'/__w/gha-build/gha-build/built/S4Vectors/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c array_selection.c -o array_selection.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG  -I'/__w/gha-build/gha-build/built/S4Vectors/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c compress_atomic_vector.c -o compress_atomic_vector.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG  -I'/__w/gha-build/gha-build/built/S4Vectors/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c sparseMatrix_utils.c -o sparseMatrix_utils.o
+gcc -shared -L/usr/local/lib/R/lib -L/usr/local/lib -o DelayedArray.so R_init_DelayedArray.o S4Vectors_stubs.o abind.o array_selection.o compress_atomic_vector.o sparseMatrix_utils.o -L/usr/local/lib/R/lib -lR
+installing to /__w/gha-build/gha-build/built/00LOCK-DelayedArray/00new/DelayedArray/libs
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+Creating a new generic function for ‘rowsum’ in package ‘DelayedArray’
+Creating a new generic function for ‘aperm’ in package ‘DelayedArray’
+Creating a new generic function for ‘apply’ in package ‘DelayedArray’
+Creating a new generic function for ‘sweep’ in package ‘DelayedArray’
+Creating a new generic function for ‘scale’ in package ‘DelayedArray’
+Creating a generic function for ‘dnorm’ from package ‘stats’ in package ‘DelayedArray’
+Creating a generic function for ‘pnorm’ from package ‘stats’ in package ‘DelayedArray’
+Creating a generic function for ‘qnorm’ from package ‘stats’ in package ‘DelayedArray’
+Creating a generic function for ‘dbinom’ from package ‘stats’ in package ‘DelayedArray’
+Creating a generic function for ‘pbinom’ from package ‘stats’ in package ‘DelayedArray’
+Creating a generic function for ‘qbinom’ from package ‘stats’ in package ‘DelayedArray’
+Creating a generic function for ‘dpois’ from package ‘stats’ in package ‘DelayedArray’
+Creating a generic function for ‘ppois’ from package ‘stats’ in package ‘DelayedArray’
+Creating a generic function for ‘qpois’ from package ‘stats’ in package ‘DelayedArray’
+Creating a generic function for ‘dlogis’ from package ‘stats’ in package ‘DelayedArray’
+Creating a generic function for ‘plogis’ from package ‘stats’ in package ‘DelayedArray’
+Creating a generic function for ‘qlogis’ from package ‘stats’ in package ‘DelayedArray’
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘DelayedArray’ as ‘DelayedArray_0.22.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (DelayedArray)
+* installing *source* package ‘SummarizedExperiment’ ...
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘SummarizedExperiment’ as ‘SummarizedExperiment_1.26.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (SummarizedExperiment)
+* installing *source* package ‘epistack’ ...
+** using staged installation
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘epistack’ as ‘epistack_1.2.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (epistack)
