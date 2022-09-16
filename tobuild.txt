@@ -1,5 +1,3 @@
-motifbreakR
-GISPA
 BOBaFIT
 GenKern
 RIPAT
