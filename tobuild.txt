@@ -1,4 +1,3 @@
-BadRegionFinder
 csdR
 cellmigRation
 flowBin
