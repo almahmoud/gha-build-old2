@@ -1,4 +1,3 @@
-RcisTarget
 tidyverse
 TEQC
 OmicsLonDA
