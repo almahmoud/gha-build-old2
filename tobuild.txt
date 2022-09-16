@@ -1,4 +1,3 @@
-scShapes
 plotmo
 SpatialCPie
 cgdsr
