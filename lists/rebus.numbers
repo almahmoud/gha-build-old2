@@ -1,1 +1,36 @@
-claimed
+Updating 4d1353f..1092939
+Fast-forward
+ lists/IsoGene    |  2 +-
+ logs/IsoGene.out | 20 ++++++++++++++++++++
+ packages.json    |  2 --
+ 3 files changed, 21 insertions(+), 3 deletions(-)
+ create mode 100644 logs/IsoGene.out
+rebus.base/DESCRIPTION
+rebus.base/INDEX
+rebus.base/Meta/
+rebus.base/Meta/Rd.rds
+rebus.base/Meta/features.rds
+rebus.base/Meta/hsearch.rds
+rebus.base/Meta/links.rds
+rebus.base/Meta/nsInfo.rds
+rebus.base/Meta/package.rds
+rebus.base/NAMESPACE
+rebus.base/NEWS
+rebus.base/R/
+rebus.base/R/rebus.base
+rebus.base/R/rebus.base.rdb
+rebus.base/R/rebus.base.rdx
+rebus.base/help/
+rebus.base/help/AnIndex
+rebus.base/help/aliases.rds
+rebus.base/help/paths.rds
+rebus.base/help/rebus.base.rdb
+rebus.base/help/rebus.base.rdx
+rebus.base/html/
+rebus.base/html/00Index.html
+rebus.base/html/R.css
+* installing *binary* package ‘rebus.numbers’ ...
+* ‘rebus.numbers’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘rebus.numbers’ as ‘rebus.numbers_0.0-1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (rebus.numbers)

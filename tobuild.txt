@@ -1,4 +1,3 @@
-Sconify
 GGPA
 lfa
 rlist
