@@ -1,4 +1,3 @@
-spatialHeatmap
 MSnID
 DominoEffect
 BioMM
