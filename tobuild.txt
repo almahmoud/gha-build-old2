@@ -1,4 +1,3 @@
-MACSQuantifyR
 ssviz
 IlluminaHumanMethylation450kmanifest
 sampSurf
