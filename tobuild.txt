@@ -1,4 +1,3 @@
-CluMSID
 SCFA
 SingleR
 speaq
