@@ -1,4 +1,3 @@
-cytoKernel
 MSstatsQC
 QuartPAC
 MsBackendMsp
