@@ -1,5 +1,3 @@
-NPARC
-jackstraw
 tm
 flowPloidy
 plsVarSel

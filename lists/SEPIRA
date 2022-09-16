@@ -1,8 +1,4 @@
-Updating 95c47fd6..02f77ed0
-Fast-forward
- lists/RefManageR | 1422 +-----------------------------------------------------
- packages.json    |    5 +-
- 2 files changed, 2 insertions(+), 1425 deletions(-)
+Already up to date.
 corpcor/DESCRIPTION
 corpcor/INDEX
 corpcor/Meta/
