@@ -63,9 +63,7 @@
         "pRoloc",
         "pRolocdata"
     ],
-    "banocc": [
-        "rstan"
-    ],
+    "banocc": [],
     "BASiCS": [
         "scran",
         "scuttle"
@@ -518,9 +516,7 @@
     "GenomicInteractionNodes": [],
     "GenomicOZone": [],
     "GenomicScores": [],
-    "genphen": [
-        "rstan"
-    ],
+    "genphen": [],
     "GenProSeq": [
         "DeepPINCS",
         "ttgsea"
@@ -571,9 +567,7 @@
     "iCOBRA": [
         "ROCR"
     ],
-    "IgGeneUsage": [
-        "rstan"
-    ],
+    "IgGeneUsage": [],
     "imageHTS": [],
     "imcRtools": [
         "SpatialExperiment",
@@ -628,9 +622,7 @@
     "LRcell": [
         "ExperimentHub"
     ],
-    "M3Drop": [
-        "rstan"
-    ],
+    "M3Drop": [],
     "m6Aboost": [
         "ExperimentHub"
     ],
@@ -933,9 +925,7 @@
         "ontoProc"
     ],
     "POMA": [],
-    "ppcseq": [
-        "rstan"
-    ],
+    "ppcseq": [],
     "PPInfer": [],
     "preciseTAD": [],
     "PrecisionTrialDrawer": [
@@ -1011,9 +1001,7 @@
     ],
     "Rgin": [],
     "rgoslin": [],
-    "RiboDiPA": [
-        "rstan"
-    ],
+    "RiboDiPA": [],
     "RiboProfiling": [],
     "ribosomeProfilingQC": [
         "EDASeq",
@@ -1093,9 +1081,7 @@
         "scuttle",
         "ROCR"
     ],
-    "sccomp": [
-        "rstan"
-    ],
+    "sccomp": [],
     "scDataviz": [
         "Seurat",
         "ROCR"
@@ -1122,8 +1108,7 @@
     ],
     "scmap": [],
     "scMerge": [
-        "M3Drop",
-        "rstan"
+        "M3Drop"
     ],
     "scmeth": [
         "annotatr"
@@ -1213,8 +1198,7 @@
         "TSCAN",
         "scuttle",
         "RcppML",
-        "M3Drop",
-        "rstan"
+        "M3Drop"
     ],
     "SingleMoleculeFootprinting": [
         "QuasR"
@@ -1445,7 +1429,6 @@
     ],
     "mGSZ": [],
     "pRolocdata": [],
-    "rstan": [],
     "imager": [
         "readbitmap"
     ],
@@ -1503,12 +1486,8 @@
     "pd.mapping50k.xba240": [],
     "aods3": [],
     "cgdsr": [],
-    "reldist": [
-        "rstan"
-    ],
-    "densEstBayes": [
-        "rstan"
-    ],
+    "reldist": [],
+    "densEstBayes": [],
     "depmap": [
         "ExperimentHub"
     ],
