@@ -47,7 +47,6 @@
         "ChIPpeakAnno",
         "GenomicScores"
     ],
-    "attract": [],
     "autonomics": [],
     "BayesSpace": [],
     "benchdamic": [
@@ -855,7 +854,6 @@
     "TADCompare": [
         "HiCcompare"
     ],
-    "TBSignatureProfiler": [],
     "TCGAbiolinksGUI": [
         "ELMER",
         "clusterProfiler",
