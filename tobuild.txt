@@ -1,4 +1,3 @@
-CluMSID
 biovizBase
 annotatr
 deepSNV
