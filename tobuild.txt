@@ -1,4 +1,3 @@
-gptk
 gradDescent
 microbiome
 rcellminer
