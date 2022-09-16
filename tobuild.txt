@@ -1,5 +1,3 @@
-ROSeq
-R2WinBUGS
 switchBox
 stepNorm
 GeneGeneInteR
