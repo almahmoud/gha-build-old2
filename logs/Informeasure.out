@@ -1,28 +1,3 @@
-Already up to date.
-entropy/DESCRIPTION
-entropy/INDEX
-entropy/Meta/
-entropy/Meta/Rd.rds
-entropy/Meta/features.rds
-entropy/Meta/hsearch.rds
-entropy/Meta/links.rds
-entropy/Meta/nsInfo.rds
-entropy/Meta/package.rds
-entropy/NAMESPACE
-entropy/NEWS
-entropy/R/
-entropy/R/entropy
-entropy/R/entropy.rdb
-entropy/R/entropy.rdx
-entropy/help/
-entropy/help/AnIndex
-entropy/help/aliases.rds
-entropy/help/entropy.rdb
-entropy/help/entropy.rdx
-entropy/help/paths.rds
-entropy/html/
-entropy/html/00Index.html
-entropy/html/R.css
 * installing *source* package ‘Informeasure’ ...
 ** using staged installation
 ** R
