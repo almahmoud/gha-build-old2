@@ -1,4 +1,3 @@
-MIRA
 XDE
 SCAN.UPC
 sparsebn
