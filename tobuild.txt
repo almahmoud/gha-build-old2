@@ -1,4 +1,3 @@
-abseqR
 CGHnormaliter
 IMMAN
 mGSZ
