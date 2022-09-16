@@ -1,4 +1,3 @@
-SwathXtend
 MANOR
 les
 EBSeqHMM
