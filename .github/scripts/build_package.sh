@@ -7,7 +7,7 @@ mkdir -p $LIBRARY
 mkdir -p /tmp/tars/
 mkdir -p /tmp/logs/
 sed -n "/^    \"$PKG\"/,/^    \"/p" original.json | grep '^        "' | awk -F'"' '{print $2}' | xargs -i cat lists/{} | xargs -i bash -c "curl -o $LIBRARY/{} https://js2.jetstream-cloud.org:8001/swift/v1/gha-build/{}"
-( cd $LIBRARY && ls | grep ".tar.gz" | xargs -i tar -xvf {} )
+( cd $LIBRARY && ls | grep ".tar.gz" | xargs -i bash -c "tar -xvf {} && rm {}" )
 CLONED=0
 if ! git clone https://git.bioconductor.org/packages/$PKG
 then sleep 5 && if ! git clone https://git.bioconductor.org/packages/$PKG
