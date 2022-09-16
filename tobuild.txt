@@ -1,4 +1,3 @@
-motifmatchr
 cellmigRation
 metagene
 flowBin
