@@ -1,6 +1,3 @@
-preciseTAD
-netresponse
-CAGEfightR
 MPINet
 qsvaR
 fastreeR
