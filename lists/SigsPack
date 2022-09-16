@@ -1,7 +1,4 @@
-Auto-merging tobuild.txt
-CONFLICT (content): Merge conflict in tobuild.txt
-Automatic merge failed; fix conflicts and then commit the result.
-HEAD is now at 144b005 Claim minfi
+Merge made by the 'recursive' strategy.
 AnnotationDbi/DBschemas/
 AnnotationDbi/DBschemas/SchemaGuidelines.txt
 AnnotationDbi/DBschemas/schemas_0.9/
