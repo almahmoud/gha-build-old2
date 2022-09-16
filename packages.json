@@ -634,7 +634,6 @@
         "TreeSummarizedExperiment",
         "scuttle"
     ],
-    "ExploreModelMatrix": [],
     "famat": [
         "MPINet",
         "clusterProfiler"
@@ -840,7 +839,6 @@
     "iCOBRA": [
         "ROCR"
     ],
-    "ideal": [],
     "IgGeneUsage": [
         "StanHeaders",
         "rstan"
