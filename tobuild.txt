@@ -1,4 +1,3 @@
-SpatialDecon
 AnVIL
 artMS
 ensemblVEP
