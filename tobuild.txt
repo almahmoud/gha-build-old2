@@ -1,4 +1,3 @@
-wiggleplotr
 clusterSim
 sevenbridges
 recipes
