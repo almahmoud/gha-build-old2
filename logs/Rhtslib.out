@@ -2,7 +2,7 @@
 ** using non-staged installation via StagedInstall field
 ** libs
 cd "htslib-1.7" && make -f "/usr/local/lib/R/etc/Makeconf" -f "Makefile.Rhtslib"
-make[1]: Entering directory '/tmp/Rtmpqa8YHf/R.INSTALL6fa9e36946/Rhtslib/src/htslib-1.7'
+make[1]: Entering directory '/tmp/Rtmp66Geyw/R.INSTALL2e95126d18a/Rhtslib/src/htslib-1.7'
 Makefile.Rhtslib:131: warning: overriding recipe for target '.c.o'
 /usr/local/lib/R/etc/Makeconf:168: warning: ignoring old recipe for target '.c.o'
 gcc -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -fpic -I. -I/usr/local/include -D_FILE_OFFSET_BITS=64 -c -o kfunc.o kfunc.c
@@ -138,7 +138,7 @@ gcc -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time
 gcc -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g -fpic -I. -I/usr/local/include -D_FILE_OFFSET_BITS=64  -c -o hfile_libcurl.pico hfile_libcurl.c
 gcc -shared -Wl,-soname,libhts.so.2 -L/usr/local/lib -o libhts.so kfunc.pico knetfile.pico kstring.pico bcf_sr_sort.pico bgzf.pico errmod.pico faidx.pico hfile.pico hfile_net.pico hts.pico hts_os.pico md5.pico multipart.pico probaln.pico realn.pico regidx.pico sam.pico synced_bcf_reader.pico vcf_sweep.pico tbx.pico textutils.pico thread_pool.pico vcf.pico vcfutils.pico cram/cram_codecs.pico cram/cram_decode.pico cram/cram_encode.pico cram/cram_external.pico cram/cram_index.pico cram/cram_io.pico cram/cram_samtools.pico cram/cram_stats.pico cram/files.pico cram/mFILE.pico cram/open_trace_file.pico cram/pooled_alloc.pico cram/rANS_static.pico cram/sam_header.pico cram/string_alloc.pico hfile_libcurl.pico -lz -lm -lbz2 -llzma -lcurl -lpthread
 ln -sf libhts.so libhts.so.2
-make[1]: Leaving directory '/tmp/Rtmpqa8YHf/R.INSTALL6fa9e36946/Rhtslib/src/htslib-1.7'
+make[1]: Leaving directory '/tmp/Rtmp66Geyw/R.INSTALL2e95126d18a/Rhtslib/src/htslib-1.7'
 mkdir -p "/__w/gha-build/gha-build/built/Rhtslib/include/htslib"
 cd "htslib-1.7/htslib" && cp * "/__w/gha-build/gha-build/built/Rhtslib/include/htslib" && cd .. && cp textutils_internal.h hts_internal.h "/__w/gha-build/gha-build/built/Rhtslib/include"
 gcc -I"/usr/local/lib/R/include" -DNDEBUG -D_FILE_OFFSET_BITS=64 -I"/__w/gha-build/gha-build/built/Rhtslib/include" -I'/__w/gha-build/gha-build/built/zlibbioc/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c R_init_Rhtslib.c -o R_init_Rhtslib.o

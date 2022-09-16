@@ -85,13 +85,10 @@
     "ASpli": [],
     "ATACseqQC": [
         "ChIPpeakAnno",
-        "GenomicScores",
-        "motifStack"
+        "GenomicScores"
     ],
     "atena": [],
-    "atSNP": [
-        "motifStack"
-    ],
+    "atSNP": [],
     "autonomics": [
         "assertive.sets",
         "assertive.models",
@@ -99,8 +96,7 @@
     ],
     "BANDITS": [],
     "banocc": [
-        "rstan",
-        "StanHeaders"
+        "rstan"
     ],
     "basecallQC": [
         "ShortRead"
@@ -450,9 +446,7 @@
     "dada2": [
         "ShortRead"
     ],
-    "dagLogo": [
-        "motifStack"
-    ],
+    "dagLogo": [],
     "DaMiRseq": [
         "EDASeq",
         "plsVarSel",
@@ -738,8 +732,7 @@
     "GenomicOZone": [],
     "GenomicScores": [],
     "genphen": [
-        "rstan",
-        "StanHeaders"
+        "rstan"
     ],
     "GenVisR": [
         "FField"
@@ -840,7 +833,6 @@
         "ROCR"
     ],
     "IgGeneUsage": [
-        "StanHeaders",
         "rstan"
     ],
     "ILoReg": [
@@ -939,15 +931,13 @@
         "xcms"
     ],
     "LowMACA": [
-        "cgdsr",
-        "motifStack"
+        "cgdsr"
     ],
     "LRcell": [
         "ExperimentHub"
     ],
     "M3Drop": [
-        "rstan",
-        "StanHeaders"
+        "rstan"
     ],
     "m6Aboost": [
         "ExperimentHub",
@@ -1169,13 +1159,10 @@
     "MoonlightR": [
         "clusterProfiler"
     ],
-    "motifbreakR": [
-        "motifStack"
-    ],
+    "motifbreakR": [],
     "motifmatchr": [
         "TFBSTools"
     ],
-    "motifStack": [],
     "MouseFM": [
         "rlist"
     ],
@@ -1260,8 +1247,7 @@
         "trackViewer",
         "ATACseqQC",
         "ChIPpeakAnno",
-        "GenomicScores",
-        "motifStack"
+        "GenomicScores"
     ],
     "NanoMethViz": [],
     "nanotatoR": [
@@ -1448,8 +1434,7 @@
         "Rmpfr"
     ],
     "ppcseq": [
-        "rstan",
-        "StanHeaders"
+        "rstan"
     ],
     "PPInfer": [
         "sqldf"
@@ -1588,15 +1573,13 @@
     "Rgin": [],
     "RiboCrypt": [],
     "RiboDiPA": [
-        "rstan",
-        "StanHeaders"
+        "rstan"
     ],
     "RiboProfiling": [
         "sqldf"
     ],
     "ribosomeProfilingQC": [
         "EDASeq",
-        "motifStack",
         "RUVSeq",
         "ShortRead"
     ],
@@ -1758,8 +1741,7 @@
     "scmap": [],
     "scMerge": [
         "M3Drop",
-        "rstan",
-        "StanHeaders"
+        "rstan"
     ],
     "scmeth": [
         "annotatr"
@@ -1873,8 +1855,7 @@
         "uwot",
         "MCMCprecision",
         "M3Drop",
-        "rstan",
-        "StanHeaders"
+        "rstan"
     ],
     "SingleMoleculeFootprinting": [
         "QuasR",
@@ -2200,10 +2181,7 @@
     "assertive.sets": [],
     "assertive.models": [],
     "assertive.reflection": [],
-    "rstan": [
-        "StanHeaders"
-    ],
-    "StanHeaders": [],
+    "rstan": [],
     "DirichletReg": [],
     "corncob": [
         "ROI.plugin.lpsolve"
@@ -2360,12 +2338,10 @@
     "DiscriMiner": [],
     "pd.mapping50k.xba240": [],
     "reldist": [
-        "rstan",
-        "StanHeaders"
+        "rstan"
     ],
     "densEstBayes": [
-        "rstan",
-        "StanHeaders"
+        "rstan"
     ],
     "adabag": [
         "ModelMetrics"
