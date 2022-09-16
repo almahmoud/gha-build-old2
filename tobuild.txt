@@ -1,5 +1,3 @@
-statebins
-Motif2Site
 cogeqc
 animalcules
 flowVS
