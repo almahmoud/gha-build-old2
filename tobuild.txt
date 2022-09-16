@@ -1,4 +1,3 @@
-metabCombiner
 gespeR
 lasso2
 ChIC.data
