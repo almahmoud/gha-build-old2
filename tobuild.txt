@@ -1,4 +1,3 @@
-scmap
 R.rsp
 RITAN
 ReportingTools
