@@ -1,1 +1,36 @@
-claimed
+Already up to date.
+lars/DESCRIPTION
+lars/INDEX
+lars/Meta/
+lars/Meta/Rd.rds
+lars/Meta/data.rds
+lars/Meta/features.rds
+lars/Meta/hsearch.rds
+lars/Meta/links.rds
+lars/Meta/nsInfo.rds
+lars/Meta/package.rds
+lars/NAMESPACE
+lars/R/
+lars/R/lars
+lars/R/lars.rdb
+lars/R/lars.rdx
+lars/data/
+lars/data/diabetes.RData
+lars/help/
+lars/help/AnIndex
+lars/help/aliases.rds
+lars/help/lars.rdb
+lars/help/lars.rdx
+lars/help/paths.rds
+lars/html/
+lars/html/00Index.html
+lars/html/R.css
+lars/libs/
+lars/libs/lars.so
+lars/ratfor/
+lars/ratfor/delcol.r
+* installing *binary* package ‘lassopv’ ...
+* ‘lassopv’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘lassopv’ as ‘lassopv_0.2.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (lassopv)
