@@ -22,7 +22,7 @@ jobs:
         id: jobs
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          job_name: build
+          job_name: build (${{ matrix.worker }})
 
       - name: Get unique identifier for worker
         id: uniq
