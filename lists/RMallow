@@ -1,1 +1,34 @@
-RMallow_1.1_R_x86_64-pc-linux-gnu.tar.gz
+Updating 23dc98fc..1d1c3379
+Fast-forward
+ lists/failed/tradeSeq | 17013 +++++++++++++++++++++++++++++++++++++++++++++++
+ lists/tradeSeq        | 17014 +++++++++++++++++++++++++++++++++++++++++++++++-
+ 2 files changed, 34026 insertions(+), 1 deletion(-)
+ create mode 100644 lists/failed/tradeSeq
+combinat/DESCRIPTION
+combinat/INDEX
+combinat/Meta/
+combinat/Meta/Rd.rds
+combinat/Meta/features.rds
+combinat/Meta/hsearch.rds
+combinat/Meta/links.rds
+combinat/Meta/nsInfo.rds
+combinat/Meta/package.rds
+combinat/NAMESPACE
+combinat/R/
+combinat/R/combinat
+combinat/R/combinat.rdb
+combinat/R/combinat.rdx
+combinat/help/
+combinat/help/AnIndex
+combinat/help/aliases.rds
+combinat/help/combinat.rdb
+combinat/help/combinat.rdx
+combinat/help/paths.rds
+combinat/html/
+combinat/html/00Index.html
+combinat/html/R.css
+* installing *binary* package ‘RMallow’ ...
+* ‘RMallow’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘RMallow’ as ‘RMallow_1.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (RMallow)
