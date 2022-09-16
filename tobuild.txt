@@ -1,4 +1,3 @@
-spBayes
 pengls
 seqCNA
 maser
