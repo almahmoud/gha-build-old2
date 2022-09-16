@@ -1,4 +1,3 @@
-StructuralVariantAnnotation
 ttgsea
 MADSEQ
 autonomics
