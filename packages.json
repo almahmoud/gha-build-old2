@@ -740,8 +740,7 @@
     ],
     "made4": [],
     "MAGAR": [
-        "bigstatsr",
-        "rmio"
+        "bigstatsr"
     ],
     "MAGeCKFlute": [
         "clusterProfiler"
@@ -1801,10 +1800,7 @@
     "adabag": [
         "ModelMetrics"
     ],
-    "bigstatsr": [
-        "rmio"
-    ],
-    "rmio": [],
+    "bigstatsr": [],
     "muStat": [],
     "sesameData": [
         "ExperimentHub"
