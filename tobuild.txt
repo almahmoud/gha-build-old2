@@ -1,4 +1,3 @@
-maser
 CAFE
 flowTime
 STATegRa
