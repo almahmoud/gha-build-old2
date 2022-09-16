@@ -1,4 +1,3 @@
-drugTargetInteractions
 PAIRADISE
 rncl
 lumi
