@@ -1,4 +1,3 @@
-CellScore
 gptk
 gradDescent
 microbiome
