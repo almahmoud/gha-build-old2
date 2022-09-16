@@ -1,0 +1,17 @@
+* installing *source* package ‘LineagePulse’ ...
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+Note: possible error in 'evalLogLikGeneMM(vecCounts = vecCounts, ': unused arguments (matDispParam = matDispParam, matDropParam = matDropParam, matWeights = matWeights) 
+Note: possible error in 'evalLogLikGeneMM(vecCounts = vecCounts, ': unused arguments (matDispParam = do.call(cbind, lapply(seq_len(ncol(matWeights)), function(m) vecDispParam)), matDropParam = do.call(cbind, lapply(seq_len(ncol(matWeights)), function(m) vecPiParam)), matWeights = matWeights) 
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘LineagePulse’ as ‘LineagePulse_1.16.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (LineagePulse)

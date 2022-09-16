@@ -1,4 +1,3 @@
-rcellminer
 gMWT
 dcGSA
 HTSCluster
