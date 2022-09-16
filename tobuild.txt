@@ -1,6 +1,3 @@
-Linnorm
-configr
-cgdsr
 ipdDb
 missMethyl
 DAPAR
