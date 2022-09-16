@@ -634,7 +634,6 @@
         "TreeSummarizedExperiment",
         "scuttle"
     ],
-    "ExploreModelMatrix": [],
     "famat": [
         "MPINet",
         "clusterProfiler"
