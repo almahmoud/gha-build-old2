@@ -128,7 +128,6 @@
         "DMRcate",
         "IlluminaHumanMethylationEPICmanifest",
         "IlluminaHumanMethylation450kmanifest",
-        "IlluminaHumanMethylationEPICanno.ilm10b4.hg19",
         "wateRmelon",
         "missMethyl",
         "ExperimentHub",
@@ -248,7 +247,6 @@
         "DSS",
         "missMethyl",
         "IlluminaHumanMethylation450kanno.ilmn12.hg19",
-        "IlluminaHumanMethylationEPICanno.ilm10b4.hg19",
         "IlluminaHumanMethylation450kmanifest",
         "IlluminaHumanMethylationEPICmanifest"
     ],
@@ -460,7 +458,6 @@
     "MEAL": [
         "missMethyl",
         "IlluminaHumanMethylation450kanno.ilmn12.hg19",
-        "IlluminaHumanMethylationEPICanno.ilm10b4.hg19",
         "IlluminaHumanMethylation450kmanifest",
         "IlluminaHumanMethylationEPICmanifest"
     ],
@@ -506,7 +503,6 @@
         "clusterProfiler",
         "missMethyl",
         "IlluminaHumanMethylation450kanno.ilmn12.hg19",
-        "IlluminaHumanMethylationEPICanno.ilm10b4.hg19",
         "IlluminaHumanMethylation450kmanifest",
         "IlluminaHumanMethylationEPICmanifest"
     ],
@@ -535,7 +531,6 @@
     ],
     "missMethyl": [
         "IlluminaHumanMethylation450kanno.ilmn12.hg19",
-        "IlluminaHumanMethylationEPICanno.ilm10b4.hg19",
         "IlluminaHumanMethylation450kmanifest",
         "IlluminaHumanMethylationEPICmanifest"
     ],
@@ -960,7 +955,6 @@
     "iCluster": [],
     "IlluminaHumanMethylationEPICmanifest": [],
     "IlluminaHumanMethylation450kmanifest": [],
-    "IlluminaHumanMethylationEPICanno.ilm10b4.hg19": [],
     "ChIC.data": [],
     "colortools": [],
     "IlluminaHumanMethylationEPICanno.ilm10b2.hg19": [],
