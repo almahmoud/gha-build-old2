@@ -1,1 +1,159 @@
-claimed
+Auto-merging tobuild.txt
+CONFLICT (content): Merge conflict in tobuild.txt
+Automatic merge failed; fix conflicts and then commit the result.
+HEAD is now at 6687394 Claim SIFT.Hsapiens.dbSNP137
+formatR/DESCRIPTION
+formatR/INDEX
+formatR/Meta/
+formatR/Meta/Rd.rds
+formatR/Meta/features.rds
+formatR/Meta/hsearch.rds
+formatR/Meta/links.rds
+formatR/Meta/nsInfo.rds
+formatR/Meta/package.rds
+formatR/Meta/vignette.rds
+formatR/NAMESPACE
+formatR/NEWS.Rd
+formatR/R/
+formatR/R/formatR
+formatR/R/formatR.rdb
+formatR/R/formatR.rdx
+formatR/doc/
+formatR/doc/formatR.R
+formatR/doc/formatR.Rmd
+formatR/doc/formatR.html
+formatR/doc/index.html
+formatR/format/
+formatR/format/messy.R
+formatR/help/
+formatR/help/AnIndex
+formatR/help/aliases.rds
+formatR/help/formatR.rdb
+formatR/help/formatR.rdx
+formatR/help/paths.rds
+formatR/html/
+formatR/html/00Index.html
+formatR/html/R.css
+formatR/shiny/
+formatR/shiny/DESCRIPTION
+formatR/shiny/Readme.md
+formatR/shiny/server.R
+formatR/shiny/ui.R
+formatR/shiny/www/
+formatR/shiny/www/shiny-handler.js
+futile.logger/DESCRIPTION
+futile.logger/INDEX
+futile.logger/Meta/
+futile.logger/Meta/Rd.rds
+futile.logger/Meta/features.rds
+futile.logger/Meta/hsearch.rds
+futile.logger/Meta/links.rds
+futile.logger/Meta/nsInfo.rds
+futile.logger/Meta/package.rds
+futile.logger/NAMESPACE
+futile.logger/R/
+futile.logger/R/futile.logger
+futile.logger/R/futile.logger.rdb
+futile.logger/R/futile.logger.rdx
+futile.logger/help/
+futile.logger/help/AnIndex
+futile.logger/help/aliases.rds
+futile.logger/help/futile.logger.rdb
+futile.logger/help/futile.logger.rdx
+futile.logger/help/paths.rds
+futile.logger/html/
+futile.logger/html/00Index.html
+futile.logger/html/R.css
+futile.options/DESCRIPTION
+futile.options/INDEX
+futile.options/Meta/
+futile.options/Meta/Rd.rds
+futile.options/Meta/features.rds
+futile.options/Meta/hsearch.rds
+futile.options/Meta/links.rds
+futile.options/Meta/nsInfo.rds
+futile.options/Meta/package.rds
+futile.options/NAMESPACE
+futile.options/R/
+futile.options/R/futile.options
+futile.options/R/futile.options.rdb
+futile.options/R/futile.options.rdx
+futile.options/help/
+futile.options/help/AnIndex
+futile.options/help/aliases.rds
+futile.options/help/futile.options.rdb
+futile.options/help/futile.options.rdx
+futile.options/help/paths.rds
+futile.options/html/
+futile.options/html/00Index.html
+futile.options/html/R.css
+lambda.r/DESCRIPTION
+lambda.r/INDEX
+lambda.r/Meta/
+lambda.r/Meta/Rd.rds
+lambda.r/Meta/features.rds
+lambda.r/Meta/hsearch.rds
+lambda.r/Meta/links.rds
+lambda.r/Meta/nsInfo.rds
+lambda.r/Meta/package.rds
+lambda.r/NAMESPACE
+lambda.r/R/
+lambda.r/R/lambda.r
+lambda.r/R/lambda.r.rdb
+lambda.r/R/lambda.r.rdx
+lambda.r/help/
+lambda.r/help/AnIndex
+lambda.r/help/aliases.rds
+lambda.r/help/lambda.r.rdb
+lambda.r/help/lambda.r.rdx
+lambda.r/help/paths.rds
+lambda.r/html/
+lambda.r/html/00Index.html
+lambda.r/html/R.css
+VennDiagram/DESCRIPTION
+VennDiagram/INDEX
+VennDiagram/Meta/
+VennDiagram/Meta/Rd.rds
+VennDiagram/Meta/data.rds
+VennDiagram/Meta/features.rds
+VennDiagram/Meta/hsearch.rds
+VennDiagram/Meta/links.rds
+VennDiagram/Meta/nsInfo.rds
+VennDiagram/Meta/package.rds
+VennDiagram/NAMESPACE
+VennDiagram/NEWS
+VennDiagram/R/
+VennDiagram/R/VennDiagram
+VennDiagram/R/VennDiagram.rdb
+VennDiagram/R/VennDiagram.rdx
+VennDiagram/data/
+VennDiagram/data/plotsFive.rda
+VennDiagram/data/plotsFour.rda
+VennDiagram/data/plotsOne.rda
+VennDiagram/data/plotsThree.rda
+VennDiagram/data/plotsTwo.rda
+VennDiagram/help/
+VennDiagram/help/AnIndex
+VennDiagram/help/VennDiagram.rdb
+VennDiagram/help/VennDiagram.rdx
+VennDiagram/help/aliases.rds
+VennDiagram/help/paths.rds
+VennDiagram/html/
+VennDiagram/html/00Index.html
+VennDiagram/html/R.css
+* installing *source* package ‘RRHO’ ...
+** using staged installation
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘RRHO’ as ‘RRHO_1.36.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (RRHO)
