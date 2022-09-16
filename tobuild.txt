@@ -1,4 +1,3 @@
-sparsepca
 metapone
 splots
 GenomicInteractions
