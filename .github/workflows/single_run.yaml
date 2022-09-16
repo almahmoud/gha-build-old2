@@ -34,11 +34,11 @@ jobs:
           shell: bash
           command: |
             set -x
-            rm -rf ./built/*
             git config --global --add safe.directory "$GITHUB_WORKSPACE"
             git config user.name github-actions
             git config user.email github-actions@github.com
             bash -c "bash .github/scripts/claim_package.sh ${{steps.uniq.outputs.uniq}}" 2>&1 > /tmp/claimlog;
+            cat /tmp/claimlog
             if grep -i 'error' /tmp/claimlog; then exit 1; else 
             echo "::set-output name=pkg::$(cat tmp${{steps.uniq.outputs.uniq}})" && exit 0; fi
 
@@ -65,7 +65,7 @@ jobs:
             git config user.name github-actions
             git config user.email github-actions@github.com
             PKG=$(cat tmp${{steps.uniq.outputs.uniq}})
-            cp /tmp/$PKG lists/$PKG
+            cp -r /tmp/$PKG lists/$PKG
             if bash -c "bash .github/scripts/push_built.sh $PKG 2>&1 | grep -i 'error'"; then exit 1; else 
             echo "Marked built" && exit 0; fi
 

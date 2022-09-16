@@ -41,7 +41,9 @@ jobs:
             git config --global --add safe.directory "$GITHUB_WORKSPACE"
             git config user.name github-actions
             git config user.email github-actions@github.com
-            if bash -c "bash .github/scripts/claim_package.sh ${{steps.uniq.outputs.uniq}} 2>&1 | grep -i 'error'"; then exit 1; else 
+            bash -c "bash .github/scripts/claim_package.sh ${{steps.uniq.outputs.uniq}}" 2>&1 > /tmp/claimlog;
+            cat /tmp/claimlog
+            if grep -i 'error' /tmp/claimlog; then exit 1; else 
             echo "::set-output name=pkg::$(cat tmp${{steps.uniq.outputs.uniq}})" && exit 0; fi
 
 
