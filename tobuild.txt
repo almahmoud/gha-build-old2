@@ -1,4 +1,3 @@
-RCM
 RNAdecay
 ODER
 qpgraph
