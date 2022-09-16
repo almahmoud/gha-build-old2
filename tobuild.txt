@@ -1,4 +1,3 @@
-cummeRbund
 dearseq
 SIAMCAT
 GeomxTools
