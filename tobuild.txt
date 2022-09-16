@@ -1,4 +1,3 @@
-hermes
 lbfgs
 Rgin
 tRanslatome
