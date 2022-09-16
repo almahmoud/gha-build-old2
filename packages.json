@@ -643,9 +643,7 @@
         "ExperimentHub"
     ],
     "made4": [],
-    "MAGAR": [
-        "bigstatsr"
-    ],
+    "MAGAR": [],
     "MAGeCKFlute": [
         "clusterProfiler",
         "depmap",
@@ -1512,7 +1510,6 @@
     "densEstBayes": [
         "rstan"
     ],
-    "bigstatsr": [],
     "depmap": [
         "ExperimentHub"
     ],
