@@ -1,4 +1,3 @@
-webbioc
 soGGi
 HiLDA
 GWAS.BAYES
