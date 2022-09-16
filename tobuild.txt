@@ -1,4 +1,3 @@
-extRemes
 alsace
 sparsepca
 metapone
