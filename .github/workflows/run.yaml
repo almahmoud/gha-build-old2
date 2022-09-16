@@ -27,6 +27,7 @@ jobs:
       - name: Get unique identifier for worker
         id: uniq
         run: |
+          sleep $(( ( RANDOM % 10 )  + 1 ));
           echo "::set-output name=uniq::$(cat /proc/sys/kernel/random/uuid | md5sum | awk '{print $1}')"
 
       - name: Initialize if necessary then claim package
@@ -38,6 +39,7 @@ jobs:
           shell: bash
           command: |
             set -x
+            sleep $(( ( RANDOM % 10 )  + 1 ));
             git config --global --add safe.directory "$GITHUB_WORKSPACE"
             git config user.name github-actions
             git config user.email github-actions@github.com
@@ -53,6 +55,7 @@ jobs:
           max_attempts: 20
           shell: bash
           command: |
+            sleep $(( ( RANDOM % 10 )  + 1 ));
             git pull origin main || git reset --hard origin/main
             git config user.name github-actions
             git config user.email github-actions@github.com
