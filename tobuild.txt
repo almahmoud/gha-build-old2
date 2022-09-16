@@ -1,4 +1,3 @@
-drugTargetInteractions
 spiky
 genotypeeval
 FRASER
