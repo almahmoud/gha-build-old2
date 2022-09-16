@@ -1210,9 +1210,7 @@
         "taRifx"
     ],
     "puma": [],
-    "pwOmics": [
-        "rBiopaxParser"
-    ],
+    "pwOmics": [],
     "pwrEWAS": [
         "pwrEWAS.data",
         "ExperimentHub"
@@ -1243,7 +1241,6 @@
         "GenomicScores"
     ],
     "Rbec": [],
-    "rBiopaxParser": [],
     "rcellminer": [],
     "RcisTarget": [],
     "Rcpi": [
