@@ -512,7 +512,6 @@
     "DrugVsDisease": [],
     "Dune": [],
     "easier": [
-        "progeny",
         "easierData",
         "ROCR",
         "ExperimentHub"
@@ -1356,7 +1355,6 @@
     "profileplyr": [
         "soGGi"
     ],
-    "progeny": [],
     "projectR": [
         "ROCR"
     ],
