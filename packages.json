@@ -1410,9 +1410,7 @@
         "scran",
         "scuttle"
     ],
-    "scde": [
-        "extRemes"
-    ],
+    "scde": [],
     "SCFA": [],
     "scGPS": [
         "ModelMetrics"
@@ -2001,7 +1999,6 @@
     "SCATEData": [
         "ExperimentHub"
     ],
-    "extRemes": [],
     "sparsepca": [],
     "nnTensor": [],
     "PMCMRplus": [
