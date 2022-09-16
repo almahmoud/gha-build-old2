@@ -1352,7 +1352,6 @@
         "RNAmodR",
         "ROCR"
     ],
-    "rnaseqcomp": [],
     "RNASeqR": [
         "systemPipeR",
         "clusterProfiler"
