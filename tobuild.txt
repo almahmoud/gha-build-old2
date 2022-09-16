@@ -1,4 +1,3 @@
-pals
 ARRmNormalization
 ReadqPCR
 scTHI
