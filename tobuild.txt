@@ -1,4 +1,3 @@
-pcaExplorer
 Rqc
 staRank
 derfinder
