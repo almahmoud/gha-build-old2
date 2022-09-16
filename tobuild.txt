@@ -1,4 +1,3 @@
-Rbec
 GateFinder
 beer
 ChIPpeakAnno
