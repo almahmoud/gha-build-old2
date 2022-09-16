@@ -80,9 +80,7 @@
         "scuttle",
         "RcppML"
     ],
-    "BEclear": [
-        "dixonTest"
-    ],
+    "BEclear": [],
     "beer": [],
     "benchdamic": [
         "Seurat",
@@ -1472,7 +1470,6 @@
     "pRolocdata": [],
     "lbfgs": [],
     "rstan": [],
-    "dixonTest": [],
     "imager": [
         "readbitmap"
     ],
