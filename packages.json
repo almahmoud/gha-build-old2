@@ -171,7 +171,6 @@
         "ExperimentHub",
         "interactiveDisplayBase"
     ],
-    "biocthis": [],
     "BioMM": [
         "readbitmap"
     ],
@@ -982,7 +981,6 @@
         "ShortRead"
     ],
     "HubPub": [
-        "biocthis",
         "tokenizers"
     ],
     "icetea": [
