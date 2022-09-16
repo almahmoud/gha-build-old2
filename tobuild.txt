@@ -1,4 +1,3 @@
-BUSpaRse
 ISAnalytics
 gmapR
 ggspavis
