@@ -751,7 +751,6 @@
         "mrfDepth",
         "flowViz",
         "ncdfFlow",
-        "RSEIS",
         "MBA"
     ],
     "cycle": [],
@@ -835,7 +834,6 @@
         "flowDensity",
         "flowViz",
         "ncdfFlow",
-        "RSEIS",
         "MBA"
     ],
     "dearseq": [],
@@ -1180,14 +1178,12 @@
         "flowDensity",
         "flowViz",
         "ncdfFlow",
-        "RSEIS",
         "MBA"
     ],
     "flowCyBar": [],
     "flowDensity": [
         "flowViz",
         "ncdfFlow",
-        "RSEIS",
         "MBA"
     ],
     "flowFP": [
@@ -4220,7 +4216,6 @@
     "mrfDepth": [],
     "GoFKernel": [],
     "RFOC": [
-        "RSEIS",
         "MBA"
     ],
     "geometry": [],
@@ -4228,7 +4223,6 @@
     "GEOmap": [
         "MBA"
     ],
-    "RSEIS": [],
     "MBA": [],
     "rpart.plot": [],
     "shinyFeedback": [],
