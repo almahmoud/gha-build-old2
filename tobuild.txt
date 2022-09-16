@@ -1,4 +1,3 @@
-VaSP
 signeR
 infercnv
 DAMEfinder
