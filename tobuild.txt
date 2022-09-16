@@ -1,4 +1,3 @@
-ompBAM
 RTNduals
 openCyto
 gpart
