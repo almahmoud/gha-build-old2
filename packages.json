@@ -759,7 +759,6 @@
         "flowViz",
         "MBA"
     ],
-    "flowCyBar": [],
     "flowDensity": [
         "flowViz",
         "MBA"
@@ -841,7 +840,6 @@
     "geneXtendeR": [
         "tm"
     ],
-    "GenomicDistributions": [],
     "GenomicInteractions": [],
     "GenomicOZone": [],
     "GenomicScores": [
