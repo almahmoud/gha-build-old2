@@ -1,4 +1,3 @@
-SIFT.Hsapiens.dbSNP137
 snapCGH
 myvariant
 XINA
