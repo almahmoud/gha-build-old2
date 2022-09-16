@@ -1,4 +1,3 @@
-autonomics
 synlet
 regionReport
 RcppML
