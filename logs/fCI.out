@@ -1,0 +1,29 @@
+* installing *source* package ‘fCI’ ...
+** using staged installation
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+Warning messages:
+1: In rgl.init(initValue, onlyNULL) : RGL: unable to open X11 display
+2: 'rgl.init' failed, running with 'rgl.useNULL = TRUE'. 
+in method for ‘initialize’ with signature ‘"NPCI"’: no definition for class “NPCI”
+in method for ‘normalization’ with signature ‘"NPCI"’: no definition for class “NPCI”
+in method for ‘setfCI’ with signature ‘"NPCI"’: no definition for class “NPCI”
+in method for ‘populate’ with signature ‘"NPCI"’: no definition for class “NPCI”
+in method for ‘find.fci.targets’ with signature ‘"NPCI"’: no definition for class “NPCI”
+in method for ‘show.targets’ with signature ‘"NPCI"’: no definition for class “NPCI”
+in method for ‘call.npci’ with signature ‘"NPCI"’: no definition for class “NPCI”
+in method for ‘compute’ with signature ‘"NPCI"’: no definition for class “NPCI”
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+Warning: 'rgl.init' failed, running with 'rgl.useNULL = TRUE'.
+** testing if installed package can be loaded from final location
+Warning: 'rgl.init' failed, running with 'rgl.useNULL = TRUE'.
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘fCI’ as ‘fCI_1.26.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (fCI)
