@@ -1,0 +1,20 @@
+* installing *source* package ‘Harman’ ...
+** using staged installation
+** libs
+g++ -std=gnu++14 -I"/usr/local/lib/R/include" -DNDEBUG -D_ARRAYALIGNEMT=4 -D_USE_RCPP=1 -I'/__w/gha-build/gha-build/built/Rcpp/include' -I/usr/local/include  `/usr/local/lib/R/bin/Rscript -e "Rcpp:::CxxFlags()"` -I.  -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c Harman.cpp -o Harman.o
+g++ -std=gnu++14 -shared -L/usr/local/lib/R/lib -L/usr/local/lib -o Harman.so Harman.o -L/usr/local/lib/R/lib -lR
+installing to /__w/gha-build/gha-build/built/00LOCK-Harman/00new/Harman/libs
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘Harman’ as ‘Harman_1.24.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (Harman)
