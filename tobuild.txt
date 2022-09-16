@@ -1,4 +1,3 @@
-HelloRanges
 goseq
 fcScan
 gwasurvivr
