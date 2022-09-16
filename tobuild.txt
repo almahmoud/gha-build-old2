@@ -1,6 +1,3 @@
-animalcules
-flowVS
-qmtools
 GenomicScores
 gggenes
 hermes
