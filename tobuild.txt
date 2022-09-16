@@ -1,5 +1,3 @@
-cicero
-DepecheR
 NanoMethViz
 PROPER
 VIM
