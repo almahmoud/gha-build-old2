@@ -822,7 +822,6 @@
         "tximeta"
     ],
     "IsoGeneGUI": [
-        "IsoGene",
         "orQA"
     ],
     "isomiRs": [
@@ -2171,7 +2170,6 @@
     ],
     "rsm": [],
     "Polychrome": [],
-    "IsoGene": [],
     "orQA": [],
     "DiscriMiner": [],
     "pd.mapping50k.xba240": [],
