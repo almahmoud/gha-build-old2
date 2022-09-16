@@ -69,7 +69,7 @@ jobs:
             git config user.name github-actions
             git config user.email github-actions@github.com
             PKG=$(cat tmp${{steps.uniq.outputs.uniq}})
-            cp /tmp/$PKG lists/$PKG
+            cp -r /tmp/$PKG lists/$PKG
             if bash -c "bash .github/scripts/push_built.sh $PKG 2>&1 | grep -i 'error'"; then exit 1; else 
             echo "Marked built" && exit 0; fi
 
@@ -132,6 +132,4 @@ jobs:
             git config user.name github-actions
             git config user.email github-actions@github.com
             if bash -c "bash .github/scripts/rclone_push.sh ${{steps.claim.outputs.pkg}} ${{steps.tar.outputs.name}} 2>&1 | grep -i 'error'"; then exit 1; else 
-            echo "Marked pushed" && exit 0; fi
-        env:
-          GITHUB_PAT: ${{ secrets.GIT_PAT }}
+            echo "Marked pushed"; fi

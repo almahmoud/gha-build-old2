@@ -1,38 +1,28 @@
 {
-    "a4": [
-        "a4Base"
-    ],
-    "a4Base": [],
+    "a4": [],
     "ABAEnrichment": [
         "ABAData"
     ],
-    "abseqR": [],
     "ACE": [],
     "ADaCGH2": [
         "ffbase",
         "snapCGH"
     ],
-    "ADAMgui": [],
     "adductomicsR": [
         "adductData",
         "ExperimentHub"
     ],
     "affycoretools": [
-        "GOstats",
         "ReportingTools",
-        "ggbio",
-        "biovizBase"
+        "ggbio"
     ],
     "AgiMicroRna": [
         "affycoretools",
-        "GOstats",
         "ReportingTools",
-        "ggbio",
-        "biovizBase"
+        "ggbio"
     ],
     "AllelicImbalance": [
-        "Gviz",
-        "biovizBase"
+        "Gviz"
     ],
     "alsace": [],
     "AMARETTO": [
@@ -42,69 +32,45 @@
     "animalcules": [],
     "AnnotationHubData": [],
     "annotatr": [],
-    "AnVIL": [],
-    "AnVILPublish": [
-        "AnVIL"
-    ],
+    "AnVILPublish": [],
     "APAlyzer": [],
     "appreci8R": [
-        "Homo.sapiens",
         "MafDb.1Kgenomes.phase3.hs37d5",
         "MafDb.ExAC.r1.0.hs37d5",
         "MafDb.gnomADex.r2.1.hs37d5",
-        "COSMIC.67",
-        "PolyPhen.Hsapiens.dbSNP131",
-        "SIFT.Hsapiens.dbSNP137",
         "GenomicScores"
     ],
     "arrayMvout": [
         "lumi",
-        "methylumi",
-        "FDb.InfiniumMethylation.hg19",
-        "minfi"
+        "methylumi"
     ],
-    "artMS": [],
     "ASpediaFI": [
         "Gviz",
-        "mGSZ",
-        "biovizBase"
+        "mGSZ"
     ],
     "ASpli": [
-        "Gviz",
-        "biovizBase"
+        "Gviz"
     ],
-    "ASSIGN": [],
     "ATACseqQC": [
         "ChIPpeakAnno",
         "GenomicScores"
     ],
-    "attract": [
-        "GOstats"
-    ],
+    "attract": [],
     "autonomics": [],
-    "BadRegionFinder": [],
     "BayesSpace": [],
-    "BBCAnalyzer": [],
-    "BEclear": [],
     "benchdamic": [
         "ffpe",
         "lumi",
-        "methylumi",
-        "FDb.InfiniumMethylation.hg19",
-        "minfi"
+        "methylumi"
     ],
-    "BgeeDB": [],
     "bigmelon": [
         "wateRmelon",
-        "minfi",
         "methylumi",
-        "FDb.InfiniumMethylation.hg19",
         "lumi",
         "IlluminaHumanMethylation450kanno.ilmn12.hg19"
     ],
     "bioCancer": [
         "cgdsr",
-        "DOSE",
         "clusterProfiler",
         "ReactomePA",
         "enrichplot"
@@ -114,22 +80,16 @@
         "ExperimentHub"
     ],
     "biocthis": [],
-    "BioMM": [],
     "biomvRCNS": [
-        "Gviz",
-        "biovizBase"
+        "Gviz"
     ],
     "BioNERO": [],
-    "biovizBase": [],
     "biscuiteer": [
         "biscuiteerData",
-        "Mus.musculus",
-        "Homo.sapiens",
         "dmrseq",
         "ExperimentHub",
         "annotatr"
     ],
-    "BLMA": [],
     "BloodGen3Module": [
         "ExperimentHub"
     ],
@@ -142,33 +102,23 @@
         "derfinder",
         "derfinderPlot",
         "GenomicState",
-        "GenomicFiles",
-        "ggbio",
-        "biovizBase"
+        "ggbio"
     ],
     "branchpointer": [],
-    "BubbleTree": [
-        "biovizBase"
-    ],
-    "BUSpaRse": [],
+    "BubbleTree": [],
     "CAFE": [
-        "biovizBase",
         "ggbio"
     ],
     "CAGEfightR": [
-        "GenomicFiles",
         "Gviz",
-        "GenomicInteractions",
-        "biovizBase"
+        "GenomicInteractions"
     ],
     "cageminer": [
         "ggbio",
-        "BioNERO",
-        "biovizBase"
+        "BioNERO"
     ],
     "canceR": [
-        "cgdsr",
-        "phenoTest"
+        "cgdsr"
     ],
     "CancerSubtypes": [
         "iCluster"
@@ -176,23 +126,14 @@
     "CATALYST": [
         "FlowSOM"
     ],
-    "categoryCompare": [
-        "GOstats"
-    ],
+    "categoryCompare": [],
     "cbaf": [
         "cgdsr"
     ],
-    "cBioPortalData": [
-        "AnVIL",
-        "RTCGAToolbox"
-    ],
-    "cellHTS2": [],
-    "cellity": [],
+    "cBioPortalData": [],
     "cellmigRation": [],
-    "cellTree": [],
     "CEMiTool": [
         "clusterProfiler",
-        "DOSE",
         "enrichplot"
     ],
     "censcyt": [
@@ -201,127 +142,97 @@
     ],
     "CeTF": [
         "clusterProfiler",
-        "DOSE",
         "enrichplot"
     ],
     "CGHnormaliter": [],
     "ChAMP": [
-        "minfi",
         "DMRcate",
         "IlluminaHumanMethylationEPICmanifest",
         "IlluminaHumanMethylation450kmanifest",
         "IlluminaHumanMethylationEPICanno.ilm10b4.hg19",
         "wateRmelon",
-        "goseq",
         "missMethyl",
         "ExperimentHub",
         "DSS",
         "Gviz",
         "IlluminaHumanMethylation450kanno.ilmn12.hg19",
         "methylumi",
-        "lumi",
-        "biovizBase",
-        "FDb.InfiniumMethylation.hg19"
+        "lumi"
     ],
     "ChIC": [
         "ChIC.data"
     ],
     "chimeraviz": [
-        "Gviz",
-        "biovizBase"
+        "Gviz"
     ],
-    "ChIPexoQual": [
-        "biovizBase"
-    ],
+    "ChIPexoQual": [],
     "ChIPpeakAnno": [],
     "ChIPQC": [
         "DiffBind"
     ],
     "ChIPseeker": [
-        "enrichplot",
-        "DOSE"
+        "enrichplot"
     ],
     "ChIPXpress": [],
     "chromVAR": [
         "TFBSTools"
     ],
     "cicero": [
-        "Gviz",
-        "biovizBase"
+        "Gviz"
     ],
-    "circRNAprofiler": [
-        "gwascat"
-    ],
+    "circRNAprofiler": [],
     "clipper": [
         "qpgraph"
     ],
     "CluMSID": [],
     "clusterExperiment": [],
     "clusterProfiler": [
-        "DOSE",
         "enrichplot"
     ],
     "CNVfilteR": [
         "karyoploteR",
-        "CopyNumberPlots",
-        "biovizBase"
+        "CopyNumberPlots"
     ],
     "CNViz": [
         "karyoploteR",
-        "CopyNumberPlots",
-        "biovizBase"
+        "CopyNumberPlots"
     ],
-    "CNVrd2": [],
     "COCOA": [
         "MIRA"
     ],
-    "Cogito": [],
     "coMET": [
         "Gviz",
-        "colortools",
-        "biovizBase"
+        "colortools"
     ],
-    "ComPrAn": [],
     "conclus": [
         "clusterProfiler",
-        "DOSE",
         "enrichplot"
     ],
     "condiments": [],
     "consensusDE": [
         "EDASeq",
-        "EnsDb.Hsapiens.v86",
         "RUVSeq"
     ],
-    "consensusOV": [],
-    "contiBAIT": [
-        "GenomicFiles"
-    ],
+    "contiBAIT": [],
     "conumee": [
-        "minfi",
         "IlluminaHumanMethylation450kanno.ilmn12.hg19",
         "IlluminaHumanMethylation450kmanifest",
         "IlluminaHumanMethylationEPICanno.ilm10b2.hg19",
         "IlluminaHumanMethylationEPICmanifest"
     ],
     "CopyNumberPlots": [
-        "karyoploteR",
-        "biovizBase"
+        "karyoploteR"
     ],
     "CopywriteR": [],
-    "coseq": [],
     "crisprseekplus": [
         "GUIDEseq",
         "ChIPpeakAnno"
     ],
-    "csdR": [],
     "cTRAP": [],
     "cummeRbund": [
-        "Gviz",
-        "biovizBase"
+        "Gviz"
     ],
     "customCMPdb": [],
-    "customProDB": [],
     "cyanoFilter": [
         "flowDensity"
     ],
@@ -336,13 +247,11 @@
         "FlowSOM"
     ],
     "dagLogo": [],
-    "DAMEfinder": [],
     "DaMiRseq": [
         "EDASeq"
     ],
     "DAPAR": [
         "clusterProfiler",
-        "DOSE",
         "enrichplot"
     ],
     "dce": [
@@ -355,60 +264,44 @@
         "flowDensity"
     ],
     "debrowser": [
-        "DOSE",
         "clusterProfiler",
         "enrichplot"
     ],
-    "decompTumor2Sig": [],
     "DeepPINCS": [
         "ttgsea"
     ],
-    "deepSNV": [],
     "DEGreport": [
         "lasso2"
     ],
-    "derfinder": [
-        "GenomicFiles"
-    ],
+    "derfinder": [],
     "derfinderPlot": [
         "derfinder",
-        "ggbio",
-        "GenomicFiles",
-        "biovizBase"
+        "ggbio"
     ],
     "DEScan2": [
         "ChIPpeakAnno"
     ],
     "DiffBind": [],
-    "diffcoexp": [],
     "diffcyt": [
         "FlowSOM"
     ],
-    "diffUTR": [],
-    "DiscoRhythm": [],
     "DMRcate": [
         "ExperimentHub",
         "DSS",
-        "minfi",
         "missMethyl",
         "Gviz",
-        "biovizBase",
         "IlluminaHumanMethylation450kanno.ilmn12.hg19",
         "IlluminaHumanMethylationEPICanno.ilm10b4.hg19",
         "IlluminaHumanMethylation450kmanifest",
         "IlluminaHumanMethylationEPICmanifest",
-        "methylumi",
-        "FDb.InfiniumMethylation.hg19"
+        "methylumi"
     ],
     "DMRforPairs": [
-        "Gviz",
-        "biovizBase"
+        "Gviz"
     ],
     "dmrseq": [
         "annotatr"
     ],
-    "DominoEffect": [],
-    "DOSE": [],
     "drugTargetInteractions": [],
     "DrugVsDisease": [],
     "DSS": [],
@@ -422,73 +315,50 @@
     ],
     "eegc": [
         "clusterProfiler",
-        "DOSE",
         "enrichplot"
     ],
-    "EGSEA": [],
     "ELMER": [
-        "Gviz",
-        "biovizBase"
+        "Gviz"
     ],
     "enhancerHomologSearch": [
         "motifmatchr",
         "TFBSTools"
     ],
     "EnMCB": [
-        "IlluminaHumanMethylation450kanno.ilmn12.hg19",
-        "minfi"
+        "IlluminaHumanMethylation450kanno.ilmn12.hg19"
     ],
     "ENmix": [
-        "minfi",
         "ExperimentHub"
     ],
-    "enrichplot": [
-        "DOSE"
-    ],
+    "enrichplot": [],
     "enrichTF": [
         "motifmatchr",
         "TFBSTools",
         "clusterProfiler",
-        "DOSE",
         "enrichplot"
     ],
-    "ensemblVEP": [],
-    "epialleleR": [],
     "epihet": [
         "EntropyExplorer",
         "ReactomePA",
-        "DOSE",
         "enrichplot"
     ],
     "epiNEM": [
         "mnem",
         "Linnorm"
     ],
-    "epivizr": [
-        "epivizrData"
-    ],
-    "epivizrChart": [
-        "epivizrData"
-    ],
-    "epivizrData": [],
+    "epivizr": [],
+    "epivizrChart": [],
     "epivizrStandalone": [
-        "epivizr",
-        "epivizrData"
+        "epivizr"
     ],
-    "erma": [
-        "Homo.sapiens",
-        "GenomicFiles"
-    ],
+    "erma": [],
     "esATAC": [
         "ChIPseeker",
         "clusterProfiler",
         "TFBSTools",
         "motifmatchr",
-        "enrichplot",
-        "DOSE"
+        "enrichplot"
     ],
-    "escape": [],
-    "EventPointer": [],
     "EWCE": [
         "ewceData",
         "ExperimentHub"
@@ -502,23 +372,16 @@
     "famat": [
         "MPINet",
         "clusterProfiler",
-        "DOSE",
         "enrichplot"
     ],
-    "fastLiquidAssociation": [],
-    "fCI": [],
     "fcoex": [
         "clusterProfiler",
-        "DOSE",
         "enrichplot"
     ],
-    "fcScan": [],
     "FEAST": [],
     "ffpe": [
         "lumi",
-        "methylumi",
-        "FDb.InfiniumMethylation.hg19",
-        "minfi"
+        "methylumi"
     ],
     "flowBin": [],
     "flowCL": [
@@ -529,18 +392,11 @@
     ],
     "flowDensity": [],
     "FlowSOM": [],
-    "FoldGO": [],
-    "FRASER": [],
     "funtooNorm": [
-        "minfi",
         "IlluminaHumanMethylation450kmanifest",
         "IlluminaHumanMethylation450kanno.ilmn12.hg19"
     ],
-    "GA4GHclient": [],
-    "GA4GHshiny": [
-        "GA4GHclient"
-    ],
-    "GAPGOM": [],
+    "GA4GHshiny": [],
     "GARS": [
         "DaMiRseq",
         "MLSeq",
@@ -550,36 +406,25 @@
     "GCSscore": [],
     "GDCRNATools": [
         "clusterProfiler",
-        "DOSE",
         "enrichplot"
     ],
-    "genbankr": [],
     "GeneAnswers": [],
     "GeneBreak": [],
     "GeneStructureTools": [
-        "Gviz",
-        "biovizBase"
+        "Gviz"
     ],
-    "GenomicFiles": [],
     "GenomicInteractions": [
-        "Gviz",
-        "biovizBase"
+        "Gviz"
     ],
     "GenomicOZone": [
-        "ggbio",
-        "biovizBase"
+        "ggbio"
     ],
     "GenomicScores": [],
-    "genotypeeval": [],
     "GenVisR": [
         "FField"
     ],
-    "gespeR": [
-        "cellHTS2"
-    ],
-    "ggbio": [
-        "biovizBase"
-    ],
+    "gespeR": [],
+    "ggbio": [],
     "GGPA": [],
     "ggspavis": [],
     "GISPA": [],
@@ -587,16 +432,8 @@
         "sparsebn",
         "loose.rock"
     ],
-    "gmapR": [],
-    "GmicR": [
-        "GOstats"
-    ],
-    "goseq": [],
-    "GOSim": [],
-    "GOstats": [],
-    "gpart": [
-        "Homo.sapiens"
-    ],
+    "GmicR": [],
+    "gpart": [],
     "gprege": [
         "gptk"
     ],
@@ -607,70 +444,42 @@
     "gsean": [
         "PPInfer"
     ],
-    "GSReg": [
-        "Homo.sapiens"
-    ],
+    "GSReg": [],
     "GUIDEseq": [
         "ChIPpeakAnno"
     ],
-    "Gviz": [
-        "biovizBase"
-    ],
+    "Gviz": [],
     "GWAS.BAYES": [],
-    "gwascat": [],
-    "gwasurvivr": [],
-    "GWENA": [],
-    "HelloRanges": [],
     "HiCcompare": [],
     "HiCDCPlus": [
         "GenomicInteractions",
-        "Gviz",
-        "biovizBase"
+        "Gviz"
     ],
     "HiLDA": [],
     "hipathia": [],
     "HPiP": [],
-    "HTSeqGenie": [
-        "gmapR",
-        "VariantTools"
-    ],
+    "HTSeqGenie": [],
     "HubPub": [
         "biocthis"
     ],
-    "icetea": [],
     "iCheck": [
         "lumi",
-        "methylumi",
-        "FDb.InfiniumMethylation.hg19",
-        "minfi"
+        "methylumi"
     ],
     "ideal": [
-        "pcaExplorer",
-        "goseq",
-        "GOstats"
+        "pcaExplorer"
     ],
-    "idr2d": [],
-    "igvR": [],
-    "imageHTS": [
-        "cellHTS2"
-    ],
-    "IMAS": [],
+    "imageHTS": [],
     "imcRtools": [],
     "IMMAN": [],
     "ImmuneSpaceR": [],
-    "infercnv": [],
-    "INSPEcT": [],
     "intansv": [
-        "ggbio",
-        "biovizBase"
+        "ggbio"
     ],
-    "interactiveDisplay": [],
-    "IntEREst": [],
     "IntramiRExploreR": [],
     "ipdDb": [],
     "IRISFGM": [
         "clusterProfiler",
-        "DOSE",
         "enrichplot"
     ],
     "ISAnalytics": [],
@@ -685,19 +494,13 @@
         "DEGreport",
         "lasso2"
     ],
-    "karyoploteR": [
-        "biovizBase"
-    ],
+    "karyoploteR": [],
     "kissDE": [
         "DSS"
     ],
     "KnowSeq": [],
-    "ldblock": [
-        "EnsDb.Hsapiens.v75",
-        "GenomicFiles"
-    ],
+    "ldblock": [],
     "Linnorm": [],
-    "lisaClust": [],
     "LowMACA": [
         "cgdsr"
     ],
@@ -705,11 +508,8 @@
         "ExperimentHub"
     ],
     "lumi": [
-        "methylumi",
-        "FDb.InfiniumMethylation.hg19",
-        "minfi"
+        "methylumi"
     ],
-    "LymphoSeq": [],
     "M3Drop": [],
     "m6Aboost": [
         "ExperimentHub"
@@ -718,69 +518,51 @@
     "MACSr": [
         "ExperimentHub"
     ],
-    "MADSEQ": [],
     "MAGAR": [
         "RnBeads",
-        "methylumi",
-        "FDb.InfiniumMethylation.hg19",
-        "minfi"
+        "methylumi"
     ],
     "MAGeCKFlute": [
         "clusterProfiler",
-        "enrichplot",
-        "DOSE"
+        "enrichplot"
     ],
     "MAI": [],
     "MAIT": [],
     "maPredictDSC": [],
     "maser": [
-        "Gviz",
-        "biovizBase"
+        "Gviz"
     ],
     "MatrixRider": [
         "TFBSTools"
     ],
-    "MCbiclust": [],
     "mCSEA": [
-        "Homo.sapiens",
-        "Gviz",
-        "biovizBase"
+        "Gviz"
     ],
     "MEAL": [
-        "minfi",
         "Gviz",
         "missMethyl",
-        "biovizBase",
         "IlluminaHumanMethylation450kanno.ilmn12.hg19",
         "IlluminaHumanMethylationEPICanno.ilm10b4.hg19",
         "IlluminaHumanMethylation450kmanifest",
         "IlluminaHumanMethylationEPICmanifest",
-        "methylumi",
-        "FDb.InfiniumMethylation.hg19"
+        "methylumi"
     ],
     "MEAT": [
-        "minfi",
         "wateRmelon",
         "methylumi",
         "lumi",
-        "IlluminaHumanMethylation450kanno.ilmn12.hg19",
-        "FDb.InfiniumMethylation.hg19"
+        "IlluminaHumanMethylation450kanno.ilmn12.hg19"
     ],
     "meshes": [
-        "DOSE",
         "enrichplot"
     ],
-    "meshr": [],
     "metabCombiner": [],
-    "MetaboSignal": [
-        "EnsDb.Hsapiens.v75"
-    ],
+    "MetaboSignal": [],
     "MetaCyto": [
         "FlowSOM"
     ],
     "metagene": [
-        "muStat",
-        "EnsDb.Hsapiens.v86"
+        "muStat"
     ],
     "metaseqR2": [
         "DSS",
@@ -788,26 +570,21 @@
     ],
     "metavizr": [
         "epivizr",
-        "epivizrData",
         "epivizrStandalone"
     ],
     "MethReg": [
         "sesameData",
         "ExperimentHub"
     ],
-    "MethylAid": [
-        "minfi"
-    ],
+    "MethylAid": [],
     "methylCC": [
         "FlowSorted.Blood.450k",
-        "minfi",
         "IlluminaHumanMethylation450kmanifest",
         "IlluminaHumanMethylation450kanno.ilmn12.hg19"
     ],
     "methylclock": [
         "methylclockData",
         "ExperimentHub",
-        "minfi",
         "ExperimentHubData",
         "AnnotationHubData"
     ],
@@ -816,54 +593,37 @@
         "missMethyl",
         "IlluminaHumanMethylation450kanno.ilmn12.hg19",
         "IlluminaHumanMethylationEPICanno.ilm10b4.hg19",
-        "DOSE",
         "enrichplot",
-        "minfi",
         "IlluminaHumanMethylation450kmanifest",
         "IlluminaHumanMethylationEPICmanifest",
-        "methylumi",
-        "FDb.InfiniumMethylation.hg19"
+        "methylumi"
     ],
     "methylInheritance": [],
     "methylSig": [
         "DSS"
     ],
-    "methylumi": [
-        "FDb.InfiniumMethylation.hg19",
-        "minfi"
-    ],
+    "methylumi": [],
     "microbiomeMarker": [],
     "MicrobiomeProfiler": [
         "clusterProfiler",
-        "enrichplot",
-        "DOSE"
+        "enrichplot"
     ],
-    "MIGSA": [
-        "GOstats"
-    ],
+    "MIGSA": [],
     "MineICA": [
-        "GOstats",
         "lumi",
-        "methylumi",
-        "FDb.InfiniumMethylation.hg19",
-        "minfi"
+        "methylumi"
     ],
-    "minfi": [],
     "MIRA": [],
-    "miRLAB": [
-        "GOstats"
-    ],
+    "miRLAB": [],
     "miRSM": [
         "miRspongeR",
         "clusterProfiler",
         "ReactomePA",
-        "DOSE",
         "enrichplot"
     ],
     "miRspongeR": [
         "clusterProfiler",
         "ReactomePA",
-        "DOSE",
         "enrichplot"
     ],
     "missMethyl": [
@@ -871,54 +631,39 @@
         "IlluminaHumanMethylationEPICanno.ilm10b4.hg19",
         "IlluminaHumanMethylation450kmanifest",
         "IlluminaHumanMethylationEPICmanifest",
-        "methylumi",
-        "minfi",
-        "FDb.InfiniumMethylation.hg19"
+        "methylumi"
     ],
-    "mitoClone2": [
-        "deepSNV"
-    ],
+    "mitoClone2": [],
     "MLSeq": [],
-    "MMAPPR2": [
-        "ensemblVEP",
-        "gmapR",
-        "VariantTools"
-    ],
+    "MMAPPR2": [],
     "MMUPHin": [],
     "mnem": [
         "Linnorm"
     ],
-    "moanin": [],
-    "MODA": [],
     "monaLisa": [
         "TFBSTools"
     ],
     "MoonlightR": [
         "clusterProfiler",
-        "DOSE",
         "enrichplot"
     ],
     "motifbreakR": [
-        "Gviz",
-        "biovizBase"
+        "Gviz"
     ],
     "motifmatchr": [
         "TFBSTools"
     ],
     "msgbsR": [
-        "ggbio",
-        "biovizBase"
+        "ggbio"
     ],
     "MSGFgui": [
         "MSGFplus"
     ],
     "MSGFplus": [],
     "MSnID": [],
-    "MSPrep": [],
     "MSstatsSampleSize": [],
     "multicrispr": [
-        "karyoploteR",
-        "biovizBase"
+        "karyoploteR"
     ],
     "multiHiCcompare": [
         "HiCcompare"
@@ -926,44 +671,33 @@
     "multiSight": [
         "clusterProfiler",
         "ReactomePA",
-        "enrichplot",
-        "DOSE"
+        "enrichplot"
     ],
-    "MungeSumstats": [],
-    "musicatk": [
-        "decompTumor2Sig"
-    ],
-    "MutationalPatterns": [],
-    "myvariant": [],
+    "musicatk": [],
     "NADfinder": [
         "trackViewer",
         "ATACseqQC",
         "ChIPpeakAnno",
         "GenomicScores",
-        "Gviz",
-        "biovizBase"
+        "Gviz"
     ],
     "NanoMethViz": [],
     "NBSplice": [
         "mppa"
     ],
-    "nearBynding": [],
     "nempi": [
         "mnem",
         "epiNEM",
         "Linnorm"
     ],
-    "netboost": [],
     "netboxr": [
         "clusterProfiler",
-        "DOSE",
         "enrichplot"
     ],
     "nethet": [],
     "netresponse": [
         "dmt"
     ],
-    "NetSAM": [],
     "netSmooth": [
         "clusterExperiment"
     ],
@@ -973,16 +707,10 @@
         "ExperimentHub"
     ],
     "ODER": [
-        "derfinder",
-        "GenomicFiles"
+        "derfinder"
     ],
-    "OmaDB": [],
-    "omicRexposome": [],
-    "OMICsPCA": [
-        "HelloRanges"
-    ],
+    "OMICsPCA": [],
     "ontoProc": [],
-    "oppar": [],
     "pageRank": [
         "motifmatchr",
         "TFBSTools"
@@ -990,9 +718,7 @@
     "PanVizGenerator": [
         "FindMyFriends"
     ],
-    "pcaExplorer": [
-        "GOstats"
-    ],
+    "pcaExplorer": [],
     "PDATK": [],
     "PeacoQC": [],
     "PECA": [
@@ -1000,39 +726,29 @@
     ],
     "PFP": [
         "clusterProfiler",
-        "DOSE",
         "enrichplot"
     ],
     "phemd": [],
-    "phenoTest": [],
     "PhosR": [],
     "PhyloProfile": [
-        "ExperimentHub",
-        "OmaDB"
+        "ExperimentHub"
     ],
     "Pi": [],
     "Pigengene": [
         "clusterProfiler",
         "ReactomePA",
-        "DOSE",
         "enrichplot"
     ],
     "PING": [
-        "Gviz",
-        "biovizBase"
+        "Gviz"
     ],
-    "PloGO2": [
-        "GOstats"
-    ],
+    "PloGO2": [],
     "pogos": [
         "ontoProc"
     ],
     "POMA": [],
     "PPInfer": [],
-    "ppiStats": [],
-    "preciseTAD": [
-        "rCGH"
-    ],
+    "preciseTAD": [],
     "PrecisionTrialDrawer": [
         "cgdsr"
     ],
@@ -1041,15 +757,12 @@
         "phastCons100way.UCSC.hg38",
         "GenomicScores",
         "Gviz",
-        "TFBSTools",
-        "biovizBase"
+        "TFBSTools"
     ],
-    "proBatch": [],
     "profileplyr": [
         "soGGi",
         "ChIPseeker",
-        "enrichplot",
-        "DOSE"
+        "enrichplot"
     ],
     "pRoloc": [],
     "pRolocGUI": [
@@ -1058,28 +771,21 @@
     "Prostar": [
         "DAPAR",
         "clusterProfiler",
-        "DOSE",
         "enrichplot"
     ],
-    "ProteoDisco": [],
     "ProteomicsAnnotationHubData": [
         "AnnotationHubData"
     ],
     "psichomics": [
         "recount",
-        "derfinder",
-        "GenomicFiles"
+        "derfinder"
     ],
-    "psygenet2r": [
-        "BgeeDB"
-    ],
+    "psygenet2r": [],
     "pulsedSilac": [
         "taRifx"
     ],
-    "PureCN": [],
     "Pviz": [
-        "Gviz",
-        "biovizBase"
+        "Gviz"
     ],
     "pwOmics": [],
     "pwrEWAS": [
@@ -1087,63 +793,42 @@
         "ExperimentHub"
     ],
     "qpgraph": [],
-    "qrqc": [
-        "biovizBase"
-    ],
-    "quantro": [
-        "minfi"
-    ],
+    "qrqc": [],
+    "quantro": [],
     "QuartPAC": [],
-    "QuasR": [
-        "GenomicFiles"
-    ],
+    "QuasR": [],
     "R3CPET": [
-        "ggbio",
-        "biovizBase"
+        "ggbio"
     ],
-    "R453Plus1Toolbox": [],
     "ramr": [],
     "RareVariantVis": [
         "phastCons100way.UCSC.hg19",
         "GenomicScores"
     ],
     "Rbec": [],
-    "rCGH": [],
     "RcisTarget": [],
-    "Rcpi": [],
     "ReactomePA": [
-        "DOSE",
         "enrichplot"
     ],
     "recount": [
-        "derfinder",
-        "GenomicFiles"
+        "derfinder"
     ],
     "recountmethylation": [
-        "minfi",
         "IlluminaHumanMethylation450kmanifest"
     ],
     "REDseq": [
         "ChIPpeakAnno"
     ],
-    "RegEnrich": [
-        "DOSE"
-    ],
+    "RegEnrich": [],
     "regionReport": [
-        "derfinder",
-        "GenomicFiles"
+        "derfinder"
     ],
     "regutools": [
-        "Gviz",
-        "biovizBase"
+        "Gviz"
     ],
-    "REMP": [
-        "minfi"
-    ],
+    "REMP": [],
     "ReportingTools": [
-        "GOstats",
-        "ggbio",
-        "biovizBase"
+        "ggbio"
     ],
     "restfulSE": [
         "ExperimentHub"
@@ -1153,77 +838,52 @@
         "rGenomeTracksData"
     ],
     "Rgin": [],
-    "rgsepd": [
-        "goseq"
-    ],
-    "Rhisat2": [],
+    "rgsepd": [],
     "RiboCrypt": [],
     "RiboDiPA": [],
     "RiboProfiling": [
-        "ggbio",
-        "biovizBase"
+        "ggbio"
     ],
     "ribosomeProfilingQC": [
         "EDASeq",
         "RUVSeq"
     ],
     "RIPAT": [
-        "karyoploteR",
-        "biovizBase"
+        "karyoploteR"
     ],
-    "RITAN": [
-        "BgeeDB"
-    ],
+    "RITAN": [],
     "RLSeq": [
         "RLHub",
         "ExperimentHub"
     ],
-    "Rmmquant": [],
     "RNAAgeCalc": [
         "recount",
-        "derfinder",
-        "GenomicFiles"
+        "derfinder"
     ],
-    "rnaEditr": [],
-    "RNAinteract": [
-        "cellHTS2"
-    ],
+    "RNAinteract": [],
     "RNAmodR": [
-        "Gviz",
-        "biovizBase"
+        "Gviz"
     ],
     "RNAmodR.AlkAnilineSeq": [
         "RNAmodR",
-        "Gviz",
-        "biovizBase"
+        "Gviz"
     ],
     "RNAmodR.ML": [
         "RNAmodR",
-        "Gviz",
-        "biovizBase"
+        "Gviz"
     ],
     "RNAmodR.RiboMethSeq": [
         "RNAmodR",
-        "Gviz",
-        "biovizBase"
+        "Gviz"
     ],
     "RNASeqR": [
         "clusterProfiler",
-        "DOSE",
         "enrichplot"
     ],
     "RnBeads": [
-        "methylumi",
-        "FDb.InfiniumMethylation.hg19",
-        "minfi"
+        "methylumi"
     ],
-    "Rqc": [
-        "biovizBase",
-        "GenomicFiles"
-    ],
-    "RRHO": [],
-    "rrvgo": [],
-    "RTCGAToolbox": [],
+    "Rqc": [],
     "RTNduals": [],
     "RTNsurvival": [
         "RTNduals"
@@ -1251,33 +911,24 @@
         "RUVSeq",
         "EDASeq"
     ],
-    "scoreInvHap": [],
     "scruff": [
-        "ggbio",
-        "biovizBase"
+        "ggbio"
     ],
     "scTensor": [
-        "meshr",
-        "GOstats",
         "ReactomePA",
-        "DOSE",
         "enrichplot"
     ],
     "scTGIF": [],
     "scTreeViz": [
-        "epivizr",
-        "epivizrData"
+        "epivizr"
     ],
     "segmenter": [
         "ChIPseeker",
-        "enrichplot",
-        "DOSE"
+        "enrichplot"
     ],
     "selectKSigs": [
         "HiLDA"
     ],
-    "seq2pathway": [],
-    "seqCAT": [],
     "SeqSQC": [
         "ExperimentHub"
     ],
@@ -1285,22 +936,16 @@
         "sesameData",
         "ExperimentHub"
     ],
-    "shinyepico": [
-        "minfi"
-    ],
+    "shinyepico": [],
     "shinyMethyl": [
-        "minfi",
         "IlluminaHumanMethylation450kmanifest"
     ],
     "signatureSearch": [
         "ExperimentHub",
         "clusterProfiler",
-        "DOSE",
         "enrichplot"
     ],
     "signeR": [],
-    "SigsPack": [],
-    "simplifyEnrichment": [],
     "singleCellTK": [
         "celldex",
         "ExperimentHub",
@@ -1310,16 +955,12 @@
         "M3Drop"
     ],
     "SingleMoleculeFootprinting": [
-        "QuasR",
-        "GenomicFiles"
+        "QuasR"
     ],
-    "SISPA": [],
     "skewr": [
         "methylumi",
         "wateRmelon",
         "IlluminaHumanMethylation450kmanifest",
-        "minfi",
-        "FDb.InfiniumMethylation.hg19",
         "lumi",
         "IlluminaHumanMethylation450kanno.ilmn12.hg19"
     ],
@@ -1327,28 +968,22 @@
         "ScISI"
     ],
     "slinky": [],
-    "SMITE": [
-        "goseq"
-    ],
+    "SMITE": [],
     "snapCGH": [],
-    "SNPhood": [],
     "soGGi": [],
     "sojourner": [
         "sampSurf"
     ],
     "SomaticSignatures": [
-        "ggbio",
-        "biovizBase"
+        "ggbio"
     ],
     "spatialDE": [],
     "SpatialDecon": [],
-    "spatialHeatmap": [],
     "spatzie": [
         "GenomicInteractions",
         "motifmatchr",
         "TFBSTools",
-        "Gviz",
-        "biovizBase"
+        "Gviz"
     ],
     "SpectralTAD": [
         "HiCcompare"
@@ -1357,62 +992,44 @@
         "miRNAtap.db",
         "MAGeCKFlute",
         "clusterProfiler",
-        "enrichplot",
-        "DOSE"
+        "enrichplot"
     ],
     "spiky": [],
     "SPLINTER": [
-        "Gviz",
-        "biovizBase"
+        "Gviz"
     ],
-    "SPsimSeq": [],
     "srnadiff": [
-        "Gviz",
-        "biovizBase"
+        "Gviz"
     ],
     "STAN": [
-        "Gviz",
-        "biovizBase"
+        "Gviz"
     ],
-    "staRank": [
-        "cellHTS2"
-    ],
+    "staRank": [],
     "StarBioTrek": [
         "SpidermiR",
         "miRNAtap.db",
         "MAGeCKFlute",
         "clusterProfiler",
-        "enrichplot",
-        "DOSE"
+        "enrichplot"
     ],
-    "strandCheckR": [],
-    "StructuralVariantAnnotation": [],
     "SubCellBarCode": [],
     "supersigs": [],
-    "svaNUMT": [
-        "StructuralVariantAnnotation"
-    ],
-    "svaRetro": [
-        "StructuralVariantAnnotation"
-    ],
+    "svaNUMT": [],
+    "svaRetro": [],
     "SwathXtend": [],
     "synlet": [],
     "systemPipeShiny": [],
     "TADCompare": [
         "HiCcompare"
     ],
-    "TBSignatureProfiler": [
-        "ASSIGN"
-    ],
+    "TBSignatureProfiler": [],
     "TCGAbiolinksGUI": [
         "ELMER",
         "clusterProfiler",
         "sesame",
-        "DOSE",
         "enrichplot",
         "Gviz",
         "sesameData",
-        "biovizBase",
         "ExperimentHub"
     ],
     "TDARACNE": [
@@ -1426,24 +1043,17 @@
     "TFBSTools": [],
     "TimiRGeN": [
         "clusterProfiler",
-        "DOSE",
         "enrichplot"
     ],
     "TIN": [
         "aroma.affymetrix"
     ],
-    "TitanCNA": [],
-    "tLOH": [],
-    "TNBC.CMS": [],
     "tofsims": [
         "alsace"
     ],
-    "TPP": [],
     "trackViewer": [
-        "Gviz",
-        "biovizBase"
+        "Gviz"
     ],
-    "transcriptogramer": [],
     "transcriptR": [],
     "tRanslatome": [],
     "TraRe": [
@@ -1462,21 +1072,12 @@
     "TSRchitect": [],
     "ttgsea": [],
     "TVTB": [
-        "ensemblVEP",
-        "Gviz",
-        "biovizBase"
+        "Gviz"
     ],
     "tximeta": [],
-    "Ularcirc": [],
-    "UMI4Cats": [],
     "uncoverappLib": [
-        "Gviz",
-        "Homo.sapiens",
-        "EnsDb.Hsapiens.v75",
-        "EnsDb.Hsapiens.v86",
-        "biovizBase"
+        "Gviz"
     ],
-    "Uniquorn": [],
     "uSORT": [],
     "VAExprs": [
         "gradDescent",
@@ -1485,23 +1086,14 @@
     ],
     "VariantFiltering": [
         "GenomicScores",
-        "Gviz",
-        "biovizBase"
+        "Gviz"
     ],
-    "VariantTools": [],
-    "VaSP": [],
-    "VCFArray": [
-        "GenomicFiles"
-    ],
-    "VennDetail": [],
-    "ViSEAGO": [],
+    "VCFArray": [],
     "vissE": [
         "msigdb",
         "ExperimentHub"
     ],
-    "vtpnet": [
-        "gwascat"
-    ],
+    "vtpnet": [],
     "vulcan": [
         "ChIPpeakAnno",
         "DiffBind"
@@ -1509,21 +1101,15 @@
     "wateRmelon": [
         "methylumi",
         "lumi",
-        "IlluminaHumanMethylation450kanno.ilmn12.hg19",
-        "minfi",
-        "FDb.InfiniumMethylation.hg19"
+        "IlluminaHumanMethylation450kanno.ilmn12.hg19"
     ],
-    "webbioc": [],
-    "XDE": [],
     "XINA": [],
     "YAPSA": [
         "SomaticSignatures",
-        "ggbio",
-        "biovizBase"
+        "ggbio"
     ],
     "yarn": [
-        "quantro",
-        "minfi"
+        "quantro"
     ],
     "ABAData": [],
     "ffbase": [],
@@ -1533,7 +1119,6 @@
     "curatedTCGAData": [
         "ExperimentHub"
     ],
-    "Homo.sapiens": [],
     "MafDb.1Kgenomes.phase3.hs37d5": [
         "GenomicScores"
     ],
@@ -1543,39 +1128,22 @@
     "MafDb.gnomADex.r2.1.hs37d5": [
         "GenomicScores"
     ],
-    "COSMIC.67": [],
-    "PolyPhen.Hsapiens.dbSNP131": [],
-    "SIFT.Hsapiens.dbSNP137": [],
-    "FDb.InfiniumMethylation.hg19": [],
     "mGSZ": [],
-    "IlluminaHumanMethylation450kanno.ilmn12.hg19": [
-        "minfi"
-    ],
+    "IlluminaHumanMethylation450kanno.ilmn12.hg19": [],
     "cgdsr": [],
     "biscuiteerData": [
         "ExperimentHub"
     ],
-    "Mus.musculus": [],
     "GenomicState": [
-        "derfinder",
-        "GenomicFiles"
+        "derfinder"
     ],
     "iCluster": [],
-    "IlluminaHumanMethylationEPICmanifest": [
-        "minfi"
-    ],
-    "IlluminaHumanMethylation450kmanifest": [
-        "minfi"
-    ],
-    "IlluminaHumanMethylationEPICanno.ilm10b4.hg19": [
-        "minfi"
-    ],
+    "IlluminaHumanMethylationEPICmanifest": [],
+    "IlluminaHumanMethylation450kmanifest": [],
+    "IlluminaHumanMethylationEPICanno.ilm10b4.hg19": [],
     "ChIC.data": [],
     "colortools": [],
-    "EnsDb.Hsapiens.v86": [],
-    "IlluminaHumanMethylationEPICanno.ilm10b2.hg19": [
-        "minfi"
-    ],
+    "IlluminaHumanMethylationEPICanno.ilm10b2.hg19": [],
     "CombinePValue": [],
     "lasso2": [],
     "easierData": [
@@ -1594,14 +1162,11 @@
     "gptk": [],
     "orQA": [],
     "DiscriMiner": [],
-    "EnsDb.Hsapiens.v75": [],
     "muStat": [],
     "sesameData": [
         "ExperimentHub"
     ],
-    "FlowSorted.Blood.450k": [
-        "minfi"
-    ],
+    "FlowSorted.Blood.450k": [],
     "methylclockData": [
         "ExperimentHubData",
         "ExperimentHub",
