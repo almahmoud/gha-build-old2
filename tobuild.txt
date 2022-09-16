@@ -1,4 +1,3 @@
-ggspavis
 escape
 SigsPack
 strandCheckR
