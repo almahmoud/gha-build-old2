@@ -1085,15 +1085,9 @@
     "MouseFM": [
         "rlist"
     ],
-    "MsBackendMassbank": [
-        "Spectra"
-    ],
-    "MsBackendMgf": [
-        "Spectra"
-    ],
-    "MsBackendRawFileReader": [
-        "Spectra"
-    ],
+    "MsBackendMassbank": [],
+    "MsBackendMgf": [],
+    "MsBackendRawFileReader": [],
     "msgbsR": [],
     "MSGFgui": [
         "MSGFplus"
@@ -1786,7 +1780,6 @@
         "motifmatchr",
         "TFBSTools"
     ],
-    "Spectra": [],
     "SpectralTAD": [
         "HiCcompare",
         "snowfall"
