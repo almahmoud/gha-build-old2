@@ -1536,7 +1536,6 @@
     "PPInfer": [
         "sqldf"
     ],
-    "pqsfinder": [],
     "preciseTAD": [
         "ModelMetrics"
     ],
