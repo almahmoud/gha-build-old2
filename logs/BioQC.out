@@ -1,0 +1,25 @@
+* installing *source* package ‘BioQC’ ...
+** using staged installation
+** libs
+gcc -I"/usr/local/lib/R/include" -DNDEBUG `/usr/local/lib/R/bin/Rscript -e 'Rcpp:::CxxFlags()'` -I'/__w/gha-build/gha-build/built/Rcpp/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c gini.c -o gini.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG `/usr/local/lib/R/bin/Rscript -e 'Rcpp:::CxxFlags()'` -I'/__w/gha-build/gha-build/built/Rcpp/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c init.c -o init.o
+g++ -std=gnu++14 -I"/usr/local/lib/R/include" -DNDEBUG `/usr/local/lib/R/bin/Rscript -e 'Rcpp:::CxxFlags()'` -I'/__w/gha-build/gha-build/built/Rcpp/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c read_gmt.cpp -o read_gmt.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG `/usr/local/lib/R/bin/Rscript -e 'Rcpp:::CxxFlags()'` -I'/__w/gha-build/gha-build/built/Rcpp/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c stat_rank.c -o stat_rank.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG `/usr/local/lib/R/bin/Rscript -e 'Rcpp:::CxxFlags()'` -I'/__w/gha-build/gha-build/built/Rcpp/include' -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c wmw_test.c -o wmw_test.o
+g++ -std=gnu++14 -shared -L/usr/local/lib/R/lib -L/usr/local/lib -o BioQC.so gini.o init.o read_gmt.o stat_rank.o wmw_test.o -L/usr/local/lib/R/lib -lR
+installing to /__w/gha-build/gha-build/built/00LOCK-BioQC/00new/BioQC/libs
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+*** copying figures
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘BioQC’ as ‘BioQC_1.24.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (BioQC)
