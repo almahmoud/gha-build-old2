@@ -1,4 +1,3 @@
-structToolbox
 karyoploteR
 levi
 qcmetrics
