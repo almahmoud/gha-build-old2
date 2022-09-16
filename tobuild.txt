@@ -1,4 +1,3 @@
-spiky
 branchpointer
 TEKRABber
 clusterExperiment
