@@ -1,4 +1,3 @@
-CompoundDb
 animation
 methylInheritance
 edge
