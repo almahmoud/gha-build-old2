@@ -647,7 +647,6 @@
     "easyRNASeq": [
         "ShortRead"
     ],
-    "EBSeqHMM": [],
     "EDASeq": [
         "ShortRead"
     ],
