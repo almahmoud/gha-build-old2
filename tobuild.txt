@@ -1,4 +1,3 @@
-SigsPack
 strandCheckR
 ADAMgui
 cellity
