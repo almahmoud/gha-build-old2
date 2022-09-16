@@ -1,4 +1,7 @@
-Already up to date.
+Updating e0e0d10..e255ba3
+Fast-forward
+ lists/failed/netresponse | 5 ++++-
+ 1 file changed, 4 insertions(+), 1 deletion(-)
 ape/CITATION
 ape/DESCRIPTION
 ape/INDEX
