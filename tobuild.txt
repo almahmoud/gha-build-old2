@@ -1,5 +1,3 @@
-iCluster
-biodbMirbase
 terraTCGAdata
 COTAN
 networkBMA
