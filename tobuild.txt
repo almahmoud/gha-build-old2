@@ -1,4 +1,3 @@
-variancePartition
 padma
 SRAdb
 tractor.base
