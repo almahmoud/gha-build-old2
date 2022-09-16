@@ -1,4 +1,3 @@
-Rhisat2
 BgeeDB
 Ularcirc
 M3Drop
