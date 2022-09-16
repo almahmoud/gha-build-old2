@@ -18,7 +18,6 @@
     "adductomicsR": [
         "adductData",
         "ExperimentHub",
-        "interactiveDisplayBase",
         "prabclus"
     ],
     "affycoretools": [
@@ -42,8 +41,7 @@
     "alsace": [],
     "AMARETTO": [
         "curatedTCGAData",
-        "ExperimentHub",
-        "interactiveDisplayBase"
+        "ExperimentHub"
     ],
     "amplican": [
         "ShortRead"
@@ -64,22 +62,15 @@
     "annmap": [
         "RMySQL"
     ],
-    "AnnotationHub": [
-        "interactiveDisplayBase"
-    ],
-    "AnnotationHubData": [
-        "interactiveDisplayBase"
-    ],
-    "annotatr": [
-        "interactiveDisplayBase"
-    ],
+    "AnnotationHub": [],
+    "AnnotationHubData": [],
+    "annotatr": [],
     "APAlyzer": [],
     "appreci8R": [
         "MafDb.1Kgenomes.phase3.hs37d5",
         "MafDb.ExAC.r1.0.hs37d5",
         "MafDb.gnomADex.r2.1.hs37d5",
-        "GenomicScores",
-        "interactiveDisplayBase"
+        "GenomicScores"
     ],
     "ArrayExpress": [],
     "ArrayExpressHTS": [
@@ -95,8 +86,7 @@
     "ATACseqQC": [
         "ChIPpeakAnno",
         "GenomicScores",
-        "motifStack",
-        "interactiveDisplayBase"
+        "motifStack"
     ],
     "atena": [],
     "atSNP": [
@@ -151,8 +141,7 @@
     ],
     "BiocOncoTK": [
         "curatedTCGAData",
-        "ExperimentHub",
-        "interactiveDisplayBase"
+        "ExperimentHub"
     ],
     "BioMM": [
         "readbitmap"
@@ -172,13 +161,11 @@
         "dmrseq",
         "ExperimentHub",
         "annotatr",
-        "interactiveDisplayBase",
         "snowfall"
     ],
     "blacksheepr": [],
     "BloodGen3Module": [
-        "ExperimentHub",
-        "interactiveDisplayBase"
+        "ExperimentHub"
     ],
     "bnem": [
         "snowfall",
@@ -190,8 +177,7 @@
     ],
     "brainflowprobes": [
         "derfinderPlot",
-        "GenomicState",
-        "interactiveDisplayBase"
+        "GenomicState"
     ],
     "branchpointer": [
         "ModelMetrics"
@@ -295,8 +281,7 @@
         "missMethyl",
         "ExperimentHub",
         "DSS",
-        "IlluminaHumanMethylation450kanno.ilmn12.hg19",
-        "interactiveDisplayBase"
+        "IlluminaHumanMethylation450kanno.ilmn12.hg19"
     ],
     "ChIC": [
         "spp",
@@ -340,9 +325,7 @@
     "cicero": [],
     "CIMICE": [],
     "CINdex": [],
-    "circRNAprofiler": [
-        "interactiveDisplayBase"
-    ],
+    "circRNAprofiler": [],
     "CiteFuse": [
         "uwot",
         "scran",
@@ -431,13 +414,10 @@
         "TSCAN"
     ],
     "cTRAP": [
-        "interactiveDisplayBase",
         "rlist"
     ],
     "cummeRbund": [],
-    "customCMPdb": [
-        "interactiveDisplayBase"
-    ],
+    "customCMPdb": [],
     "cyanoFilter": [
         "flowDensity",
         "mrfDepth",
@@ -563,12 +543,10 @@
         "DSS",
         "missMethyl",
         "IlluminaHumanMethylation450kanno.ilmn12.hg19",
-        "IlluminaHumanMethylation450kmanifest",
-        "interactiveDisplayBase"
+        "IlluminaHumanMethylation450kmanifest"
     ],
     "dmrseq": [
-        "annotatr",
-        "interactiveDisplayBase"
+        "annotatr"
     ],
     "DNABarcodeCompatibility": [],
     "DropletUtils": [
@@ -582,8 +560,7 @@
         "progeny",
         "easierData",
         "ROCR",
-        "ExperimentHub",
-        "interactiveDisplayBase"
+        "ExperimentHub"
     ],
     "easyRNASeq": [
         "ShortRead"
@@ -611,8 +588,7 @@
         "IlluminaHumanMethylation450kanno.ilmn12.hg19"
     ],
     "ENmix": [
-        "ExperimentHub",
-        "interactiveDisplayBase"
+        "ExperimentHub"
     ],
     "enrichTF": [
         "motifmatchr",
@@ -648,16 +624,12 @@
     ],
     "EWCE": [
         "ewceData",
-        "ExperimentHub",
-        "interactiveDisplayBase"
+        "ExperimentHub"
     ],
-    "ExperimentHub": [
-        "interactiveDisplayBase"
-    ],
+    "ExperimentHub": [],
     "ExperimentHubData": [
         "AnnotationHubData",
-        "ExperimentHub",
-        "interactiveDisplayBase"
+        "ExperimentHub"
     ],
     "ExperimentSubset": [
         "SpatialExperiment",
@@ -767,9 +739,7 @@
     ],
     "GenomicInteractions": [],
     "GenomicOZone": [],
-    "GenomicScores": [
-        "interactiveDisplayBase"
-    ],
+    "GenomicScores": [],
     "genphen": [
         "rstan",
         "StanHeaders"
@@ -822,8 +792,7 @@
     "GSCA": [],
     "gscreend": [],
     "GSEABenchmarkeR": [
-        "ExperimentHub",
-        "interactiveDisplayBase"
+        "ExperimentHub"
     ],
     "GSEAmining": [
         "tokenizers"
@@ -843,9 +812,7 @@
     "GWAS.BAYES": [
         "ModelMetrics"
     ],
-    "gwascat": [
-        "interactiveDisplayBase"
-    ],
+    "gwascat": [],
     "GWENA": [
         "NetRep",
         "rlist"
@@ -856,9 +823,7 @@
     "HiCDCPlus": [
         "GenomicInteractions"
     ],
-    "hipathia": [
-        "interactiveDisplayBase"
-    ],
+    "hipathia": [],
     "HIREewas": [],
     "HPiP": [
         "ModelMetrics"
@@ -903,10 +868,7 @@
     ],
     "Informeasure": [],
     "intansv": [],
-    "interactiveDisplay": [
-        "interactiveDisplayBase"
-    ],
-    "interactiveDisplayBase": [],
+    "interactiveDisplay": [],
     "IntEREst": [
         "RMySQL"
     ],
@@ -917,9 +879,7 @@
         "ShortRead"
     ],
     "iPath": [],
-    "ipdDb": [
-        "interactiveDisplayBase"
-    ],
+    "ipdDb": [],
     "IPO": [
         "xcms",
         "rsm"
@@ -938,8 +898,7 @@
     "ISAnalytics": [],
     "iSEEu": [],
     "IsoformSwitchAnalyzeR": [
-        "tximeta",
-        "interactiveDisplayBase"
+        "tximeta"
     ],
     "IsoGeneGUI": [
         "IsoGene",
@@ -988,8 +947,7 @@
         "motifStack"
     ],
     "LRcell": [
-        "ExperimentHub",
-        "interactiveDisplayBase"
+        "ExperimentHub"
     ],
     "M3Drop": [
         "rstan",
@@ -997,7 +955,6 @@
     ],
     "m6Aboost": [
         "ExperimentHub",
-        "interactiveDisplayBase",
         "ModelMetrics"
     ],
     "Maaslin2": [
@@ -1008,8 +965,7 @@
     ],
     "MACSQuantifyR": [],
     "MACSr": [
-        "ExperimentHub",
-        "interactiveDisplayBase"
+        "ExperimentHub"
     ],
     "made4": [],
     "MAGAR": [
@@ -1057,9 +1013,7 @@
     "Melissa": [
         "ROCR"
     ],
-    "meshes": [
-        "interactiveDisplayBase"
-    ],
+    "meshes": [],
     "Metab": [
         "xcms"
     ],
@@ -1102,8 +1056,7 @@
     ],
     "MethReg": [
         "sesameData",
-        "ExperimentHub",
-        "interactiveDisplayBase"
+        "ExperimentHub"
     ],
     "MethTargetedNGS": [],
     "MethylAid": [],
@@ -1116,7 +1069,6 @@
         "ExperimentHub",
         "tidyverse",
         "ExperimentHubData",
-        "interactiveDisplayBase",
         "AnnotationHubData"
     ],
     "methylGSA": [
@@ -1254,8 +1206,7 @@
     ],
     "msmsTests": [],
     "MSnID": [
-        "msmsTests",
-        "interactiveDisplayBase"
+        "msmsTests"
     ],
     "MSPrep": [
         "VIM"
@@ -1315,8 +1266,7 @@
         "ATACseqQC",
         "ChIPpeakAnno",
         "GenomicScores",
-        "motifStack",
-        "interactiveDisplayBase"
+        "motifStack"
     ],
     "NanoMethViz": [],
     "nanotatoR": [
@@ -1387,7 +1337,6 @@
     ],
     "NxtIRFcore": [
         "NxtIRFdata",
-        "interactiveDisplayBase",
         "ExperimentHub"
     ],
     "ODER": [],
@@ -1403,9 +1352,7 @@
         "prabclus"
     ],
     "oneSENSE": [],
-    "ontoProc": [
-        "interactiveDisplayBase"
-    ],
+    "ontoProc": [],
     "openCyto": [
         "plot3D"
     ],
@@ -1468,8 +1415,7 @@
     "PhIPData": [],
     "PhosR": [],
     "PhyloProfile": [
-        "ExperimentHub",
-        "interactiveDisplayBase"
+        "ExperimentHub"
     ],
     "Pi": [
         "ROCR",
@@ -1500,8 +1446,7 @@
         "rlist"
     ],
     "pogos": [
-        "ontoProc",
-        "interactiveDisplayBase"
+        "ontoProc"
     ],
     "POMA": [
         "ModelMetrics",
@@ -1524,8 +1469,7 @@
     "primirTSS": [
         "phastCons100way.UCSC.hg38",
         "GenomicScores",
-        "TFBSTools",
-        "interactiveDisplayBase"
+        "TFBSTools"
     ],
     "proFIA": [
         "xcms"
@@ -1556,11 +1500,9 @@
         "missMDA"
     ],
     "ProteomicsAnnotationHubData": [
-        "AnnotationHubData",
-        "interactiveDisplayBase"
+        "AnnotationHubData"
     ],
     "psichomics": [
-        "interactiveDisplayBase",
         "rlist"
     ],
     "pulsedSilac": [
@@ -1569,13 +1511,11 @@
     "puma": [],
     "pwOmics": [
         "rBiopaxParser",
-        "interactiveDisplayBase",
         "sqldf"
     ],
     "pwrEWAS": [
         "pwrEWAS.data",
-        "ExperimentHub",
-        "interactiveDisplayBase"
+        "ExperimentHub"
     ],
     "qcmetrics": [],
     "QDNAseq": [
@@ -1608,8 +1548,7 @@
     ],
     "RareVariantVis": [
         "phastCons100way.UCSC.hg19",
-        "GenomicScores",
-        "interactiveDisplayBase"
+        "GenomicScores"
     ],
     "Rbec": [
         "ShortRead"
@@ -1638,23 +1577,18 @@
     "regionReport": [
         "RefManageR"
     ],
-    "regutools": [
-        "interactiveDisplayBase"
-    ],
+    "regutools": [],
     "REMP": [
-        "interactiveDisplayBase",
         "ModelMetrics"
     ],
     "ReportingTools": [],
     "restfulSE": [
-        "ExperimentHub",
-        "interactiveDisplayBase"
+        "ExperimentHub"
     ],
     "RGalaxy": [],
     "rGenomeTracks": [
         "rGenomeTracksData",
-        "readbitmap",
-        "interactiveDisplayBase"
+        "readbitmap"
     ],
     "Rgin": [],
     "RiboCrypt": [],
@@ -1686,7 +1620,6 @@
     "RLSeq": [
         "valr",
         "RLHub",
-        "interactiveDisplayBase",
         "ExperimentHub",
         "ModelMetrics"
     ],
@@ -1762,21 +1695,18 @@
     "scanMiR": [],
     "scanMiRApp": [
         "scanMiR",
-        "scanMiRData",
-        "interactiveDisplayBase"
+        "scanMiRData"
     ],
     "scAnnotatR": [
         "Seurat",
         "ROCR",
-        "interactiveDisplayBase",
         "ModelMetrics",
         "uwot"
     ],
     "SCANVIS": [],
     "SCATE": [
         "SCATEData",
-        "ExperimentHub",
-        "interactiveDisplayBase"
+        "ExperimentHub"
     ],
     "scater": [
         "scuttle"
@@ -1837,8 +1767,7 @@
         "StanHeaders"
     ],
     "scmeth": [
-        "annotatr",
-        "interactiveDisplayBase"
+        "annotatr"
     ],
     "SCnorm": [],
     "scone": [
@@ -1868,7 +1797,6 @@
     "scry": [],
     "scTensor": [
         "ReactomePA",
-        "interactiveDisplayBase",
         "plot3D",
         "Seurat",
         "ROCR",
@@ -1899,13 +1827,11 @@
     "seqCNA": [],
     "seqsetvis": [],
     "SeqSQC": [
-        "ExperimentHub",
-        "interactiveDisplayBase"
+        "ExperimentHub"
     ],
     "sesame": [
         "sesameData",
-        "ExperimentHub",
-        "interactiveDisplayBase"
+        "ExperimentHub"
     ],
     "sevenC": [],
     "SharedObject": [],
@@ -1921,8 +1847,7 @@
     ],
     "signatureSearch": [
         "ExperimentHub",
-        "clusterProfiler",
-        "interactiveDisplayBase"
+        "clusterProfiler"
     ],
     "signeR": [
         "Rmpfr"
@@ -1953,7 +1878,6 @@
         "uwot",
         "MCMCprecision",
         "M3Drop",
-        "interactiveDisplayBase",
         "rstan",
         "StanHeaders"
     ],
@@ -2090,8 +2014,7 @@
         "sesame",
         "ModelMetrics",
         "sesameData",
-        "ExperimentHub",
-        "interactiveDisplayBase"
+        "ExperimentHub"
     ],
     "TDARACNE": [
         "GenKern"
@@ -2099,8 +2022,7 @@
     "tenXplore": [
         "restfulSE",
         "ontoProc",
-        "ExperimentHub",
-        "interactiveDisplayBase"
+        "ExperimentHub"
     ],
     "TEQC": [],
     "ternarynet": [],
@@ -2161,21 +2083,15 @@
         "cgdsr"
     ],
     "TSCAN": [],
-    "TSRchitect": [
-        "interactiveDisplayBase"
-    ],
+    "TSRchitect": [],
     "ttgsea": [
         "tm",
         "tokenizers",
         "stopwords",
         "sylly.en"
     ],
-    "tximeta": [
-        "interactiveDisplayBase"
-    ],
-    "Ularcirc": [
-        "interactiveDisplayBase"
-    ],
+    "tximeta": [],
+    "Ularcirc": [],
     "UMI4Cats": [
         "ShortRead",
         "plot3D"
@@ -2204,8 +2120,7 @@
     "VanillaICE": [],
     "VariantExperiment": [],
     "VariantFiltering": [
-        "GenomicScores",
-        "interactiveDisplayBase"
+        "GenomicScores"
     ],
     "velociraptor": [
         "scuttle"
@@ -2214,14 +2129,11 @@
         "tm",
         "msigdb",
         "ExperimentHub",
-        "interactiveDisplayBase",
         "sylly.en",
         "stopwords"
     ],
     "VplotR": [],
-    "vtpnet": [
-        "interactiveDisplayBase"
-    ],
+    "vtpnet": [],
     "vulcan": [
         "ChIPpeakAnno",
         "DiffBind",
@@ -2251,8 +2163,7 @@
     "snowfall": [],
     "ffbase": [],
     "adductData": [
-        "ExperimentHub",
-        "interactiveDisplayBase"
+        "ExperimentHub"
     ],
     "fpc": [
         "prabclus"
@@ -2261,8 +2172,7 @@
     "optimx": [],
     "speaq": [],
     "curatedTCGAData": [
-        "ExperimentHub",
-        "interactiveDisplayBase"
+        "ExperimentHub"
     ],
     "ReorderCluster": [],
     "caret": [
@@ -2275,16 +2185,13 @@
     "rex": [],
     "RMySQL": [],
     "MafDb.1Kgenomes.phase3.hs37d5": [
-        "GenomicScores",
-        "interactiveDisplayBase"
+        "GenomicScores"
     ],
     "MafDb.ExAC.r1.0.hs37d5": [
-        "GenomicScores",
-        "interactiveDisplayBase"
+        "GenomicScores"
     ],
     "MafDb.gnomADex.r2.1.hs37d5": [
-        "GenomicScores",
-        "interactiveDisplayBase"
+        "GenomicScores"
     ],
     "DRaWR": [
         "ROCR"
@@ -2333,12 +2240,9 @@
         "ROCR"
     ],
     "biscuiteerData": [
-        "ExperimentHub",
-        "interactiveDisplayBase"
+        "ExperimentHub"
     ],
-    "GenomicState": [
-        "interactiveDisplayBase"
-    ],
+    "GenomicState": [],
     "iCluster": [],
     "sqldf": [],
     "ks": [
@@ -2428,14 +2332,12 @@
     "lasso2": [],
     "swamp": [],
     "easierData": [
-        "ExperimentHub",
-        "interactiveDisplayBase"
+        "ExperimentHub"
     ],
     "jackstraw": [],
     "EntropyExplorer": [],
     "ewceData": [
-        "ExperimentHub",
-        "interactiveDisplayBase"
+        "ExperimentHub"
     ],
     "MPINet": [],
     "SPARQL": [],
@@ -2479,14 +2381,12 @@
     "rmio": [],
     "muStat": [],
     "sesameData": [
-        "ExperimentHub",
-        "interactiveDisplayBase"
+        "ExperimentHub"
     ],
     "methylclockData": [
         "ExperimentHubData",
         "ExperimentHub",
-        "AnnotationHubData",
-        "interactiveDisplayBase"
+        "AnnotationHubData"
     ],
     "rebus": [
         "rebus.numbers",
@@ -2503,8 +2403,7 @@
     "longitudinal": [],
     "dmt": [],
     "NxtIRFdata": [
-        "ExperimentHub",
-        "interactiveDisplayBase"
+        "ExperimentHub"
     ],
     "summarytools": [],
     "FindMyFriends": [],
@@ -2516,32 +2415,26 @@
     ],
     "R.rsp": [],
     "phastCons100way.UCSC.hg38": [
-        "GenomicScores",
-        "interactiveDisplayBase"
+        "GenomicScores"
     ],
     "taRifx": [],
     "pwrEWAS.data": [
-        "ExperimentHub",
-        "interactiveDisplayBase"
+        "ExperimentHub"
     ],
     "ExtDist": [
         "optimx"
     ],
     "phastCons100way.UCSC.hg19": [
-        "GenomicScores",
-        "interactiveDisplayBase"
+        "GenomicScores"
     ],
     "RefManageR": [],
-    "rGenomeTracksData": [
-        "interactiveDisplayBase"
-    ],
+    "rGenomeTracksData": [],
     "valr": [],
     "caretEnsemble": [
         "ModelMetrics"
     ],
     "RLHub": [
-        "ExperimentHub",
-        "interactiveDisplayBase"
+        "ExperimentHub"
     ],
     "systemPipeRdata": [
         "ShortRead"
@@ -2550,8 +2443,7 @@
         "scanMiR"
     ],
     "SCATEData": [
-        "ExperimentHub",
-        "interactiveDisplayBase"
+        "ExperimentHub"
     ],
     "extRemes": [],
     "sparsepca": [],
@@ -2562,16 +2454,13 @@
         "Rmpfr"
     ],
     "celldex": [
-        "ExperimentHub",
-        "interactiveDisplayBase"
+        "ExperimentHub"
     ],
     "scRNAseq": [
-        "ExperimentHub",
-        "interactiveDisplayBase"
+        "ExperimentHub"
     ],
     "TENxPBMCData": [
-        "ExperimentHub",
-        "interactiveDisplayBase"
+        "ExperimentHub"
     ],
     "ScISI": [],
     "sampSurf": [],
@@ -2591,7 +2480,6 @@
     "RPostgreSQL": [],
     "gradDescent": [],
     "msigdb": [
-        "ExperimentHub",
-        "interactiveDisplayBase"
+        "ExperimentHub"
     ]
 }
