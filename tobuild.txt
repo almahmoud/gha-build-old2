@@ -1,4 +1,3 @@
-MADSEQ
 autonomics
 DSS
 synlet
