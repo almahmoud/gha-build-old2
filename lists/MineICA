@@ -1,4 +1,8 @@
-Already up to date.
+Updating ad1f5a9..bf53004
+Fast-forward
+ lists/doMC    | 144 +---------------------------------------------------------
+ packages.json |   5 +-
+ 2 files changed, 2 insertions(+), 147 deletions(-)
 affy/CITATION
 affy/DESCRIPTION
 affy/INDEX
