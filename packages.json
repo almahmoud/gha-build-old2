@@ -1222,9 +1222,7 @@
         "scuttle"
     ],
     "networkBMA": [],
-    "NewWave": [
-        "SharedObject"
-    ],
+    "NewWave": [],
     "ngsReports": [],
     "nondetects": [
         "HTqPCR"
@@ -1704,7 +1702,6 @@
         "ExperimentHub"
     ],
     "sevenC": [],
-    "SharedObject": [],
     "shinyepico": [],
     "shinyMethyl": [
         "IlluminaHumanMethylation450kmanifest"
