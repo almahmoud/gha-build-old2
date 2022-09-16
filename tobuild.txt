@@ -1,4 +1,3 @@
-SICtools
 biomvRCNS
 TargetDecoy
 PhIPData
