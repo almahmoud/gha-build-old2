@@ -352,9 +352,7 @@
         "karyoploteR",
         "CopyNumberPlots"
     ],
-    "COCOA": [
-        "MIRA"
-    ],
+    "COCOA": [],
     "COHCAP": [],
     "coMET": [
         "colortools"
@@ -1123,7 +1121,6 @@
     ],
     "minet": [],
     "MinimumDistance": [],
-    "MIRA": [],
     "miRNAtap": [
         "sqldf"
     ],
