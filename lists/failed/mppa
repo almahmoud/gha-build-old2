@@ -1,4 +1,5 @@
-Updating 1e8e670..04d88f3
+Updating 6498422..437f169
 Fast-forward
- logs/run_ids/pRoloc | 1 +
- 1 file changed, 1 insertion(+)
+ logs/run_ids/MineICA | 2 ++
+ 1 file changed, 2 insertions(+)
+ create mode 100644 logs/run_ids/MineICA
