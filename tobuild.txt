@@ -1,4 +1,3 @@
-progeny
 ClassifyR
 AllelicImbalance
 massiR
