@@ -39,8 +39,7 @@
         "GenomicScores"
     ],
     "arrayMvout": [
-        "lumi",
-        "methylumi"
+        "lumi"
     ],
     "ASpediaFI": [
         "Gviz",
@@ -58,12 +57,10 @@
     "BayesSpace": [],
     "benchdamic": [
         "ffpe",
-        "lumi",
-        "methylumi"
+        "lumi"
     ],
     "bigmelon": [
         "wateRmelon",
-        "methylumi",
         "lumi",
         "IlluminaHumanMethylation450kanno.ilmn12.hg19"
     ],
@@ -149,7 +146,6 @@
         "DSS",
         "Gviz",
         "IlluminaHumanMethylation450kanno.ilmn12.hg19",
-        "methylumi",
         "lumi"
     ],
     "ChIC": [
@@ -282,8 +278,7 @@
         "IlluminaHumanMethylation450kanno.ilmn12.hg19",
         "IlluminaHumanMethylationEPICanno.ilm10b4.hg19",
         "IlluminaHumanMethylation450kmanifest",
-        "IlluminaHumanMethylationEPICmanifest",
-        "methylumi"
+        "IlluminaHumanMethylationEPICmanifest"
     ],
     "DMRforPairs": [
         "Gviz"
@@ -368,8 +363,7 @@
     ],
     "FEAST": [],
     "ffpe": [
-        "lumi",
-        "methylumi"
+        "lumi"
     ],
     "flowBin": [],
     "flowCL": [
@@ -448,8 +442,7 @@
         "biocthis"
     ],
     "iCheck": [
-        "lumi",
-        "methylumi"
+        "lumi"
     ],
     "ideal": [],
     "imageHTS": [],
@@ -488,9 +481,7 @@
     "LRcell": [
         "ExperimentHub"
     ],
-    "lumi": [
-        "methylumi"
-    ],
+    "lumi": [],
     "M3Drop": [],
     "m6Aboost": [
         "ExperimentHub"
@@ -500,8 +491,7 @@
         "ExperimentHub"
     ],
     "MAGAR": [
-        "RnBeads",
-        "methylumi"
+        "RnBeads"
     ],
     "MAGeCKFlute": [
         "clusterProfiler",
@@ -525,12 +515,10 @@
         "IlluminaHumanMethylation450kanno.ilmn12.hg19",
         "IlluminaHumanMethylationEPICanno.ilm10b4.hg19",
         "IlluminaHumanMethylation450kmanifest",
-        "IlluminaHumanMethylationEPICmanifest",
-        "methylumi"
+        "IlluminaHumanMethylationEPICmanifest"
     ],
     "MEAT": [
         "wateRmelon",
-        "methylumi",
         "lumi",
         "IlluminaHumanMethylation450kanno.ilmn12.hg19"
     ],
@@ -576,14 +564,12 @@
         "IlluminaHumanMethylationEPICanno.ilm10b4.hg19",
         "enrichplot",
         "IlluminaHumanMethylation450kmanifest",
-        "IlluminaHumanMethylationEPICmanifest",
-        "methylumi"
+        "IlluminaHumanMethylationEPICmanifest"
     ],
     "methylInheritance": [],
     "methylSig": [
         "DSS"
     ],
-    "methylumi": [],
     "microbiomeMarker": [],
     "MicrobiomeProfiler": [
         "clusterProfiler",
@@ -591,8 +577,7 @@
     ],
     "MIGSA": [],
     "MineICA": [
-        "lumi",
-        "methylumi"
+        "lumi"
     ],
     "MIRA": [],
     "miRLAB": [],
@@ -611,8 +596,7 @@
         "IlluminaHumanMethylation450kanno.ilmn12.hg19",
         "IlluminaHumanMethylationEPICanno.ilm10b4.hg19",
         "IlluminaHumanMethylation450kmanifest",
-        "IlluminaHumanMethylationEPICmanifest",
-        "methylumi"
+        "IlluminaHumanMethylationEPICmanifest"
     ],
     "MLSeq": [],
     "MMAPPR2": [],
@@ -841,9 +825,7 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "RnBeads": [
-        "methylumi"
-    ],
+    "RnBeads": [],
     "RTNduals": [],
     "RTNsurvival": [
         "RTNduals"
@@ -916,7 +898,6 @@
         "QuasR"
     ],
     "skewr": [
-        "methylumi",
         "wateRmelon",
         "IlluminaHumanMethylation450kmanifest",
         "lumi",
@@ -1055,7 +1036,6 @@
         "DiffBind"
     ],
     "wateRmelon": [
-        "methylumi",
         "lumi",
         "IlluminaHumanMethylation450kanno.ilmn12.hg19"
     ],
