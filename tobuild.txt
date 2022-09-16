@@ -1,4 +1,3 @@
-DOSE
 RiboCrypt
 StructuralVariantAnnotation
 ttgsea
