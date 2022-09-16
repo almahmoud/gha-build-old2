@@ -1,38 +1,3 @@
-Already up to date.
-BufferedMatrix/DESCRIPTION
-BufferedMatrix/INDEX
-BufferedMatrix/Meta/
-BufferedMatrix/Meta/Rd.rds
-BufferedMatrix/Meta/features.rds
-BufferedMatrix/Meta/hsearch.rds
-BufferedMatrix/Meta/links.rds
-BufferedMatrix/Meta/nsInfo.rds
-BufferedMatrix/Meta/package.rds
-BufferedMatrix/Meta/vignette.rds
-BufferedMatrix/NAMESPACE
-BufferedMatrix/R/
-BufferedMatrix/R/BufferedMatrix
-BufferedMatrix/R/BufferedMatrix.rdb
-BufferedMatrix/R/BufferedMatrix.rdx
-BufferedMatrix/doc/
-BufferedMatrix/doc/BufferedMatrix.R
-BufferedMatrix/doc/BufferedMatrix.Rnw
-BufferedMatrix/doc/BufferedMatrix.pdf
-BufferedMatrix/doc/index.html
-BufferedMatrix/help/
-BufferedMatrix/help/AnIndex
-BufferedMatrix/help/BufferedMatrix.rdb
-BufferedMatrix/help/BufferedMatrix.rdx
-BufferedMatrix/help/aliases.rds
-BufferedMatrix/help/paths.rds
-BufferedMatrix/html/
-BufferedMatrix/html/00Index.html
-BufferedMatrix/html/R.css
-BufferedMatrix/include/
-BufferedMatrix/include/doubleBufferedMatrix.h
-BufferedMatrix/include/doubleBufferedMatrix_stubs.c
-BufferedMatrix/libs/
-BufferedMatrix/libs/BufferedMatrix.so
 * installing *source* package ‘BufferedMatrixMethods’ ...
 ** using staged installation
 ** libs
