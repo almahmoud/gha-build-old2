@@ -1,5 +1,3 @@
-mrfDepth
-debCAM
 methylKit
 ffbase
 ChIPXpressData
