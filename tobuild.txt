@@ -1,4 +1,3 @@
-GenomicInteractionNodes
 RVenn
 scde
 methylSig
