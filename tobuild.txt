@@ -1,4 +1,3 @@
-LineagePulse
 MCMCprecision
 networkBMA
 CellScore
