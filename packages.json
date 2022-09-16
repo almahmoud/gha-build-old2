@@ -641,7 +641,6 @@
     "flowStats": [
         "plot3D"
     ],
-    "flowTime": [],
     "flowTrans": [],
     "flowVS": [
         "plot3D"
@@ -1487,7 +1486,6 @@
         "readbitmap"
     ],
     "Rgin": [],
-    "RiboCrypt": [],
     "RiboDiPA": [
         "rstan"
     ],
@@ -1826,7 +1824,6 @@
         "longitudinal"
     ],
     "splots": [],
-    "SQLDataFrame": [],
     "sRACIPE": [],
     "ssPATHS": [
         "ROCR"
