@@ -1,4 +1,3 @@
-RnBeads
 MBASED
 iSEEu
 sparsebn
