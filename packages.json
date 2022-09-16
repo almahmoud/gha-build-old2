@@ -561,7 +561,6 @@
         "systemPipeR",
         "mixsqp"
     ],
-    "ChIPseeker": [],
     "chipseq": [
         "ShortRead"
     ],
@@ -1152,7 +1151,6 @@
     "ERSSA": [],
     "esATAC": [
         "ShortRead",
-        "ChIPseeker",
         "clusterProfiler",
         "R.utils",
         "TFBSTools",
@@ -2725,7 +2723,6 @@
     "profileplyr": [
         "soGGi",
         "R.utils",
-        "ChIPseeker",
         "ShortRead"
     ],
     "progeny": [],
@@ -3284,9 +3281,7 @@
     "scuttle": [],
     "SDAMS": [],
     "sechm": [],
-    "segmenter": [
-        "ChIPseeker"
-    ],
+    "segmenter": [],
     "segmentSeq": [
         "ShortRead"
     ],
