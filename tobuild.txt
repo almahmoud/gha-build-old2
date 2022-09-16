@@ -1,4 +1,3 @@
-RVS
 MSGFplus
 tokenizers
 SCnorm
