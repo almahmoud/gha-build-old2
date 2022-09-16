@@ -331,7 +331,6 @@
     "CONFESS": [
         "readbitmap"
     ],
-    "consensus": [],
     "consensusDE": [
         "EDASeq",
         "RUVSeq"
