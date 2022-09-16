@@ -1,0 +1,18 @@
+* installing *source* package ‘flowUtils’ ...
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+No methods found in package ‘flowCore’ for requests: ‘action’, ‘assign’, ‘Data’, ‘gate’, ‘tree’ when loading ‘flowUtils’
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+No methods found in package ‘flowCore’ for requests: ‘action’, ‘assign’, ‘Data’, ‘gate’, ‘tree’ when loading ‘flowUtils’
+** testing if installed package can be loaded from final location
+No methods found in package ‘flowCore’ for requests: ‘action’, ‘assign’, ‘Data’, ‘gate’, ‘tree’ when loading ‘flowUtils’
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘flowUtils’ as ‘flowUtils_1.59.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (flowUtils)
