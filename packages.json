@@ -133,7 +133,6 @@
     "BioMM": [
         "readbitmap"
     ],
-    "biomvRCNS": [],
     "BioNERO": [
         "NetRep",
         "minet"
