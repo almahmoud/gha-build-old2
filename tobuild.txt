@@ -1,4 +1,3 @@
-dagLogo
 MACPET
 Linnorm
 IntEREst
