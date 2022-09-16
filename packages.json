@@ -1203,8 +1203,7 @@
         "mlr3tuning",
         "paradox",
         "mlr3measures",
-        "mlr3misc",
-        "palmerpenguins"
+        "mlr3misc"
     ],
     "signatureSearch": [
         "ExperimentHub",
@@ -1604,29 +1603,25 @@
     "mlr3": [
         "mlr3measures",
         "mlr3misc",
-        "palmerpenguins",
         "paradox"
     ],
     "mlr3learners": [
         "mlr3",
         "mlr3misc",
         "paradox",
-        "mlr3measures",
-        "palmerpenguins"
+        "mlr3measures"
     ],
     "mlr3tuning": [
         "mlr3",
         "paradox",
         "mlr3misc",
-        "mlr3measures",
-        "palmerpenguins"
+        "mlr3measures"
     ],
     "paradox": [
         "mlr3misc"
     ],
     "mlr3measures": [],
     "mlr3misc": [],
-    "palmerpenguins": [],
     "bbotk": [
         "paradox",
         "mlr3misc"
