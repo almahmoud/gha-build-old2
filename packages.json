@@ -466,9 +466,7 @@
         "lumi",
         "methylumi"
     ],
-    "ideal": [
-        "pcaExplorer"
-    ],
+    "ideal": [],
     "imageHTS": [],
     "imcRtools": [],
     "IMMAN": [],
@@ -718,7 +716,6 @@
     "PanVizGenerator": [
         "FindMyFriends"
     ],
-    "pcaExplorer": [],
     "PDATK": [],
     "PeacoQC": [],
     "PECA": [
@@ -780,7 +777,6 @@
         "recount",
         "derfinder"
     ],
-    "psygenet2r": [],
     "pulsedSilac": [
         "taRifx"
     ],
@@ -794,7 +790,6 @@
     ],
     "qpgraph": [],
     "qrqc": [],
-    "quantro": [],
     "QuartPAC": [],
     "QuasR": [],
     "R3CPET": [
@@ -1108,9 +1103,7 @@
         "SomaticSignatures",
         "ggbio"
     ],
-    "yarn": [
-        "quantro"
-    ],
+    "yarn": [],
     "ABAData": [],
     "ffbase": [],
     "adductData": [
