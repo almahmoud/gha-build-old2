@@ -1,11 +1,3 @@
-maPredictDSC
-GenomicScores
-FEAST
-tRanslatome
-R453Plus1Toolbox
-SpatialDecon
-AnVIL
-artMS
 ensemblVEP
 hipathia
 fCI
