@@ -1,4 +1,3 @@
-BioTIP
 DiscriMiner
 variancePartition
 padma
