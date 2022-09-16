@@ -1,11 +1,3 @@
-customProDB
-DiscoRhythm
-GISPA
-fastLiquidAssociation
-TFBSTools
-IntramiRExploreR
-RcisTarget
-Rbec
 Rcpi
 TPP
 GateFinder
