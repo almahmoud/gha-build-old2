@@ -1,5 +1,3 @@
-metabCombiner
-a4Base
 ChIC.data
 CombinePValue
 UMI4Cats
