@@ -1,4 +1,3 @@
-VariantExperiment
 ASpli
 GeneOverlap
 MethTargetedNGS
