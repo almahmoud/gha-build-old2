@@ -1,5 +1,3 @@
-XINA
-rdist
 MetBrewer
 microbiomeDASim
 CytoGLMM
