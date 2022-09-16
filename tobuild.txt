@@ -1,4 +1,3 @@
-ReactomeGSA
 GenomicDistributions
 xcms
 CancerInSilico
