@@ -1,4 +1,3 @@
-gwascat
 Cogito
 metabCombiner
 a4Base
