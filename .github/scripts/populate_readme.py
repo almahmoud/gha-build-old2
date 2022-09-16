@@ -40,9 +40,10 @@ for pkg in list(pkgs):
 headers = ["Package", "Status", "Tarball"]
 failedheaders = ["Package", "Status", "Log"]
 with open("README.md", "w") as f:
-    f.write("## Failed\n")
+    f.write(f"# Summary\n{len(tables['Succeeded'])} built packages\n{len(tables['Failed'])} failed packages\n{len(tables['Unclaimed'])} unclaimed packages\n")
+    f.write(f"\n\n## Failed ({len(tables['Failed'])})\n")
     f.write(tabulate(tables["Failed"], failedheaders, tablefmt="github"))
-    f.write("\n\n## Succeeded\n")
+    f.write(f"\n\n## Succeeded ({len(tables['Succeeded'])})\n")
     f.write(tabulate(tables["Succeeded"], headers, tablefmt="github"))
-    f.write("\n\n## Unclaimed\n")
+    f.write(f"\n\n## Unclaimed ({len(tables['Unclaimed'])})\n")
     f.write(tabulate(tables["Unclaimed"], headers, tablefmt="github"))
