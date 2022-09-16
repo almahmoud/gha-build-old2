@@ -387,7 +387,6 @@
         "karyoploteR",
         "CopyNumberPlots"
     ],
-    "CNVRanger": [],
     "COCOA": [
         "MIRA"
     ],
@@ -678,7 +677,6 @@
         "Linnorm",
         "prabclus"
     ],
-    "epistack": [],
     "epivizr": [],
     "epivizrStandalone": [
         "epivizr"
