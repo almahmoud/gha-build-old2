@@ -1,4 +1,3 @@
-StanHeaders
 RiboCrypt
 miloR
 orthogene
