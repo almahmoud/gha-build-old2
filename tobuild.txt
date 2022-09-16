@@ -1,4 +1,3 @@
-ttgsea
 MADSEQ
 autonomics
 DSS
