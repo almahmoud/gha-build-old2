@@ -19,9 +19,7 @@
         "affycoretools",
         "ReportingTools"
     ],
-    "AllelicImbalance": [
-        "Gviz"
-    ],
+    "AllelicImbalance": [],
     "alsace": [],
     "AMARETTO": [
         "curatedTCGAData",
@@ -42,12 +40,9 @@
         "lumi"
     ],
     "ASpediaFI": [
-        "Gviz",
         "mGSZ"
     ],
-    "ASpli": [
-        "Gviz"
-    ],
+    "ASpli": [],
     "ATACseqQC": [
         "ChIPpeakAnno",
         "GenomicScores"
@@ -75,9 +70,7 @@
         "ExperimentHub"
     ],
     "biocthis": [],
-    "biomvRCNS": [
-        "Gviz"
-    ],
+    "biomvRCNS": [],
     "BioNERO": [],
     "biscuiteer": [
         "biscuiteerData",
@@ -101,7 +94,6 @@
     "BubbleTree": [],
     "CAFE": [],
     "CAGEfightR": [
-        "Gviz",
         "GenomicInteractions"
     ],
     "cageminer": [
@@ -144,16 +136,13 @@
         "missMethyl",
         "ExperimentHub",
         "DSS",
-        "Gviz",
         "IlluminaHumanMethylation450kanno.ilmn12.hg19",
         "lumi"
     ],
     "ChIC": [
         "ChIC.data"
     ],
-    "chimeraviz": [
-        "Gviz"
-    ],
+    "chimeraviz": [],
     "ChIPexoQual": [],
     "ChIPpeakAnno": [],
     "ChIPQC": [
@@ -166,9 +155,7 @@
     "chromVAR": [
         "TFBSTools"
     ],
-    "cicero": [
-        "Gviz"
-    ],
+    "cicero": [],
     "circRNAprofiler": [],
     "clipper": [
         "qpgraph"
@@ -190,7 +177,6 @@
         "MIRA"
     ],
     "coMET": [
-        "Gviz",
         "colortools"
     ],
     "conclus": [
@@ -218,9 +204,7 @@
         "ChIPpeakAnno"
     ],
     "cTRAP": [],
-    "cummeRbund": [
-        "Gviz"
-    ],
+    "cummeRbund": [],
     "customCMPdb": [],
     "cyanoFilter": [
         "flowDensity"
@@ -274,15 +258,12 @@
         "ExperimentHub",
         "DSS",
         "missMethyl",
-        "Gviz",
         "IlluminaHumanMethylation450kanno.ilmn12.hg19",
         "IlluminaHumanMethylationEPICanno.ilm10b4.hg19",
         "IlluminaHumanMethylation450kmanifest",
         "IlluminaHumanMethylationEPICmanifest"
     ],
-    "DMRforPairs": [
-        "Gviz"
-    ],
+    "DMRforPairs": [],
     "dmrseq": [
         "annotatr"
     ],
@@ -301,9 +282,7 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "ELMER": [
-        "Gviz"
-    ],
+    "ELMER": [],
     "enhancerHomologSearch": [
         "motifmatchr",
         "TFBSTools"
@@ -392,12 +371,8 @@
     ],
     "GeneAnswers": [],
     "GeneBreak": [],
-    "GeneStructureTools": [
-        "Gviz"
-    ],
-    "GenomicInteractions": [
-        "Gviz"
-    ],
+    "GeneStructureTools": [],
+    "GenomicInteractions": [],
     "GenomicOZone": [],
     "GenomicScores": [],
     "GenVisR": [
@@ -427,12 +402,10 @@
     "GUIDEseq": [
         "ChIPpeakAnno"
     ],
-    "Gviz": [],
     "GWAS.BAYES": [],
     "HiCcompare": [],
     "HiCDCPlus": [
-        "GenomicInteractions",
-        "Gviz"
+        "GenomicInteractions"
     ],
     "HiLDA": [],
     "hipathia": [],
@@ -500,17 +473,12 @@
     "MAI": [],
     "MAIT": [],
     "maPredictDSC": [],
-    "maser": [
-        "Gviz"
-    ],
+    "maser": [],
     "MatrixRider": [
         "TFBSTools"
     ],
-    "mCSEA": [
-        "Gviz"
-    ],
+    "mCSEA": [],
     "MEAL": [
-        "Gviz",
         "missMethyl",
         "IlluminaHumanMethylation450kanno.ilmn12.hg19",
         "IlluminaHumanMethylationEPICanno.ilm10b4.hg19",
@@ -611,9 +579,7 @@
         "clusterProfiler",
         "enrichplot"
     ],
-    "motifbreakR": [
-        "Gviz"
-    ],
+    "motifbreakR": [],
     "motifmatchr": [
         "TFBSTools"
     ],
@@ -640,8 +606,7 @@
         "trackViewer",
         "ATACseqQC",
         "ChIPpeakAnno",
-        "GenomicScores",
-        "Gviz"
+        "GenomicScores"
     ],
     "NanoMethViz": [],
     "NBSplice": [
@@ -698,9 +663,7 @@
         "ReactomePA",
         "enrichplot"
     ],
-    "PING": [
-        "Gviz"
-    ],
+    "PING": [],
     "pogos": [
         "ontoProc"
     ],
@@ -714,7 +677,6 @@
     "primirTSS": [
         "phastCons100way.UCSC.hg38",
         "GenomicScores",
-        "Gviz",
         "TFBSTools"
     ],
     "profileplyr": [
@@ -740,9 +702,7 @@
     "pulsedSilac": [
         "taRifx"
     ],
-    "Pviz": [
-        "Gviz"
-    ],
+    "Pviz": [],
     "pwOmics": [],
     "pwrEWAS": [
         "pwrEWAS.data",
@@ -772,9 +732,7 @@
     ],
     "RegEnrich": [],
     "regionReport": [],
-    "regutools": [
-        "Gviz"
-    ],
+    "regutools": [],
     "REMP": [],
     "ReportingTools": [],
     "restfulSE": [
@@ -805,20 +763,15 @@
         "recount"
     ],
     "RNAinteract": [],
-    "RNAmodR": [
-        "Gviz"
-    ],
+    "RNAmodR": [],
     "RNAmodR.AlkAnilineSeq": [
-        "RNAmodR",
-        "Gviz"
+        "RNAmodR"
     ],
     "RNAmodR.ML": [
-        "RNAmodR",
-        "Gviz"
+        "RNAmodR"
     ],
     "RNAmodR.RiboMethSeq": [
-        "RNAmodR",
-        "Gviz"
+        "RNAmodR"
     ],
     "RNASeqR": [
         "clusterProfiler",
@@ -918,8 +871,7 @@
     "spatzie": [
         "GenomicInteractions",
         "motifmatchr",
-        "TFBSTools",
-        "Gviz"
+        "TFBSTools"
     ],
     "SpectralTAD": [
         "HiCcompare"
@@ -931,15 +883,9 @@
         "enrichplot"
     ],
     "spiky": [],
-    "SPLINTER": [
-        "Gviz"
-    ],
-    "srnadiff": [
-        "Gviz"
-    ],
-    "STAN": [
-        "Gviz"
-    ],
+    "SPLINTER": [],
+    "srnadiff": [],
+    "STAN": [],
     "staRank": [],
     "StarBioTrek": [
         "SpidermiR",
@@ -964,7 +910,6 @@
         "clusterProfiler",
         "sesame",
         "enrichplot",
-        "Gviz",
         "sesameData",
         "ExperimentHub"
     ],
@@ -987,9 +932,7 @@
     "tofsims": [
         "alsace"
     ],
-    "trackViewer": [
-        "Gviz"
-    ],
+    "trackViewer": [],
     "transcriptR": [],
     "tRanslatome": [],
     "TraRe": [
@@ -1007,13 +950,9 @@
     ],
     "TSRchitect": [],
     "ttgsea": [],
-    "TVTB": [
-        "Gviz"
-    ],
+    "TVTB": [],
     "tximeta": [],
-    "uncoverappLib": [
-        "Gviz"
-    ],
+    "uncoverappLib": [],
     "uSORT": [],
     "VAExprs": [
         "gradDescent",
@@ -1021,8 +960,7 @@
         "ttgsea"
     ],
     "VariantFiltering": [
-        "GenomicScores",
-        "Gviz"
+        "GenomicScores"
     ],
     "vissE": [
         "msigdb",
