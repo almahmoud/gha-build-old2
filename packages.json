@@ -132,7 +132,6 @@
     "BioNERO": [
         "NetRep"
     ],
-    "BioQC": [],
     "biosigner": [],
     "biotmle": [
         "ROCR"
