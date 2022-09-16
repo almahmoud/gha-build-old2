@@ -1548,7 +1548,6 @@
         "ROCR"
     ],
     "PCAN": [],
-    "PCAtools": [],
     "PDATK": [
         "piano",
         "ModelMetrics"
