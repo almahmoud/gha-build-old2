@@ -1340,14 +1340,10 @@
         "scran",
         "scuttle"
     ],
-    "msmsEDA": [],
-    "msmsTests": [
-        "msmsEDA"
-    ],
+    "msmsTests": [],
     "MSnID": [
         "msmsTests",
-        "interactiveDisplayBase",
-        "msmsEDA"
+        "interactiveDisplayBase"
     ],
     "MSPrep": [
         "VIM"
