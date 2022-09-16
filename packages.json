@@ -524,7 +524,6 @@
         "rstan"
     ],
     "GenProSeq": [
-        "word2vec",
         "DeepPINCS",
         "ttgsea"
     ],
@@ -1510,7 +1509,6 @@
     "ComplexUpset": [],
     "MPINet": [],
     "SPARQL": [],
-    "word2vec": [],
     "FField": [],
     "statebins": [],
     "gptk": [],
