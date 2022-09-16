@@ -1,5 +1,3 @@
-longitudinal
-colortools
 rsm
 HTSeqGenie
 statTarget
