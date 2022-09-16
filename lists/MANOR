@@ -1,1 +1,181 @@
-MANOR_1.68.0_R_x86_64-pc-linux-gnu.tar.gz
+Already up to date.
+aws/CITATION
+aws/DESCRIPTION
+aws/INDEX
+aws/Meta/
+aws/Meta/Rd.rds
+aws/Meta/demo.rds
+aws/Meta/features.rds
+aws/Meta/hsearch.rds
+aws/Meta/links.rds
+aws/Meta/nsInfo.rds
+aws/Meta/package.rds
+aws/Meta/vignette.rds
+aws/NAMESPACE
+aws/R/
+aws/R/aws
+aws/R/aws.rdb
+aws/R/aws.rdx
+aws/demo/
+aws/demo/aws_ex1.r
+aws/demo/aws_ex2.r
+aws/demo/aws_ex3.r
+aws/demo/awssegm_ex1.r
+aws/demo/awssegm_ex2.r
+aws/demo/awssegm_ex3.r
+aws/demo/irreg_ex1.r
+aws/demo/irreg_ex2.r
+aws/demo/lpaws_ex1.r
+aws/demo/lpaws_ex2.r
+aws/demo/paws_ex1.r
+aws/demo/paws_ex2.r
+aws/doc/
+aws/doc/aws-Example.R
+aws/doc/aws-Example.Rnw
+aws/doc/aws-Example.pdf
+aws/doc/index.html
+aws/help/
+aws/help/AnIndex
+aws/help/aliases.rds
+aws/help/aws.rdb
+aws/help/aws.rdx
+aws/help/paths.rds
+aws/html/
+aws/html/00Index.html
+aws/html/R.css
+aws/libs/
+aws/libs/aws.so
+aws/scripts/
+aws/scripts/adjust.r
+awsMethods/DESCRIPTION
+awsMethods/INDEX
+awsMethods/Meta/
+awsMethods/Meta/Rd.rds
+awsMethods/Meta/features.rds
+awsMethods/Meta/hsearch.rds
+awsMethods/Meta/links.rds
+awsMethods/Meta/nsInfo.rds
+awsMethods/Meta/package.rds
+awsMethods/NAMESPACE
+awsMethods/R/
+awsMethods/R/awsMethods
+awsMethods/R/awsMethods.rdb
+awsMethods/R/awsMethods.rdx
+awsMethods/help/
+awsMethods/help/AnIndex
+awsMethods/help/aliases.rds
+awsMethods/help/awsMethods.rdb
+awsMethods/help/awsMethods.rdx
+awsMethods/help/paths.rds
+awsMethods/html/
+awsMethods/html/00Index.html
+awsMethods/html/R.css
+awsMethods/libs/
+awsMethods/libs/awsMethods.so
+GLAD/DESCRIPTION
+GLAD/INDEX
+GLAD/Meta/
+GLAD/Meta/Rd.rds
+GLAD/Meta/data.rds
+GLAD/Meta/demo.rds
+GLAD/Meta/features.rds
+GLAD/Meta/hsearch.rds
+GLAD/Meta/links.rds
+GLAD/Meta/nsInfo.rds
+GLAD/Meta/package.rds
+GLAD/Meta/vignette.rds
+GLAD/NAMESPACE
+GLAD/R/
+GLAD/R/GLAD
+GLAD/R/GLAD.rdb
+GLAD/R/GLAD.rdx
+GLAD/README
+GLAD/data/
+GLAD/data/arrayCGH.RData
+GLAD/data/cytoband.RData
+GLAD/data/snijders.RData
+GLAD/data/veltman.RData
+GLAD/demo/
+GLAD/demo/tkdaglad.R
+GLAD/demo/tkglad.R
+GLAD/doc/
+GLAD/doc/GLAD.R
+GLAD/doc/GLAD.Rnw
+GLAD/doc/GLAD.pdf
+GLAD/doc/index.html
+GLAD/help/
+GLAD/help/AnIndex
+GLAD/help/GLAD.rdb
+GLAD/help/GLAD.rdx
+GLAD/help/aliases.rds
+GLAD/help/paths.rds
+GLAD/html/
+GLAD/html/00Index.html
+GLAD/html/R.css
+GLAD/libs/
+GLAD/libs/GLAD.so
+gsl/CITATION
+gsl/DESCRIPTION
+gsl/INDEX
+gsl/Meta/
+gsl/Meta/Rd.rds
+gsl/Meta/features.rds
+gsl/Meta/hsearch.rds
+gsl/Meta/links.rds
+gsl/Meta/nsInfo.rds
+gsl/Meta/package.rds
+gsl/Meta/vignette.rds
+gsl/NAMESPACE
+gsl/R/
+gsl/R/gsl
+gsl/R/gsl.rdb
+gsl/R/gsl.rdx
+gsl/doc/
+gsl/doc/gslpaper.R
+gsl/doc/gslpaper.Rnw
+gsl/doc/gslpaper.pdf
+gsl/doc/index.html
+gsl/gsl_stickermaker.R
+gsl/help/
+gsl/help/AnIndex
+gsl/help/aliases.rds
+gsl/help/figures/
+gsl/help/figures/gsl.png
+gsl/help/gsl.rdb
+gsl/help/gsl.rdx
+gsl/help/paths.rds
+gsl/html/
+gsl/html/00Index.html
+gsl/html/R.css
+gsl/libs/
+gsl/libs/gsl.so
+* installing *source* package ‘MANOR’ ...
+** using staged installation
+** libs
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c Rnem_arg.c -o Rnem_arg.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c Rnem_exe.c -o Rnem_exe.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c exememo.c -o exememo.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c nem_alg.c -o nem_alg.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c nem_hlp.c -o nem_hlp.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c nem_mod.c -o nem_mod.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c nem_nei.c -o nem_nei.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c nem_rnd.c -o nem_rnd.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c nem_ver.c -o nem_ver.o
+gcc -I"/usr/local/lib/R/include" -DNDEBUG   -I/usr/local/include   -fpic  -g -O2 -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -g  -c registerDynamicSymbols.c -o registerDynamicSymbols.o
+gcc -shared -L/usr/local/lib/R/lib -L/usr/local/lib -o MANOR.so Rnem_arg.o Rnem_exe.o exememo.o nem_alg.o nem_hlp.o nem_mod.o nem_nei.o nem_rnd.o nem_ver.o registerDynamicSymbols.o -L/usr/local/lib/R/lib -lR
+installing to /__w/gha-build/gha-build/built/00LOCK-MANOR/00new/MANOR/libs
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded from temporary location
+** checking absolute paths in shared objects and dynamic libraries
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘MANOR’ as ‘MANOR_1.68.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (MANOR)
