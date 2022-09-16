@@ -1,4 +1,3 @@
-Rmmquant
 ExperimentHub
 NanoMethViz
 HelloRanges
