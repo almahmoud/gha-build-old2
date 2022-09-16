@@ -1441,8 +1441,7 @@
     ],
     "muscat": [
         "scater",
-        "scuttle",
-        "variancePartition"
+        "scuttle"
     ],
     "musicatk": [
         "MCMCprecision",
@@ -2414,7 +2413,6 @@
     "VanillaICE": [
         "oligoClasses"
     ],
-    "variancePartition": [],
     "VariantExperiment": [],
     "VariantFiltering": [
         "GenomicScores",
