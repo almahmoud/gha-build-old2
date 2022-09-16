@@ -1,4 +1,3 @@
-MSstatsSampleSize
 ViSEAGO
 diffcoexp
 FoldGO
