@@ -1,4 +1,8 @@
-Already up to date.
+Updating 1b044ad..aaded78
+Fast-forward
+ lists/failed/mppa | 7 ++++---
+ lists/mppa        | 6 +++---
+ 2 files changed, 7 insertions(+), 6 deletions(-)
 bbmle/DESCRIPTION
 bbmle/INDEX
 bbmle/Meta/
