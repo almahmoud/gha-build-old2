@@ -1,4 +1,3 @@
-CytoGLMM
 Rhisat2
 BgeeDB
 Ularcirc
