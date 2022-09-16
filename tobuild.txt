@@ -1,4 +1,3 @@
-rgsepd
 ChIPexoQual
 IlluminaHumanMethylationEPICanno.ilm10b2.hg19
 MMAPPR2
