@@ -316,8 +316,7 @@
     "biomvRCNS": [],
     "BioNERO": [
         "NetRep",
-        "minet",
-        "statnet.common"
+        "minet"
     ],
     "BioNet": [],
     "BioNetStat": [],
@@ -365,9 +364,7 @@
         "Linnorm",
         "prabclus"
     ],
-    "BPRMeth": [
-        "plotmo"
-    ],
+    "BPRMeth": [],
     "BRAIN": [],
     "brainflowprobes": [
         "derfinderPlot",
@@ -409,8 +406,7 @@
     "cageminer": [
         "BioNERO",
         "NetRep",
-        "minet",
-        "statnet.common"
+        "minet"
     ],
     "CAGEr": [],
     "calm": [],
@@ -501,8 +497,7 @@
         "tm"
     ],
     "CEMiTool": [
-        "clusterProfiler",
-        "statnet.common"
+        "clusterProfiler"
     ],
     "censcyt": [
         "diffcyt",
@@ -517,8 +512,7 @@
     "ceRNAnetsim": [],
     "CeTF": [
         "clusterProfiler",
-        "gMWT",
-        "statnet.common"
+        "gMWT"
     ],
     "CexoR": [],
     "cfDNAPro": [],
@@ -631,9 +625,7 @@
     "Clonality": [],
     "clst": [],
     "clstutils": [],
-    "CluMSID": [
-        "statnet.common"
-    ],
+    "CluMSID": [],
     "clustComp": [],
     "clusterExperiment": [
         "mbkmeans",
@@ -1090,8 +1082,7 @@
     "edgeR": [],
     "eegc": [
         "R.utils",
-        "clusterProfiler",
-        "statnet.common"
+        "clusterProfiler"
     ],
     "EGAD": [
         "R.utils"
@@ -1127,7 +1118,6 @@
         "motifmatchr",
         "TFBSTools",
         "R.utils",
-        "heatmap3",
         "clusterProfiler"
     ],
     "ensembldb": [],
@@ -1223,8 +1213,7 @@
     ],
     "fCI": [],
     "fcoex": [
-        "clusterProfiler",
-        "statnet.common"
+        "clusterProfiler"
     ],
     "fcScan": [],
     "FEAST": [
@@ -1476,9 +1465,7 @@
         "ncdfFlow"
     ],
     "ggmsa": [],
-    "GGPA": [
-        "statnet.common"
-    ],
+    "GGPA": [],
     "ggspavis": [
         "SpatialExperiment",
         "R.utils",
@@ -1965,8 +1952,7 @@
         "snowfall"
     ],
     "Melissa": [
-        "ROCR",
-        "plotmo"
+        "ROCR"
     ],
     "memes": [
         "R.utils"
@@ -2428,8 +2414,7 @@
         "ROCR"
     ],
     "nethet": [
-        "longitudinal",
-        "statnet.common"
+        "longitudinal"
     ],
     "netOmics": [
         "minet"
@@ -2644,9 +2629,7 @@
     "philr": [],
     "PhIPData": [],
     "phosphonormalizer": [],
-    "PhosR": [
-        "statnet.common"
-    ],
+    "PhosR": [],
     "PhyloProfile": [
         "ExperimentHub",
         "interactiveDisplayBase"
@@ -2656,8 +2639,7 @@
         "ROCR",
         "plot3D",
         "ModelMetrics",
-        "recipes",
-        "statnet.common"
+        "recipes"
     ],
     "piano": [],
     "PICS": [],
@@ -2795,9 +2777,7 @@
         "R.utils"
     ],
     "ptairMS": [],
-    "PubScore": [
-        "statnet.common"
-    ],
+    "PubScore": [],
     "pulsedSilac": [
         "R.utils",
         "taRifx"
@@ -3067,8 +3047,7 @@
         "ShortRead"
     ],
     "RnaSeqSampleSize": [
-        "RnaSeqSampleSizeData",
-        "heatmap3"
+        "RnaSeqSampleSizeData"
     ],
     "RnBeads": [
         "R.utils"
@@ -3728,7 +3707,6 @@
         "Rmpfr"
     ],
     "transomics2cytoscape": [],
-    "TransView": [],
     "TraRe": [
         "vbsr",
         "R.utils"
@@ -4263,22 +4241,13 @@
     "multcomp": [],
     "TH.data": [],
     "WGCNA": [],
-    "ggnetwork": [
-        "statnet.common"
-    ],
-    "intergraph": [
-        "statnet.common"
-    ],
+    "ggnetwork": [],
+    "intergraph": [],
     "networkD3": [],
     "ggnewscale": [],
     "NetRep": [],
-    "network": [
-        "statnet.common"
-    ],
-    "sna": [
-        "statnet.common"
-    ],
-    "statnet.common": [],
+    "network": [],
+    "sna": [],
     "shinyBS": [],
     "superheat": [],
     "drtmle": [
@@ -4316,10 +4285,7 @@
     "ggm": [],
     "vcd": [],
     "gdata": [],
-    "earth": [
-        "plotmo"
-    ],
-    "plotmo": [],
+    "earth": [],
     "PolynomF": [],
     "GenomicState": [
         "interactiveDisplayBase"
@@ -4650,7 +4616,6 @@
     "survivalsvm": [],
     "partykit": [],
     "inum": [],
-    "heatmap3": [],
     "EntropyExplorer": [],
     "RNOmni": [],
     "ewceData": [
