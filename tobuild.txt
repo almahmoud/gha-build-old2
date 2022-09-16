@@ -1,5 +1,3 @@
-methylInheritance
-edge
 supersigs
 shinyMethyl
 biodbExpasy
