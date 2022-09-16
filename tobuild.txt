@@ -1,4 +1,3 @@
-Kendall
 MACPET
 Linnorm
 configr
