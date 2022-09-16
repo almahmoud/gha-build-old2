@@ -1,4 +1,8 @@
-Merge made by the 'recursive' strategy.
+Updating acb503a..3208479
+Fast-forward
+ lists/scanMiRApp | 2 +-
+ tobuild.txt      | 1 -
+ 2 files changed, 1 insertion(+), 2 deletions(-)
 AnnotationDbi/DBschemas/
 AnnotationDbi/DBschemas/SchemaGuidelines.txt
 AnnotationDbi/DBschemas/schemas_0.9/
