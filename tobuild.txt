@@ -1,5 +1,3 @@
-SPARQL
-RCyjs
 DepInfeR
 MetaVolcanoR
 miaSim
