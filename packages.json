@@ -168,7 +168,6 @@
         "scuttle"
     ],
     "consensusDE": [
-        "EDASeq",
         "RUVSeq"
     ],
     "CopywriteR": [],
@@ -199,9 +198,7 @@
         "FlowSOM"
     ],
     "dagLogo": [],
-    "DaMiRseq": [
-        "EDASeq"
-    ],
+    "DaMiRseq": [],
     "dce": [
         "epiNEM",
         "mnem",
@@ -252,7 +249,6 @@
     "easier": [
         "easierData"
     ],
-    "EDASeq": [],
     "eegc": [
         "clusterProfiler"
     ],
@@ -315,8 +311,7 @@
     "FlowSOM": [],
     "fmcsR": [],
     "GARS": [
-        "DaMiRseq",
-        "EDASeq"
+        "DaMiRseq"
     ],
     "GateFinder": [],
     "GBScleanR": [],
@@ -412,9 +407,7 @@
     "MetaCyto": [
         "FlowSOM"
     ],
-    "metaseqR2": [
-        "EDASeq"
-    ],
+    "metaseqR2": [],
     "metavizr": [],
     "MetaVolcanoR": [],
     "MethReg": [
@@ -616,7 +609,6 @@
     "Rgin": [],
     "RiboProfiling": [],
     "ribosomeProfilingQC": [
-        "EDASeq",
         "RUVSeq"
     ],
     "rifi": [],
@@ -642,9 +634,7 @@
     "RSVSim": [],
     "RTNsurvival": [],
     "RUVcorr": [],
-    "RUVSeq": [
-        "EDASeq"
-    ],
+    "RUVSeq": [],
     "scAlign": [
         "Seurat"
     ],
@@ -697,8 +687,7 @@
         "annotatr"
     ],
     "scone": [
-        "RUVSeq",
-        "EDASeq"
+        "RUVSeq"
     ],
     "scPCA": [],
     "scPipe": [
