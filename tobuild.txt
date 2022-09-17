@@ -1,7 +1,3 @@
-gptk
-POMA
-gpart
-UCell
 GUIDEseq
 taRifx
 vissE
