@@ -1,4 +1,3 @@
-QuasR
 appreci8R
 RadioGx
 SPARQL
