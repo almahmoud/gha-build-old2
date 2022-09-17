@@ -1,4 +1,3 @@
-rifi
 ggmsa
 RNAmodR
 MAGAR
