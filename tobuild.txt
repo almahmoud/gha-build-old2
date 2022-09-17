@@ -1,4 +1,3 @@
-mnem
 msigdb
 compEpiTools
 SpatialDecon
