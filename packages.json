@@ -121,7 +121,6 @@
     "escape": [
         "UCell"
     ],
-    "EWCE": [],
     "ExperimentHubData": [],
     "famat": [
         "MPINet",
@@ -258,7 +257,6 @@
     "RadioGx": [],
     "RareVariantVis": [],
     "Rgin": [],
-    "RLSeq": [],
     "scAlign": [],
     "SCATE": [
         "SCATEData"
