@@ -1,4 +1,3 @@
-scGPS
 tfprobability
 RolDE
 GeneBreak
