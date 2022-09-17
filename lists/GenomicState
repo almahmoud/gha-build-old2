@@ -1,9 +1,4 @@
-Updating 55e1bf6..f8535e9
-Fast-forward
- lists/MetaboAnnotation        | 18460 +++++++++++++++++++++++++++++++++++++++-
- lists/failed/MetaboAnnotation | 18459 +++++++++++++++++++++++++++++++++++++++
- 2 files changed, 36918 insertions(+), 1 deletion(-)
- create mode 100644 lists/failed/MetaboAnnotation
+Already up to date.
 AnnotationDbi/DBschemas/
 AnnotationDbi/DBschemas/SchemaGuidelines.txt
 AnnotationDbi/DBschemas/schemas_0.9/
