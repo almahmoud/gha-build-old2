@@ -1,4 +1,3 @@
-pRolocGUI
 Seurat
 Prostar
 pdInfoBuilder
