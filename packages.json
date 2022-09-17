@@ -567,7 +567,6 @@
     "netboxr": [
         "clusterProfiler"
     ],
-    "nethet": [],
     "netSmooth": [
         "scater",
         "scuttle"
