@@ -1,4 +1,7 @@
-Already up to date.
+Updating b3c1fdf0..a28498b1
+Fast-forward
+ logs/run_ids/shinyMethyl | 1 +
+ 1 file changed, 1 insertion(+)
 annotate/DESCRIPTION
 annotate/INDEX
 annotate/Meta/
