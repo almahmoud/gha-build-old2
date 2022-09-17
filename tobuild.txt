@@ -1,4 +1,3 @@
-qrqc
 imageHTS
 PPInfer
 DifferentialRegulation
