@@ -1,4 +1,2 @@
-TADCompare
-multiHiCcompare
 ExperimentHubData
 appreci8R
