@@ -317,9 +317,7 @@
         "scater"
     ],
     "sesame": [],
-    "SIAMCAT": [
-        "mlr3tuning"
-    ],
+    "SIAMCAT": [],
     "signatureSearch": [
         "clusterProfiler"
     ],
@@ -420,7 +418,6 @@
     "taRifx": [],
     "phastCons100way.UCSC.hg19": [],
     "SCATEData": [],
-    "mlr3tuning": [],
     "sampSurf": [],
     "GenKern": [],
     "vbsr": []
