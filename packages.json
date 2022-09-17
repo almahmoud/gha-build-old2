@@ -133,9 +133,7 @@
         "wateRmelon"
     ],
     "CHETAH": [],
-    "ChIC": [
-        "ChIC.data"
-    ],
+    "ChIC": [],
     "ChIPQC": [
         "DiffBind"
     ],
@@ -951,7 +949,6 @@
     "biscuiteerData": [],
     "GenomicState": [],
     "iCluster": [],
-    "ChIC.data": [],
     "ChIPXpressData": [],
     "colortools": [],
     "crisprScoreData": [],
