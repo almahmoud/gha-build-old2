@@ -1,4 +1,3 @@
-datamods
 RcisTarget
 GateFinder
 kissDE
