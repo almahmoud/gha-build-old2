@@ -1,4 +1,9 @@
-Already up to date.
+Updating d89a9a19..b988bfd4
+Fast-forward
+ lists/methylSig        | 2 +-
+ logs/run_ids/methylSig | 1 +
+ tobuild.txt            | 1 -
+ 3 files changed, 2 insertions(+), 2 deletions(-)
 flexmix/CITATION
 flexmix/DESCRIPTION
 flexmix/INDEX
