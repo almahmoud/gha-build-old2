@@ -51,7 +51,6 @@
     "CeTF": [
         "clusterProfiler"
     ],
-    "ChAMP": [],
     "ChIPQC": [
         "DiffBind"
     ],
