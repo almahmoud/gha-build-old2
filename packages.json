@@ -725,7 +725,6 @@
     "Pigengene": [
         "clusterProfiler"
     ],
-    "PING": [],
     "pipeComp": [
         "Seurat",
         "scran",
