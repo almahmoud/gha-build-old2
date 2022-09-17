@@ -182,7 +182,6 @@
     "clipper": [
         "qpgraph"
     ],
-    "clusterExperiment": [],
     "clusterProfiler": [],
     "CNVfilteR": [
         "CopyNumberPlots"
@@ -672,7 +671,6 @@
     "netresponse": [],
     "netSmooth": [
         "scater",
-        "clusterExperiment",
         "scuttle"
     ],
     "networkBMA": [],
