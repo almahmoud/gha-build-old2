@@ -1,4 +1,3 @@
-PDATK
 comapr
 synergyfinder
 glmSparseNet
