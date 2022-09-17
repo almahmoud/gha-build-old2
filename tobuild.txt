@@ -1,4 +1,3 @@
-RCyjs
 DepInfeR
 MetaVolcanoR
 miaSim
