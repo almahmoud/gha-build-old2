@@ -1,4 +1,3 @@
-depmap
 comapr
 ddPCRclust
 cyanoFilter
