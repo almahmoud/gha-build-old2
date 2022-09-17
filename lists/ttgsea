@@ -1,8 +1,4 @@
-Updating 10a07d9..1cc256a
-Fast-forward
- logs/run_ids/scRNAseq | 2 ++
- 1 file changed, 2 insertions(+)
- create mode 100644 logs/run_ids/scRNAseq
+Already up to date.
 keras/DESCRIPTION
 keras/INDEX
 keras/LICENSE
