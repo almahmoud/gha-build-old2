@@ -587,7 +587,6 @@
         "clusterProfiler",
         "missMethyl"
     ],
-    "methylInheritance": [],
     "methylPipe": [],
     "methylSig": [],
     "mia": [
