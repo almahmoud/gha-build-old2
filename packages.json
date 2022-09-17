@@ -349,7 +349,6 @@
     "fmcsR": [],
     "GARS": [
         "DaMiRseq",
-        "MLSeq",
         "EDASeq"
     ],
     "GateFinder": [],
@@ -505,7 +504,6 @@
     ],
     "mirTarRnaSeq": [],
     "mitch": [],
-    "MLSeq": [],
     "MMUPHin": [],
     "mnem": [
         "Linnorm"
