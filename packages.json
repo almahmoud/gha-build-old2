@@ -46,7 +46,6 @@
     ],
     "autonomics": [],
     "bandle": [
-        "pRoloc",
         "pRolocdata"
     ],
     "BASiCS": [
@@ -606,7 +605,6 @@
         "scuttle"
     ],
     "microbiomeDASim": [],
-    "microbiomeMarker": [],
     "MicrobiomeProfiler": [
         "clusterProfiler"
     ],
@@ -788,10 +786,7 @@
     ],
     "profileplyr": [],
     "projectR": [],
-    "pRoloc": [],
-    "pRolocGUI": [
-        "pRoloc"
-    ],
+    "pRolocGUI": [],
     "Prostar": [],
     "protGear": [],
     "psichomics": [],
