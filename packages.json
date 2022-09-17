@@ -442,9 +442,7 @@
         "RUVSeq"
     ],
     "RITAN": [],
-    "RLSeq": [
-        "RLHub"
-    ],
+    "RLSeq": [],
     "RNAAgeCalc": [],
     "RNAmodR.AlkAnilineSeq": [],
     "RNAmodR.ML": [],
@@ -665,7 +663,6 @@
     "taRifx": [],
     "pwrEWAS.data": [],
     "phastCons100way.UCSC.hg19": [],
-    "RLHub": [],
     "scanMiRData": [],
     "SCATEData": [],
     "mlr3learners": [],
