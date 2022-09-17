@@ -36,7 +36,6 @@
     ],
     "ASURAT": [],
     "ATACseqQC": [],
-    "autonomics": [],
     "bandle": [
         "pRolocdata"
     ],
@@ -942,7 +941,6 @@
     "ttgsea": [],
     "tximeta": [],
     "UCell": [],
-    "uncoverappLib": [],
     "UniProt.ws": [
         "cellxgenedp"
     ],
