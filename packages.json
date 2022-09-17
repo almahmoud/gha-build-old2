@@ -183,10 +183,7 @@
     "GenVisR": [
         "FField"
     ],
-    "GeoDiff": [
-        "GeomxTools"
-    ],
-    "GeomxTools": [],
+    "GeoDiff": [],
     "ggspavis": [],
     "gpart": [],
     "gprege": [
@@ -381,9 +378,7 @@
         "scater"
     ],
     "spatialDE": [],
-    "SpatialDecon": [
-        "GeomxTools"
-    ],
+    "SpatialDecon": [],
     "spatialHeatmap": [
         "scater"
     ],
