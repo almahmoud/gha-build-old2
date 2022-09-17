@@ -1,7 +1,4 @@
-Updating 70299c56..6de3d36f
-Fast-forward
- logs/run_ids/methylPipe | 1 +
- 1 file changed, 1 insertion(+)
+Already up to date.
 AnnotationDbi/DBschemas/
 AnnotationDbi/DBschemas/SchemaGuidelines.txt
 AnnotationDbi/DBschemas/schemas_0.9/
