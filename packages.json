@@ -280,9 +280,7 @@
     "GSCA": [],
     "gscreend": [],
     "GSEABenchmarkeR": [],
-    "gsean": [
-        "PPInfer"
-    ],
+    "gsean": [],
     "GUIDEseq": [],
     "HiCcompare": [],
     "imcRtools": [
@@ -453,7 +451,6 @@
         "ontoProc"
     ],
     "POMA": [],
-    "PPInfer": [],
     "PrecisionTrialDrawer": [
         "cgdsr"
     ],
