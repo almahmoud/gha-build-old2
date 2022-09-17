@@ -52,8 +52,7 @@
         "scran"
     ],
     "biscuiteer": [
-        "biscuiteerData",
-        "dmrseq"
+        "biscuiteerData"
     ],
     "BloodGen3Module": [],
     "bnem": [
@@ -185,7 +184,6 @@
         "scater"
     ],
     "DMRcate": [],
-    "dmrseq": [],
     "DropletUtils": [],
     "drugTargetInteractions": [],
     "easier": [
