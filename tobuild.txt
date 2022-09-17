@@ -1,4 +1,3 @@
-sesame
 scAnnotatR
 ChIPXpress
 NADfinder
