@@ -1,4 +1,3 @@
-BiocOncoTK
 NxtIRFcore
 scDD
 SingleCellSignalR
