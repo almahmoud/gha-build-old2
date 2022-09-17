@@ -1,4 +1,3 @@
-TFARM
 liger
 tnet
 TRONCO
