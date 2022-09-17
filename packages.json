@@ -638,14 +638,12 @@
         "miRspongeR",
         "clusterProfiler",
         "cvms",
-        "parameters",
-        "rearrr"
+        "parameters"
     ],
     "miRspongeR": [
         "clusterProfiler",
         "cvms",
-        "parameters",
-        "rearrr"
+        "parameters"
     ],
     "mirTarRnaSeq": [],
     "missMethyl": [],
@@ -1099,8 +1097,7 @@
     ],
     "SPONGE": [
         "cvms",
-        "parameters",
-        "rearrr"
+        "parameters"
     ],
     "SPOTlight": [],
     "sRACIPE": [],
@@ -1288,11 +1285,9 @@
         "AnnotationHubData"
     ],
     "cvms": [
-        "parameters",
-        "rearrr"
+        "parameters"
     ],
     "parameters": [],
-    "rearrr": [],
     "mppa": [],
     "BRISC": [],
     "NxtIRFdata": [
