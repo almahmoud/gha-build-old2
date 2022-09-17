@@ -20,9 +20,7 @@
         "clusterProfiler"
     ],
     "BioTIP": [],
-    "bnem": [
-        "epiNEM"
-    ],
+    "bnem": [],
     "brainflowprobes": [],
     "CancerSubtypes": [
         "iCluster"
@@ -82,9 +80,7 @@
     ],
     "CytoML": [],
     "CytoTree": [],
-    "dce": [
-        "epiNEM"
-    ],
+    "dce": [],
     "ddPCRclust": [],
     "dearseq": [],
     "debrowser": [
@@ -114,7 +110,6 @@
     "epihet": [
         "EntropyExplorer"
     ],
-    "epiNEM": [],
     "esATAC": [
         "clusterProfiler"
     ],
@@ -215,9 +210,7 @@
     ],
     "ndexr": [],
     "Nebulosa": [],
-    "nempi": [
-        "epiNEM"
-    ],
+    "nempi": [],
     "netboxr": [
         "clusterProfiler"
     ],
