@@ -1,4 +1,3 @@
-GARS
 scTensor
 AMARETTO
 standR
