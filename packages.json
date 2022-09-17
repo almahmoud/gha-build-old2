@@ -60,9 +60,7 @@
     "CeTF": [
         "clusterProfiler"
     ],
-    "ChAMP": [
-        "DMRcate"
-    ],
+    "ChAMP": [],
     "CHETAH": [],
     "ChIPQC": [
         "DiffBind"
@@ -129,7 +127,6 @@
     "distinct": [
         "scater"
     ],
-    "DMRcate": [],
     "DropletUtils": [],
     "easier": [
         "easierData"
