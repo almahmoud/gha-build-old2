@@ -1,4 +1,3 @@
-STAN
 SPOTlight
 MuData
 graper
