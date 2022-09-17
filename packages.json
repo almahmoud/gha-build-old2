@@ -337,7 +337,6 @@
         "ExperimentHub"
     ],
     "EDASeq": [],
-    "edge": [],
     "eegc": [
         "clusterProfiler"
     ],
