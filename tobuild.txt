@@ -1,4 +1,3 @@
-ggVennDiagram
 paradox
 systemPipeShiny
 MetBrewer
