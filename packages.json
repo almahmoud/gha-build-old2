@@ -290,7 +290,6 @@
         "flowDensity"
     ],
     "flowDensity": [],
-    "flowPloidy": [],
     "FlowSOM": [],
     "fmcsR": [],
     "GARS": [
@@ -582,7 +581,6 @@
     "rprimer": [],
     "RSVSim": [],
     "RTNsurvival": [],
-    "RUVcorr": [],
     "RUVSeq": [],
     "scAlign": [
         "Seurat"
