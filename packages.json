@@ -117,7 +117,6 @@
         "scater",
         "scuttle"
     ],
-    "cellxgenedp": [],
     "CEMiTool": [
         "clusterProfiler"
     ],
@@ -216,9 +215,7 @@
     "CytoTree": [
         "FlowSOM"
     ],
-    "dagLogo": [
-        "cellxgenedp"
-    ],
+    "dagLogo": [],
     "DaMiRseq": [
         "EDASeq"
     ],
@@ -267,9 +264,7 @@
     "DropletUtils": [
         "scuttle"
     ],
-    "drugTargetInteractions": [
-        "cellxgenedp"
-    ],
+    "drugTargetInteractions": [],
     "Dune": [],
     "easier": [
         "easierData"
@@ -922,9 +917,7 @@
     "ttgsea": [],
     "tximeta": [],
     "UCell": [],
-    "UniProt.ws": [
-        "cellxgenedp"
-    ],
+    "UniProt.ws": [],
     "updateObject": [],
     "uSORT": [],
     "VAExprs": [
