@@ -1,4 +1,3 @@
-flowPloidy
 MAI
 RiboProfiling
 RUVcorr
