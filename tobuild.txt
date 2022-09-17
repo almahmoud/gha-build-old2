@@ -1,7 +1,3 @@
-RNAmodR.ML
-brainflowprobes
-terraTCGAdata
-adductData
 scMerge
 phastCons100way.UCSC.hg38
 scmeth
