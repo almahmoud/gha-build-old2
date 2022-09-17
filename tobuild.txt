@@ -1,4 +1,3 @@
-sampSurf
 protGear
 mGSZ
 HPiP
