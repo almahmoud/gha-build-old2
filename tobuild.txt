@@ -1,4 +1,3 @@
-IsoformSwitchAnalyzeR
 biodbNci
 crisprScoreData
 metavizr
