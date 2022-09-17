@@ -1,6 +1,3 @@
-PDATK
-comapr
-synergyfinder
 glmSparseNet
 MSstatsSampleSize
 ffpe
