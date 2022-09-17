@@ -13,4 +13,3 @@ transcriptR
 HiCcompare
 biscuiteer
 RLSeq
-scCB2
