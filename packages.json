@@ -526,9 +526,7 @@
         "scater",
         "scuttle"
     ],
-    "plethy": [
-        "Streamer"
-    ],
+    "plethy": [],
     "pogos": [
         "ontoProc"
     ],
@@ -753,7 +751,6 @@
         "clusterProfiler",
         "depmap"
     ],
-    "Streamer": [],
     "STROMA4": [],
     "supersigs": [],
     "svaNUMT": [],
