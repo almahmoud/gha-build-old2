@@ -1,11 +1,3 @@
-crisprScore
-spatzie
-mppa
-crisprBwa
-ToxicoGx
-crisprBowtie
-signeR
-Prostar
 Rgin
 orQA
 FField
