@@ -1,4 +1,3 @@
-missMethyl
 DAPAR
 pRoloc
 mppa
@@ -252,7 +251,6 @@ segmenter
 limmaGUI
 EntropyExplorer
 transcriptR
-MAGAR
 ontoProc
 Dune
 MobilityTransformR
