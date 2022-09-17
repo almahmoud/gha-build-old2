@@ -65,7 +65,6 @@
     "BiocOncoTK": [
         "curatedTCGAData"
     ],
-    "biodbMirbase": [],
     "biodbNci": [],
     "BioNERO": [],
     "BioTIP": [
