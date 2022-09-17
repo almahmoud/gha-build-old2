@@ -1,7 +1,5 @@
-bnem
 pageRank
 SCATE
-nempi
 treekoR
 ExperimentHubData
 HiCcompare
