@@ -26,8 +26,7 @@
     "BioTIP": [],
     "biscuiteer": [],
     "bnem": [
-        "epiNEM",
-        "mnem"
+        "epiNEM"
     ],
     "brainflowprobes": [],
     "CancerSubtypes": [
@@ -94,8 +93,7 @@
     "CytoML": [],
     "CytoTree": [],
     "dce": [
-        "epiNEM",
-        "mnem"
+        "epiNEM"
     ],
     "ddPCRclust": [],
     "dearseq": [],
@@ -130,9 +128,7 @@
         "EntropyExplorer"
     ],
     "epimutacions": [],
-    "epiNEM": [
-        "mnem"
-    ],
+    "epiNEM": [],
     "esATAC": [
         "clusterProfiler"
     ],
@@ -226,7 +222,6 @@
         "clusterProfiler"
     ],
     "MMUPHin": [],
-    "mnem": [],
     "MoonlightR": [
         "clusterProfiler"
     ],
@@ -250,7 +245,6 @@
     "ndexr": [],
     "Nebulosa": [],
     "nempi": [
-        "mnem",
         "epiNEM"
     ],
     "netboxr": [
