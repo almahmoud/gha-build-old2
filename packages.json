@@ -579,9 +579,7 @@
     "REMP": [],
     "ReportingTools": [],
     "restfulSE": [],
-    "rGenomeTracks": [
-        "rGenomeTracksData"
-    ],
+    "rGenomeTracks": [],
     "Rgin": [],
     "RiboProfiling": [],
     "ribosomeProfilingQC": [
@@ -879,7 +877,6 @@
     "taRifx": [],
     "pwrEWAS.data": [],
     "phastCons100way.UCSC.hg19": [],
-    "rGenomeTracksData": [],
     "RLHub": [],
     "scanMiRData": [
         "scanMiR"
