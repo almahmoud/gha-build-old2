@@ -339,10 +339,7 @@
         "SpatialExperiment"
     ],
     "NxtIRFcore": [],
-    "omicade4": [],
-    "omicRexposome": [
-        "omicade4"
-    ],
+    "omicRexposome": [],
     "pageRank": [],
     "PanomiR": [
         "clusterProfiler"
