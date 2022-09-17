@@ -52,7 +52,6 @@
     "ChIPQC": [
         "DiffBind"
     ],
-    "ChIPXpress": [],
     "ChromSCape": [
         "scater"
     ],
@@ -117,7 +116,6 @@
     "epihet": [
         "EntropyExplorer"
     ],
-    "epimutacions": [],
     "epiNEM": [],
     "esATAC": [
         "clusterProfiler"

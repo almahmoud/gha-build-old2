@@ -1,4 +1,3 @@
-nnSVG
 biscuiteer
 RLSeq
 scCB2
