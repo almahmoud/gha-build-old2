@@ -1,5 +1,3 @@
-MAI
-RiboProfiling
 cvms
 RUVcorr
 MSA2dist
