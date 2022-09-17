@@ -1,4 +1,3 @@
-scater
 dearseq
 ExperimentHubData
 EntropyExplorer
