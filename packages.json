@@ -1029,8 +1029,7 @@
     "SIAMCAT": [
         "mlr3",
         "mlr3learners",
-        "mlr3tuning",
-        "paradox"
+        "mlr3tuning"
     ],
     "signatureSearch": [
         "ExperimentHub",
@@ -1332,21 +1331,14 @@
     "SCATEData": [
         "ExperimentHub"
     ],
-    "mlr3": [
-        "paradox"
-    ],
+    "mlr3": [],
     "mlr3learners": [
-        "mlr3",
-        "paradox"
+        "mlr3"
     ],
     "mlr3tuning": [
-        "mlr3",
-        "paradox"
+        "mlr3"
     ],
-    "paradox": [],
-    "bbotk": [
-        "paradox"
-    ],
+    "bbotk": [],
     "celldex": [
         "ExperimentHub"
     ],
