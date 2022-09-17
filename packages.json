@@ -65,7 +65,6 @@
         "scran",
         "scuttle"
     ],
-    "biotmle": [],
     "biscuiteer": [
         "biscuiteerData",
         "dmrseq",
@@ -589,7 +588,6 @@
     ],
     "Rbwa": [],
     "RCyjs": [],
-    "recountmethylation": [],
     "REDseq": [],
     "REMP": [],
     "ReportingTools": [],
