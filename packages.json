@@ -330,7 +330,6 @@
         "SpatialExperiment",
         "scuttle"
     ],
-    "glmSparseNet": [],
     "gpart": [],
     "gprege": [
         "gptk"
@@ -564,7 +563,6 @@
     "pRolocGUI": [],
     "Prostar": [],
     "protGear": [],
-    "psichomics": [],
     "pulsedSilac": [
         "taRifx"
     ],
