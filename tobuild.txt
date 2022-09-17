@@ -1,4 +1,3 @@
-RiboDiPA
 CytoGLMM
 M3Drop
 EDASeq
