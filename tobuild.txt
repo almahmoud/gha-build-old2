@@ -1,4 +1,3 @@
-systemPipeShiny
 MetBrewer
 RiboDiPA
 M3Drop
