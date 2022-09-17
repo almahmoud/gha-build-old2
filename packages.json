@@ -20,9 +20,7 @@
         "scater",
         "scuttle"
     ],
-    "AlphaBeta": [
-        "optimx"
-    ],
+    "AlphaBeta": [],
     "AMARETTO": [
         "curatedTCGAData",
         "ExperimentHub"
@@ -598,9 +596,7 @@
     "meshes": [],
     "metabCombiner": [],
     "MetaboAnnotation": [],
-    "metabomxtr": [
-        "optimx"
-    ],
+    "metabomxtr": [],
     "MetaboSignal": [],
     "MetaCyto": [
         "FlowSOM",
@@ -871,9 +867,7 @@
     "QuartPAC": [],
     "QuasR": [],
     "RadioGx": [],
-    "ramr": [
-        "optimx"
-    ],
+    "ramr": [],
     "RAREsim": [],
     "RareVariantVis": [
         "phastCons100way.UCSC.hg19",
@@ -1253,7 +1247,6 @@
     "adductData": [
         "ExperimentHub"
     ],
-    "optimx": [],
     "curatedTCGAData": [
         "ExperimentHub"
     ],
@@ -1338,9 +1331,7 @@
     "pwrEWAS.data": [
         "ExperimentHub"
     ],
-    "ExtDist": [
-        "optimx"
-    ],
+    "ExtDist": [],
     "phastCons100way.UCSC.hg19": [
         "GenomicScores"
     ],
