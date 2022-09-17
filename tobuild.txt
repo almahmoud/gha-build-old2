@@ -1,4 +1,3 @@
-spatzie
 TENxPBMCData
 crisprBwa
 DaMiRseq
