@@ -969,9 +969,7 @@
         "RLHub",
         "ExperimentHub"
     ],
-    "RMassBank": [
-        "readJDX"
-    ],
+    "RMassBank": [],
     "RNAAgeCalc": [],
     "RNAinteract": [],
     "RNAmodR": [
@@ -1455,7 +1453,6 @@
     "RLHub": [
         "ExperimentHub"
     ],
-    "readJDX": [],
     "scanMiRData": [
         "scanMiR"
     ],
