@@ -1,4 +1,3 @@
-crisprBwa
 DaMiRseq
 ChIC
 metaseqR2
