@@ -1,8 +1,4 @@
-Updating 5466f766..383e294e
-Fast-forward
- lists/BOBaFIT | 2 +-
- packages.json | 1 -
- 2 files changed, 1 insertion(+), 2 deletions(-)
+Already up to date.
 Rcpp/CITATION
 Rcpp/DESCRIPTION
 Rcpp/INDEX
