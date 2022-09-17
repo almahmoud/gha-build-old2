@@ -1,4 +1,3 @@
-MEAT
 curatedTCGAData
 crisprBowtie
 supersigs
