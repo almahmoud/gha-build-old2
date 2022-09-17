@@ -230,7 +230,6 @@
     "MoonlightR": [
         "clusterProfiler"
     ],
-    "msImpute": [],
     "MSnID": [],
     "MSstatsLiP": [],
     "MSstatsQCgui": [],
@@ -403,9 +402,7 @@
         "DeepPINCS"
     ],
     "velociraptor": [],
-    "vissE": [
-        "msigdb"
-    ],
+    "vissE": [],
     "vulcan": [
         "DiffBind"
     ],
@@ -435,6 +432,5 @@
     "SoupX": [],
     "sampSurf": [],
     "GenKern": [],
-    "vbsr": [],
-    "msigdb": []
+    "vbsr": []
 }
