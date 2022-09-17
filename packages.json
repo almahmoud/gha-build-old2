@@ -291,7 +291,6 @@
     "PanomiR": [
         "clusterProfiler"
     ],
-    "pareg": [],
     "peco": [
         "scater"
     ],
