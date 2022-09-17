@@ -1,4 +1,3 @@
-MafDb.gnomADex.r2.1.hs37d5
 ATACseqQC
 ADaCGH2
 enhancerHomologSearch
