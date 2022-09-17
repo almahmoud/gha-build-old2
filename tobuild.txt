@@ -1,4 +1,3 @@
-gscreend
 readbitmap
 sSNAPPY
 ttservice
