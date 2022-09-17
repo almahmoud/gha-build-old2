@@ -239,7 +239,6 @@
     "spatialHeatmap": [
         "scater"
     ],
-    "spatzie": [],
     "SpidermiR": [
         "MAGeCKFlute",
         "clusterProfiler"
