@@ -1,5 +1,3 @@
-SingleCellSignalR
-EWCE
 consensusDE
 mlr3tuning
 ChAMP
