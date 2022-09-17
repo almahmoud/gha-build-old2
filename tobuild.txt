@@ -1,4 +1,3 @@
-soGGi
 MineICA
 ToxicoGx
 GWAS.BAYES
