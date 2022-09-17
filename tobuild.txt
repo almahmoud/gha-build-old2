@@ -1,4 +1,3 @@
-ToxicoGx
 crisprBowtie
 signeR
 Prostar
