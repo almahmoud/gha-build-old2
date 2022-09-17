@@ -1,4 +1,3 @@
-GSEAmining
 HiCBricks
 FastqCleaner
 nethet
