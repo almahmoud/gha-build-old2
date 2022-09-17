@@ -1,8 +1,6 @@
-vissE
 MethReg
 enhancerHomologSearch
 CytoTree
-primirTSS
 bnem
 pageRank
 nempi
