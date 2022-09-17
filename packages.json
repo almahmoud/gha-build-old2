@@ -164,8 +164,7 @@
     ],
     "ChIPpeakAnno": [],
     "ChIPQC": [
-        "DiffBind",
-        "systemPipeR"
+        "DiffBind"
     ],
     "ChIPXpress": [
         "ChIPXpressData"
@@ -298,9 +297,7 @@
         "ChIPpeakAnno"
     ],
     "DEsingle": [],
-    "DiffBind": [
-        "systemPipeR"
-    ],
+    "DiffBind": [],
     "diffcyt": [
         "FlowSOM",
         "openCyto"
@@ -1061,7 +1058,6 @@
     "svaNUMT": [],
     "synergyfinder": [],
     "synlet": [],
-    "systemPipeR": [],
     "systemPipeShiny": [],
     "TADCompare": [
         "HiCcompare"
@@ -1141,8 +1137,7 @@
     "VplotR": [],
     "vulcan": [
         "ChIPpeakAnno",
-        "DiffBind",
-        "systemPipeR"
+        "DiffBind"
     ],
     "wateRmelon": [],
     "weitrix": [],
