@@ -1201,7 +1201,6 @@
         "HiCcompare"
     ],
     "SpidermiR": [
-        "miRNAtap.db",
         "MAGeCKFlute",
         "clusterProfiler",
         "depmap",
@@ -1237,7 +1236,6 @@
         "SpidermiR",
         "ROCR",
         "MLmetrics",
-        "miRNAtap.db",
         "MAGeCKFlute",
         "clusterProfiler",
         "depmap",
@@ -1517,7 +1515,6 @@
         "ExperimentHub"
     ],
     "sampSurf": [],
-    "miRNAtap.db": [],
     "mclustcomp": [],
     "MLmetrics": [
         "ROCR"
