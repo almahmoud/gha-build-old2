@@ -1,4 +1,3 @@
-compcodeR
 DrugVsDisease
 SCAN.UPC
 ramr
