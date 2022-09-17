@@ -432,7 +432,6 @@
     "scGPS": [],
     "schex": [],
     "scMAGeCK": [],
-    "scMerge": [],
     "scmeth": [],
     "scone": [
         "RUVSeq"
@@ -461,7 +460,6 @@
     ],
     "singleCellTK": [
         "scater",
-        "scMerge",
         "scran",
         "SoupX",
         "celda",
