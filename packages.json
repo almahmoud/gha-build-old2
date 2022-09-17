@@ -32,16 +32,14 @@
     "appreci8R": [
         "MafDb.1Kgenomes.phase3.hs37d5",
         "MafDb.ExAC.r1.0.hs37d5",
-        "MafDb.gnomADex.r2.1.hs37d5",
-        "GenomicScores"
+        "MafDb.gnomADex.r2.1.hs37d5"
     ],
     "ASpediaFI": [
         "mGSZ"
     ],
     "ASURAT": [],
     "ATACseqQC": [
-        "ChIPpeakAnno",
-        "GenomicScores"
+        "ChIPpeakAnno"
     ],
     "autonomics": [],
     "bandle": [
@@ -417,7 +415,6 @@
     "GeneBreak": [],
     "GenomicInteractionNodes": [],
     "GenomicOZone": [],
-    "GenomicScores": [],
     "GenProSeq": [
         "DeepPINCS",
         "ttgsea"
@@ -641,8 +638,7 @@
     ],
     "NADfinder": [
         "ATACseqQC",
-        "ChIPpeakAnno",
-        "GenomicScores"
+        "ChIPpeakAnno"
     ],
     "NBSplice": [
         "mppa"
@@ -742,8 +738,7 @@
         "cgdsr"
     ],
     "primirTSS": [
-        "phastCons100way.UCSC.hg38",
-        "GenomicScores"
+        "phastCons100way.UCSC.hg38"
     ],
     "profileplyr": [],
     "projectR": [],
@@ -771,8 +766,7 @@
     "ramr": [],
     "RAREsim": [],
     "RareVariantVis": [
-        "phastCons100way.UCSC.hg19",
-        "GenomicScores"
+        "phastCons100way.UCSC.hg19"
     ],
     "Rbec": [],
     "Rbwa": [],
@@ -1099,9 +1093,7 @@
         "ttgsea",
         "scuttle"
     ],
-    "VariantFiltering": [
-        "GenomicScores"
-    ],
+    "VariantFiltering": [],
     "velociraptor": [
         "scuttle"
     ],
@@ -1128,15 +1120,9 @@
         "ExperimentHub"
     ],
     "Seurat": [],
-    "MafDb.1Kgenomes.phase3.hs37d5": [
-        "GenomicScores"
-    ],
-    "MafDb.ExAC.r1.0.hs37d5": [
-        "GenomicScores"
-    ],
-    "MafDb.gnomADex.r2.1.hs37d5": [
-        "GenomicScores"
-    ],
+    "MafDb.1Kgenomes.phase3.hs37d5": [],
+    "MafDb.ExAC.r1.0.hs37d5": [],
+    "MafDb.gnomADex.r2.1.hs37d5": [],
     "mGSZ": [],
     "pRolocdata": [],
     "biscuiteerData": [
@@ -1182,16 +1168,12 @@
     "NxtIRFdata": [
         "ExperimentHub"
     ],
-    "phastCons100way.UCSC.hg38": [
-        "GenomicScores"
-    ],
+    "phastCons100way.UCSC.hg38": [],
     "taRifx": [],
     "pwrEWAS.data": [
         "ExperimentHub"
     ],
-    "phastCons100way.UCSC.hg19": [
-        "GenomicScores"
-    ],
+    "phastCons100way.UCSC.hg19": [],
     "rGenomeTracksData": [],
     "RLHub": [
         "ExperimentHub"
