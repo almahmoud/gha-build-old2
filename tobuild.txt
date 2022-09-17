@@ -1,4 +1,3 @@
-customCMPdb
 mirTarRnaSeq
 mitch
 REMP
