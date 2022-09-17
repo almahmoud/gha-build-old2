@@ -1,4 +1,4 @@
-Updating 0b1a8c6..12ff603
+Updating 0b1a8c6..e38e694
 Fast-forward
  lists/ADaCGH2                              |     2 +-
  lists/AMARETTO                             |     1 +
@@ -21,14 +21,14 @@ Fast-forward
  lists/DeepPINCS                            |     1 +
  lists/ENmix                                |     2 +-
  lists/EWCE                                 |     1 +
- lists/ExperimentHubData                    |     2 +-
+ lists/ExperimentHubData                    | 22057 +++++++++++++++++++-
  lists/ExperimentSubset                     |     1 +
  lists/FEAST                                |     1 +
  lists/FlowSOM                              |     2 +-
  lists/GARS                                 |     1 +
  lists/GenProSeq                            |     1 +
  lists/GeomxTools                           |     2 +-
- lists/HiCcompare                           | 18417 ++++++++++++++++-
+ lists/HiCcompare                           |     2 +-
  lists/LRcell                               |     2 +-
  lists/MEAL                                 |     2 +-
  lists/MMUPHin                              |  8288 +++++++-
@@ -50,6 +50,7 @@ Fast-forward
  lists/RNAmodR.RiboMethSeq                  |     2 +-
  lists/RTNsurvival                          |     2 +-
  lists/RareVariantVis                       |     1 +
+ lists/SCATE                                |     1 +
  lists/SCATEData                            |     2 +-
  lists/SIAMCAT                              |     1 +
  lists/SPOTlight                            |     2 +-
@@ -59,6 +60,8 @@ Fast-forward
  lists/SoupX                                |     1 +
  lists/SpatialDecon                         |     1 +
  lists/SpatialExperiment                    |     2 +-
+ lists/SpectralTAD                          |     1 +
+ lists/TADCompare                           |     1 +
  lists/TSCAN                                |     2 +-
  lists/VariantFiltering                     |     2 +-
  lists/adductomicsR                         |     1 +
@@ -76,7 +79,7 @@ Fast-forward
  lists/consensusDE                          |     1 +
  lists/crisprScore                          |  6467 ++++++
  lists/cyanoFilter                          |     2 +-
- lists/dce                                  | 26807 ++++++++++++++++++++++++
+ lists/dce                                  |     1 +
  lists/ddPCRclust                           | 22802 ++++++++++++++++++++-
  lists/depmap                               |     2 +-
  lists/diffcyt                              |     1 +
@@ -86,13 +89,16 @@ Fast-forward
  lists/epiNEM                               |     1 +
  lists/epimutacions                         |     2 +-
  lists/ewceData                             |     2 +-
+ lists/failed/ExperimentHubData             | 22056 ++++++++++++++++++++
  lists/failed/MMUPHin                       |  8287 ++++++++
  lists/failed/Macarron                      | 23741 +++++++++++++++++++++
  lists/failed/brainflowprobes               |     5 +-
  lists/failed/crisprScore                   |  6467 ++++++
  lists/failed/enhancerHomologSearch         | 21093 +++++++++++++++++++
+ lists/failed/pageRank                      | 20881 +++++++++++++++++++
  lists/failed/scater                        | 18052 ++++++++++++++++
  lists/failed/standR                        | 20304 ++++++++++++++++++
+ lists/failed/vissE                         | 23658 +++++++++++++++++++++
  lists/flowCut                              |     2 +-
  lists/ggspavis                             |     1 +
  lists/graper                               |     2 +-
@@ -104,11 +110,12 @@ Fast-forward
  lists/msImpute                             |     1 +
  lists/msigdb                               |     5 +-
  lists/msmsTests                            |     2 +-
+ lists/multiHiCcompare                      |     1 +
  lists/mumosa                               |     1 +
  lists/nempi                                |     1 +
  lists/nnSVG                                |     1 +
  lists/omicade4                             |     2 +-
- lists/pageRank                             |     2 +-
+ lists/pageRank                             | 20882 ++++++++++++++++++-
  lists/pareg                                |     2 +-
  lists/phastCons100way.UCSC.hg19            | 21133 +------------------
  lists/phemd                                |     1 +
@@ -133,11 +140,11 @@ Fast-forward
  lists/spatialDE                            |     1 +
  lists/standR                               | 20304 ++++++++++++++++++
  lists/tenXplore                            |     1 +
- lists/tmp/claimlog                         |   852 +-
+ lists/tmp/claimlog                         |   881 +-
  lists/transcriptR                          |     2 +-
  lists/treekoR                              |     1 +
  lists/velociraptor                         |     2 +-
- lists/vissE                                |     1 +
+ lists/vissE                                | 23658 +++++++++++++++++++++
  logs/run_ids/ADaCGH2                       |     4 +
  logs/run_ids/AMARETTO                      |     2 +
  logs/run_ids/APL                           |     1 +
@@ -153,20 +160,20 @@ Fast-forward
  logs/run_ids/ChIPXpress                    |     5 +
  logs/run_ids/CiteFuse                      |     3 +
  logs/run_ids/CyTOFpower                    |     1 +
- logs/run_ids/CytoTree                      |     2 +
+ logs/run_ids/CytoTree                      |     3 +
  logs/run_ids/DEsingle                      |     4 +
  logs/run_ids/DMRcate                       |     1 +
  logs/run_ids/DeepPINCS                     |     2 +
  logs/run_ids/ENmix                         |     7 +
  logs/run_ids/EWCE                          |     6 +
- logs/run_ids/ExperimentHubData             |     8 +
+ logs/run_ids/ExperimentHubData             |    16 +
  logs/run_ids/ExperimentSubset              |     1 +
  logs/run_ids/FEAST                         |     2 +
  logs/run_ids/FlowSOM                       |     2 +
  logs/run_ids/GARS                          |     5 +
  logs/run_ids/GenProSeq                     |     1 +
  logs/run_ids/GeomxTools                    |     1 +
- logs/run_ids/HiCcompare                    |     6 +
+ logs/run_ids/HiCcompare                    |     7 +
  logs/run_ids/LRcell                        |     4 +
  logs/run_ids/MEAL                          |     4 +
  logs/run_ids/MMUPHin                       |     2 +
@@ -188,6 +195,7 @@ Fast-forward
  logs/run_ids/RNAmodR.RiboMethSeq           |     1 +
  logs/run_ids/RTNsurvival                   |     2 +
  logs/run_ids/RareVariantVis                |     1 +
+ logs/run_ids/SCATE                         |     4 +
  logs/run_ids/SCATEData                     |     6 +
  logs/run_ids/SIAMCAT                       |     2 +
  logs/run_ids/SPOTlight                     |     1 +
@@ -197,15 +205,17 @@ Fast-forward
  logs/run_ids/SoupX                         |     7 +
  logs/run_ids/SpatialDecon                  |     2 +
  logs/run_ids/SpatialExperiment             |     3 +
+ logs/run_ids/SpectralTAD                   |     2 +
+ logs/run_ids/TADCompare                    |     3 +
  logs/run_ids/TSCAN                         |     2 +
  logs/run_ids/VariantFiltering              |     1 +
  logs/run_ids/adductomicsR                  |     4 +
- logs/run_ids/appreci8R                     |     1 +
+ logs/run_ids/appreci8R                     |     5 +
  logs/run_ids/bandle                        |     5 +
  logs/run_ids/bigmelon                      |     1 +
  logs/run_ids/biscuiteer                    |     2 +
  logs/run_ids/biscuiteerData                |     3 +
- logs/run_ids/bnem                          |     1 +
+ logs/run_ids/bnem                          |     2 +
  logs/run_ids/cbaf                          |     1 +
  logs/run_ids/censcyt                       |     2 +
  logs/run_ids/comapr                        |     1 +
@@ -234,11 +244,12 @@ Fast-forward
  logs/run_ids/msImpute                      |     5 +
  logs/run_ids/msigdb                        |     2 +
  logs/run_ids/msmsTests                     |     3 +
+ logs/run_ids/multiHiCcompare               |     2 +
  logs/run_ids/mumosa                        |     3 +
  logs/run_ids/nempi                         |     1 +
  logs/run_ids/nnSVG                         |     4 +
  logs/run_ids/omicade4                      |     1 +
- logs/run_ids/pageRank                      |     6 +
+ logs/run_ids/pageRank                      |     8 +
  logs/run_ids/pareg                         |     1 +
  logs/run_ids/phastCons100way.UCSC.hg19     |     1 +
  logs/run_ids/phemd                         |     3 +
@@ -264,12 +275,12 @@ Fast-forward
  logs/run_ids/standR                        |     3 +
  logs/run_ids/tenXplore                     |     1 +
  logs/run_ids/transcriptR                   |     4 +
- logs/run_ids/treekoR                       |     1 +
+ logs/run_ids/treekoR                       |     2 +
  logs/run_ids/velociraptor                  |     3 +
- logs/run_ids/vissE                         |     2 +
- packages.json                              |   283 +-
+ logs/run_ids/vissE                         |     4 +
+ packages.json                              |   287 +-
  tobuild.txt                                |    62 -
- 269 files changed, 383245 insertions(+), 45061 deletions(-)
+ 280 files changed, 471269 insertions(+), 45071 deletions(-)
  create mode 100644 lists/AMARETTO
  create mode 100644 lists/APL
  create mode 100644 lists/AgiMicroRna
@@ -291,10 +302,13 @@ Fast-forward
  create mode 100644 lists/NxtIRFcore
  create mode 100644 lists/RLSeq
  create mode 100644 lists/RareVariantVis
+ create mode 100644 lists/SCATE
  create mode 100644 lists/SIAMCAT
  create mode 100644 lists/SingleCellSignalR
  create mode 100644 lists/SoupX
  create mode 100644 lists/SpatialDecon
+ create mode 100644 lists/SpectralTAD
+ create mode 100644 lists/TADCompare
  create mode 100644 lists/adductomicsR
  create mode 100644 lists/appreci8R
  create mode 100644 lists/biscuiteer
@@ -307,16 +321,20 @@ Fast-forward
  create mode 100644 lists/diffcyt
  create mode 100644 lists/easier
  create mode 100644 lists/epiNEM
+ create mode 100644 lists/failed/ExperimentHubData
  create mode 100644 lists/failed/MMUPHin
  create mode 100644 lists/failed/Macarron
  create mode 100644 lists/failed/crisprScore
  create mode 100644 lists/failed/enhancerHomologSearch
+ create mode 100644 lists/failed/pageRank
  create mode 100644 lists/failed/scater
  create mode 100644 lists/failed/standR
+ create mode 100644 lists/failed/vissE
  create mode 100644 lists/ggspavis
  create mode 100644 lists/imcRtools
  create mode 100644 lists/mnem
  create mode 100644 lists/msImpute
+ create mode 100644 lists/multiHiCcompare
  create mode 100644 lists/mumosa
  create mode 100644 lists/nempi
  create mode 100644 lists/nnSVG
@@ -379,11 +397,14 @@ Fast-forward
  create mode 100644 logs/run_ids/RNAmodR.RiboMethSeq
  create mode 100644 logs/run_ids/RTNsurvival
  create mode 100644 logs/run_ids/RareVariantVis
+ create mode 100644 logs/run_ids/SCATE
  create mode 100644 logs/run_ids/SCATEData
  create mode 100644 logs/run_ids/SingleCellSignalR
  create mode 100644 logs/run_ids/SoupX
  create mode 100644 logs/run_ids/SpatialDecon
  create mode 100644 logs/run_ids/SpatialExperiment
+ create mode 100644 logs/run_ids/SpectralTAD
+ create mode 100644 logs/run_ids/TADCompare
  create mode 100644 logs/run_ids/VariantFiltering
  create mode 100644 logs/run_ids/adductomicsR
  create mode 100644 logs/run_ids/appreci8R
@@ -413,6 +434,7 @@ Fast-forward
  create mode 100644 logs/run_ids/m6Aboost
  create mode 100644 logs/run_ids/mnem
  create mode 100644 logs/run_ids/msImpute
+ create mode 100644 logs/run_ids/multiHiCcompare
  create mode 100644 logs/run_ids/mumosa
  create mode 100644 logs/run_ids/nempi
  create mode 100644 logs/run_ids/nnSVG
@@ -446,7 +468,6 @@ ctgGEM_1.7.0_R_x86_64-pc-linux-gnu.tar.gz
 RBGL/old_boost/rbgl_trimmed_boost_1_49_0.tar.gz
 CytoML_2.8.1_R_x86_64-pc-linux-gnu.tar.gz
 RBGL/old_boost/rbgl_trimmed_boost_1_49_0.tar.gz
-RBGL/old_boost/rbgl_trimmed_boost_1_49_0.tar.gz
 deco_1.12.0_R_x86_64-pc-linux-gnu.tar.gz
 Dino_1.2.0_R_x86_64-pc-linux-gnu.tar.gz
 DropletUtils_1.16.0_R_x86_64-pc-linux-gnu.tar.gz
@@ -465,7 +486,5 @@ scMAGeCK_1.8.0_R_x86_64-pc-linux-gnu.tar.gz
 SPONGE_1.18.1_R_x86_64-pc-linux-gnu.tar.gz
 UniProt.ws_2.36.5_R_x86_64-pc-linux-gnu.tar.gz
 RBGL/old_boost/rbgl_trimmed_boost_1_49_0.tar.gz
-[main 856c226] Adding tobuild list
- 11 files changed, 20 insertions(+), 18424 deletions(-)
- rewrite lists/HiCcompare (99%)
- create mode 100644 lists/SCATE
+[main 5b2e256] Adding tobuild list
+ 2 files changed, 2 insertions(+), 1 deletion(-)
