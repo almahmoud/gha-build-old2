@@ -54,9 +54,7 @@
         "Seurat",
         "dearseq"
     ],
-    "bigmelon": [
-        "wateRmelon"
-    ],
+    "bigmelon": [],
     "bioCancer": [
         "clusterProfiler"
     ],
@@ -128,8 +126,7 @@
     ],
     "CGHnormaliter": [],
     "ChAMP": [
-        "DMRcate",
-        "wateRmelon"
+        "DMRcate"
     ],
     "CHETAH": [],
     "ChIC": [],
@@ -415,9 +412,7 @@
     "MAI": [],
     "MatrixRider": [],
     "MEAL": [],
-    "MEAT": [
-        "wateRmelon"
-    ],
+    "MEAT": [],
     "MetaboAnnotation": [],
     "MetaboSignal": [],
     "MetaCyto": [
@@ -778,9 +773,7 @@
     "SingleMoleculeFootprinting": [
         "QuasR"
     ],
-    "skewr": [
-        "wateRmelon"
-    ],
+    "skewr": [],
     "snapCGH": [],
     "sojourner": [
         "sampSurf"
@@ -908,7 +901,6 @@
     "vulcan": [
         "DiffBind"
     ],
-    "wateRmelon": [],
     "weitrix": [],
     "Xeva": [
         "PharmacoGx"
