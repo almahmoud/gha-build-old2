@@ -338,7 +338,6 @@
         "clusterProfiler"
     ],
     "FastqCleaner": [],
-    "fastreeR": [],
     "fcoex": [
         "clusterProfiler"
     ],
@@ -665,7 +664,6 @@
     ],
     "POMA": [],
     "PPInfer": [],
-    "preciseTAD": [],
     "PrecisionTrialDrawer": [
         "cgdsr"
     ],
