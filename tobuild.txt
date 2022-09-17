@@ -1,4 +1,3 @@
-GateFinder
 kissDE
 STdeconvolve
 compcodeR
