@@ -1,4 +1,3 @@
-PeacoQC
 GenomicOZone
 iCheck
 TargetSearch
