@@ -391,7 +391,6 @@
     "MEAL": [],
     "MEAT": [],
     "MetaboAnnotation": [],
-    "MetaboSignal": [],
     "MetaCyto": [
         "FlowSOM"
     ],
@@ -521,7 +520,6 @@
         "clusterProfiler"
     ],
     "pareg": [],
-    "PDATK": [],
     "pdInfoBuilder": [],
     "PeacoQC": [],
     "peco": [
@@ -563,7 +561,6 @@
     "pRolocGUI": [],
     "Prostar": [],
     "protGear": [],
-    "psichomics": [],
     "pulsedSilac": [
         "taRifx"
     ],
