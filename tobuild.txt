@@ -1,4 +1,3 @@
-coMethDMR
 dmrseq
 sesameData
 dagLogo
