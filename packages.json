@@ -293,9 +293,7 @@
     "pulsedSilac": [
         "taRifx"
     ],
-    "pwrEWAS": [
-        "pwrEWAS.data"
-    ],
+    "pwrEWAS": [],
     "qpgraph": [],
     "QuasR": [],
     "RadioGx": [],
@@ -436,7 +434,6 @@
     ],
     "mppa": [],
     "taRifx": [],
-    "pwrEWAS.data": [],
     "phastCons100way.UCSC.hg19": [],
     "SCATEData": [],
     "mlr3tuning": [],
