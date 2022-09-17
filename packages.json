@@ -371,9 +371,7 @@
     "nnSVG": [
         "SpatialExperiment"
     ],
-    "NxtIRFcore": [
-        "NxtIRFdata"
-    ],
+    "NxtIRFcore": [],
     "omicade4": [],
     "omicRexposome": [
         "omicade4"
@@ -650,7 +648,6 @@
         "ExperimentHubData"
     ],
     "mppa": [],
-    "NxtIRFdata": [],
     "phastCons100way.UCSC.hg38": [],
     "taRifx": [],
     "pwrEWAS.data": [],
