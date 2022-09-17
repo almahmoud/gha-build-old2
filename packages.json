@@ -8,8 +8,7 @@
     "AMARETTO": [],
     "APL": [],
     "appreci8R": [
-        "MafDb.1Kgenomes.phase3.hs37d5",
-        "MafDb.gnomADex.r2.1.hs37d5"
+        "MafDb.1Kgenomes.phase3.hs37d5"
     ],
     "ASpediaFI": [
         "mGSZ"
@@ -503,7 +502,6 @@
         "PharmacoGx"
     ],
     "MafDb.1Kgenomes.phase3.hs37d5": [],
-    "MafDb.gnomADex.r2.1.hs37d5": [],
     "mGSZ": [],
     "iCluster": [],
     "colortools": [],
