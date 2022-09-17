@@ -1,4 +1,3 @@
-biodbExpasy
 NewWave
 EGAD
 borealis
