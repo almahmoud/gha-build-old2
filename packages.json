@@ -549,7 +549,6 @@
     "ngsReports": [],
     "nnSVG": [
         "SpatialExperiment",
-        "BRISC",
         "scuttle"
     ],
     "nondetects": [],
@@ -969,7 +968,6 @@
     ],
     "cvms": [],
     "mppa": [],
-    "BRISC": [],
     "NxtIRFdata": [],
     "phastCons100way.UCSC.hg38": [],
     "taRifx": [],
