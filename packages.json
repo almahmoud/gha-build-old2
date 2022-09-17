@@ -1,7 +1,5 @@
 {
-    "ADaCGH2": [
-        "snapCGH"
-    ],
+    "ADaCGH2": [],
     "adductomicsR": [
         "adductData"
     ],
@@ -54,9 +52,7 @@
         "Seurat",
         "dearseq"
     ],
-    "bigmelon": [
-        "wateRmelon"
-    ],
+    "bigmelon": [],
     "bioCancer": [
         "clusterProfiler"
     ],
@@ -128,8 +124,7 @@
     ],
     "CGHnormaliter": [],
     "ChAMP": [
-        "DMRcate",
-        "wateRmelon"
+        "DMRcate"
     ],
     "CHETAH": [],
     "ChIC": [],
@@ -394,7 +389,6 @@
     "ITALICS": [],
     "KnowSeq": [],
     "limmaGUI": [],
-    "lineagespot": [],
     "Linnorm": [],
     "lipidr": [],
     "LowMACA": [
@@ -415,9 +409,7 @@
     "MAI": [],
     "MatrixRider": [],
     "MEAL": [],
-    "MEAT": [
-        "wateRmelon"
-    ],
+    "MEAT": [],
     "MetaboAnnotation": [],
     "MetaboSignal": [],
     "MetaCyto": [
@@ -778,10 +770,7 @@
     "SingleMoleculeFootprinting": [
         "QuasR"
     ],
-    "skewr": [
-        "wateRmelon"
-    ],
-    "snapCGH": [],
+    "skewr": [],
     "sojourner": [
         "sampSurf"
     ],
@@ -878,7 +867,6 @@
         "FlowSOM"
     ],
     "TREG": [],
-    "trena": [],
     "tricycle": [
         "scater",
         "scuttle"
@@ -908,7 +896,6 @@
     "vulcan": [
         "DiffBind"
     ],
-    "wateRmelon": [],
     "weitrix": [],
     "Xeva": [
         "PharmacoGx"
