@@ -1,10 +1,10 @@
-Updating d89fcdd..79f2191
+Updating d89fcdd..992714d
 Fast-forward
- lists/appreci8R        | 26267 ++++++++++++++++++++++++++++++++++++++++++++++-
- lists/failed/appreci8R | 26266 ++++++++++++++++++++++++++++++++++++++++++++++
+ lists/appreci8R        | 26268 ++++++++++++++++++++++++++++++++++++++++++++++-
+ lists/failed/appreci8R | 26267 ++++++++++++++++++++++++++++++++++++++++++++++
  lists/tmp/claimlog     |    17 +-
  logs/run_ids/appreci8R |     1 +
- 4 files changed, 52544 insertions(+), 7 deletions(-)
+ 4 files changed, 52546 insertions(+), 7 deletions(-)
  create mode 100644 lists/failed/appreci8R
 BASiCS_2.8.0_R_x86_64-pc-linux-gnu.tar.gz
 batchelor_1.12.3_R_x86_64-pc-linux-gnu.tar.gz
