@@ -257,7 +257,6 @@
     "GDCRNATools": [
         "clusterProfiler"
     ],
-    "GenomicOZone": [],
     "GenProSeq": [
         "DeepPINCS",
         "ttgsea"
