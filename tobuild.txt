@@ -1,6 +1,3 @@
-SPOTlight
-MuData
-graper
 ENmix
 pareg
 DEsingle
