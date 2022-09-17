@@ -1,8 +1,4 @@
-Updating 837290e..40680c4
-Fast-forward
- lists/MSstatsSampleSize        | 5 ++++-
- lists/failed/MSstatsSampleSize | 5 ++++-
- 2 files changed, 8 insertions(+), 2 deletions(-)
+Already up to date.
 BiocGenerics/CITATION
 BiocGenerics/DESCRIPTION
 BiocGenerics/INDEX
