@@ -1,7 +1,5 @@
 {
-    "ADaCGH2": [
-        "snapCGH"
-    ],
+    "ADaCGH2": [],
     "adductomicsR": [
         "adductData"
     ],
@@ -391,7 +389,6 @@
     "ITALICS": [],
     "KnowSeq": [],
     "limmaGUI": [],
-    "lineagespot": [],
     "Linnorm": [],
     "lipidr": [],
     "LowMACA": [
@@ -774,7 +771,6 @@
         "QuasR"
     ],
     "skewr": [],
-    "snapCGH": [],
     "sojourner": [
         "sampSurf"
     ],
