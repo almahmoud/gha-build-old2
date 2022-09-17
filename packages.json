@@ -180,12 +180,8 @@
         "qpgraph"
     ],
     "clusterProfiler": [],
-    "CNVfilteR": [
-        "CopyNumberPlots"
-    ],
-    "CNViz": [
-        "CopyNumberPlots"
-    ],
+    "CNVfilteR": [],
+    "CNViz": [],
     "CNVMetrics": [],
     "COCOA": [],
     "comapr": [],
@@ -211,7 +207,6 @@
         "EDASeq",
         "RUVSeq"
     ],
-    "CopyNumberPlots": [],
     "CopywriteR": [],
     "COTAN": [],
     "crisprBase": [],
