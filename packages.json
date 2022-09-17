@@ -1,10 +1,7 @@
 {
     "ADaCGH2": [],
     "adductomicsR": [],
-    "affycoretools": [],
-    "AgiMicroRna": [
-        "affycoretools"
-    ],
+    "AgiMicroRna": [],
     "airpart": [
         "scater"
     ],
