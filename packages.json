@@ -209,7 +209,6 @@
     "compEpiTools": [
         "methylPipe"
     ],
-    "CompoundDb": [],
     "conclus": [
         "scran",
         "scater",
@@ -338,7 +337,6 @@
         "ExperimentHub"
     ],
     "EDASeq": [],
-    "edge": [],
     "eegc": [
         "clusterProfiler"
     ],
