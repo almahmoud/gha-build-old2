@@ -1,9 +1,4 @@
-Updating 4ee047e9..3b8fa744
-Fast-forward
- lists/spsUtil    | 508 ++++++++++++++++++++++++++++++++++++++++++++++++++++++-
- logs/spsUtil.out |   5 +
- 2 files changed, 512 insertions(+), 1 deletion(-)
- create mode 100644 logs/spsUtil.out
+Already up to date.
 assertthat/DESCRIPTION
 assertthat/INDEX
 assertthat/Meta/
