@@ -1,11 +1,4 @@
-Updating d89fcdd..3a96153
-Fast-forward
- lists/appreci8R        | 26267 ++++++++++++++++++++++++++++++++++++++++++++++-
- lists/failed/appreci8R | 26266 ++++++++++++++++++++++++++++++++++++++++++++++
- lists/tmp/claimlog     |    17 +-
- logs/run_ids/appreci8R |     1 +
- 4 files changed, 52544 insertions(+), 7 deletions(-)
- create mode 100644 lists/failed/appreci8R
+Already up to date.
 BASiCS_2.8.0_R_x86_64-pc-linux-gnu.tar.gz
 batchelor_1.12.3_R_x86_64-pc-linux-gnu.tar.gz
 BioTIP_1.10.0_R_x86_64-pc-linux-gnu.tar.gz
