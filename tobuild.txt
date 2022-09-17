@@ -1,4 +1,3 @@
-CHETAH
 HubPub
 psichomics
 monaLisa
