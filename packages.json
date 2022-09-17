@@ -403,7 +403,6 @@
     "miRspongeR": [
         "clusterProfiler"
     ],
-    "mitch": [],
     "MMUPHin": [],
     "mnem": [
         "Linnorm"
@@ -413,7 +412,6 @@
     "MoonlightR": [
         "clusterProfiler"
     ],
-    "MSA2dist": [],
     "MsBackendMsp": [],
     "msImpute": [
         "scran",
