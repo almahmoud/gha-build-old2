@@ -11,8 +11,7 @@
         "ReportingTools"
     ],
     "airpart": [
-        "scater",
-        "scuttle"
+        "scater"
     ],
     "AMARETTO": [
         "curatedTCGAData"
@@ -31,20 +30,14 @@
     ],
     "ASURAT": [],
     "ATACseqQC": [],
-    "bandle": [
-        "pRolocdata"
-    ],
+    "bandle": [],
     "BASiCS": [
-        "scran",
-        "scuttle"
+        "scran"
     ],
-    "batchelor": [
-        "scuttle"
-    ],
+    "batchelor": [],
     "BayesSpace": [
         "scater",
-        "scran",
-        "scuttle"
+        "scran"
     ],
     "benchdamic": [
         "Seurat",
@@ -60,8 +53,7 @@
     "biodbNci": [],
     "BioNERO": [],
     "BioTIP": [
-        "scran",
-        "scuttle"
+        "scran"
     ],
     "biscuiteer": [
         "biscuiteerData",
@@ -83,8 +75,7 @@
     ],
     "CATALYST": [
         "FlowSOM",
-        "scater",
-        "scuttle"
+        "scater"
     ],
     "cbaf": [
         "cBioPortalData"
@@ -93,17 +84,14 @@
     "cBioPortalData": [],
     "celda": [
         "scater",
-        "scran",
-        "scuttle"
+        "scran"
     ],
     "CelliD": [
         "Seurat",
-        "scater",
-        "scuttle"
+        "scater"
     ],
     "CellMixS": [
-        "scater",
-        "scuttle"
+        "scater"
     ],
     "CEMiTool": [
         "clusterProfiler"
@@ -126,13 +114,11 @@
     "ChIPXpress": [],
     "ChromSCape": [
         "scran",
-        "scater",
-        "scuttle"
+        "scater"
     ],
     "CINdex": [],
     "CiteFuse": [
-        "scran",
-        "scuttle"
+        "scran"
     ],
     "clipper": [
         "qpgraph"
@@ -149,12 +135,10 @@
     "conclus": [
         "scran",
         "scater",
-        "clusterProfiler",
-        "scuttle"
+        "clusterProfiler"
     ],
     "condiments": [
-        "scater",
-        "scuttle"
+        "scater"
     ],
     "consensusDE": [
         "RUVSeq"
@@ -209,18 +193,14 @@
     "DifferentialRegulation": [],
     "Dino": [
         "Seurat",
-        "scran",
-        "scuttle"
+        "scran"
     ],
     "distinct": [
-        "scater",
-        "scuttle"
+        "scater"
     ],
     "DMRcate": [],
     "dmrseq": [],
-    "DropletUtils": [
-        "scuttle"
-    ],
+    "DropletUtils": [],
     "drugTargetInteractions": [],
     "Dune": [],
     "easier": [
@@ -256,8 +236,7 @@
     ],
     "ExperimentHubData": [],
     "ExperimentSubset": [
-        "SpatialExperiment",
-        "scuttle"
+        "SpatialExperiment"
     ],
     "famat": [
         "MPINet",
@@ -271,7 +250,6 @@
     ],
     "FLAMES": [
         "scater",
-        "scuttle",
         "scran"
     ],
     "flowCL": [
@@ -300,8 +278,7 @@
     "GeomxTools": [],
     "ggmsa": [],
     "ggspavis": [
-        "SpatialExperiment",
-        "scuttle"
+        "SpatialExperiment"
     ],
     "gpart": [],
     "gprege": [
@@ -320,16 +297,14 @@
     "iCheck": [],
     "imageHTS": [],
     "imcRtools": [
-        "SpatialExperiment",
-        "scuttle"
+        "SpatialExperiment"
     ],
     "IRISFGM": [
         "DEsingle",
         "Seurat",
         "clusterProfiler",
         "scater",
-        "scran",
-        "scuttle"
+        "scran"
     ],
     "ISAnalytics": [],
     "IsoformSwitchAnalyzeR": [],
@@ -377,13 +352,11 @@
         "clusterProfiler"
     ],
     "mia": [
-        "scuttle",
         "scater"
     ],
     "miaSim": [],
     "miaViz": [
-        "scater",
-        "scuttle"
+        "scater"
     ],
     "MicrobiomeProfiler": [
         "clusterProfiler"
@@ -406,8 +379,7 @@
     ],
     "MsBackendMsp": [],
     "msImpute": [
-        "scran",
-        "scuttle"
+        "scran"
     ],
     "msmsTests": [],
     "MSnID": [
@@ -424,12 +396,10 @@
         "clusterProfiler"
     ],
     "mumosa": [
-        "scuttle",
         "scran"
     ],
     "muscat": [
-        "scater",
-        "scuttle"
+        "scater"
     ],
     "NADfinder": [
         "ATACseqQC"
@@ -450,14 +420,12 @@
         "clusterProfiler"
     ],
     "netSmooth": [
-        "scater",
-        "scuttle"
+        "scater"
     ],
     "NewWave": [],
     "ngsReports": [],
     "nnSVG": [
-        "SpatialExperiment",
-        "scuttle"
+        "SpatialExperiment"
     ],
     "nondetects": [],
     "NxtIRFcore": [
@@ -476,8 +444,7 @@
     "pdInfoBuilder": [],
     "PeacoQC": [],
     "peco": [
-        "scater",
-        "scuttle"
+        "scater"
     ],
     "PFP": [
         "clusterProfiler"
@@ -493,8 +460,7 @@
     "pipeComp": [
         "Seurat",
         "scran",
-        "scater",
-        "scuttle"
+        "scater"
     ],
     "plethy": [],
     "pogos": [
@@ -571,27 +537,22 @@
     "SCATE": [
         "SCATEData"
     ],
-    "scater": [
-        "scuttle"
-    ],
+    "scater": [],
     "scBFA": [
         "Seurat"
     ],
     "scCB2": [
-        "Seurat",
-        "scuttle"
+        "Seurat"
     ],
     "scDataviz": [
         "Seurat"
     ],
     "scDblFinder": [
         "scran",
-        "scater",
-        "scuttle"
+        "scater"
     ],
     "scDD": [
-        "scran",
-        "scuttle"
+        "scran"
     ],
     "scGPS": [],
     "schex": [
@@ -600,19 +561,15 @@
     "scMAGeCK": [
         "Seurat"
     ],
-    "scmap": [],
     "scMerge": [],
     "scmeth": [],
     "scone": [
         "RUVSeq"
     ],
     "scPipe": [
-        "scater",
-        "scuttle"
+        "scater"
     ],
-    "scran": [
-        "scuttle"
-    ],
+    "scran": [],
     "scRecover": [],
     "scTensor": [
         "Seurat"
@@ -623,10 +580,8 @@
     "scTreeViz": [
         "scran",
         "scater",
-        "Seurat",
-        "scuttle"
+        "Seurat"
     ],
-    "scuttle": [],
     "segmenter": [],
     "SeqSQC": [],
     "sesame": [
@@ -642,8 +597,7 @@
     ],
     "signeR": [],
     "SingleCellSignalR": [
-        "scran",
-        "scuttle"
+        "scran"
     ],
     "singleCellTK": [
         "celldex",
@@ -656,8 +610,7 @@
         "scRNAseq",
         "TENxPBMCData",
         "scDblFinder",
-        "TSCAN",
-        "scuttle"
+        "TSCAN"
     ],
     "SingleMoleculeFootprinting": [
         "QuasR"
@@ -669,22 +622,17 @@
     "Spaniel": [
         "Seurat",
         "scater",
-        "scran",
-        "scuttle"
+        "scran"
     ],
     "spatialDE": [
-        "SpatialExperiment",
-        "scuttle"
+        "SpatialExperiment"
     ],
     "SpatialDecon": [
         "GeomxTools"
     ],
-    "SpatialExperiment": [
-        "scuttle"
-    ],
+    "SpatialExperiment": [],
     "spatialHeatmap": [
         "scater",
-        "scuttle",
         "scran"
     ],
     "spatzie": [],
@@ -697,8 +645,7 @@
         "depmap"
     ],
     "splatter": [
-        "scater",
-        "scuttle"
+        "scater"
     ],
     "SPONGE": [],
     "SPOTlight": [],
@@ -706,8 +653,7 @@
     "ssPATHS": [],
     "STAN": [],
     "standR": [
-        "SpatialExperiment",
-        "scuttle"
+        "SpatialExperiment"
     ],
     "StarBioTrek": [
         "SpidermiR",
@@ -749,8 +695,7 @@
         "FlowSOM"
     ],
     "tricycle": [
-        "scater",
-        "scuttle"
+        "scater"
     ],
     "tRNAscanImport": [],
     "TRONCO": [],
@@ -762,13 +707,10 @@
     "VAExprs": [
         "scater",
         "DeepPINCS",
-        "ttgsea",
-        "scuttle"
+        "ttgsea"
     ],
     "VariantFiltering": [],
-    "velociraptor": [
-        "scuttle"
-    ],
+    "velociraptor": [],
     "vissE": [
         "msigdb"
     ],
@@ -787,7 +729,6 @@
     "MafDb.ExAC.r1.0.hs37d5": [],
     "MafDb.gnomADex.r2.1.hs37d5": [],
     "mGSZ": [],
-    "pRolocdata": [],
     "biscuiteerData": [],
     "iCluster": [],
     "colortools": [],
