@@ -148,7 +148,6 @@
     "clusterProfiler": [],
     "CNVfilteR": [],
     "CNViz": [],
-    "CNVMetrics": [],
     "COCOA": [],
     "comapr": [],
     "coMET": [
@@ -169,7 +168,6 @@
     "consensusDE": [
         "RUVSeq"
     ],
-    "CopywriteR": [],
     "crisprBowtie": [],
     "crisprBwa": [
         "Rbwa"
@@ -350,7 +348,6 @@
     ],
     "GUIDEseq": [],
     "HiCcompare": [],
-    "HPiP": [],
     "HubPub": [],
     "iCheck": [],
     "imageHTS": [],
@@ -680,7 +677,6 @@
     "scone": [
         "RUVSeq"
     ],
-    "scPCA": [],
     "scPipe": [
         "scater",
         "scuttle"
