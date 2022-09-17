@@ -1,4 +1,3 @@
-KnowSeq
 rGenomeTracksData
 updateObject
 MSstatsPTM
