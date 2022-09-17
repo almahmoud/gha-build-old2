@@ -31,9 +31,7 @@
     ],
     "ASURAT": [],
     "ATACseqQC": [],
-    "bandle": [
-        "pRolocdata"
-    ],
+    "bandle": [],
     "BASiCS": [
         "scran",
         "scuttle"
@@ -786,7 +784,6 @@
     "MafDb.ExAC.r1.0.hs37d5": [],
     "MafDb.gnomADex.r2.1.hs37d5": [],
     "mGSZ": [],
-    "pRolocdata": [],
     "biscuiteerData": [],
     "iCluster": [],
     "colortools": [],
