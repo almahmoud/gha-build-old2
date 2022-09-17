@@ -1,4 +1,3 @@
-GSCA
 shinyepico
 VplotR
 CINdex
