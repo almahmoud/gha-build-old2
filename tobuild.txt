@@ -1,4 +1,3 @@
-DMRcate
 CNVfilteR
 RTNsurvival
 RNAmodR.RiboMethSeq
