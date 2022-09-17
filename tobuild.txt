@@ -1,4 +1,3 @@
-ChAMP
 phastCons100way.UCSC.hg19
 ribosomeProfilingQC
 AgiMicroRna
