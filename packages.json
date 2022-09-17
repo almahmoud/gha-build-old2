@@ -141,9 +141,7 @@
         "clusterProfiler"
     ],
     "deco": [],
-    "DeepPINCS": [
-        "ttgsea"
-    ],
+    "DeepPINCS": [],
     "DEGreport": [
         "lasso2"
     ],
@@ -218,8 +216,7 @@
         "clusterProfiler"
     ],
     "GenProSeq": [
-        "DeepPINCS",
-        "ttgsea"
+        "DeepPINCS"
     ],
     "GenVisR": [
         "FField"
@@ -455,7 +452,6 @@
         "scran",
         "SoupX",
         "celda",
-        "scRNAseq",
         "scDblFinder",
         "TSCAN"
     ],
@@ -532,14 +528,12 @@
         "scater"
     ],
     "TSCAN": [],
-    "ttgsea": [],
     "UCell": [],
     "UniProt.ws": [],
     "uSORT": [],
     "VAExprs": [
         "scater",
-        "DeepPINCS",
-        "ttgsea"
+        "DeepPINCS"
     ],
     "VariantFiltering": [],
     "velociraptor": [],
@@ -579,7 +573,6 @@
     "SCATEData": [],
     "mlr3tuning": [],
     "SoupX": [],
-    "scRNAseq": [],
     "sampSurf": [],
     "GenKern": [],
     "vbsr": [],
