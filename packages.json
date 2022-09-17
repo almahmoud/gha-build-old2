@@ -688,16 +688,14 @@
         "cvms",
         "MetBrewer",
         "parameters",
-        "rearrr",
-        "bayestestR"
+        "rearrr"
     ],
     "miRspongeR": [
         "clusterProfiler",
         "cvms",
         "MetBrewer",
         "parameters",
-        "rearrr",
-        "bayestestR"
+        "rearrr"
     ],
     "mirTarRnaSeq": [],
     "missMethyl": [],
@@ -1194,8 +1192,7 @@
         "cvms",
         "MetBrewer",
         "parameters",
-        "rearrr",
-        "bayestestR"
+        "rearrr"
     ],
     "SPOTlight": [],
     "sRACIPE": [],
@@ -1410,15 +1407,11 @@
     ],
     "cvms": [
         "parameters",
-        "rearrr",
-        "bayestestR"
+        "rearrr"
     ],
     "MetBrewer": [],
-    "parameters": [
-        "bayestestR"
-    ],
+    "parameters": [],
     "rearrr": [],
-    "bayestestR": [],
     "mppa": [],
     "BRISC": [],
     "NxtIRFdata": [
