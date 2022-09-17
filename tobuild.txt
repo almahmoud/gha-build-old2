@@ -1,4 +1,3 @@
-cvTools
 pwOmics
 SPARQL
 RCyjs
