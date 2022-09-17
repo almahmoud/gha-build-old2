@@ -1,6 +1,3 @@
-CopywriteR
-scPCA
-aroma.affymetrix
 MatrixRider
 colortools
 CNVMetrics
