@@ -15,7 +15,6 @@
     "bioCancer": [
         "clusterProfiler"
     ],
-    "brainflowprobes": [],
     "CancerSubtypes": [
         "iCluster"
     ],
