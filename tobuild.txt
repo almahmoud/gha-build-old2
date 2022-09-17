@@ -1,4 +1,3 @@
-edge
 supersigs
 shinyMethyl
 biodbExpasy
