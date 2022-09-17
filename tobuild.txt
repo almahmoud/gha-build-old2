@@ -1,4 +1,3 @@
-eiR
 spiky
 Seurat
 branchpointer
