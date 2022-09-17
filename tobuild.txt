@@ -1,4 +1,3 @@
-kissDE
 ChIPpeakAnno
 SubCellBarCode
 epimutacionsData
