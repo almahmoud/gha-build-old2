@@ -1,4 +1,3 @@
-ChIC
 metaseqR2
 easierData
 RLHub
