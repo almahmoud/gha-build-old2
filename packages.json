@@ -340,7 +340,6 @@
     "eegc": [
         "clusterProfiler"
     ],
-    "EGAD": [],
     "eiR": [],
     "enhancerHomologSearch": [
         "motifmatchr"
