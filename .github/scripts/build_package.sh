@@ -22,6 +22,6 @@ then sleep 5 && if ! git clone https://git.bioconductor.org/packages/$PKG
         fi
     fi
 fi
-if [ $CLONED = 0 ]; then Rscript -e "p <- .libPaths(); p <- c('$LIBRARY', p); .libPaths(p); if(install.packages('$(pwd)/$PKG', INSTALL_opts = '--build', update = TRUE, quiet = FALSE, force = TRUE, keep_outputs = TRUE, type = 'source', repos = NULL) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)"; fi
+if [ $CLONED = 0 ]; then Rscript -e "p <- .libPaths(); p <- c('$LIBRARY', p); .libPaths(p); if(BiocManager::install('$(pwd)/$PKG', INSTALL_opts = '--build', update = TRUE, quiet = FALSE, force = TRUE, keep_outputs = TRUE, type = 'source', repos = NULL) %in% rownames(installed.packages())) q(status = 0) else q(status = 1)"; fi
 cp *.tar.gz /tmp/tars/
 cp *.out /tmp/logs/
