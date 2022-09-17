@@ -165,9 +165,7 @@
         "scater",
         "scuttle"
     ],
-    "cellTree": [
-        "topicmodels"
-    ],
+    "cellTree": [],
     "cellxgenedp": [],
     "CEMiTool": [
         "clusterProfiler"
@@ -761,9 +759,7 @@
         "scater",
         "scuttle"
     ],
-    "musicatk": [
-        "topicmodels"
-    ],
+    "musicatk": [],
     "NADfinder": [
         "ATACseqQC",
         "ChIPpeakAnno",
@@ -1222,9 +1218,7 @@
         "depmap",
         "ExperimentHub"
     ],
-    "STdeconvolve": [
-        "topicmodels"
-    ],
+    "STdeconvolve": [],
     "Streamer": [],
     "STROMA4": [],
     "SubCellBarCode": [],
@@ -1374,7 +1368,6 @@
     ],
     "GenomicState": [],
     "iCluster": [],
-    "topicmodels": [],
     "ChIC.data": [],
     "ggVennDiagram": [],
     "ChIPXpressData": [],
