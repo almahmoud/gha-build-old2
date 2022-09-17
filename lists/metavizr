@@ -1,7 +1,4 @@
-Updating b4dff04..ddda4ac
-Fast-forward
- logs/run_ids/IsoformSwitchAnalyzeR | 1 +
- 1 file changed, 1 insertion(+)
+Already up to date.
 metagenomeSeq/CITATION
 metagenomeSeq/DESCRIPTION
 metagenomeSeq/Dockerfile
