@@ -1,4 +1,3 @@
-ggspavis
 sesame
 scAnnotatR
 ChIPXpress
