@@ -1,11 +1,9 @@
-FEAST
 GenProSeq
 compEpiTools
 SpatialDecon
 epiNEM
 EWCE
 diffcyt
-phastCons100way.UCSC.hg19
 vissE
 MethReg
 enhancerHomologSearch
