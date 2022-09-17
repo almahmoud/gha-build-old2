@@ -1,4 +1,3 @@
-spatzie
 mppa
 crisprBwa
 ToxicoGx
