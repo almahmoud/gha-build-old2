@@ -660,7 +660,6 @@
     "TADCompare": [
         "HiCcompare"
     ],
-    "TargetSearch": [],
     "TCGAbiolinksGUI": [
         "clusterProfiler",
         "sesame",
