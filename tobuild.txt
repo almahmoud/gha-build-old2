@@ -1,5 +1,3 @@
-mclustcomp
-glmSparseNet
 MSstatsSampleSize
 ffpe
 isotree
