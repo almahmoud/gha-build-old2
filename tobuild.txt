@@ -1,4 +1,3 @@
-LinTInd
 iCOBRA
 regutools
 a4
