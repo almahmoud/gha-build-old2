@@ -1,4 +1,3 @@
-projectR
 extraChIPs
 BRISC
 tomoseqr
