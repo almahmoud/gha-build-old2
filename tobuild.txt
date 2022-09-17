@@ -1,4 +1,3 @@
-OMICsPCA
 RCX
 BRISC
 tomoseqr
