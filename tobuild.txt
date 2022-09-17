@@ -1,4 +1,3 @@
-PECA
 ipdDb
 missMethyl
 DAPAR
@@ -182,7 +181,6 @@ synergyfinder
 glmSparseNet
 MSstatsSampleSize
 ffpe
-TIN
 Rbwa
 TREG
 msmsTests
@@ -254,7 +252,6 @@ CINdex
 segmenter
 limmaGUI
 EntropyExplorer
-RNAmodR
 transcriptR
 MAGAR
 ontoProc
@@ -272,7 +269,6 @@ sSNAPPY
 SCANVIS
 CBEA
 nondetects
-parameters
 RadioGx
 pwOmics
 SPARQL
