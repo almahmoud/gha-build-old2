@@ -320,9 +320,7 @@
         "ChIPpeakAnno"
     ],
     "DEsingle": [],
-    "DExMA": [
-        "swamp"
-    ],
+    "DExMA": [],
     "DiffBind": [
         "systemPipeR"
     ],
@@ -1282,7 +1280,6 @@
         "ExperimentHub"
     ],
     "lasso2": [],
-    "swamp": [],
     "easierData": [
         "ExperimentHub"
     ],
