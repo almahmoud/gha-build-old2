@@ -1,4 +1,3 @@
-methylInheritance
 edge
 supersigs
 shinyMethyl
@@ -209,7 +208,6 @@ MuData
 graper
 customCMPdb
 mirTarRnaSeq
-pareg
 mitch
 REMP
 DEsingle
