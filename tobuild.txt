@@ -1,4 +1,3 @@
-ITALICS
 scanMiR
 ImmuneSpaceR
 STROMA4
