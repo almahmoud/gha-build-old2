@@ -606,9 +606,7 @@
     "scAlign": [
         "Seurat"
     ],
-    "scanMiR": [],
     "scanMiRApp": [
-        "scanMiR",
         "scanMiRData"
     ],
     "scAnnotatR": [
@@ -874,9 +872,7 @@
     "pwrEWAS.data": [],
     "phastCons100way.UCSC.hg19": [],
     "RLHub": [],
-    "scanMiRData": [
-        "scanMiR"
-    ],
+    "scanMiRData": [],
     "SCATEData": [],
     "mlr3learners": [],
     "mlr3tuning": [],
