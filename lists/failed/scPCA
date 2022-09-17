@@ -1,4 +1,7 @@
-Already up to date.
+Updating 40f4f35..f3acfbe
+Fast-forward
+ logs/run_ids/sampSurf | 1 +
+ 1 file changed, 1 insertion(+)
 abind/DESCRIPTION
 abind/INDEX
 abind/Meta/
