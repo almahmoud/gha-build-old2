@@ -1,7 +1,7 @@
-Updating f6c1bb3..8b715a1
+Updating b69ff1e..f298a89
 Fast-forward
- logs/run_ids/ModCon | 2 ++
- 1 file changed, 2 insertions(+)
+ logs/run_ids/QuasR | 1 +
+ 1 file changed, 1 insertion(+)
 GenomicRanges/CITATION
 GenomicRanges/DESCRIPTION
 GenomicRanges/INDEX
