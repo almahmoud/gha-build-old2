@@ -1,4 +1,3 @@
-CGHnormaliter
 MLmetrics
 RAREsim
 IMMAN
