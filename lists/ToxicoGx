@@ -1,4 +1,9 @@
-Already up to date.
+Updating fa1bba4..8684614
+Fast-forward
+ lists/methylInheritance        | 2 +-
+ logs/run_ids/methylInheritance | 1 +
+ tobuild.txt                    | 2 --
+ 3 files changed, 2 insertions(+), 3 deletions(-)
 assertthat/DESCRIPTION
 assertthat/INDEX
 assertthat/Meta/
