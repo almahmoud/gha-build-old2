@@ -281,7 +281,6 @@
         "mnem",
         "Linnorm"
     ],
-    "epivizrStandalone": [],
     "esATAC": [
         "clusterProfiler"
     ],
@@ -429,9 +428,7 @@
     "metaseqR2": [
         "EDASeq"
     ],
-    "metavizr": [
-        "epivizrStandalone"
-    ],
+    "metavizr": [],
     "MetaVolcanoR": [],
     "MethReg": [
         "sesameData",
