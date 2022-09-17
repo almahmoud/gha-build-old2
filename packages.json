@@ -118,9 +118,7 @@
     ],
     "crisprBowtie": [],
     "crisprBwa": [],
-    "crisprScore": [
-        "crisprScoreData"
-    ],
+    "crisprScore": [],
     "crisprseekplus": [
         "GUIDEseq"
     ],
@@ -575,7 +573,6 @@
     "biscuiteerData": [],
     "iCluster": [],
     "colortools": [],
-    "crisprScoreData": [],
     "lasso2": [],
     "easierData": [],
     "EntropyExplorer": [],
