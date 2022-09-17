@@ -391,7 +391,6 @@
         "PPInfer"
     ],
     "GUIDEseq": [],
-    "HiCBricks": [],
     "HiCcompare": [],
     "HPiP": [],
     "HubPub": [],
@@ -534,7 +533,6 @@
     "MSstatsQCgui": [],
     "MSstatsSampleSize": [],
     "MuData": [],
-    "multicrispr": [],
     "multiHiCcompare": [
         "HiCcompare"
     ],
