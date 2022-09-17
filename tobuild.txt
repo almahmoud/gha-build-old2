@@ -1,5 +1,3 @@
-AgiMicroRna
-ExperimentSubset
 ADaCGH2
 enhancerHomologSearch
 CiteFuse
