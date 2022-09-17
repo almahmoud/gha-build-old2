@@ -1,4 +1,3 @@
-supersigs
 NxtIRFdata
 NewWave
 rGenomeTracks
