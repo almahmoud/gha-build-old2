@@ -71,10 +71,7 @@
         "FlowSOM",
         "scater"
     ],
-    "cbaf": [
-        "cBioPortalData"
-    ],
-    "cBioPortalData": [],
+    "cbaf": [],
     "celda": [
         "scater",
         "scran"
