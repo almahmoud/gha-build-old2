@@ -267,9 +267,7 @@
     "conumee": [],
     "CopyNumberPlots": [],
     "CopywriteR": [],
-    "CoreGx": [
-        "profmem"
-    ],
+    "CoreGx": [],
     "COTAN": [],
     "crisprBase": [],
     "crisprBowtie": [
@@ -845,9 +843,7 @@
     "PathoStat": [
         "ROCR"
     ],
-    "PDATK": [
-        "profmem"
-    ],
+    "PDATK": [],
     "pdInfoBuilder": [],
     "PeacoQC": [],
     "PECA": [],
@@ -858,9 +854,7 @@
     "PFP": [
         "clusterProfiler"
     ],
-    "PharmacoGx": [
-        "profmem"
-    ],
+    "PharmacoGx": [],
     "phemd": [
         "Seurat",
         "leidenbase",
@@ -933,9 +927,7 @@
     "qsvaR": [],
     "QuartPAC": [],
     "QuasR": [],
-    "RadioGx": [
-        "profmem"
-    ],
+    "RadioGx": [],
     "ramr": [
         "optimx"
     ],
@@ -1282,9 +1274,7 @@
     ],
     "TIN": [],
     "tomoseqr": [],
-    "ToxicoGx": [
-        "profmem"
-    ],
+    "ToxicoGx": [],
     "tracktables": [],
     "tradeSeq": [],
     "transcriptR": [],
@@ -1345,8 +1335,7 @@
     "weitrix": [],
     "xcore": [],
     "Xeva": [
-        "PharmacoGx",
-        "profmem"
+        "PharmacoGx"
     ],
     "XINA": [],
     "YAPSA": [],
@@ -1399,10 +1388,7 @@
     "ChIPXpressData": [],
     "leidenbase": [],
     "colortools": [],
-    "bench": [
-        "profmem"
-    ],
-    "profmem": [],
+    "bench": [],
     "crisprScoreData": [
         "ExperimentHub"
     ],
