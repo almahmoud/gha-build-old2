@@ -1,7 +1,9 @@
-Updating 3f79efc..148cc71
+Updating 0a9692a..845b2e8
 Fast-forward
- logs/run_ids/STROMA4 | 1 +
- 1 file changed, 1 insertion(+)
+ lists/STROMA4        | 13711 ++++++++++++++++++++++++++++++++++++++++++++++++-
+ lists/failed/STROMA4 | 13710 ++++++++++++++++++++++++++++++++++++++++++++++++
+ 2 files changed, 27420 insertions(+), 1 deletion(-)
+ create mode 100644 lists/failed/STROMA4
 BH/DESCRIPTION
 BH/INDEX
 BH/LICENSE_1_0.txt
