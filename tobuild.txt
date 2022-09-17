@@ -1,4 +1,3 @@
-ssPATHS
 mlr3learners
 skewr
 msigdb
