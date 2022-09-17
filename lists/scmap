@@ -1,8 +1,7 @@
-Updating df35106..855927a
+Updating 6868870..df35106
 Fast-forward
- lists/DEsingle        | 5 ++++-
- lists/failed/DEsingle | 5 ++++-
- 2 files changed, 8 insertions(+), 2 deletions(-)
+ logs/run_ids/scmap | 1 +
+ 1 file changed, 1 insertion(+)
 Biobase/CITATION
 Biobase/Code/
 Biobase/Code/DESCRIPTION
