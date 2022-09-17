@@ -1,0 +1,19 @@
+* installing *source* package ‘aroma.affymetrix’ ...
+** package ‘aroma.affymetrix’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+Warning in .requireBiocPackage("affxparser", neededBy = getName(pkg)) :
+  Package 'affxparser' could not be loaded. Without it aroma.affymetrix will not work. Please install it from Bioconductor, cf. https://www.bioconductor.org/
+** testing if installed package can be loaded from final location
+Warning in .requireBiocPackage("affxparser", neededBy = getName(pkg)) :
+  Package 'affxparser' could not be loaded. Without it aroma.affymetrix will not work. Please install it from Bioconductor, cf. https://www.bioconductor.org/
+** testing if installed package keeps a record of temporary installation path
+* creating tarball
+packaged installation of ‘aroma.affymetrix’ as ‘aroma.affymetrix_3.2.1_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (aroma.affymetrix)
