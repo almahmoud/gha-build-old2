@@ -1,4 +1,3 @@
-gptk
 POMA
 gpart
 UCell
