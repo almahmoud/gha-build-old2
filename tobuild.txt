@@ -1,4 +1,3 @@
-scTensor
 AMARETTO
 standR
 CHETAH
