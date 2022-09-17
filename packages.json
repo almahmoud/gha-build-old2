@@ -220,7 +220,6 @@
     "flowCut": [],
     "FlowSOM": [],
     "GARS": [],
-    "GateFinder": [],
     "GDCRNATools": [
         "clusterProfiler"
     ],
