@@ -1,4 +1,3 @@
-XINA
 systemPipeShiny
 microbiomeDASim
 RiboDiPA
