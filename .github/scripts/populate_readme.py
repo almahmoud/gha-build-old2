@@ -18,7 +18,7 @@ for pkg in list(pkgs):
         with open(f"logs/run_ids/{pkg}", "r") as frun:
             runid = frun.read()
     if "https://github.com/" in runid:
-        runurl = runid.strip().replace("null\n", "")
+        runurl = runid.strip().replace("null\n", "").split("\n")[-1]
         r = requests.get(runurl)
         while r.status_code not in [404, 200]:
             r = requests.get(runurl)
