@@ -180,13 +180,9 @@
     "escape": [
         "UCell"
     ],
-    "EWCE": [
-        "ewceData"
-    ],
+    "EWCE": [],
     "ExperimentHubData": [],
-    "ExperimentSubset": [
-        "SpatialExperiment"
-    ],
+    "ExperimentSubset": [],
     "famat": [
         "MPINet",
         "clusterProfiler"
@@ -220,21 +216,16 @@
         "GeomxTools"
     ],
     "GeomxTools": [],
-    "ggspavis": [
-        "SpatialExperiment"
-    ],
+    "ggspavis": [],
     "gpart": [],
     "gprege": [
         "gptk"
     ],
     "GRaNIE": [],
     "graper": [],
-    "gsean": [],
     "GUIDEseq": [],
     "HiCcompare": [],
-    "imcRtools": [
-        "SpatialExperiment"
-    ],
+    "imcRtools": [],
     "IRISFGM": [
         "DEsingle",
         "clusterProfiler",
@@ -335,9 +326,7 @@
     "netSmooth": [
         "scater"
     ],
-    "nnSVG": [
-        "SpatialExperiment"
-    ],
+    "nnSVG": [],
     "NxtIRFcore": [],
     "omicRexposome": [],
     "pageRank": [],
@@ -452,13 +441,10 @@
         "scater",
         "scran"
     ],
-    "spatialDE": [
-        "SpatialExperiment"
-    ],
+    "spatialDE": [],
     "SpatialDecon": [
         "GeomxTools"
     ],
-    "SpatialExperiment": [],
     "spatialHeatmap": [
         "scater",
         "scran"
@@ -478,9 +464,7 @@
     "SPONGE": [],
     "SPOTlight": [],
     "STAN": [],
-    "standR": [
-        "SpatialExperiment"
-    ],
+    "standR": [],
     "StarBioTrek": [
         "SpidermiR",
         "MAGeCKFlute",
@@ -542,7 +526,6 @@
     "lasso2": [],
     "easierData": [],
     "EntropyExplorer": [],
-    "ewceData": [],
     "MPINet": [],
     "SPARQL": [],
     "FField": [],
