@@ -689,7 +689,6 @@
         "clusterProfiler",
         "cvms",
         "MetBrewer",
-        "tnet",
         "parameters",
         "rearrr",
         "bayestestR"
@@ -698,7 +697,6 @@
         "clusterProfiler",
         "cvms",
         "MetBrewer",
-        "tnet",
         "parameters",
         "rearrr",
         "bayestestR"
@@ -1199,7 +1197,6 @@
     "SPONGE": [
         "cvms",
         "MetBrewer",
-        "tnet",
         "parameters",
         "rearrr",
         "bayestestR"
@@ -1424,7 +1421,6 @@
         "bayestestR"
     ],
     "MetBrewer": [],
-    "tnet": [],
     "parameters": [
         "bayestestR"
     ],
