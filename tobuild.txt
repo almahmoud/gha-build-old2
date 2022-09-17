@@ -1,4 +1,3 @@
-GeomxTools
 PeacoQC
 GenomicOZone
 iCheck
