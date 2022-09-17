@@ -1,4 +1,3 @@
-PharmacoGx
 sccomp
 RMassBank
 protGear
