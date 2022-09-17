@@ -1,4 +1,3 @@
-scanMiR
 ImmuneSpaceR
 STROMA4
 Streamer
