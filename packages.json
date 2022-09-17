@@ -441,7 +441,6 @@
     ],
     "MobilityTransformR": [],
     "ModCon": [],
-    "monaLisa": [],
     "MoonlightR": [
         "clusterProfiler"
     ],
@@ -820,7 +819,6 @@
         "diffcyt",
         "FlowSOM"
     ],
-    "TREG": [],
     "tricycle": [
         "scater",
         "scuttle"
