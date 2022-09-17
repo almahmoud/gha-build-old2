@@ -180,9 +180,7 @@
     "escape": [
         "UCell"
     ],
-    "EWCE": [
-        "ewceData"
-    ],
+    "EWCE": [],
     "ExperimentHubData": [],
     "ExperimentSubset": [
         "SpatialExperiment"
@@ -542,7 +540,6 @@
     "lasso2": [],
     "easierData": [],
     "EntropyExplorer": [],
-    "ewceData": [],
     "MPINet": [],
     "SPARQL": [],
     "FField": [],
