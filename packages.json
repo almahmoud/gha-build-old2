@@ -155,7 +155,6 @@
     "GRaNIE": [],
     "GUIDEseq": [],
     "HiCcompare": [],
-    "imcRtools": [],
     "IRISFGM": [
         "clusterProfiler",
         "scater"
@@ -205,7 +204,6 @@
     "MoonlightR": [
         "clusterProfiler"
     ],
-    "MSnID": [],
     "MSstatsLiP": [],
     "MSstatsQCgui": [],
     "multiHiCcompare": [
