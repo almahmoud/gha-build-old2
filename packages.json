@@ -386,9 +386,7 @@
         "scuttle"
     ],
     "ISAnalytics": [],
-    "IsoformSwitchAnalyzeR": [
-        "tximeta"
-    ],
+    "IsoformSwitchAnalyzeR": [],
     "IsoGeneGUI": [
         "orQA"
     ],
@@ -896,7 +894,6 @@
     "TRONCO": [],
     "TSCAN": [],
     "ttgsea": [],
-    "tximeta": [],
     "UCell": [],
     "UniProt.ws": [],
     "updateObject": [],
