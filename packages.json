@@ -18,7 +18,6 @@
         "clusterProfiler"
     ],
     "BioTIP": [],
-    "bnem": [],
     "brainflowprobes": [],
     "CancerSubtypes": [
         "iCluster"
@@ -196,7 +195,6 @@
     ],
     "ndexr": [],
     "Nebulosa": [],
-    "nempi": [],
     "netboxr": [
         "clusterProfiler"
     ],
