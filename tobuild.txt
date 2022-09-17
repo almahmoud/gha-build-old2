@@ -1,4 +1,2 @@
-nnSVG
-biscuiteer
-RLSeq
-scCB2
+transcriptR
+HiCcompare

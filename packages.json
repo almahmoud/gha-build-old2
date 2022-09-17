@@ -20,10 +20,7 @@
         "clusterProfiler"
     ],
     "BioTIP": [],
-    "biscuiteer": [],
-    "bnem": [
-        "epiNEM"
-    ],
+    "bnem": [],
     "brainflowprobes": [],
     "CancerSubtypes": [
         "iCluster"
@@ -31,7 +28,6 @@
     "CATALYST": [
         "scater"
     ],
-    "cbaf": [],
     "celda": [
         "scater"
     ],
@@ -44,20 +40,16 @@
     "CEMiTool": [
         "clusterProfiler"
     ],
-    "censcyt": [
-        "diffcyt"
-    ],
+    "censcyt": [],
     "CeTF": [
         "clusterProfiler"
     ],
     "ChIPQC": [
         "DiffBind"
     ],
-    "ChIPXpress": [],
     "ChromSCape": [
         "scater"
     ],
-    "CiteFuse": [],
     "clipper": [
         "qpgraph"
     ],
@@ -65,7 +57,6 @@
     "coMET": [
         "colortools"
     ],
-    "compEpiTools": [],
     "conclus": [
         "scater",
         "clusterProfiler"
@@ -80,14 +71,10 @@
         "GUIDEseq"
     ],
     "ctgGEM": [],
-    "CyTOFpower": [
-        "diffcyt"
-    ],
+    "CyTOFpower": [],
     "CytoML": [],
     "CytoTree": [],
-    "dce": [
-        "epiNEM"
-    ],
+    "dce": [],
     "ddPCRclust": [],
     "dearseq": [],
     "debrowser": [
@@ -98,13 +85,11 @@
         "lasso2"
     ],
     "DiffBind": [],
-    "diffcyt": [],
     "Dino": [],
     "distinct": [
         "scater"
     ],
     "DropletUtils": [],
-    "easier": [],
     "eegc": [
         "clusterProfiler"
     ],
@@ -118,15 +103,12 @@
     "epihet": [
         "EntropyExplorer"
     ],
-    "epimutacions": [],
-    "epiNEM": [],
     "esATAC": [
         "clusterProfiler"
     ],
     "escape": [
         "UCell"
     ],
-    "EWCE": [],
     "ExperimentHubData": [],
     "famat": [
         "MPINet",
@@ -135,18 +117,15 @@
     "fcoex": [
         "clusterProfiler"
     ],
-    "FEAST": [],
     "FLAMES": [
         "scater"
     ],
     "flowCL": [
         "SPARQL"
     ],
-    "GARS": [],
     "GDCRNATools": [
         "clusterProfiler"
     ],
-    "GenProSeq": [],
     "GenVisR": [
         "FField"
     ],
@@ -158,7 +137,6 @@
     "GRaNIE": [],
     "GUIDEseq": [],
     "HiCcompare": [],
-    "imcRtools": [],
     "IRISFGM": [
         "clusterProfiler",
         "scater"
@@ -208,7 +186,6 @@
     "MoonlightR": [
         "clusterProfiler"
     ],
-    "MSnID": [],
     "MSstatsLiP": [],
     "MSstatsQCgui": [],
     "multiHiCcompare": [
@@ -225,16 +202,13 @@
     ],
     "ndexr": [],
     "Nebulosa": [],
-    "nempi": [
-        "epiNEM"
-    ],
+    "nempi": [],
     "netboxr": [
         "clusterProfiler"
     ],
     "netSmooth": [
         "scater"
     ],
-    "nnSVG": [],
     "omicRexposome": [],
     "pageRank": [],
     "PanomiR": [
@@ -263,29 +237,23 @@
     "pulsedSilac": [
         "taRifx"
     ],
-    "pwrEWAS": [],
     "qpgraph": [],
     "QuasR": [],
     "RadioGx": [],
-    "RareVariantVis": [
-        "phastCons100way.UCSC.hg19"
-    ],
+    "RareVariantVis": [],
     "Rgin": [],
-    "RLSeq": [],
     "scAlign": [],
     "SCATE": [
         "SCATEData"
     ],
     "scater": [],
     "scBFA": [],
-    "scCB2": [],
     "scDataviz": [],
     "scDblFinder": [
         "scater"
     ],
     "schex": [],
     "scMAGeCK": [],
-    "scone": [],
     "scPipe": [
         "scater"
     ],
@@ -311,7 +279,6 @@
     "Spaniel": [
         "scater"
     ],
-    "SpatialDecon": [],
     "spatialHeatmap": [
         "scater"
     ],
@@ -350,9 +317,7 @@
     "TraRe": [
         "vbsr"
     ],
-    "treekoR": [
-        "diffcyt"
-    ],
+    "treekoR": [],
     "tricycle": [
         "scater"
     ],
@@ -387,7 +352,6 @@
     ],
     "mppa": [],
     "taRifx": [],
-    "phastCons100way.UCSC.hg19": [],
     "SCATEData": [],
     "sampSurf": [],
     "GenKern": [],
