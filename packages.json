@@ -675,7 +675,6 @@
     "QuartPAC": [],
     "QuasR": [],
     "RadioGx": [],
-    "ramr": [],
     "RAREsim": [],
     "RareVariantVis": [
         "phastCons100way.UCSC.hg19"
@@ -729,7 +728,6 @@
     "scAlign": [
         "Seurat"
     ],
-    "SCAN.UPC": [],
     "scanMiR": [],
     "scanMiRApp": [
         "scanMiR",
