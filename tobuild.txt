@@ -1,4 +1,3 @@
-PhyloProfile
 MEAL
 MafDb.1Kgenomes.phase3.hs37d5
 DMRcate
