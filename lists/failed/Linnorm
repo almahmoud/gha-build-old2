@@ -1,4 +1,9 @@
-Already up to date.
+Updating 4b4f106..8feccdd
+Fast-forward
+ lists/TIN        | 1940 +++++++++++++++++++++++++++++++++++++++++++++++++++++-
+ lists/failed/TIN | 1939 +++++++++++++++++++++++++++++++++++++++++++++++++++++
+ 2 files changed, 3878 insertions(+), 1 deletion(-)
+ create mode 100644 lists/failed/TIN
 amap/DESCRIPTION
 amap/INDEX
 amap/Meta/
