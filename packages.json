@@ -562,7 +562,6 @@
     "sesame": [
         "sesameData"
     ],
-    "shinyepico": [],
     "SIAMCAT": [
         "mlr3learners",
         "mlr3tuning"
