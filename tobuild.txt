@@ -1,5 +1,3 @@
-PDATK
-TIN
 leidenbase
 rearrr
 pareg
