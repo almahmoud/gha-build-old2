@@ -1,4 +1,3 @@
-NxtIRFdata
 NewWave
 rGenomeTracks
 DEScan2
