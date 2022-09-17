@@ -1,4 +1,3 @@
-limmaGUI
 topicmodels
 EntropyExplorer
 transcriptR
