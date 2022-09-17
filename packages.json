@@ -304,7 +304,6 @@
         "SpatialExperiment",
         "scuttle"
     ],
-    "extraChIPs": [],
     "famat": [
         "MPINet",
         "clusterProfiler"
