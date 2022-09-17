@@ -1,4 +1,3 @@
-NxtIRFcore
 scDD
 SingleCellSignalR
 EWCE
