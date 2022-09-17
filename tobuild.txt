@@ -1,5 +1,3 @@
-synergyfinder
-glmSparseNet
 MSstatsSampleSize
 ffpe
 TIN
