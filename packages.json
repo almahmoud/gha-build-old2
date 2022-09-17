@@ -962,7 +962,6 @@
         "ExperimentHub"
     ],
     "shinyepico": [],
-    "shinyMethyl": [],
     "SIAMCAT": [
         "mlr3",
         "mlr3learners",
