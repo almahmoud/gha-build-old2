@@ -1,4 +1,3 @@
-phemd
 scanMiRApp
 spatialDE
 pwrEWAS.data
@@ -48,14 +47,10 @@ scone
 DEsingle
 epimutacions
 RNAAgeCalc
-BubbleTree
 cbaf
 MSnID
-segmenter
 ExperimentHubData
 velociraptor
-transcriptR
-HiCcompare
 pogos
 TSCAN
 nnSVG
