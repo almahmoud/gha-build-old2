@@ -1,4 +1,3 @@
-readJDX
 RNAAgeCalc
 msqrob2
 TFARM
