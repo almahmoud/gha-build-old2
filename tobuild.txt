@@ -1,4 +1,3 @@
-STAN
 GenomicState
 SummarizedBenchmark
 tradeSeq
