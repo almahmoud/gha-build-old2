@@ -1,4 +1,3 @@
-CNVfilteR
 RTNsurvival
 RNAmodR.RiboMethSeq
 protGear
