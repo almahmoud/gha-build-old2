@@ -1,4 +1,3 @@
-pwrEWAS
 easier
 FEAST
 GenProSeq
