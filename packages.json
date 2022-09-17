@@ -421,7 +421,6 @@
     "methylGSA": [
         "clusterProfiler"
     ],
-    "methylSig": [],
     "mia": [
         "scuttle",
         "scater"
@@ -800,7 +799,6 @@
     ],
     "StarBioTrek": [
         "SpidermiR",
-        "MLmetrics",
         "MAGeCKFlute",
         "clusterProfiler",
         "depmap"
@@ -928,7 +926,6 @@
     "scRNAseq": [],
     "TENxPBMCData": [],
     "sampSurf": [],
-    "MLmetrics": [],
     "GenKern": [],
     "vbsr": [],
     "msigdb": []
