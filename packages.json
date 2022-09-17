@@ -94,7 +94,6 @@
         "clusterProfiler"
     ],
     "deco": [],
-    "DeepPINCS": [],
     "DEGreport": [
         "lasso2"
     ],
@@ -147,9 +146,7 @@
     "GDCRNATools": [
         "clusterProfiler"
     ],
-    "GenProSeq": [
-        "DeepPINCS"
-    ],
+    "GenProSeq": [],
     "GenVisR": [
         "FField"
     ],
@@ -364,8 +361,7 @@
     "UniProt.ws": [],
     "uSORT": [],
     "VAExprs": [
-        "scater",
-        "DeepPINCS"
+        "scater"
     ],
     "velociraptor": [],
     "vissE": [],
