@@ -51,8 +51,6 @@
     "CeTF": [
         "clusterProfiler"
     ],
-    "ChAMP": [],
-    "CHETAH": [],
     "ChIPQC": [
         "DiffBind"
     ],
@@ -188,7 +186,6 @@
     "MAGeCKFlute": [
         "clusterProfiler"
     ],
-    "MEAL": [],
     "MetaCyto": [],
     "MethReg": [
         "sesame"
