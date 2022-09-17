@@ -313,7 +313,6 @@
     "metaseqR2": [],
     "metavizr": [],
     "MethReg": [
-        "sesameData",
         "sesame"
     ],
     "methylclock": [
@@ -528,9 +527,7 @@
     ],
     "segmenter": [],
     "SeqSQC": [],
-    "sesame": [
-        "sesameData"
-    ],
+    "sesame": [],
     "SIAMCAT": [
         "mlr3learners",
         "mlr3tuning"
@@ -610,8 +607,7 @@
     ],
     "TCGAbiolinksGUI": [
         "clusterProfiler",
-        "sesame",
-        "sesameData"
+        "sesame"
     ],
     "TDARACNE": [
         "GenKern"
@@ -678,7 +674,6 @@
     "orQA": [],
     "cgdsr": [],
     "depmap": [],
-    "sesameData": [],
     "methylclockData": [
         "ExperimentHubData"
     ],
