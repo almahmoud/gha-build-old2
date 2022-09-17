@@ -1,4 +1,3 @@
-pareg
 mitch
 REMP
 DEsingle
