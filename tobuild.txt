@@ -1,4 +1,3 @@
-MafDb.1Kgenomes.phase3.hs37d5
 GARS
 CytoTree
 MetaCyto
@@ -10,4 +9,3 @@ ExperimentHubData
 velociraptor
 transcriptR
 HiCcompare
-RLSeq
