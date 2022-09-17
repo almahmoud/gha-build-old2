@@ -1,7 +1,7 @@
-Updating 18cbfe3..70c5294
+Updating 18cbfe3..10b254b
 Fast-forward
- lists/tmp/claimlog | 9 +--------
- 1 file changed, 1 insertion(+), 8 deletions(-)
+ lists/tmp/claimlog | 10 +++-------
+ 1 file changed, 3 insertions(+), 7 deletions(-)
 BASiCS_2.8.0_R_x86_64-pc-linux-gnu.tar.gz
 batchelor_1.12.3_R_x86_64-pc-linux-gnu.tar.gz
 BioTIP_1.10.0_R_x86_64-pc-linux-gnu.tar.gz
