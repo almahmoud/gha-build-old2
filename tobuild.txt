@@ -1,4 +1,3 @@
-canceR
 autonomics
 synlet
 regionReport
