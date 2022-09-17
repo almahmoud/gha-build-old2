@@ -1,4 +1,3 @@
-dagLogo
 Linnorm
 MACSr
 spatzie
@@ -122,5 +121,3 @@ pogos
 TSCAN
 FlowSOM
 m6Aboost
-cBioPortalData
-lipidr
