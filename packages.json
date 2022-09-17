@@ -350,7 +350,6 @@
     "scTreeViz": [
         "scater"
     ],
-    "segmenter": [],
     "sesame": [],
     "SIAMCAT": [
         "mlr3tuning"
