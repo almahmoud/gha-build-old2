@@ -52,7 +52,6 @@
     "ChIPQC": [
         "DiffBind"
     ],
-    "ChIPXpress": [],
     "ChromSCape": [
         "scater"
     ],
