@@ -1,4 +1,3 @@
-categoryCompare
 SPOTlight
 GBScleanR
 SEPIRA
