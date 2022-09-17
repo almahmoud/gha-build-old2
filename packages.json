@@ -320,7 +320,6 @@
     "MoonlightR": [
         "clusterProfiler"
     ],
-    "MsBackendMsp": [],
     "msImpute": [
         "scran"
     ],
