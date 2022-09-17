@@ -1,4 +1,3 @@
-cageminer
 coMethDMR
 dmrseq
 sesameData
