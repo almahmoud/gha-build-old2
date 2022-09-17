@@ -1,4 +1,3 @@
-BRISC
 tomoseqr
 seqArchR
 ggVennDiagram
