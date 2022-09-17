@@ -1,7 +1,5 @@
 {
-    "ADaCGH2": [
-        "snapCGH"
-    ],
+    "ADaCGH2": [],
     "adductomicsR": [
         "adductData"
     ],
@@ -773,7 +771,6 @@
         "QuasR"
     ],
     "skewr": [],
-    "snapCGH": [],
     "sojourner": [
         "sampSurf"
     ],
