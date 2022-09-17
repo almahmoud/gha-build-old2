@@ -1,4 +1,3 @@
-gscreend
 sSNAPPY
 SCANVIS
 CBEA
