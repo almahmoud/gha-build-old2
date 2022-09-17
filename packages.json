@@ -311,7 +311,6 @@
     "GDCRNATools": [
         "clusterProfiler"
     ],
-    "GeneBreak": [],
     "GenomicOZone": [],
     "GenProSeq": [
         "DeepPINCS",
@@ -670,7 +669,6 @@
         "scuttle"
     ],
     "scRecover": [],
-    "scruff": [],
     "scry": [],
     "scTensor": [
         "Seurat"
@@ -823,7 +821,6 @@
     "ttgsea": [],
     "UCell": [],
     "UniProt.ws": [],
-    "updateObject": [],
     "uSORT": [],
     "VAExprs": [
         "scater",
