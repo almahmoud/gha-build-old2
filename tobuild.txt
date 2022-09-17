@@ -1,4 +1,3 @@
-RcisTarget
 GateFinder
 kissDE
 STdeconvolve
