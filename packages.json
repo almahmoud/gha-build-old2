@@ -179,9 +179,7 @@
         "DiffBind",
         "systemPipeR"
     ],
-    "ChIPseeker": [
-        "ggVennDiagram"
-    ],
+    "ChIPseeker": [],
     "ChIPXpress": [
         "ChIPXpressData"
     ],
@@ -376,8 +374,7 @@
         "clusterProfiler"
     ],
     "EpiCompare": [
-        "clusterProfiler",
-        "ggVennDiagram"
+        "clusterProfiler"
     ],
     "epihet": [
         "EntropyExplorer"
@@ -393,8 +390,7 @@
     "erccdashboard": [],
     "esATAC": [
         "clusterProfiler",
-        "motifmatchr",
-        "ggVennDiagram"
+        "motifmatchr"
     ],
     "escape": [
         "UCell"
@@ -831,8 +827,7 @@
         "GenomicScores"
     ],
     "profileplyr": [
-        "soGGi",
-        "ggVennDiagram"
+        "soGGi"
     ],
     "projectR": [],
     "pRoloc": [],
@@ -1010,9 +1005,7 @@
         "scuttle"
     ],
     "scuttle": [],
-    "segmenter": [
-        "ggVennDiagram"
-    ],
+    "segmenter": [],
     "segmentSeq": [],
     "selectKSigs": [],
     "SEPIRA": [],
@@ -1262,7 +1255,6 @@
     "GenomicState": [],
     "iCluster": [],
     "ChIC.data": [],
-    "ggVennDiagram": [],
     "ChIPXpressData": [],
     "leidenbase": [],
     "colortools": [],
