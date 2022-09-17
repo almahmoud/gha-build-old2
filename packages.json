@@ -204,7 +204,6 @@
     "MoonlightR": [
         "clusterProfiler"
     ],
-    "MSnID": [],
     "MSstatsLiP": [],
     "MSstatsQCgui": [],
     "multiHiCcompare": [
@@ -281,7 +280,6 @@
     ],
     "schex": [],
     "scMAGeCK": [],
-    "scone": [],
     "scPipe": [
         "scater"
     ],
