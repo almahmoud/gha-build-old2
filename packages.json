@@ -1145,9 +1145,7 @@
     "synergyfinder": [],
     "synlet": [],
     "systemPipeR": [],
-    "systemPipeShiny": [
-        "spsUtil"
-    ],
+    "systemPipeShiny": [],
     "TADCompare": [
         "HiCcompare"
     ],
@@ -1369,7 +1367,6 @@
     ],
     "sampSurf": [],
     "MLmetrics": [],
-    "spsUtil": [],
     "GenKern": [],
     "vbsr": [],
     "msigdb": [
