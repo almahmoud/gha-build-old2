@@ -1,4 +1,3 @@
-scone
 DEsingle
 epimutacions
 cbaf
