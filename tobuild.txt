@@ -1,4 +1,3 @@
-BOBaFIT
 GenKern
 RIPAT
 xcore
