@@ -1,4 +1,3 @@
-GSEABenchmarkeR
 scRNAseq
 phastCons100way.UCSC.hg19
 GUIDEseq
