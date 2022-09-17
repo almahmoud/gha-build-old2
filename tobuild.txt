@@ -1,4 +1,3 @@
-iCOBRA
 regutools
 a4
 infinityFlow
