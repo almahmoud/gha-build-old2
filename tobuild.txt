@@ -1,4 +1,3 @@
-RTNsurvival
 RNAmodR.RiboMethSeq
 protGear
 CHETAH
