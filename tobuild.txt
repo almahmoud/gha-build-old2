@@ -1,4 +1,3 @@
-BloodGen3Module
 ChIPXpress
 scran
 depmap
