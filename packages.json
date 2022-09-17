@@ -471,7 +471,6 @@
     "RNAmodR.AlkAnilineSeq": [],
     "RNAmodR.ML": [],
     "RNAmodR.RiboMethSeq": [],
-    "rprimer": [],
     "RSVSim": [],
     "RTNsurvival": [],
     "RUVSeq": [],
@@ -658,7 +657,6 @@
     "vulcan": [
         "DiffBind"
     ],
-    "weitrix": [],
     "Xeva": [
         "PharmacoGx"
     ],
