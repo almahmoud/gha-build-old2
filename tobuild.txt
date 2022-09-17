@@ -1,4 +1,3 @@
-AnnotationHubData
 MetaboAnnotation
 annotatr
 scanMiR
