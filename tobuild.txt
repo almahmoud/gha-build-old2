@@ -1,4 +1,3 @@
-segmenter
 limmaGUI
 EntropyExplorer
 RNAmodR
