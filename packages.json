@@ -458,7 +458,6 @@
     "SeqSQC": [],
     "sesame": [],
     "SIAMCAT": [
-        "mlr3learners",
         "mlr3tuning"
     ],
     "signatureSearch": [
@@ -602,7 +601,6 @@
     "pwrEWAS.data": [],
     "phastCons100way.UCSC.hg19": [],
     "SCATEData": [],
-    "mlr3learners": [],
     "mlr3tuning": [],
     "SoupX": [],
     "scRNAseq": [],
