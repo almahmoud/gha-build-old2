@@ -2,9 +2,7 @@
     "airpart": [
         "scater"
     ],
-    "appreci8R": [
-        "MafDb.1Kgenomes.phase3.hs37d5"
-    ],
+    "appreci8R": [],
     "ASpediaFI": [
         "mGSZ"
     ],
@@ -335,7 +333,6 @@
     "Xeva": [
         "PharmacoGx"
     ],
-    "MafDb.1Kgenomes.phase3.hs37d5": [],
     "mGSZ": [],
     "iCluster": [],
     "colortools": [],
