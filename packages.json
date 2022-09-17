@@ -413,8 +413,7 @@
         "EntropyExplorer"
     ],
     "epimutacions": [
-        "epimutacionsData",
-        "isotree"
+        "epimutacionsData"
     ],
     "epiNEM": [
         "mnem",
@@ -1416,7 +1415,6 @@
     ],
     "EntropyExplorer": [],
     "epimutacionsData": [],
-    "isotree": [],
     "ewceData": [
         "ExperimentHub"
     ],
