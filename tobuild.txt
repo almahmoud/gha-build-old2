@@ -1,4 +1,3 @@
-NPARC
 COCOA
 rearrr
 flowPloidy
