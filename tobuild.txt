@@ -1,5 +1,3 @@
-metabomxtr
-cytoKernel
 MSstatsQC
 QuartPAC
 MsBackendMsp
