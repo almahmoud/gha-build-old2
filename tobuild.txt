@@ -1,4 +1,3 @@
-RIPAT
 xcore
 datamods
 RcisTarget
