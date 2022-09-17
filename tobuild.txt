@@ -1,4 +1,3 @@
-BubbleTree
 segmenter
 ExperimentHubData
 velociraptor
