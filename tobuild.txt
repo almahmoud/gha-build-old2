@@ -1,4 +1,3 @@
-crisprBowtie
 signeR
 Prostar
 Rgin
