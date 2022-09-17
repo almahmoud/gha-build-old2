@@ -1,4 +1,3 @@
-brainflowprobes
 gptk
 POMA
 gpart
