@@ -421,7 +421,6 @@
     "methylGSA": [
         "clusterProfiler"
     ],
-    "methylSig": [],
     "mia": [
         "scuttle",
         "scater"
