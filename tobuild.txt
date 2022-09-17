@@ -1,4 +1,3 @@
-Prostar
 Rgin
 orQA
 FField
