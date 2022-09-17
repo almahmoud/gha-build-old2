@@ -1,4 +1,3 @@
-scRecover
 gscreend
 readbitmap
 sSNAPPY
