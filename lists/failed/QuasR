@@ -1,4 +1,7 @@
-Already up to date.
+Updating f6c1bb3..8b715a1
+Fast-forward
+ logs/run_ids/ModCon | 2 ++
+ 1 file changed, 2 insertions(+)
 GenomicRanges/CITATION
 GenomicRanges/DESCRIPTION
 GenomicRanges/INDEX
