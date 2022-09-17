@@ -1,4 +1,3 @@
-aroma.affymetrix
 MatrixRider
 colortools
 CNVMetrics
