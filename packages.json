@@ -156,7 +156,6 @@
         "FField"
     ],
     "GeoDiff": [],
-    "ggspavis": [],
     "gpart": [],
     "gprege": [
         "gptk"
@@ -301,7 +300,6 @@
         "scater"
     ],
     "scTensor": [],
-    "scTGIF": [],
     "scTreeViz": [
         "scater"
     ],
