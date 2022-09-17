@@ -1,4 +1,3 @@
-rqt
 Motif2Site
 cogeqc
 animalcules
