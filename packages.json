@@ -1226,8 +1226,7 @@
         "ExperimentHub"
     ],
     "STdeconvolve": [
-        "topicmodels",
-        "liger"
+        "topicmodels"
     ],
     "Streamer": [],
     "STROMA4": [],
@@ -1492,7 +1491,6 @@
     "MLmetrics": [
         "ROCR"
     ],
-    "liger": [],
     "spsUtil": [],
     "GenKern": [],
     "ttservice": [],
