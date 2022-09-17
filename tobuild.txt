@@ -1,4 +1,3 @@
-miRNAtap.db
 CopywriteR
 scPCA
 aroma.affymetrix
