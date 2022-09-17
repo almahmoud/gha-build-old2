@@ -1,1 +1,11 @@
-claimed
+Updating 20f0913..04a0bb4
+Fast-forward
+ lists/failed/glmSparseNet | 9322 ++++++++++++++++++++++++++++++++++++++++++++
+ lists/glmSparseNet        | 9323 ++++++++++++++++++++++++++++++++++++++++++++-
+ 2 files changed, 18644 insertions(+), 1 deletion(-)
+ create mode 100644 lists/failed/glmSparseNet
+* installing *binary* package ‘profmem’ ...
+* ‘profmem’ was already a binary package and will not be rebuilt
+* creating tarball
+packaged installation of ‘profmem’ as ‘profmem_0.6.0_R_x86_64-pc-linux-gnu.tar.gz’
+* DONE (profmem)
