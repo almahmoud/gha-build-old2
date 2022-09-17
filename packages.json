@@ -465,7 +465,6 @@
     ],
     "IMMAN": [],
     "ImmuneSpaceR": [],
-    "infinityFlow": [],
     "IRISFGM": [
         "DEsingle",
         "Seurat",
@@ -771,7 +770,6 @@
         "ChIPpeakAnno"
     ],
     "regionReport": [],
-    "regutools": [],
     "REMP": [],
     "ReportingTools": [],
     "restfulSE": [
