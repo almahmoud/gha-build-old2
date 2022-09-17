@@ -1,4 +1,3 @@
-MACPET
 Linnorm
 cgdsr
 PECA
