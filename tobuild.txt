@@ -1,5 +1,3 @@
-EWCE
-diffcyt
 vissE
 MethReg
 enhancerHomologSearch
