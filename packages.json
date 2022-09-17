@@ -95,7 +95,6 @@
         "mnem",
         "Linnorm"
     ],
-    "BOBaFIT": [],
     "brainflowprobes": [
         "GenomicState"
     ],
@@ -778,7 +777,6 @@
         "RUVSeq"
     ],
     "rifi": [],
-    "RIPAT": [],
     "RITAN": [],
     "RLSeq": [
         "RLHub",
