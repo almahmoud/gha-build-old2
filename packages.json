@@ -122,7 +122,6 @@
     "CeTF": [
         "clusterProfiler"
     ],
-    "CGHnormaliter": [],
     "ChAMP": [
         "DMRcate"
     ],
@@ -319,7 +318,6 @@
         "clusterProfiler"
     ],
     "GeneBreak": [],
-    "GenomicInteractionNodes": [],
     "GenomicOZone": [],
     "GenProSeq": [
         "DeepPINCS",
@@ -673,7 +671,6 @@
         "scran",
         "scuttle"
     ],
-    "scde": [],
     "scGPS": [],
     "schex": [
         "Seurat"
