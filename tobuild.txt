@@ -268,7 +268,6 @@ sSNAPPY
 SCANVIS
 CBEA
 nondetects
-RadioGx
 pwOmics
 SPARQL
 RCyjs
