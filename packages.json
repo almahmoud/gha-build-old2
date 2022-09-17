@@ -18,7 +18,6 @@
         "curatedTCGAData"
     ],
     "animalcules": [],
-    "AnnotationHubData": [],
     "annotatr": [],
     "APL": [
         "Seurat"
@@ -271,9 +270,7 @@
     "EWCE": [
         "ewceData"
     ],
-    "ExperimentHubData": [
-        "AnnotationHubData"
-    ],
+    "ExperimentHubData": [],
     "ExperimentSubset": [
         "SpatialExperiment",
         "scuttle"
@@ -400,8 +397,7 @@
     "methylCC": [],
     "methylclock": [
         "methylclockData",
-        "ExperimentHubData",
-        "AnnotationHubData"
+        "ExperimentHubData"
     ],
     "methylGSA": [
         "clusterProfiler"
@@ -860,8 +856,7 @@
     "depmap": [],
     "sesameData": [],
     "methylclockData": [
-        "ExperimentHubData",
-        "AnnotationHubData"
+        "ExperimentHubData"
     ],
     "cvms": [],
     "mppa": [],
