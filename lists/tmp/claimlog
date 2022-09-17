@@ -1,4 +1,4 @@
-Updating 0b1a8c6..e38e694
+Updating 0b1a8c6..4edfb15
 Fast-forward
  lists/ADaCGH2                              |     2 +-
  lists/AMARETTO                             |     1 +
@@ -140,7 +140,7 @@ Fast-forward
  lists/spatialDE                            |     1 +
  lists/standR                               | 20304 ++++++++++++++++++
  lists/tenXplore                            |     1 +
- lists/tmp/claimlog                         |   881 +-
+ lists/tmp/claimlog                         |   900 +-
  lists/transcriptR                          |     2 +-
  lists/treekoR                              |     1 +
  lists/velociraptor                         |     2 +-
@@ -210,7 +210,7 @@ Fast-forward
  logs/run_ids/TSCAN                         |     2 +
  logs/run_ids/VariantFiltering              |     1 +
  logs/run_ids/adductomicsR                  |     4 +
- logs/run_ids/appreci8R                     |     5 +
+ logs/run_ids/appreci8R                     |     9 +
  logs/run_ids/bandle                        |     5 +
  logs/run_ids/bigmelon                      |     1 +
  logs/run_ids/biscuiteer                    |     2 +
@@ -280,7 +280,7 @@ Fast-forward
  logs/run_ids/vissE                         |     4 +
  packages.json                              |   287 +-
  tobuild.txt                                |    62 -
- 280 files changed, 471269 insertions(+), 45071 deletions(-)
+ 280 files changed, 471292 insertions(+), 45071 deletions(-)
  create mode 100644 lists/AMARETTO
  create mode 100644 lists/APL
  create mode 100644 lists/AgiMicroRna
@@ -486,5 +486,5 @@ scMAGeCK_1.8.0_R_x86_64-pc-linux-gnu.tar.gz
 SPONGE_1.18.1_R_x86_64-pc-linux-gnu.tar.gz
 UniProt.ws_2.36.5_R_x86_64-pc-linux-gnu.tar.gz
 RBGL/old_boost/rbgl_trimmed_boost_1_49_0.tar.gz
-[main 5b2e256] Adding tobuild list
+[main 08ed4a9] Adding tobuild list
  2 files changed, 2 insertions(+), 1 deletion(-)
