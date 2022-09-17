@@ -1,3 +1,2 @@
-MAGAR
 parameters
 RadioGx
