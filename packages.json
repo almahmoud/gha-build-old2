@@ -608,7 +608,6 @@
     "MicrobiomeProfiler": [
         "clusterProfiler"
     ],
-    "MineICA": [],
     "miRSM": [
         "miRspongeR",
         "clusterProfiler",
