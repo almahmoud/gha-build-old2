@@ -917,7 +917,6 @@
         "clusterProfiler",
         "depmap"
     ],
-    "STdeconvolve": [],
     "Streamer": [],
     "STROMA4": [],
     "SummarizedBenchmark": [],
