@@ -58,7 +58,6 @@
     "coMET": [
         "colortools"
     ],
-    "compEpiTools": [],
     "conclus": [
         "scater",
         "clusterProfiler"
