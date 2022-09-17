@@ -1,4 +1,3 @@
-drugTargetInteractions
 pRolocGUI
 Seurat
 Prostar
