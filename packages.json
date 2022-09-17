@@ -1228,7 +1228,6 @@
     "STAN": [],
     "standR": [
         "SpatialExperiment",
-        "mclustcomp",
         "scuttle"
     ],
     "staRank": [],
@@ -1515,7 +1514,6 @@
         "ExperimentHub"
     ],
     "sampSurf": [],
-    "mclustcomp": [],
     "MLmetrics": [
         "ROCR"
     ],
