@@ -1,8 +1,8 @@
-Updating 39e5e13..8b4ce53
+Updating 39e5e13..b1f0df5
 Fast-forward
  lists/tmp/claimlog     | 9 ++-------
- logs/run_ids/appreci8R | 5 +++++
- 2 files changed, 7 insertions(+), 7 deletions(-)
+ logs/run_ids/appreci8R | 3 +++
+ 2 files changed, 5 insertions(+), 7 deletions(-)
 BASiCS_2.8.0_R_x86_64-pc-linux-gnu.tar.gz
 batchelor_1.12.3_R_x86_64-pc-linux-gnu.tar.gz
 BioTIP_1.10.0_R_x86_64-pc-linux-gnu.tar.gz
@@ -28,5 +28,5 @@ scMAGeCK_1.8.0_R_x86_64-pc-linux-gnu.tar.gz
 SPONGE_1.18.1_R_x86_64-pc-linux-gnu.tar.gz
 UniProt.ws_2.36.5_R_x86_64-pc-linux-gnu.tar.gz
 RBGL/old_boost/rbgl_trimmed_boost_1_49_0.tar.gz
-[main 9a3089f] Adding tobuild list
+[main dc95714] Adding tobuild list
  2 files changed, 2 insertions(+), 1 deletion(-)
