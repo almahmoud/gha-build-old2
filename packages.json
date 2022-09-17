@@ -395,7 +395,6 @@
         "cgdsr"
     ],
     "LRcell": [],
-    "M3Drop": [],
     "m6Aboost": [],
     "Macarron": [],
     "MACPET": [],
@@ -696,9 +695,7 @@
         "Seurat"
     ],
     "scmap": [],
-    "scMerge": [
-        "M3Drop"
-    ],
+    "scMerge": [],
     "scmeth": [
         "annotatr"
     ],
@@ -763,8 +760,7 @@
         "TENxPBMCData",
         "scDblFinder",
         "TSCAN",
-        "scuttle",
-        "M3Drop"
+        "scuttle"
     ],
     "SingleMoleculeFootprinting": [
         "QuasR"
