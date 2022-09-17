@@ -1,4 +1,3 @@
-qpgraph
 enhancerHomologSearch
 standR
 PharmacoGx
