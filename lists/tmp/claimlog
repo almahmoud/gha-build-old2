@@ -1,9 +1,10 @@
-Updating 3ed2fad..adb6465
+Updating 3ed2fad..3d2124a
 Fast-forward
- lists/appreci8R        | 2 +-
- logs/run_ids/appreci8R | 1 +
- tobuild.txt            | 1 -
- 3 files changed, 2 insertions(+), 2 deletions(-)
+ lists/appreci8R        |  2 +-
+ lists/tmp/claimlog     | 11 ++++++-----
+ logs/run_ids/appreci8R |  4 ++++
+ tobuild.txt            |  1 -
+ 4 files changed, 11 insertions(+), 7 deletions(-)
 BASiCS_2.8.0_R_x86_64-pc-linux-gnu.tar.gz
 batchelor_1.12.3_R_x86_64-pc-linux-gnu.tar.gz
 BioTIP_1.10.0_R_x86_64-pc-linux-gnu.tar.gz
@@ -29,5 +30,5 @@ scMAGeCK_1.8.0_R_x86_64-pc-linux-gnu.tar.gz
 SPONGE_1.18.1_R_x86_64-pc-linux-gnu.tar.gz
 UniProt.ws_2.36.5_R_x86_64-pc-linux-gnu.tar.gz
 RBGL/old_boost/rbgl_trimmed_boost_1_49_0.tar.gz
-[main 9a24fbf] Adding tobuild list
+[main 2e29047] Adding tobuild list
  2 files changed, 2 insertions(+), 1 deletion(-)
