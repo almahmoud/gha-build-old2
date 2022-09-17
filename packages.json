@@ -180,9 +180,7 @@
     "escape": [
         "UCell"
     ],
-    "EWCE": [
-        "ewceData"
-    ],
+    "EWCE": [],
     "ExperimentHubData": [],
     "ExperimentSubset": [
         "SpatialExperiment"
@@ -229,7 +227,6 @@
     ],
     "GRaNIE": [],
     "graper": [],
-    "gsean": [],
     "GUIDEseq": [],
     "HiCcompare": [],
     "imcRtools": [
@@ -339,10 +336,7 @@
         "SpatialExperiment"
     ],
     "NxtIRFcore": [],
-    "omicade4": [],
-    "omicRexposome": [
-        "omicade4"
-    ],
+    "omicRexposome": [],
     "pageRank": [],
     "PanomiR": [
         "clusterProfiler"
@@ -545,7 +539,6 @@
     "lasso2": [],
     "easierData": [],
     "EntropyExplorer": [],
-    "ewceData": [],
     "MPINet": [],
     "SPARQL": [],
     "FField": [],
