@@ -426,7 +426,6 @@
         "phastCons100way.UCSC.hg19"
     ],
     "REDseq": [],
-    "restfulSE": [],
     "Rgin": [],
     "ribosomeProfilingQC": [
         "RUVSeq"
@@ -579,9 +578,7 @@
     "TDARACNE": [
         "GenKern"
     ],
-    "tenXplore": [
-        "restfulSE"
-    ],
+    "tenXplore": [],
     "terraTCGAdata": [],
     "TimiRGeN": [
         "clusterProfiler"
