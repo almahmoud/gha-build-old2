@@ -1,4 +1,3 @@
-rearrr
 flowPloidy
 MAI
 RiboProfiling
