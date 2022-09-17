@@ -46,7 +46,6 @@
     ],
     "autonomics": [],
     "bandle": [
-        "pRoloc",
         "pRolocdata"
     ],
     "BASiCS": [
@@ -788,10 +787,7 @@
     ],
     "profileplyr": [],
     "projectR": [],
-    "pRoloc": [],
-    "pRolocGUI": [
-        "pRoloc"
-    ],
+    "pRolocGUI": [],
     "Prostar": [],
     "protGear": [],
     "psichomics": [],
