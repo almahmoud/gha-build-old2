@@ -1,4 +1,3 @@
-cummeRbund
 BioNERO
 dearseq
 GeomxTools
