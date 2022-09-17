@@ -168,9 +168,7 @@
         "RUVSeq"
     ],
     "crisprBowtie": [],
-    "crisprBwa": [
-        "Rbwa"
-    ],
+    "crisprBwa": [],
     "crisprScore": [
         "crisprScoreData"
     ],
@@ -584,7 +582,6 @@
     "RareVariantVis": [
         "phastCons100way.UCSC.hg19"
     ],
-    "Rbwa": [],
     "RCyjs": [],
     "REDseq": [],
     "REMP": [],
@@ -697,7 +694,6 @@
     ],
     "scuttle": [],
     "segmenter": [],
-    "segmentSeq": [],
     "SEPIRA": [],
     "SeqSQC": [],
     "sesame": [
