@@ -1,4 +1,3 @@
-qpgraph
 PSMatch
 epivizrStandalone
 OGRE
