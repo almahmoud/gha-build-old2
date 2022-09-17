@@ -14,7 +14,6 @@
     "APL": [],
     "appreci8R": [
         "MafDb.1Kgenomes.phase3.hs37d5",
-        "MafDb.ExAC.r1.0.hs37d5",
         "MafDb.gnomADex.r2.1.hs37d5"
     ],
     "ASpediaFI": [
@@ -571,7 +570,6 @@
     ],
     "adductData": [],
     "MafDb.1Kgenomes.phase3.hs37d5": [],
-    "MafDb.ExAC.r1.0.hs37d5": [],
     "MafDb.gnomADex.r2.1.hs37d5": [],
     "mGSZ": [],
     "biscuiteerData": [],
