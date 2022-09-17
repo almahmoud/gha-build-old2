@@ -155,7 +155,6 @@
     "MAGeCKFlute": [
         "clusterProfiler"
     ],
-    "MetaCyto": [],
     "MethReg": [],
     "methylclock": [
         "methylclockData",
@@ -258,7 +257,6 @@
     "scTreeViz": [
         "scater"
     ],
-    "SIAMCAT": [],
     "signatureSearch": [
         "clusterProfiler"
     ],
