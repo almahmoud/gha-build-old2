@@ -1,4 +1,3 @@
-SIAMCAT
 ExperimentHubData
 velociraptor
 transcriptR
