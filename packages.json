@@ -73,9 +73,7 @@
         "mnem",
         "Linnorm"
     ],
-    "brainflowprobes": [
-        "GenomicState"
-    ],
+    "brainflowprobes": [],
     "BubbleTree": [],
     "cageminer": [
         "BioNERO"
@@ -822,7 +820,6 @@
     "mGSZ": [],
     "pRolocdata": [],
     "biscuiteerData": [],
-    "GenomicState": [],
     "iCluster": [],
     "colortools": [],
     "crisprScoreData": [],
