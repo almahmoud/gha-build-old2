@@ -508,7 +508,6 @@
         "scran"
     ],
     "singleCellTK": [
-        "celldex",
         "scater",
         "scMerge",
         "scran",
@@ -648,7 +647,6 @@
     "SCATEData": [],
     "mlr3learners": [],
     "mlr3tuning": [],
-    "celldex": [],
     "SoupX": [
         "Seurat"
     ],
