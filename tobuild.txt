@@ -1,4 +1,3 @@
-POMA
 gpart
 UCell
 GUIDEseq
