@@ -597,7 +597,6 @@
         "clusterProfiler"
     ],
     "nethet": [],
-    "netresponse": [],
     "netSmooth": [
         "scater",
         "scuttle"
