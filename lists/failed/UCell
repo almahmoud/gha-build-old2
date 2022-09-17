@@ -1,7 +1,4 @@
-Updating 66b88ab..c499425
-Fast-forward
- logs/run_ids/gpart | 1 +
- 1 file changed, 1 insertion(+)
+Already up to date.
 data.table/DESCRIPTION
 data.table/INDEX
 data.table/LICENSE
