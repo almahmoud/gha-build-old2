@@ -453,9 +453,7 @@
     "scAlign": [
         "Seurat"
     ],
-    "scanMiRApp": [
-        "scanMiRData"
-    ],
+    "scanMiRApp": [],
     "scAnnotatR": [
         "Seurat"
     ],
@@ -663,7 +661,6 @@
     "taRifx": [],
     "pwrEWAS.data": [],
     "phastCons100way.UCSC.hg19": [],
-    "scanMiRData": [],
     "SCATEData": [],
     "mlr3learners": [],
     "mlr3tuning": [],
