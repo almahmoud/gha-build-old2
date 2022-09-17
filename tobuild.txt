@@ -1,4 +1,3 @@
-omicsViewer
 LinTInd
 iCOBRA
 regutools
