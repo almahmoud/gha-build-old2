@@ -1,4 +1,3 @@
-ChIC.data
 extraChIPs
 cellxgenedp
 vbsr
