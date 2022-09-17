@@ -171,9 +171,7 @@
         "TSCAN"
     ],
     "cummeRbund": [],
-    "cyanoFilter": [
-        "flowDensity"
-    ],
+    "cyanoFilter": [],
     "CyTOFpower": [
         "diffcyt",
         "FlowSOM"
@@ -189,9 +187,7 @@
         "mnem",
         "Linnorm"
     ],
-    "ddPCRclust": [
-        "flowDensity"
-    ],
+    "ddPCRclust": [],
     "dearseq": [],
     "debrowser": [
         "clusterProfiler"
@@ -281,10 +277,7 @@
     "flowCL": [
         "SPARQL"
     ],
-    "flowCut": [
-        "flowDensity"
-    ],
-    "flowDensity": [],
+    "flowCut": [],
     "FlowSOM": [],
     "fmcsR": [],
     "GARS": [
