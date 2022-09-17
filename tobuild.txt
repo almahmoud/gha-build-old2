@@ -1,4 +1,3 @@
-MSstatsQC
 QuartPAC
 MsBackendMsp
 RSVSim
