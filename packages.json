@@ -415,7 +415,6 @@
     "omicRexposome": [
         "omicade4"
     ],
-    "ontoProc": [],
     "pageRank": [],
     "PanomiR": [
         "clusterProfiler"
@@ -442,9 +441,7 @@
         "scater"
     ],
     "plethy": [],
-    "pogos": [
-        "ontoProc"
-    ],
+    "pogos": [],
     "POMA": [],
     "PrecisionTrialDrawer": [
         "cgdsr"
@@ -483,16 +480,9 @@
         "RLHub"
     ],
     "RNAAgeCalc": [],
-    "RNAmodR": [],
-    "RNAmodR.AlkAnilineSeq": [
-        "RNAmodR"
-    ],
-    "RNAmodR.ML": [
-        "RNAmodR"
-    ],
-    "RNAmodR.RiboMethSeq": [
-        "RNAmodR"
-    ],
+    "RNAmodR.AlkAnilineSeq": [],
+    "RNAmodR.ML": [],
+    "RNAmodR.RiboMethSeq": [],
     "rprimer": [],
     "RSVSim": [],
     "RTNsurvival": [],
@@ -647,8 +637,7 @@
         "GenKern"
     ],
     "tenXplore": [
-        "restfulSE",
-        "ontoProc"
+        "restfulSE"
     ],
     "terraTCGAdata": [],
     "TimiRGeN": [
