@@ -1,4 +1,3 @@
-soGGi
 ToxicoGx
 GWAS.BAYES
 CompoundDb
