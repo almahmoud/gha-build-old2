@@ -1,4 +1,3 @@
-DAPAR
 pRoloc
 mppa
 soGGi
@@ -131,7 +130,6 @@ cellxgenedp
 vbsr
 OMICsPCA
 RCX
-BRISC
 rgoslin
 mbOmic
 tracktables
