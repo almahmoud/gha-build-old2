@@ -532,9 +532,7 @@
     "NBSplice": [
         "mppa"
     ],
-    "ndexr": [
-        "RCX"
-    ],
+    "ndexr": [],
     "Nebulosa": [
         "Seurat"
     ],
@@ -639,7 +637,6 @@
         "phastCons100way.UCSC.hg19"
     ],
     "Rbwa": [],
-    "RCX": [],
     "RCyjs": [],
     "recountmethylation": [],
     "REDseq": [],
