@@ -1,7 +1,7 @@
-Updating fa50905..e8ce4e9
+Updating fa50905..3a1b1c2
 Fast-forward
- lists/tmp/claimlog | 5 +----
- 1 file changed, 1 insertion(+), 4 deletions(-)
+ lists/tmp/claimlog | 6 +++---
+ 1 file changed, 3 insertions(+), 3 deletions(-)
 BASiCS_2.8.0_R_x86_64-pc-linux-gnu.tar.gz
 batchelor_1.12.3_R_x86_64-pc-linux-gnu.tar.gz
 BioTIP_1.10.0_R_x86_64-pc-linux-gnu.tar.gz
