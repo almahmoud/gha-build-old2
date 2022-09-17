@@ -37,7 +37,6 @@
         "clusterProfiler"
     ],
     "BiocOncoTK": [],
-    "biodbNci": [],
     "BioTIP": [
         "scran"
     ],
