@@ -1,4 +1,3 @@
-RNAmodR
 MAGAR
 parameters
 RadioGx
