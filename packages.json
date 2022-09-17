@@ -178,12 +178,8 @@
         "RUVSeq"
     ],
     "CopywriteR": [],
-    "crisprBase": [],
-    "crisprBowtie": [
-        "crisprBase"
-    ],
+    "crisprBowtie": [],
     "crisprBwa": [
-        "crisprBase",
         "Rbwa"
     ],
     "crisprScore": [
