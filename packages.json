@@ -203,9 +203,7 @@
         "ExperimentHub"
     ],
     "compcodeR": [],
-    "compEpiTools": [
-        "methylPipe"
-    ],
+    "compEpiTools": [],
     "conclus": [
         "scran",
         "scater",
@@ -577,7 +575,6 @@
     "methylGSA": [
         "clusterProfiler"
     ],
-    "methylPipe": [],
     "methylSig": [],
     "mia": [
         "scuttle",
