@@ -1,4 +1,3 @@
-NewWave
 rGenomeTracks
 DEScan2
 restfulSE
