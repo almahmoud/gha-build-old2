@@ -1,4 +1,3 @@
-MAI
 RiboProfiling
 RUVcorr
 MSA2dist
