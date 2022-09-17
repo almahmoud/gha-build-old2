@@ -1,4 +1,2 @@
-SCATE
 ExperimentHubData
-HiCcompare
 appreci8R
