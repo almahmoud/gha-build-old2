@@ -18,7 +18,6 @@
         "curatedTCGAData"
     ],
     "animalcules": [],
-    "AnnotationHubData": [],
     "annotatr": [],
     "APL": [
         "Seurat"
@@ -271,9 +270,7 @@
     "EWCE": [
         "ewceData"
     ],
-    "ExperimentHubData": [
-        "AnnotationHubData"
-    ],
+    "ExperimentHubData": [],
     "ExperimentSubset": [
         "SpatialExperiment",
         "scuttle"
@@ -387,7 +384,6 @@
     "MAI": [],
     "MEAL": [],
     "MEAT": [],
-    "MetaboAnnotation": [],
     "MetaCyto": [
         "FlowSOM"
     ],
@@ -401,8 +397,7 @@
     "methylCC": [],
     "methylclock": [
         "methylclockData",
-        "ExperimentHubData",
-        "AnnotationHubData"
+        "ExperimentHubData"
     ],
     "methylGSA": [
         "clusterProfiler"
@@ -861,8 +856,7 @@
     "depmap": [],
     "sesameData": [],
     "methylclockData": [
-        "ExperimentHubData",
-        "AnnotationHubData"
+        "ExperimentHubData"
     ],
     "cvms": [],
     "mppa": [],
