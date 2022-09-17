@@ -13,13 +13,10 @@
     "ASpediaFI": [
         "mGSZ"
     ],
-    "BASiCS": [
-        "scran"
-    ],
+    "BASiCS": [],
     "batchelor": [],
     "BayesSpace": [
-        "scater",
-        "scran"
+        "scater"
     ],
     "benchdamic": [
         "dearseq"
@@ -28,9 +25,7 @@
         "clusterProfiler"
     ],
     "BiocOncoTK": [],
-    "BioTIP": [
-        "scran"
-    ],
+    "BioTIP": [],
     "biscuiteer": [],
     "bnem": [
         "epiNEM",
@@ -47,8 +42,7 @@
     ],
     "cbaf": [],
     "celda": [
-        "scater",
-        "scran"
+        "scater"
     ],
     "CelliD": [
         "scater"
@@ -75,12 +69,9 @@
     ],
     "ChIPXpress": [],
     "ChromSCape": [
-        "scran",
         "scater"
     ],
-    "CiteFuse": [
-        "scran"
-    ],
+    "CiteFuse": [],
     "clipper": [
         "qpgraph"
     ],
@@ -91,7 +82,6 @@
     ],
     "compEpiTools": [],
     "conclus": [
-        "scran",
         "scater",
         "clusterProfiler"
     ],
@@ -136,9 +126,7 @@
     "diffcyt": [
         "FlowSOM"
     ],
-    "Dino": [
-        "scran"
-    ],
+    "Dino": [],
     "distinct": [
         "scater"
     ],
@@ -185,8 +173,7 @@
         "TSCAN"
     ],
     "FLAMES": [
-        "scater",
-        "scran"
+        "scater"
     ],
     "flowCL": [
         "SPARQL"
@@ -220,8 +207,7 @@
     "IRISFGM": [
         "DEsingle",
         "clusterProfiler",
-        "scater",
-        "scran"
+        "scater"
     ],
     "ISAnalytics": [],
     "IsoGeneGUI": [
@@ -275,9 +261,7 @@
     "MoonlightR": [
         "clusterProfiler"
     ],
-    "msImpute": [
-        "scran"
-    ],
+    "msImpute": [],
     "MSnID": [],
     "MSstatsLiP": [],
     "MSstatsQCgui": [],
@@ -288,9 +272,7 @@
     "multiSight": [
         "clusterProfiler"
     ],
-    "mumosa": [
-        "scran"
-    ],
+    "mumosa": [],
     "muscat": [
         "scater"
     ],
@@ -330,7 +312,6 @@
         "clusterProfiler"
     ],
     "pipeComp": [
-        "scran",
         "scater"
     ],
     "plethy": [],
@@ -369,12 +350,9 @@
     "scCB2": [],
     "scDataviz": [],
     "scDblFinder": [
-        "scran",
         "scater"
     ],
-    "scDD": [
-        "scran"
-    ],
+    "scDD": [],
     "scGPS": [],
     "schex": [],
     "scMAGeCK": [],
@@ -382,11 +360,9 @@
     "scPipe": [
         "scater"
     ],
-    "scran": [],
     "scTensor": [],
     "scTGIF": [],
     "scTreeViz": [
-        "scran",
         "scater"
     ],
     "segmenter": [],
@@ -398,12 +374,9 @@
         "clusterProfiler"
     ],
     "signeR": [],
-    "SingleCellSignalR": [
-        "scran"
-    ],
+    "SingleCellSignalR": [],
     "singleCellTK": [
         "scater",
-        "scran",
         "SoupX",
         "celda",
         "scDblFinder",
@@ -416,16 +389,14 @@
         "sampSurf"
     ],
     "Spaniel": [
-        "scater",
-        "scran"
+        "scater"
     ],
     "spatialDE": [],
     "SpatialDecon": [
         "GeomxTools"
     ],
     "spatialHeatmap": [
-        "scater",
-        "scran"
+        "scater"
     ],
     "spatzie": [],
     "SpectralTAD": [
