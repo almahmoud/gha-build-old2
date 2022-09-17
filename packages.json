@@ -278,12 +278,9 @@
     "eegc": [
         "clusterProfiler"
     ],
-    "enhancerHomologSearch": [
-        "motifmatchr"
-    ],
+    "enhancerHomologSearch": [],
     "ENmix": [],
     "enrichTF": [
-        "motifmatchr",
         "clusterProfiler"
     ],
     "EpiCompare": [
@@ -299,8 +296,7 @@
     ],
     "epivizrStandalone": [],
     "esATAC": [
-        "clusterProfiler",
-        "motifmatchr"
+        "clusterProfiler"
     ],
     "escape": [
         "UCell"
@@ -505,7 +501,6 @@
     "MoonlightR": [
         "clusterProfiler"
     ],
-    "motifmatchr": [],
     "MSA2dist": [],
     "MsBackendMsp": [],
     "msgbsR": [],
@@ -586,9 +581,7 @@
     "OMICsPCA": [],
     "ontoProc": [],
     "optimalFlow": [],
-    "pageRank": [
-        "motifmatchr"
-    ],
+    "pageRank": [],
     "PanomiR": [
         "clusterProfiler"
     ],
@@ -848,9 +841,7 @@
         "scuttle",
         "scran"
     ],
-    "spatzie": [
-        "motifmatchr"
-    ],
+    "spatzie": [],
     "SpectralTAD": [
         "HiCcompare"
     ],
