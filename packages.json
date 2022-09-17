@@ -40,9 +40,7 @@
     "CEMiTool": [
         "clusterProfiler"
     ],
-    "censcyt": [
-        "diffcyt"
-    ],
+    "censcyt": [],
     "CeTF": [
         "clusterProfiler"
     ],
@@ -75,9 +73,7 @@
         "GUIDEseq"
     ],
     "ctgGEM": [],
-    "CyTOFpower": [
-        "diffcyt"
-    ],
+    "CyTOFpower": [],
     "CytoML": [],
     "CytoTree": [],
     "dce": [],
@@ -91,7 +87,6 @@
         "lasso2"
     ],
     "DiffBind": [],
-    "diffcyt": [],
     "Dino": [],
     "distinct": [
         "scater"
@@ -325,9 +320,7 @@
     "TraRe": [
         "vbsr"
     ],
-    "treekoR": [
-        "diffcyt"
-    ],
+    "treekoR": [],
     "tricycle": [
         "scater"
     ],
