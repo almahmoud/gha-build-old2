@@ -1,4 +1,3 @@
-comapr
 synergyfinder
 glmSparseNet
 MSstatsSampleSize
