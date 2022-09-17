@@ -1,4 +1,3 @@
-CopywriteR
 scPCA
 aroma.affymetrix
 MatrixRider
