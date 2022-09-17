@@ -191,11 +191,9 @@
         "flowDensity"
     ],
     "CyTOFpower": [
-        "CytoGLMM",
         "diffcyt",
         "FlowSOM"
     ],
-    "CytoGLMM": [],
     "CytoML": [],
     "CytoTree": [
         "FlowSOM"
