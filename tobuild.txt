@@ -1,4 +1,3 @@
-extraChIPs
 BRISC
 tomoseqr
 seqArchR
