@@ -1,5 +1,3 @@
-Linnorm
-cgdsr
 PECA
 ipdDb
 missMethyl
