@@ -1,5 +1,3 @@
-netZooR
-soGGi
 MineICA
 ToxicoGx
 GWAS.BAYES
