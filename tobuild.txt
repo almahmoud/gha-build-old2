@@ -1,4 +1,3 @@
-SummarizedBenchmark
 tradeSeq
 categoryCompare
 SPOTlight
