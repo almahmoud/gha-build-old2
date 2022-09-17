@@ -1,9 +1,4 @@
-Updating 56c86f4..9ccbfa9
-Fast-forward
- lists/GWAS.BAYES        | 5616 ++++++++++++++++++++++++++++++++++++++++++++++-
- lists/failed/GWAS.BAYES | 5615 ++++++++++++++++++++++++++++++++++++++++++++++
- 2 files changed, 11230 insertions(+), 1 deletion(-)
- create mode 100644 lists/failed/GWAS.BAYES
+Already up to date.
 assertthat/DESCRIPTION
 assertthat/INDEX
 assertthat/Meta/
