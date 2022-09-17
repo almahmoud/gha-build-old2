@@ -124,9 +124,7 @@
         "scater"
     ],
     "DropletUtils": [],
-    "easier": [
-        "easierData"
-    ],
+    "easier": [],
     "eegc": [
         "clusterProfiler"
     ],
@@ -438,7 +436,6 @@
     "iCluster": [],
     "colortools": [],
     "lasso2": [],
-    "easierData": [],
     "EntropyExplorer": [],
     "MPINet": [],
     "SPARQL": [],
