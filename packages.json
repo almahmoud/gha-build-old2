@@ -155,7 +155,6 @@
     "GRaNIE": [],
     "GUIDEseq": [],
     "HiCcompare": [],
-    "imcRtools": [],
     "IRISFGM": [
         "clusterProfiler",
         "scater"
