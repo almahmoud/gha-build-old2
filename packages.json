@@ -185,9 +185,7 @@
         "clusterProfiler"
     ],
     "MetaCyto": [],
-    "MethReg": [
-        "sesame"
-    ],
+    "MethReg": [],
     "methylclock": [
         "methylclockData",
         "ExperimentHubData"
@@ -302,7 +300,6 @@
     "scTreeViz": [
         "scater"
     ],
-    "sesame": [],
     "SIAMCAT": [],
     "signatureSearch": [
         "clusterProfiler"
@@ -348,8 +345,7 @@
         "HiCcompare"
     ],
     "TCGAbiolinksGUI": [
-        "clusterProfiler",
-        "sesame"
+        "clusterProfiler"
     ],
     "TDARACNE": [
         "GenKern"
