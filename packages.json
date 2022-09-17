@@ -4,8 +4,7 @@
         "snapCGH"
     ],
     "adductomicsR": [
-        "adductData",
-        "ExperimentHub"
+        "adductData"
     ],
     "affycoretools": [
         "ReportingTools"
@@ -19,8 +18,7 @@
         "scuttle"
     ],
     "AMARETTO": [
-        "curatedTCGAData",
-        "ExperimentHub"
+        "curatedTCGAData"
     ],
     "animalcules": [],
     "AnnotationHubData": [],
@@ -65,8 +63,7 @@
         "clusterProfiler"
     ],
     "BiocOncoTK": [
-        "curatedTCGAData",
-        "ExperimentHub"
+        "curatedTCGAData"
     ],
     "biodbMirbase": [],
     "biodbNci": [],
@@ -79,13 +76,10 @@
     "biscuiteer": [
         "biscuiteerData",
         "dmrseq",
-        "ExperimentHub",
         "annotatr"
     ],
     "blacksheepr": [],
-    "BloodGen3Module": [
-        "ExperimentHub"
-    ],
+    "BloodGen3Module": [],
     "bnem": [
         "epiNEM",
         "mnem",
@@ -145,8 +139,7 @@
     "CGHnormaliter": [],
     "ChAMP": [
         "DMRcate",
-        "wateRmelon",
-        "ExperimentHub"
+        "wateRmelon"
     ],
     "CHETAH": [],
     "ChIC": [
@@ -182,9 +175,7 @@
     "coMET": [
         "colortools"
     ],
-    "coMethDMR": [
-        "ExperimentHub"
-    ],
+    "coMethDMR": [],
     "compcodeR": [],
     "compEpiTools": [],
     "conclus": [
@@ -212,8 +203,7 @@
         "Rbwa"
     ],
     "crisprScore": [
-        "crisprScoreData",
-        "ExperimentHub"
+        "crisprScoreData"
     ],
     "crisprseekplus": [
         "GUIDEseq"
@@ -287,9 +277,7 @@
         "scater",
         "scuttle"
     ],
-    "DMRcate": [
-        "ExperimentHub"
-    ],
+    "DMRcate": [],
     "dmrseq": [
         "annotatr"
     ],
@@ -302,8 +290,7 @@
     "DrugVsDisease": [],
     "Dune": [],
     "easier": [
-        "easierData",
-        "ExperimentHub"
+        "easierData"
     ],
     "EDASeq": [],
     "eegc": [
@@ -312,9 +299,7 @@
     "enhancerHomologSearch": [
         "motifmatchr"
     ],
-    "ENmix": [
-        "ExperimentHub"
-    ],
+    "ENmix": [],
     "enrichTF": [
         "motifmatchr",
         "clusterProfiler"
@@ -339,13 +324,10 @@
         "UCell"
     ],
     "EWCE": [
-        "ewceData",
-        "ExperimentHub"
+        "ewceData"
     ],
-    "ExperimentHub": [],
     "ExperimentHubData": [
-        "AnnotationHubData",
-        "ExperimentHub"
+        "AnnotationHubData"
     ],
     "ExperimentSubset": [
         "SpatialExperiment",
@@ -424,9 +406,7 @@
     "graper": [],
     "GSCA": [],
     "gscreend": [],
-    "GSEABenchmarkeR": [
-        "ExperimentHub"
-    ],
+    "GSEABenchmarkeR": [],
     "GSEAmining": [],
     "gsean": [
         "PPInfer"
@@ -472,27 +452,20 @@
     "LowMACA": [
         "cgdsr"
     ],
-    "LRcell": [
-        "ExperimentHub"
-    ],
+    "LRcell": [],
     "M3Drop": [],
-    "m6Aboost": [
-        "ExperimentHub"
-    ],
+    "m6Aboost": [],
     "Maaslin2": [],
     "Macarron": [
         "Maaslin2"
     ],
     "MACPET": [],
-    "MACSr": [
-        "ExperimentHub"
-    ],
+    "MACSr": [],
     "made4": [],
     "MAGAR": [],
     "MAGeCKFlute": [
         "clusterProfiler",
-        "depmap",
-        "ExperimentHub"
+        "depmap"
     ],
     "MAI": [],
     "MatrixRider": [],
@@ -520,13 +493,11 @@
     "MetaVolcanoR": [],
     "MethReg": [
         "sesameData",
-        "sesame",
-        "ExperimentHub"
+        "sesame"
     ],
     "methylCC": [],
     "methylclock": [
         "methylclockData",
-        "ExperimentHub",
         "ExperimentHubData",
         "AnnotationHubData"
     ],
@@ -643,8 +614,7 @@
     "nondetects": [],
     "NPARC": [],
     "NxtIRFcore": [
-        "NxtIRFdata",
-        "ExperimentHub"
+        "NxtIRFdata"
     ],
     "OGRE": [],
     "omicade4": [
@@ -680,9 +650,7 @@
     "phemd": [
         "Seurat"
     ],
-    "PhyloProfile": [
-        "ExperimentHub"
-    ],
+    "PhyloProfile": [],
     "Pigengene": [
         "clusterProfiler"
     ],
@@ -720,8 +688,7 @@
     "puma": [],
     "pwOmics": [],
     "pwrEWAS": [
-        "pwrEWAS.data",
-        "ExperimentHub"
+        "pwrEWAS.data"
     ],
     "qpgraph": [],
     "qrqc": [],
@@ -742,9 +709,7 @@
     "regionReport": [],
     "REMP": [],
     "ReportingTools": [],
-    "restfulSE": [
-        "ExperimentHub"
-    ],
+    "restfulSE": [],
     "rGenomeTracks": [
         "rGenomeTracksData"
     ],
@@ -759,8 +724,7 @@
     "rifi": [],
     "RITAN": [],
     "RLSeq": [
-        "RLHub",
-        "ExperimentHub"
+        "RLHub"
     ],
     "RMassBank": [],
     "RNAAgeCalc": [],
@@ -800,8 +764,7 @@
     ],
     "SCANVIS": [],
     "SCATE": [
-        "SCATEData",
-        "ExperimentHub"
+        "SCATEData"
     ],
     "scater": [
         "scuttle"
@@ -874,12 +837,9 @@
     "selectKSigs": [],
     "SEPIRA": [],
     "seqArchR": [],
-    "SeqSQC": [
-        "ExperimentHub"
-    ],
+    "SeqSQC": [],
     "sesame": [
-        "sesameData",
-        "ExperimentHub"
+        "sesameData"
     ],
     "shinyepico": [],
     "SIAMCAT": [
@@ -887,7 +847,6 @@
         "mlr3tuning"
     ],
     "signatureSearch": [
-        "ExperimentHub",
         "clusterProfiler"
     ],
     "signeR": [],
@@ -898,7 +857,6 @@
     ],
     "singleCellTK": [
         "celldex",
-        "ExperimentHub",
         "scater",
         "scMerge",
         "scran",
@@ -952,8 +910,7 @@
     "SpidermiR": [
         "MAGeCKFlute",
         "clusterProfiler",
-        "depmap",
-        "ExperimentHub"
+        "depmap"
     ],
     "splatter": [
         "scater",
@@ -976,8 +933,7 @@
         "MLmetrics",
         "MAGeCKFlute",
         "clusterProfiler",
-        "depmap",
-        "ExperimentHub"
+        "depmap"
     ],
     "STdeconvolve": [],
     "Streamer": [],
@@ -995,16 +951,14 @@
     "TCGAbiolinksGUI": [
         "clusterProfiler",
         "sesame",
-        "sesameData",
-        "ExperimentHub"
+        "sesameData"
     ],
     "TDARACNE": [
         "GenKern"
     ],
     "tenXplore": [
         "restfulSE",
-        "ontoProc",
-        "ExperimentHub"
+        "ontoProc"
     ],
     "terraTCGAdata": [],
     "TFARM": [],
@@ -1055,8 +1009,7 @@
         "scuttle"
     ],
     "vissE": [
-        "msigdb",
-        "ExperimentHub"
+        "msigdb"
     ],
     "VplotR": [],
     "vulcan": [
@@ -1068,95 +1021,62 @@
         "PharmacoGx"
     ],
     "XINA": [],
-    "adductData": [
-        "ExperimentHub"
-    ],
-    "curatedTCGAData": [
-        "ExperimentHub"
-    ],
+    "adductData": [],
+    "curatedTCGAData": [],
     "Seurat": [],
     "MafDb.1Kgenomes.phase3.hs37d5": [],
     "MafDb.ExAC.r1.0.hs37d5": [],
     "MafDb.gnomADex.r2.1.hs37d5": [],
     "mGSZ": [],
     "pRolocdata": [],
-    "biscuiteerData": [
-        "ExperimentHub"
-    ],
+    "biscuiteerData": [],
     "GenomicState": [],
     "iCluster": [],
     "ChIC.data": [],
     "ChIPXpressData": [],
     "colortools": [],
-    "crisprScoreData": [
-        "ExperimentHub"
-    ],
+    "crisprScoreData": [],
     "lasso2": [],
-    "easierData": [
-        "ExperimentHub"
-    ],
+    "easierData": [],
     "EntropyExplorer": [],
-    "ewceData": [
-        "ExperimentHub"
-    ],
+    "ewceData": [],
     "MPINet": [],
     "SPARQL": [],
     "FField": [],
     "gptk": [],
     "orQA": [],
     "cgdsr": [],
-    "depmap": [
-        "ExperimentHub"
-    ],
-    "sesameData": [
-        "ExperimentHub"
-    ],
+    "depmap": [],
+    "sesameData": [],
     "methylclockData": [
         "ExperimentHubData",
-        "ExperimentHub",
         "AnnotationHubData"
     ],
     "cvms": [],
     "mppa": [],
     "BRISC": [],
-    "NxtIRFdata": [
-        "ExperimentHub"
-    ],
+    "NxtIRFdata": [],
     "phastCons100way.UCSC.hg38": [],
     "taRifx": [],
-    "pwrEWAS.data": [
-        "ExperimentHub"
-    ],
+    "pwrEWAS.data": [],
     "phastCons100way.UCSC.hg19": [],
     "rGenomeTracksData": [],
-    "RLHub": [
-        "ExperimentHub"
-    ],
+    "RLHub": [],
     "scanMiRData": [
         "scanMiR"
     ],
-    "SCATEData": [
-        "ExperimentHub"
-    ],
+    "SCATEData": [],
     "mlr3learners": [],
     "mlr3tuning": [],
-    "celldex": [
-        "ExperimentHub"
-    ],
+    "celldex": [],
     "SoupX": [
         "Seurat"
     ],
-    "scRNAseq": [
-        "ExperimentHub"
-    ],
-    "TENxPBMCData": [
-        "ExperimentHub"
-    ],
+    "scRNAseq": [],
+    "TENxPBMCData": [],
     "sampSurf": [],
     "MLmetrics": [],
     "GenKern": [],
     "vbsr": [],
-    "msigdb": [
-        "ExperimentHub"
-    ]
+    "msigdb": []
 }
