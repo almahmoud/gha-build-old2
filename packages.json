@@ -1020,7 +1020,6 @@
         "depmap",
         "ExperimentHub"
     ],
-    "spiky": [],
     "splatter": [
         "scater",
         "scuttle"
