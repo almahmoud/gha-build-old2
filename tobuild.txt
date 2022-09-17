@@ -1,4 +1,3 @@
-Seurat
 Prostar
 pdInfoBuilder
 pwrEWAS.data
