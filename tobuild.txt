@@ -1,5 +1,3 @@
-nempi
 treekoR
 ExperimentHubData
-HiCcompare
 appreci8R
