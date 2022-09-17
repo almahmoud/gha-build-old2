@@ -1,4 +1,3 @@
-flowVS
 qmtools
 GenomicScores
 hermes
