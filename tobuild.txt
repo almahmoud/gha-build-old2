@@ -1,4 +1,3 @@
-sRACIPE
 NPARC
 COCOA
 flowPloidy
