@@ -32,7 +32,6 @@
         "mnem"
     ],
     "brainflowprobes": [],
-    "BubbleTree": [],
     "CancerSubtypes": [
         "iCluster"
     ],
@@ -302,7 +301,6 @@
         "scater"
     ],
     "plethy": [],
-    "pogos": [],
     "POMA": [],
     "PrecisionTrialDrawer": [
         "cgdsr"
