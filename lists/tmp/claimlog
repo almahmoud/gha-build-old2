@@ -313,7 +313,7 @@ plethy_1.34.0_R_x86_64-pc-linux-gnu.tar.gz
 SPONGE_1.18.1_R_x86_64-pc-linux-gnu.tar.gz
 UniProt.ws_2.36.5_R_x86_64-pc-linux-gnu.tar.gz
 RBGL/old_boost/rbgl_trimmed_boost_1_49_0.tar.gz
-[main 06dc957] Adding tobuild list
+[main 6e3dd6c] Adding tobuild list
  134 files changed, 266 insertions(+), 330646 deletions(-)
  create mode 100644 lists/ADaCGH2
  create mode 100644 lists/ATACseqQC
