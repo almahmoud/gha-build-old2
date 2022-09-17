@@ -1,4 +1,3 @@
-CNVMetrics
 selectKSigs
 ISAnalytics
 CHETAH
