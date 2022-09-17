@@ -1,4 +1,3 @@
-optimx
 swamp
 cvTools
 pwOmics
