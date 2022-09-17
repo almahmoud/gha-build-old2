@@ -1,4 +1,3 @@
-ToxicoGx
 GWAS.BAYES
 CompoundDb
 methylInheritance
