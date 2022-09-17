@@ -209,7 +209,6 @@
     "compEpiTools": [
         "methylPipe"
     ],
-    "CompoundDb": [],
     "conclus": [
         "scran",
         "scater",
