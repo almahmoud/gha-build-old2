@@ -1,5 +1,3 @@
-MetaboAnnotation
-annotatr
 ITALICS
 scanMiR
 ImmuneSpaceR
