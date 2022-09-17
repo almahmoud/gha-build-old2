@@ -341,7 +341,6 @@
         "SpatialExperiment",
         "scuttle"
     ],
-    "ImmuneSpaceR": [],
     "IRISFGM": [
         "DEsingle",
         "Seurat",
