@@ -1,6 +1,5 @@
 {
     "ADaCGH2": [],
-    "adductomicsR": [],
     "AgiMicroRna": [],
     "airpart": [
         "scater"
@@ -276,7 +275,6 @@
         "clusterProfiler"
     ],
     "PharmacoGx": [],
-    "phemd": [],
     "Pigengene": [
         "clusterProfiler"
     ],
@@ -293,9 +291,7 @@
     "pulsedSilac": [
         "taRifx"
     ],
-    "pwrEWAS": [
-        "pwrEWAS.data"
-    ],
+    "pwrEWAS": [],
     "qpgraph": [],
     "QuasR": [],
     "RadioGx": [],
@@ -306,7 +302,6 @@
     "ribosomeProfilingQC": [],
     "RLSeq": [],
     "scAlign": [],
-    "scanMiRApp": [],
     "scAnnotatR": [],
     "SCATE": [
         "SCATEData"
@@ -436,7 +431,6 @@
     ],
     "mppa": [],
     "taRifx": [],
-    "pwrEWAS.data": [],
     "phastCons100way.UCSC.hg19": [],
     "SCATEData": [],
     "mlr3tuning": [],
