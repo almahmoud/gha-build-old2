@@ -1,8 +1,4 @@
-Updating 61ffa843..b93fb12f
-Fast-forward
- lists/branchpointer | 20907 +-------------------------------------------------
- packages.json       |     1 -
- 2 files changed, 1 insertion(+), 20907 deletions(-)
+Already up to date.
 Rcpp/CITATION
 Rcpp/DESCRIPTION
 Rcpp/INDEX
