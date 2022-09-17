@@ -164,8 +164,7 @@
     ],
     "ChIPpeakAnno": [],
     "ChIPQC": [
-        "DiffBind",
-        "systemPipeR"
+        "DiffBind"
     ],
     "ChIPXpress": [
         "ChIPXpressData"
@@ -204,9 +203,7 @@
         "ExperimentHub"
     ],
     "compcodeR": [],
-    "compEpiTools": [
-        "methylPipe"
-    ],
+    "compEpiTools": [],
     "conclus": [
         "scran",
         "scater",
@@ -298,9 +295,7 @@
         "ChIPpeakAnno"
     ],
     "DEsingle": [],
-    "DiffBind": [
-        "systemPipeR"
-    ],
+    "DiffBind": [],
     "diffcyt": [
         "FlowSOM",
         "openCyto"
@@ -580,7 +575,6 @@
     "methylGSA": [
         "clusterProfiler"
     ],
-    "methylPipe": [],
     "methylSig": [],
     "mia": [
         "scuttle",
@@ -1043,7 +1037,6 @@
         "SpatialExperiment",
         "scuttle"
     ],
-    "staRank": [],
     "StarBioTrek": [
         "SpidermiR",
         "MLmetrics",
@@ -1061,7 +1054,6 @@
     "svaNUMT": [],
     "synergyfinder": [],
     "synlet": [],
-    "systemPipeR": [],
     "systemPipeShiny": [],
     "TADCompare": [
         "HiCcompare"
@@ -1141,8 +1133,7 @@
     "VplotR": [],
     "vulcan": [
         "ChIPpeakAnno",
-        "DiffBind",
-        "systemPipeR"
+        "DiffBind"
     ],
     "wateRmelon": [],
     "weitrix": [],
