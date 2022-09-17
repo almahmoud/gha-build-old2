@@ -379,9 +379,7 @@
     "PrecisionTrialDrawer": [
         "cgdsr"
     ],
-    "primirTSS": [
-        "phastCons100way.UCSC.hg38"
-    ],
+    "primirTSS": [],
     "Prostar": [],
     "protGear": [],
     "pulsedSilac": [
@@ -576,7 +574,6 @@
         "ExperimentHubData"
     ],
     "mppa": [],
-    "phastCons100way.UCSC.hg38": [],
     "taRifx": [],
     "pwrEWAS.data": [],
     "phastCons100way.UCSC.hg19": [],
