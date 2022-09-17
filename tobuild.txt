@@ -1,4 +1,3 @@
-pareg
 rifi
 ggmsa
 RNAmodR
