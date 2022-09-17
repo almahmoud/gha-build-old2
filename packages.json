@@ -921,7 +921,6 @@
     ],
     "shinyepico": [],
     "SIAMCAT": [
-        "mlr3",
         "mlr3learners",
         "mlr3tuning"
     ],
@@ -1181,13 +1180,8 @@
     "SCATEData": [
         "ExperimentHub"
     ],
-    "mlr3": [],
-    "mlr3learners": [
-        "mlr3"
-    ],
-    "mlr3tuning": [
-        "mlr3"
-    ],
+    "mlr3learners": [],
+    "mlr3tuning": [],
     "celldex": [
         "ExperimentHub"
     ],
