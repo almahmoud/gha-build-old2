@@ -132,9 +132,7 @@
     "MAGeCKFlute": [
         "clusterProfiler"
     ],
-    "methylclock": [
-        "methylclockData"
-    ],
+    "methylclock": [],
     "methylGSA": [
         "clusterProfiler"
     ],
@@ -281,7 +279,6 @@
     "gptk": [],
     "orQA": [],
     "cgdsr": [],
-    "methylclockData": [],
     "mppa": [],
     "taRifx": [],
     "sampSurf": [],
