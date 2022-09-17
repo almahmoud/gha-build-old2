@@ -1,4 +1,3 @@
-GWAS.BAYES
 CompoundDb
 methylInheritance
 edge
