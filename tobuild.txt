@@ -1,4 +1,3 @@
-IMMAN
 PharmacoGx
 sccomp
 msgbsR
