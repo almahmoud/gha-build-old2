@@ -1,5 +1,3 @@
-shinyMethyl
-biodbExpasy
 NewWave
 EGAD
 borealis
