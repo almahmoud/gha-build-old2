@@ -332,9 +332,7 @@
     "epihet": [
         "EntropyExplorer"
     ],
-    "epimutacions": [
-        "epimutacionsData"
-    ],
+    "epimutacions": [],
     "epiNEM": [
         "mnem",
         "Linnorm"
@@ -475,7 +473,6 @@
         "lasso2"
     ],
     "ITALICS": [],
-    "kissDE": [],
     "KnowSeq": [],
     "limmaGUI": [],
     "lineagespot": [],
@@ -1115,7 +1112,6 @@
         "ExperimentHub"
     ],
     "EntropyExplorer": [],
-    "epimutacionsData": [],
     "ewceData": [
         "ExperimentHub"
     ],
