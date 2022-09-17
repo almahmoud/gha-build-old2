@@ -1,4 +1,3 @@
-metaseqR2
 easierData
 RLHub
 scanMiRData
