@@ -1,4 +1,9 @@
-Already up to date.
+Updating 4063544..d94c250
+Fast-forward
+ lists/MAI        | 9098 +++++++++++++++++++++++++++++++++++++++++++++++++++++-
+ lists/failed/MAI | 9097 +++++++++++++++++++++++++++++++++++++++++++++++++++++
+ 2 files changed, 18194 insertions(+), 1 deletion(-)
+ create mode 100644 lists/failed/MAI
 ade4/CITATION
 ade4/DESCRIPTION
 ade4/INDEX
