@@ -96,9 +96,7 @@
     "biodbMirbase": [],
     "biodbNcbi": [],
     "biodbNci": [],
-    "BioMM": [
-        "readbitmap"
-    ],
+    "BioMM": [],
     "BioNERO": [],
     "BioTIP": [
         "scran",
@@ -255,9 +253,7 @@
         "scater",
         "scuttle"
     ],
-    "CONFESS": [
-        "readbitmap"
-    ],
+    "CONFESS": [],
     "consensusDE": [
         "EDASeq",
         "RUVSeq"
@@ -943,8 +939,7 @@
         "ExperimentHub"
     ],
     "rGenomeTracks": [
-        "rGenomeTracksData",
-        "readbitmap"
+        "rGenomeTracksData"
     ],
     "Rgin": [],
     "rgoslin": [],
@@ -1347,10 +1342,7 @@
     ],
     "mGSZ": [],
     "pRolocdata": [],
-    "imager": [
-        "readbitmap"
-    ],
-    "readbitmap": [],
+    "imager": [],
     "drtmle": [
         "ROCR"
     ],
