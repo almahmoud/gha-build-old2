@@ -1,4 +1,3 @@
-QuasR
 ngsReports
 TSCAN
 bayestestR
