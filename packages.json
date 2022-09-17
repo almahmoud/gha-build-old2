@@ -841,9 +841,7 @@
     "PanomiR": [
         "clusterProfiler"
     ],
-    "pareg": [
-        "tfprobability"
-    ],
+    "pareg": [],
     "PathoStat": [
         "ROCR"
     ],
@@ -1457,7 +1455,6 @@
     "NxtIRFdata": [
         "ExperimentHub"
     ],
-    "tfprobability": [],
     "phastCons100way.UCSC.hg38": [
         "GenomicScores"
     ],
