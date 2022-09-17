@@ -1,12 +1,8 @@
-Updating b0780b2..41bd978
+Updating d205cb2..c8bc0df
 Fast-forward
- lists/appreci8R              |  2 +-
- lists/methylclockData        |  1 +
- lists/tmp/claimlog           | 92 ++++----------------------------------------
- logs/run_ids/methylclockData |  8 ++++
- packages.json                |  1 -
- 5 files changed, 18 insertions(+), 86 deletions(-)
- create mode 100644 lists/methylclockData
- create mode 100644 logs/run_ids/methylclockData
-[main b28b339] Adding tobuild list
+ lists/methylclock | 1 +
+ tobuild.txt       | 1 -
+ 2 files changed, 1 insertion(+), 1 deletion(-)
+ create mode 100644 lists/methylclock
+[main 20a4256] Adding tobuild list
  2 files changed, 2 insertions(+), 1 deletion(-)
