@@ -1,4 +1,3 @@
-segmentSeq
 MetaboSignal
 comapr
 synergyfinder
