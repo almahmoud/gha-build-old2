@@ -1,4 +1,3 @@
-curatedTCGAData
 crisprBowtie
 supersigs
 NxtIRFdata
