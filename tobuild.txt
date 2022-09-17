@@ -1,4 +1,3 @@
-HPiP
 recountmethylation
 miRNAtap.db
 CopywriteR
