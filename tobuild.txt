@@ -1,4 +1,3 @@
-ISAnalytics
 pageRank
 scater
 dearseq
