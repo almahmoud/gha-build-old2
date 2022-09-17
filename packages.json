@@ -260,7 +260,6 @@
     "MSnID": [],
     "MSstatsLiP": [],
     "MSstatsQCgui": [],
-    "MuData": [],
     "multiHiCcompare": [
         "HiCcompare"
     ],
@@ -404,7 +403,6 @@
         "scater"
     ],
     "SPONGE": [],
-    "SPOTlight": [],
     "STAN": [],
     "standR": [],
     "StarBioTrek": [
