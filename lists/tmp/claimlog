@@ -1,4 +1,4 @@
-Updating 1b025b14..1cc96cc4
+Updating 1b025b14..f2904032
 Fast-forward
  lists/CBEA                  | 17997 +++++++++++++++++++++++++++++++++++++++++-
  lists/DepInfeR              | 15288 ++++++++++++++++++++++++++++++++++-
@@ -14,17 +14,16 @@ Fast-forward
  lists/failed/RCyjs          |  1235 +++
  lists/failed/SCANVIS        |     8 +-
  lists/failed/SPARQL         |     1 +
- lists/failed/miaSim         | 16947 +++++++++++++++++++++++++++++++++++++++
  lists/failed/nondetects     |  3860 +++++++++
  lists/failed/pwOmics        |  7284 +++++++++++++++++
  lists/failed/rprimer        |  5786 ++++++++++++++
  lists/lipidr                |     2 +-
- lists/miaSim                | 16948 ++++++++++++++++++++++++++++++++++++++-
+ lists/miaSim                |     2 +-
  lists/nondetects            |  3861 ++++++++-
  lists/optimx                |     2 +-
  lists/pwOmics               |  7285 ++++++++++++++++-
  lists/rprimer               |  5787 +++++++++++++-
- lists/spsUtil               |     2 +-
+ lists/spsUtil               |   508 +-
  lists/swamp                 |     2 +-
  lists/weitrix               |     2 +-
  logs/cvTools.out            |     5 +
@@ -35,7 +34,7 @@ Fast-forward
  logs/run_ids/SPARQL         |     2 +
  logs/run_ids/cBioPortalData |     3 +
  logs/run_ids/cvTools        |     3 +
- logs/run_ids/lipidr         |     6 +
+ logs/run_ids/lipidr         |     3 +
  logs/run_ids/miaSim         |     2 +
  logs/run_ids/pwOmics        |     9 +
  logs/run_ids/rprimer        |     4 +
@@ -43,15 +42,14 @@ Fast-forward
  logs/run_ids/weitrix        |     6 +
  logs/spsUtil.out            |     5 +
  logs/swamp.out              |    14 +
- packages.json               |    32 +-
+ packages.json               |    27 +-
  tobuild.txt                 |    11 -
- 45 files changed, 147209 insertions(+), 54 deletions(-)
+ 44 files changed, 113818 insertions(+), 50 deletions(-)
  create mode 100644 lists/failed/CBEA
  create mode 100644 lists/failed/DepInfeR
  create mode 100644 lists/failed/MetaVolcanoR
  create mode 100644 lists/failed/RCyjs
  create mode 100644 lists/failed/SPARQL
- create mode 100644 lists/failed/miaSim
  create mode 100644 lists/failed/nondetects
  create mode 100644 lists/failed/pwOmics
  create mode 100644 lists/failed/rprimer
@@ -112,8 +110,8 @@ bench_1.1.2_R_x86_64-pc-linux-gnu.tar.gz
 reldist_1.7-1_R_x86_64-pc-linux-gnu.tar.gz
 densEstBayes_1.0-2.1_R_x86_64-pc-linux-gnu.tar.gz
 ExtDist_0.6-4_R_x86_64-pc-linux-gnu.tar.gz
-[main 9cc521df] Adding tobuild list
- 112 files changed, 222 insertions(+), 861647 deletions(-)
+[main a35e0e2b] Adding tobuild list
+ 113 files changed, 224 insertions(+), 862155 deletions(-)
  rewrite lists/ASURAT (100%)
  create mode 100644 lists/BRISC
  rewrite lists/CompoundDb (99%)
@@ -209,10 +207,10 @@ ExtDist_0.6-4_R_x86_64-pc-linux-gnu.tar.gz
  rewrite lists/signeR (99%)
  rewrite lists/soGGi (99%)
  rewrite lists/spiky (99%)
+ rewrite lists/spsUtil (100%)
  create mode 100644 lists/ssPATHS
  rewrite lists/supersigs (100%)
  rewrite lists/systemPipeR (99%)
- create mode 100644 lists/systemPipeShiny
  rewrite lists/tRanslatome (99%)
  create mode 100644 lists/tomoseqr
  rewrite lists/tripr (100%)
