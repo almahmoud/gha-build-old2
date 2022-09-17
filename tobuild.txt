@@ -1,4 +1,3 @@
-MAGAR
 ontoProc
 Dune
 MobilityTransformR
