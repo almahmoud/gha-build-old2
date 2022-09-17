@@ -1,8 +1,4 @@
-Updating 9bf0f2a..54a1e91
-Fast-forward
- logs/run_ids/optimalFlow | 1 +
- 1 file changed, 1 insertion(+)
- create mode 100644 logs/run_ids/optimalFlow
+Already up to date.
 corpcor/DESCRIPTION
 corpcor/INDEX
 corpcor/Meta/
