@@ -1,4 +1,3 @@
-ngsReports
 TSCAN
 bayestestR
 scRecover
