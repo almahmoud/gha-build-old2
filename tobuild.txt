@@ -1,4 +1,3 @@
-pwOmics
 SPARQL
 RCyjs
 DepInfeR
