@@ -1,8 +1,4 @@
-Updating 491e971..e09f1d7
-Fast-forward
- lists/RCyjs   | 2 +-
- packages.json | 1 -
- 2 files changed, 1 insertion(+), 2 deletions(-)
+Already up to date.
 matrixStats/DESCRIPTION
 matrixStats/INDEX
 matrixStats/Meta/
