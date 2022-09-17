@@ -450,10 +450,7 @@
         "msmsTests"
     ],
     "msqrob2": [],
-    "MSstatsLiP": [
-        "MSstatsPTM"
-    ],
-    "MSstatsPTM": [],
+    "MSstatsLiP": [],
     "MSstatsQCgui": [],
     "MuData": [],
     "multiHiCcompare": [
