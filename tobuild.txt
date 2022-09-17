@@ -1,10 +1,8 @@
-enhancerHomologSearch
 CytoTree
 bnem
 pageRank
 nempi
 treekoR
 ExperimentHubData
-transcriptR
 HiCcompare
 appreci8R
