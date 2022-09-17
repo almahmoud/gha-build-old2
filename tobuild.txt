@@ -1,4 +1,3 @@
-tradeSeq
 categoryCompare
 SPOTlight
 GBScleanR
