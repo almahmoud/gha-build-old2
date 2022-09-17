@@ -1,4 +1,3 @@
-spsUtil
 cBioPortalData
 weitrix
 lipidr
