@@ -78,7 +78,6 @@
     "condiments": [
         "scater"
     ],
-    "consensusDE": [],
     "crisprBowtie": [],
     "crisprBwa": [],
     "crisprScore": [],
@@ -136,7 +135,6 @@
     ],
     "EWCE": [],
     "ExperimentHubData": [],
-    "ExperimentSubset": [],
     "famat": [
         "MPINet",
         "clusterProfiler"
@@ -253,7 +251,6 @@
         "scater"
     ],
     "nnSVG": [],
-    "NxtIRFcore": [],
     "omicRexposome": [],
     "pageRank": [],
     "PanomiR": [
