@@ -578,9 +578,7 @@
     "ITALICS": [
         "pd.mapping50k.xba240"
     ],
-    "kissDE": [
-        "aods3"
-    ],
+    "kissDE": [],
     "KnowSeq": [],
     "LACE": [],
     "LedPred": [
@@ -1409,7 +1407,6 @@
     "datamods": [],
     "orQA": [],
     "pd.mapping50k.xba240": [],
-    "aods3": [],
     "cgdsr": [],
     "reldist": [],
     "densEstBayes": [],
