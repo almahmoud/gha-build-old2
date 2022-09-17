@@ -1,5 +1,3 @@
-MetaboAnnotation
-annotatr
 scanMiR
 ImmuneSpaceR
 STROMA4
