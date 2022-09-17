@@ -173,7 +173,6 @@
     "flowCL": [
         "SPARQL"
     ],
-    "flowCut": [],
     "FlowSOM": [],
     "GARS": [],
     "GDCRNATools": [
@@ -195,7 +194,6 @@
         "gptk"
     ],
     "GRaNIE": [],
-    "graper": [],
     "GUIDEseq": [],
     "HiCcompare": [],
     "imcRtools": [],
