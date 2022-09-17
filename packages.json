@@ -6,8 +6,6 @@
     "ASpediaFI": [
         "mGSZ"
     ],
-    "BASiCS": [],
-    "batchelor": [],
     "BayesSpace": [
         "scater"
     ],
@@ -17,7 +15,6 @@
     "bioCancer": [
         "clusterProfiler"
     ],
-    "BioTIP": [],
     "brainflowprobes": [],
     "CancerSubtypes": [
         "iCluster"
@@ -66,24 +63,17 @@
     "crisprseekplus": [
         "GUIDEseq"
     ],
-    "ctgGEM": [],
-    "CyTOFpower": [],
-    "CytoML": [],
-    "ddPCRclust": [],
     "dearseq": [],
     "debrowser": [
         "clusterProfiler"
     ],
-    "deco": [],
     "DEGreport": [
         "lasso2"
     ],
     "DiffBind": [],
-    "Dino": [],
     "distinct": [
         "scater"
     ],
-    "DropletUtils": [],
     "eegc": [
         "clusterProfiler"
     ],
@@ -123,7 +113,6 @@
     "GenVisR": [
         "FField"
     ],
-    "GeoDiff": [],
     "gpart": [],
     "gprege": [
         "gptk"
@@ -177,8 +166,6 @@
     "MoonlightR": [
         "clusterProfiler"
     ],
-    "MSstatsLiP": [],
-    "MSstatsQCgui": [],
     "multiSight": [
         "clusterProfiler"
     ],
@@ -188,15 +175,12 @@
     "NBSplice": [
         "mppa"
     ],
-    "ndexr": [],
-    "Nebulosa": [],
     "netboxr": [
         "clusterProfiler"
     ],
     "netSmooth": [
         "scater"
     ],
-    "omicRexposome": [],
     "pageRank": [],
     "PanomiR": [
         "clusterProfiler"
@@ -214,7 +198,6 @@
     "pipeComp": [
         "scater"
     ],
-    "plethy": [],
     "POMA": [],
     "PrecisionTrialDrawer": [
         "cgdsr"
@@ -227,15 +210,10 @@
     "QuasR": [],
     "RadioGx": [],
     "Rgin": [],
-    "scAlign": [],
     "scater": [],
-    "scBFA": [],
-    "scDataviz": [],
     "scDblFinder": [
         "scater"
     ],
-    "schex": [],
-    "scMAGeCK": [],
     "scPipe": [
         "scater"
     ],
@@ -271,7 +249,6 @@
     "splatter": [
         "scater"
     ],
-    "SPONGE": [],
     "standR": [],
     "StarBioTrek": [
         "SpidermiR",
@@ -295,8 +272,6 @@
         "scater"
     ],
     "UCell": [],
-    "UniProt.ws": [],
-    "uSORT": [],
     "VAExprs": [
         "scater"
     ],
