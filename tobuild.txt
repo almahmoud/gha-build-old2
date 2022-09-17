@@ -1,4 +1,3 @@
-msigdb
 compEpiTools
 SpatialDecon
 BiocOncoTK
