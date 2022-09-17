@@ -1,5 +1,3 @@
-GUIDEseq
-ttgsea
 RUVSeq
 bigmelon
 SpatialExperiment
