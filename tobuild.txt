@@ -1,4 +1,3 @@
-RNAmodR.AlkAnilineSeq
 BloodGen3Module
 ChIPXpress
 scran
