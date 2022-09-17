@@ -12,9 +12,7 @@
     ],
     "AMARETTO": [],
     "animalcules": [],
-    "APL": [
-        "Seurat"
-    ],
+    "APL": [],
     "appreci8R": [
         "MafDb.1Kgenomes.phase3.hs37d5",
         "MafDb.ExAC.r1.0.hs37d5",
@@ -34,7 +32,6 @@
         "scran"
     ],
     "benchdamic": [
-        "Seurat",
         "dearseq"
     ],
     "bigmelon": [],
@@ -69,7 +66,6 @@
         "scran"
     ],
     "CelliD": [
-        "Seurat",
         "scater"
     ],
     "CellMixS": [
@@ -164,7 +160,6 @@
         "FlowSOM"
     ],
     "Dino": [
-        "Seurat",
         "scran"
     ],
     "distinct": [
@@ -259,7 +254,6 @@
     ],
     "IRISFGM": [
         "DEsingle",
-        "Seurat",
         "clusterProfiler",
         "scater",
         "scran"
@@ -349,9 +343,7 @@
         "mppa"
     ],
     "ndexr": [],
-    "Nebulosa": [
-        "Seurat"
-    ],
+    "Nebulosa": [],
     "nempi": [
         "mnem",
         "epiNEM"
@@ -383,15 +375,12 @@
         "clusterProfiler"
     ],
     "PharmacoGx": [],
-    "phemd": [
-        "Seurat"
-    ],
+    "phemd": [],
     "PhyloProfile": [],
     "Pigengene": [
         "clusterProfiler"
     ],
     "pipeComp": [
-        "Seurat",
         "scran",
         "scater"
     ],
@@ -434,26 +423,16 @@
     "RSVSim": [],
     "RTNsurvival": [],
     "RUVSeq": [],
-    "scAlign": [
-        "Seurat"
-    ],
+    "scAlign": [],
     "scanMiRApp": [],
-    "scAnnotatR": [
-        "Seurat"
-    ],
+    "scAnnotatR": [],
     "SCATE": [
         "SCATEData"
     ],
     "scater": [],
-    "scBFA": [
-        "Seurat"
-    ],
-    "scCB2": [
-        "Seurat"
-    ],
-    "scDataviz": [
-        "Seurat"
-    ],
+    "scBFA": [],
+    "scCB2": [],
+    "scDataviz": [],
     "scDblFinder": [
         "scran",
         "scater"
@@ -462,12 +441,8 @@
         "scran"
     ],
     "scGPS": [],
-    "schex": [
-        "Seurat"
-    ],
-    "scMAGeCK": [
-        "Seurat"
-    ],
+    "schex": [],
+    "scMAGeCK": [],
     "scMerge": [],
     "scmeth": [],
     "scone": [
@@ -477,16 +452,11 @@
         "scater"
     ],
     "scran": [],
-    "scTensor": [
-        "Seurat"
-    ],
-    "scTGIF": [
-        "Seurat"
-    ],
+    "scTensor": [],
+    "scTGIF": [],
     "scTreeViz": [
         "scran",
-        "scater",
-        "Seurat"
+        "scater"
     ],
     "segmenter": [],
     "SeqSQC": [],
@@ -506,7 +476,6 @@
         "scater",
         "scMerge",
         "scran",
-        "Seurat",
         "SoupX",
         "celda",
         "scRNAseq",
@@ -521,7 +490,6 @@
         "sampSurf"
     ],
     "Spaniel": [
-        "Seurat",
         "scater",
         "scran"
     ],
@@ -611,7 +579,6 @@
         "PharmacoGx"
     ],
     "adductData": [],
-    "Seurat": [],
     "MafDb.1Kgenomes.phase3.hs37d5": [],
     "MafDb.ExAC.r1.0.hs37d5": [],
     "MafDb.gnomADex.r2.1.hs37d5": [],
@@ -642,9 +609,7 @@
     "SCATEData": [],
     "mlr3learners": [],
     "mlr3tuning": [],
-    "SoupX": [
-        "Seurat"
-    ],
+    "SoupX": [],
     "scRNAseq": [],
     "sampSurf": [],
     "GenKern": [],
