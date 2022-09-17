@@ -137,9 +137,7 @@
     "ChIPQC": [
         "DiffBind"
     ],
-    "ChIPXpress": [
-        "ChIPXpressData"
-    ],
+    "ChIPXpress": [],
     "ChromSCape": [
         "scran",
         "scater",
@@ -945,7 +943,6 @@
     "biscuiteerData": [],
     "GenomicState": [],
     "iCluster": [],
-    "ChIPXpressData": [],
     "colortools": [],
     "crisprScoreData": [],
     "lasso2": [],
