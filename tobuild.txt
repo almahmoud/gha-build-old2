@@ -1,9 +1,3 @@
-msmsTests
-scGPS
-tfprobability
-RolDE
-GeneBreak
-KnowSeq
 profmem
 rGenomeTracksData
 updateObject

@@ -413,8 +413,7 @@
         "EntropyExplorer"
     ],
     "epimutacions": [
-        "epimutacionsData",
-        "isotree"
+        "epimutacionsData"
     ],
     "epiNEM": [
         "mnem",
@@ -1228,7 +1227,6 @@
     "STAN": [],
     "standR": [
         "SpatialExperiment",
-        "mclustcomp",
         "scuttle"
     ],
     "staRank": [],
@@ -1417,7 +1415,6 @@
     ],
     "EntropyExplorer": [],
     "epimutacionsData": [],
-    "isotree": [],
     "ewceData": [
         "ExperimentHub"
     ],
@@ -1515,7 +1512,6 @@
         "ExperimentHub"
     ],
     "sampSurf": [],
-    "mclustcomp": [],
     "MLmetrics": [
         "ROCR"
     ],
