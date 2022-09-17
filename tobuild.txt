@@ -1,4 +1,3 @@
-MetaboSignal
 comapr
 synergyfinder
 mclustcomp
