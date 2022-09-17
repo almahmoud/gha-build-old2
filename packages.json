@@ -91,9 +91,7 @@
     "crisprseekplus": [
         "GUIDEseq"
     ],
-    "ctgGEM": [
-        "TSCAN"
-    ],
+    "ctgGEM": [],
     "CyTOFpower": [
         "diffcyt",
         "FlowSOM"
@@ -162,9 +160,7 @@
     "fcoex": [
         "clusterProfiler"
     ],
-    "FEAST": [
-        "TSCAN"
-    ],
+    "FEAST": [],
     "FLAMES": [
         "scater"
     ],
@@ -361,8 +357,7 @@
         "scater",
         "SoupX",
         "celda",
-        "scDblFinder",
-        "TSCAN"
+        "scDblFinder"
     ],
     "SingleMoleculeFootprinting": [
         "QuasR"
@@ -422,7 +417,6 @@
     "tricycle": [
         "scater"
     ],
-    "TSCAN": [],
     "UCell": [],
     "UniProt.ws": [],
     "uSORT": [],
