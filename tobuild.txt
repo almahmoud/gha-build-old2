@@ -1,4 +1,3 @@
-ISAnalytics
 CHETAH
 HubPub
 psichomics
