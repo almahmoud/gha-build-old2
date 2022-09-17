@@ -154,7 +154,6 @@
     "MAGeCKFlute": [
         "clusterProfiler"
     ],
-    "MethReg": [],
     "methylclock": [
         "methylclockData",
         "ExperimentHubData"
