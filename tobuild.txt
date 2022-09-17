@@ -1,5 +1,3 @@
-PharmacoGx
-GRaNIE
 sampSurf
 mGSZ
 colortools
