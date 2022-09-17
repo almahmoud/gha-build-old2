@@ -1,4 +1,3 @@
-colortools
 CNVMetrics
 selectKSigs
 CHETAH
