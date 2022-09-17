@@ -1,4 +1,3 @@
-HiCcompare
 pogos
 TSCAN
 FlowSOM
