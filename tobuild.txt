@@ -1,4 +1,3 @@
-MatrixRider
 colortools
 CNVMetrics
 selectKSigs
