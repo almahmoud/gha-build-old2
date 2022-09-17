@@ -1,4 +1,3 @@
-crisprBwa
 ToxicoGx
 crisprBowtie
 signeR
