@@ -1,4 +1,3 @@
-TSCAN
 bayestestR
 scRecover
 gscreend
