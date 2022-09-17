@@ -1,3 +1,2 @@
-multiHiCcompare
 ExperimentHubData
 appreci8R
