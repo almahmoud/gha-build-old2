@@ -1,4 +1,3 @@
-skewr
 msigdb
 compEpiTools
 SeqSQC
