@@ -1,4 +1,3 @@
-GenomicState
 SummarizedBenchmark
 tradeSeq
 categoryCompare
