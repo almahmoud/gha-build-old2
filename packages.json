@@ -2,7 +2,6 @@
     "airpart": [
         "scater"
     ],
-    "AMARETTO": [],
     "appreci8R": [
         "MafDb.1Kgenomes.phase3.hs37d5"
     ],
@@ -156,7 +155,6 @@
         "FField"
     ],
     "GeoDiff": [],
-    "ggspavis": [],
     "gpart": [],
     "gprege": [
         "gptk"
@@ -301,7 +299,6 @@
         "scater"
     ],
     "scTensor": [],
-    "scTGIF": [],
     "scTreeViz": [
         "scater"
     ],
