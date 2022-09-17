@@ -279,10 +279,7 @@
     "msImpute": [
         "scran"
     ],
-    "msmsTests": [],
-    "MSnID": [
-        "msmsTests"
-    ],
+    "MSnID": [],
     "MSstatsLiP": [],
     "MSstatsQCgui": [],
     "MuData": [],
@@ -345,7 +342,6 @@
     ],
     "primirTSS": [],
     "Prostar": [],
-    "protGear": [],
     "pulsedSilac": [
         "taRifx"
     ],
