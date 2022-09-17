@@ -455,7 +455,6 @@
     ],
     "MSA2dist": [],
     "MsBackendMsp": [],
-    "msgbsR": [],
     "msImpute": [
         "scran",
         "scuttle"
