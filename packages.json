@@ -443,7 +443,6 @@
         "scater",
         "scuttle"
     ],
-    "microbiomeDASim": [],
     "MicrobiomeProfiler": [
         "clusterProfiler"
     ],
