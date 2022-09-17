@@ -107,9 +107,7 @@
     "condiments": [
         "scater"
     ],
-    "consensusDE": [
-        "RUVSeq"
-    ],
+    "consensusDE": [],
     "crisprBowtie": [],
     "crisprBwa": [],
     "crisprScore": [],
@@ -389,16 +387,13 @@
     ],
     "REDseq": [],
     "Rgin": [],
-    "ribosomeProfilingQC": [
-        "RUVSeq"
-    ],
+    "ribosomeProfilingQC": [],
     "RITAN": [],
     "RLSeq": [],
     "RNAAgeCalc": [],
     "RNAmodR.AlkAnilineSeq": [],
     "RNAmodR.RiboMethSeq": [],
     "RTNsurvival": [],
-    "RUVSeq": [],
     "scAlign": [],
     "scanMiRApp": [],
     "scAnnotatR": [],
@@ -419,9 +414,7 @@
     "scGPS": [],
     "schex": [],
     "scMAGeCK": [],
-    "scone": [
-        "RUVSeq"
-    ],
+    "scone": [],
     "scPipe": [
         "scater"
     ],
