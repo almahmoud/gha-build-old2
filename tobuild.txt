@@ -1,4 +1,3 @@
-scmap
 RITAN
 ReportingTools
 cummeRbund
