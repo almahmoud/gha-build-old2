@@ -1,5 +1,3 @@
-CNVMetrics
-selectKSigs
 CHETAH
 HubPub
 psichomics
