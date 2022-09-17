@@ -1,4 +1,4 @@
-Updating 7c29f0d..3b3c81a
+Updating 7c29f0d..c4cffff
 Fast-forward
  lists/EntropyExplorer              |     2 +-
  lists/ExperimentHubData            |     2 +-
@@ -46,9 +46,9 @@ Fast-forward
  logs/run_ids/MMUPHin               |     2 +
  logs/run_ids/Macarron              |     3 +
  logs/run_ids/PharmacoGx            |     8 +
- logs/run_ids/QuasR                 |     4 +
+ logs/run_ids/QuasR                 |     1 +
  logs/run_ids/RadioGx               |     2 +
- logs/run_ids/SPARQL                |     2 +
+ logs/run_ids/SPARQL                |     1 +
  logs/run_ids/appreci8R             |     3 +
  logs/run_ids/clusterProfiler       |     1 +
  logs/run_ids/colortools            |     2 +
@@ -66,7 +66,7 @@ Fast-forward
  logs/run_ids/vissE                 |     5 +
  packages.json                      |     3 -
  tobuild.txt                        |    25 -
- 66 files changed, 261451 insertions(+), 53 deletions(-)
+ 66 files changed, 261447 insertions(+), 53 deletions(-)
  create mode 100644 lists/failed/EntropyExplorer
  create mode 100644 lists/failed/GRaNIE
  create mode 100644 lists/failed/ISAnalytics
@@ -81,5 +81,5 @@ Fast-forward
  create mode 100644 lists/failed/standR
  create mode 100644 lists/failed/taRifx
  create mode 100644 lists/failed/vbsr
-[main 427ffe0] Adding tobuild list
+[main b4ae202] Adding tobuild list
  9 files changed, 16 insertions(+), 8 deletions(-)
