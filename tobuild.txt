@@ -1,4 +1,3 @@
-tomoseqr
 seqArchR
 ggVennDiagram
 paradox
