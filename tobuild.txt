@@ -1,4 +1,3 @@
-sccomp
 msgbsR
 GRaNIE
 RMassBank
