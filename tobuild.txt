@@ -1,7 +1,3 @@
-adductData
-scMerge
-phastCons100way.UCSC.hg38
-scmeth
 affycoretools
 GSEABenchmarkeR
 scRNAseq
