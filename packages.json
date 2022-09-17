@@ -448,7 +448,6 @@
     "pulsedSilac": [
         "taRifx"
     ],
-    "pwOmics": [],
     "pwrEWAS": [
         "pwrEWAS.data"
     ],
@@ -600,7 +599,6 @@
     ],
     "SPONGE": [],
     "SPOTlight": [],
-    "sSNAPPY": [],
     "ssPATHS": [],
     "STAN": [],
     "standR": [
