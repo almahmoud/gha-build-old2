@@ -36,7 +36,6 @@
         "iCluster"
     ],
     "CATALYST": [
-        "FlowSOM",
         "scater"
     ],
     "cbaf": [],
@@ -53,8 +52,7 @@
         "clusterProfiler"
     ],
     "censcyt": [
-        "diffcyt",
-        "FlowSOM"
+        "diffcyt"
     ],
     "CeTF": [
         "clusterProfiler"
@@ -93,13 +91,10 @@
     ],
     "ctgGEM": [],
     "CyTOFpower": [
-        "diffcyt",
-        "FlowSOM"
+        "diffcyt"
     ],
     "CytoML": [],
-    "CytoTree": [
-        "FlowSOM"
-    ],
+    "CytoTree": [],
     "dce": [
         "epiNEM",
         "mnem"
@@ -116,9 +111,7 @@
     ],
     "DEsingle": [],
     "DiffBind": [],
-    "diffcyt": [
-        "FlowSOM"
-    ],
+    "diffcyt": [],
     "Dino": [],
     "distinct": [
         "scater"
@@ -165,7 +158,6 @@
     "flowCL": [
         "SPARQL"
     ],
-    "FlowSOM": [],
     "GARS": [],
     "GDCRNATools": [
         "clusterProfiler"
@@ -209,9 +201,7 @@
         "clusterProfiler"
     ],
     "MEAL": [],
-    "MetaCyto": [
-        "FlowSOM"
-    ],
+    "MetaCyto": [],
     "MethReg": [
         "sesame"
     ],
@@ -408,8 +398,7 @@
         "vbsr"
     ],
     "treekoR": [
-        "diffcyt",
-        "FlowSOM"
+        "diffcyt"
     ],
     "tricycle": [
         "scater"
