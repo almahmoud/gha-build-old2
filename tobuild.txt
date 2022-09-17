@@ -1,5 +1,3 @@
-crisprBowtie
-supersigs
 NxtIRFdata
 NewWave
 rGenomeTracks
