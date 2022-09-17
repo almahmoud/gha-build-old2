@@ -1,4 +1,3 @@
-cicero
 ExperimentHub
 biodbNci
 puma
