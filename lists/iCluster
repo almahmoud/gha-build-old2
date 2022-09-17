@@ -1,1 +1,5 @@
-claimed
+Updating 0fc3793..577ca3b
+Fast-forward
+ lists/POMA  | 2 +-
+ tobuild.txt | 1 -
+ 2 files changed, 1 insertion(+), 2 deletions(-)
