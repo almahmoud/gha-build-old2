@@ -339,7 +339,6 @@
         "sesameData",
         "sesame"
     ],
-    "methylCC": [],
     "methylclock": [
         "methylclockData",
         "ExperimentHubData"
