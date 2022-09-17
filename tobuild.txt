@@ -1,4 +1,3 @@
-metavizr
 RNAmodR.ML
 brainflowprobes
 terraTCGAdata
