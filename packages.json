@@ -1,8 +1,6 @@
 {
     "ADaCGH2": [],
-    "adductomicsR": [
-        "adductData"
-    ],
+    "adductomicsR": [],
     "affycoretools": [],
     "AgiMicroRna": [
         "affycoretools"
@@ -565,7 +563,6 @@
     "Xeva": [
         "PharmacoGx"
     ],
-    "adductData": [],
     "MafDb.1Kgenomes.phase3.hs37d5": [],
     "MafDb.gnomADex.r2.1.hs37d5": [],
     "mGSZ": [],
