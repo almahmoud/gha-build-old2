@@ -663,7 +663,6 @@
     ],
     "scuttle": [],
     "segmenter": [],
-    "SEPIRA": [],
     "SeqSQC": [],
     "sesame": [
         "sesameData"
@@ -756,7 +755,6 @@
     ],
     "Streamer": [],
     "STROMA4": [],
-    "SummarizedBenchmark": [],
     "supersigs": [],
     "svaNUMT": [],
     "TADCompare": [
