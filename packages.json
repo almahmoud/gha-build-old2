@@ -586,7 +586,6 @@
     "MoonlightR": [
         "clusterProfiler"
     ],
-    "motifbreakR": [],
     "motifmatchr": [],
     "MSA2dist": [],
     "MsBackendMsp": [],
@@ -779,7 +778,6 @@
         "RUVSeq"
     ],
     "rifi": [],
-    "RIPAT": [],
     "RITAN": [],
     "RLSeq": [
         "RLHub",
