@@ -332,7 +332,6 @@
         "scuttle",
         "scran"
     ],
-    "flowBin": [],
     "flowCL": [
         "SPARQL"
     ],
