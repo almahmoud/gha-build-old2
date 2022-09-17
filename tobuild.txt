@@ -1,4 +1,3 @@
-pwrEWAS.data
 QuartPAC
 MsBackendMsp
 RSVSim
