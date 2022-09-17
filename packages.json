@@ -799,7 +799,6 @@
     ],
     "StarBioTrek": [
         "SpidermiR",
-        "MLmetrics",
         "MAGeCKFlute",
         "clusterProfiler",
         "depmap"
@@ -927,7 +926,6 @@
     "scRNAseq": [],
     "TENxPBMCData": [],
     "sampSurf": [],
-    "MLmetrics": [],
     "GenKern": [],
     "vbsr": [],
     "msigdb": []
