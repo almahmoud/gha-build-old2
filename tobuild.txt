@@ -1,4 +1,3 @@
-tripr
 pdInfoBuilder
 metabomxtr
 cytoKernel
