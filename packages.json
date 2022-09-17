@@ -415,7 +415,6 @@
     "omicRexposome": [
         "omicade4"
     ],
-    "ontoProc": [],
     "pageRank": [],
     "PanomiR": [
         "clusterProfiler"
@@ -442,9 +441,7 @@
         "scater"
     ],
     "plethy": [],
-    "pogos": [
-        "ontoProc"
-    ],
+    "pogos": [],
     "POMA": [],
     "PrecisionTrialDrawer": [
         "cgdsr"
@@ -640,8 +637,7 @@
         "GenKern"
     ],
     "tenXplore": [
-        "restfulSE",
-        "ontoProc"
+        "restfulSE"
     ],
     "terraTCGAdata": [],
     "TimiRGeN": [
