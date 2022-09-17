@@ -475,7 +475,6 @@
     "GUIDEseq": [
         "ChIPpeakAnno"
     ],
-    "GWAS.BAYES": [],
     "hermes": [],
     "HiCBricks": [],
     "HiCcompare": [],
@@ -702,7 +701,6 @@
         "scuttle"
     ],
     "networkBMA": [],
-    "netZooR": [],
     "NewWave": [],
     "ngsReports": [],
     "nnSVG": [
