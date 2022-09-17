@@ -1,4 +1,3 @@
-ASURAT
 drugTargetInteractions
 pRolocGUI
 Seurat
