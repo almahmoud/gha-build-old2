@@ -130,7 +130,6 @@
     ],
     "GRaNIE": [],
     "GUIDEseq": [],
-    "HiCcompare": [],
     "IRISFGM": [
         "clusterProfiler",
         "scater"
@@ -180,9 +179,7 @@
     ],
     "MSstatsLiP": [],
     "MSstatsQCgui": [],
-    "multiHiCcompare": [
-        "HiCcompare"
-    ],
+    "multiHiCcompare": [],
     "multiSight": [
         "clusterProfiler"
     ],
@@ -268,9 +265,7 @@
         "scater"
     ],
     "spatzie": [],
-    "SpectralTAD": [
-        "HiCcompare"
-    ],
+    "SpectralTAD": [],
     "SpidermiR": [
         "MAGeCKFlute",
         "clusterProfiler"
@@ -285,9 +280,7 @@
         "MAGeCKFlute",
         "clusterProfiler"
     ],
-    "TADCompare": [
-        "HiCcompare"
-    ],
+    "TADCompare": [],
     "TCGAbiolinksGUI": [
         "clusterProfiler"
     ],
