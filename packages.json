@@ -147,7 +147,6 @@
     "CytoTree": [
         "FlowSOM"
     ],
-    "DaMiRseq": [],
     "dce": [
         "epiNEM",
         "mnem"
@@ -233,9 +232,7 @@
     ],
     "flowCut": [],
     "FlowSOM": [],
-    "GARS": [
-        "DaMiRseq"
-    ],
+    "GARS": [],
     "GateFinder": [],
     "GDCRNATools": [
         "clusterProfiler"
