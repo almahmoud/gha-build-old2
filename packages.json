@@ -323,7 +323,6 @@
         "MPINet",
         "clusterProfiler"
     ],
-    "FastqCleaner": [],
     "fcoex": [
         "clusterProfiler"
     ],
