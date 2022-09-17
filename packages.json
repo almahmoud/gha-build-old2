@@ -71,10 +71,7 @@
         "FlowSOM",
         "scater"
     ],
-    "cbaf": [
-        "cBioPortalData"
-    ],
-    "cBioPortalData": [],
+    "cbaf": [],
     "celda": [
         "scater",
         "scran"
@@ -296,7 +293,6 @@
         "lasso2"
     ],
     "Linnorm": [],
-    "lipidr": [],
     "LowMACA": [
         "cgdsr"
     ],
