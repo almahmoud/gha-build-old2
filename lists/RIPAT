@@ -1,4 +1,7 @@
-Already up to date.
+Updating 25a32b86..6ccc2083
+Fast-forward
+ logs/run_ids/RIPAT | 1 +
+ 1 file changed, 1 insertion(+)
 biomaRt/CITATION
 biomaRt/DESCRIPTION
 biomaRt/INDEX
