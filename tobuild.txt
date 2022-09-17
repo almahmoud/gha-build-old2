@@ -1,4 +1,3 @@
-HiCcompare
 clusterProfiler
 ModCon
 QuasR
