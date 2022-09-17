@@ -1,4 +1,3 @@
-crisprScore
 spatzie
 mppa
 crisprBwa
