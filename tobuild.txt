@@ -1,4 +1,3 @@
-scAnnotatR
 ChIPXpress
 NADfinder
 primirTSS
