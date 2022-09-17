@@ -1,4 +1,3 @@
-EntropyExplorer
 clusterProfiler
 QuasR
 appreci8R
