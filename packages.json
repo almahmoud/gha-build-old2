@@ -399,12 +399,10 @@
     ],
     "miRSM": [
         "miRspongeR",
-        "clusterProfiler",
-        "cvms"
+        "clusterProfiler"
     ],
     "miRspongeR": [
-        "clusterProfiler",
-        "cvms"
+        "clusterProfiler"
     ],
     "mirTarRnaSeq": [],
     "mitch": [],
@@ -628,7 +626,6 @@
         "scuttle"
     ],
     "scRecover": [],
-    "scry": [],
     "scTensor": [
         "Seurat"
     ],
@@ -715,9 +712,7 @@
         "scater",
         "scuttle"
     ],
-    "SPONGE": [
-        "cvms"
-    ],
+    "SPONGE": [],
     "SPOTlight": [],
     "sSNAPPY": [],
     "ssPATHS": [],
@@ -824,7 +819,6 @@
     "methylclockData": [
         "ExperimentHubData"
     ],
-    "cvms": [],
     "mppa": [],
     "NxtIRFdata": [],
     "phastCons100way.UCSC.hg38": [],
