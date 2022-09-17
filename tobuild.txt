@@ -1,4 +1,3 @@
-MetaVolcanoR
 miaSim
 rprimer
 spsUtil
