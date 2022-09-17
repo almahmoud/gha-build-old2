@@ -1,4 +1,7 @@
-Already up to date.
+Updating a48dc64..8c1c5bb
+Fast-forward
+ lists/tmp/claimlog | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
 BASiCS_2.8.0_R_x86_64-pc-linux-gnu.tar.gz
 batchelor_1.12.3_R_x86_64-pc-linux-gnu.tar.gz
 BioTIP_1.10.0_R_x86_64-pc-linux-gnu.tar.gz
