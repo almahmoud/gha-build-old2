@@ -665,7 +665,6 @@
         "ontoProc"
     ],
     "terraTCGAdata": [],
-    "TFARM": [],
     "TimiRGeN": [
         "clusterProfiler"
     ],
@@ -681,7 +680,6 @@
     "tricycle": [
         "scater"
     ],
-    "tRNAscanImport": [],
     "TRONCO": [],
     "TSCAN": [],
     "ttgsea": [],
