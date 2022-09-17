@@ -1,4 +1,10 @@
-Already up to date.
+Updating e36c2b5..97f5dc2
+Fast-forward
+ lists/CHETAH        | 2 +-
+ logs/run_ids/CHETAH | 1 +
+ tobuild.txt         | 1 -
+ 3 files changed, 2 insertions(+), 2 deletions(-)
+ create mode 100644 logs/run_ids/CHETAH
 BH/DESCRIPTION
 BH/INDEX
 BH/LICENSE_1_0.txt
