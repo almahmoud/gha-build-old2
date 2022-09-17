@@ -57,12 +57,10 @@
     "BloodGen3Module": [],
     "bnem": [
         "epiNEM",
-        "mnem",
-        "Linnorm"
+        "mnem"
     ],
     "brainflowprobes": [],
     "BubbleTree": [],
-    "cageminer": [],
     "CancerSubtypes": [
         "iCluster"
     ],
@@ -155,8 +153,7 @@
     "DaMiRseq": [],
     "dce": [
         "epiNEM",
-        "mnem",
-        "Linnorm"
+        "mnem"
     ],
     "ddPCRclust": [],
     "dearseq": [],
@@ -205,8 +202,7 @@
     ],
     "epimutacions": [],
     "epiNEM": [
-        "mnem",
-        "Linnorm"
+        "mnem"
     ],
     "esATAC": [
         "clusterProfiler"
@@ -290,7 +286,6 @@
         "DEGreport",
         "lasso2"
     ],
-    "Linnorm": [],
     "LowMACA": [
         "cgdsr"
     ],
@@ -337,9 +332,7 @@
         "clusterProfiler"
     ],
     "MMUPHin": [],
-    "mnem": [
-        "Linnorm"
-    ],
+    "mnem": [],
     "MoonlightR": [
         "clusterProfiler"
     ],
@@ -378,8 +371,7 @@
     ],
     "nempi": [
         "mnem",
-        "epiNEM",
-        "Linnorm"
+        "epiNEM"
     ],
     "netboxr": [
         "clusterProfiler"
