@@ -3,12 +3,9 @@
     "adductomicsR": [
         "adductData"
     ],
-    "affycoretools": [
-        "ReportingTools"
-    ],
+    "affycoretools": [],
     "AgiMicroRna": [
-        "affycoretools",
-        "ReportingTools"
+        "affycoretools"
     ],
     "airpart": [
         "scater"
@@ -489,14 +486,12 @@
     ],
     "RCyjs": [],
     "REDseq": [],
-    "ReportingTools": [],
     "restfulSE": [],
     "rGenomeTracks": [],
     "Rgin": [],
     "ribosomeProfilingQC": [
         "RUVSeq"
     ],
-    "rifi": [],
     "RITAN": [],
     "RLSeq": [
         "RLHub"
