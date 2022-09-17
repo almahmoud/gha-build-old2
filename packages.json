@@ -638,14 +638,12 @@
         "miRspongeR",
         "clusterProfiler",
         "cvms",
-        "MetBrewer",
         "parameters",
         "rearrr"
     ],
     "miRspongeR": [
         "clusterProfiler",
         "cvms",
-        "MetBrewer",
         "parameters",
         "rearrr"
     ],
@@ -1101,7 +1099,6 @@
     ],
     "SPONGE": [
         "cvms",
-        "MetBrewer",
         "parameters",
         "rearrr"
     ],
@@ -1294,7 +1291,6 @@
         "parameters",
         "rearrr"
     ],
-    "MetBrewer": [],
     "parameters": [],
     "rearrr": [],
     "mppa": [],
