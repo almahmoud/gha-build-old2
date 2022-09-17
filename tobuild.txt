@@ -1,4 +1,3 @@
-CINdex
 limmaGUI
 topicmodels
 EntropyExplorer
