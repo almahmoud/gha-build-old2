@@ -786,9 +786,7 @@
         "phastCons100way.UCSC.hg38",
         "GenomicScores"
     ],
-    "profileplyr": [
-        "soGGi"
-    ],
+    "profileplyr": [],
     "projectR": [],
     "pRoloc": [],
     "pRolocGUI": [
@@ -1014,7 +1012,6 @@
         "wateRmelon"
     ],
     "snapCGH": [],
-    "soGGi": [],
     "sojourner": [
         "sampSurf"
     ],
