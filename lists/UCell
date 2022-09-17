@@ -1,4 +1,7 @@
-Already up to date.
+Updating efc84e0..91d9424
+Fast-forward
+ logs/run_ids/POMA | 1 +
+ 1 file changed, 1 insertion(+)
 data.table/DESCRIPTION
 data.table/INDEX
 data.table/LICENSE
