@@ -1,4 +1,7 @@
-Already up to date.
+Updating 49c755a..7605d6e
+Fast-forward
+ logs/run_ids/HiCcompare | 1 +
+ 1 file changed, 1 insertion(+)
 BiocGenerics/CITATION
 BiocGenerics/DESCRIPTION
 BiocGenerics/INDEX
