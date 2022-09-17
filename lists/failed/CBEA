@@ -1,4 +1,7 @@
-Already up to date.
+Updating ecaa940..664b8e5
+Fast-forward
+ logs/run_ids/CBEA | 1 +
+ 1 file changed, 1 insertion(+)
 AnnotationDbi/DBschemas/
 AnnotationDbi/DBschemas/SchemaGuidelines.txt
 AnnotationDbi/DBschemas/schemas_0.9/
