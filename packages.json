@@ -174,7 +174,6 @@
     "DEGreport": [
         "lasso2"
     ],
-    "DepInfeR": [],
     "DEScan2": [],
     "DEsingle": [],
     "DiffBind": [],
@@ -460,7 +459,6 @@
     "RareVariantVis": [
         "phastCons100way.UCSC.hg19"
     ],
-    "RCyjs": [],
     "REDseq": [],
     "restfulSE": [],
     "rGenomeTracks": [],
