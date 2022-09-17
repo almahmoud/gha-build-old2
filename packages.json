@@ -311,7 +311,6 @@
     "GDCRNATools": [
         "clusterProfiler"
     ],
-    "GeneBreak": [],
     "GenomicOZone": [],
     "GenProSeq": [
         "DeepPINCS",
