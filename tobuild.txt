@@ -1,5 +1,3 @@
-mirTarRnaSeq
-pareg
 mitch
 REMP
 DEsingle

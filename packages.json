@@ -548,7 +548,6 @@
     "restfulSE": [],
     "rGenomeTracks": [],
     "Rgin": [],
-    "RiboProfiling": [],
     "ribosomeProfilingQC": [
         "RUVSeq"
     ],
@@ -629,7 +628,6 @@
         "scuttle"
     ],
     "scRecover": [],
-    "scry": [],
     "scTensor": [
         "Seurat"
     ],
