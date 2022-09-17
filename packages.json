@@ -129,7 +129,6 @@
         "scater",
         "scuttle"
     ],
-    "chromVAR": [],
     "CINdex": [],
     "CiteFuse": [
         "scran",
@@ -198,9 +197,7 @@
     "debrowser": [
         "clusterProfiler"
     ],
-    "deco": [
-        "made4"
-    ],
+    "deco": [],
     "DeepPINCS": [
         "ttgsea"
     ],
@@ -363,7 +360,6 @@
     "Macarron": [],
     "MACPET": [],
     "MACSr": [],
-    "made4": [],
     "MAGAR": [],
     "MAGeCKFlute": [
         "clusterProfiler",
@@ -481,12 +477,9 @@
     "NxtIRFcore": [
         "NxtIRFdata"
     ],
-    "omicade4": [
-        "made4"
-    ],
+    "omicade4": [],
     "omicRexposome": [
-        "omicade4",
-        "made4"
+        "omicade4"
     ],
     "ontoProc": [],
     "pageRank": [],
