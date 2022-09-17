@@ -1,5 +1,3 @@
-shinyepico
-VplotR
 CINdex
 segmenter
 limmaGUI
