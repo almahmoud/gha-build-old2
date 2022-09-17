@@ -239,9 +239,7 @@
     "RareVariantVis": [],
     "Rgin": [],
     "scAlign": [],
-    "SCATE": [
-        "SCATEData"
-    ],
+    "SCATE": [],
     "scater": [],
     "scBFA": [],
     "scDataviz": [],
@@ -345,7 +343,6 @@
     ],
     "mppa": [],
     "taRifx": [],
-    "SCATEData": [],
     "sampSurf": [],
     "GenKern": [],
     "vbsr": []
