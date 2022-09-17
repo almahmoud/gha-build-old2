@@ -1,4 +1,3 @@
-GBScleanR
 SEPIRA
 optimalFlow
 pRolocdata
