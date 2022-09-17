@@ -1,4 +1,3 @@
-methylCC
 fmcsR
 scmap
 RITAN
