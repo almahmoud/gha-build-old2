@@ -1,4 +1,3 @@
-mppa
 soGGi
 ToxicoGx
 GWAS.BAYES
