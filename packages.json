@@ -98,7 +98,6 @@
     "DEGreport": [
         "lasso2"
     ],
-    "DEsingle": [],
     "DiffBind": [],
     "diffcyt": [],
     "Dino": [],
@@ -164,7 +163,6 @@
     "HiCcompare": [],
     "imcRtools": [],
     "IRISFGM": [
-        "DEsingle",
         "clusterProfiler",
         "scater"
     ],
