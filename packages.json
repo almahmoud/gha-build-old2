@@ -257,7 +257,6 @@
     "scTreeViz": [
         "scater"
     ],
-    "SIAMCAT": [],
     "signatureSearch": [
         "clusterProfiler"
     ],
