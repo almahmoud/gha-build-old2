@@ -1,5 +1,3 @@
-scDD
-SingleCellSignalR
 EWCE
 consensusDE
 mlr3tuning
