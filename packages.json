@@ -277,7 +277,6 @@
     "DaMiRseq": [
         "EDASeq"
     ],
-    "DAPAR": [],
     "dce": [
         "epiNEM",
         "mnem",
@@ -795,9 +794,7 @@
     "pRolocGUI": [
         "pRoloc"
     ],
-    "Prostar": [
-        "DAPAR"
-    ],
+    "Prostar": [],
     "protGear": [],
     "psichomics": [],
     "PSMatch": [],
