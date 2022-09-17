@@ -1,6 +1,3 @@
-scater
-dearseq
-ExperimentHubData
 EntropyExplorer
 clusterProfiler
 QuasR
