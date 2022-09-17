@@ -1,4 +1,3 @@
-NewWave
 EGAD
 borealis
 signeR
@@ -141,7 +140,6 @@ methylSig
 CGHnormaliter
 RAREsim
 IMMAN
-sccomp
 GRaNIE
 sampSurf
 mGSZ
