@@ -1,4 +1,3 @@
-MMUPHin
 Macarron
 qpgraph
 enhancerHomologSearch
