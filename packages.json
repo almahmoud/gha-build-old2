@@ -452,7 +452,6 @@
         "scran",
         "SoupX",
         "celda",
-        "scRNAseq",
         "scDblFinder",
         "TSCAN"
     ],
@@ -574,7 +573,6 @@
     "SCATEData": [],
     "mlr3tuning": [],
     "SoupX": [],
-    "scRNAseq": [],
     "sampSurf": [],
     "GenKern": [],
     "vbsr": [],
