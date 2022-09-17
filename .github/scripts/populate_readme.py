@@ -24,7 +24,8 @@ for pkg in list(pkgs):
             r = requests.get(runurl)
         if r.status_code == 404:
             runurl = runurl.replace("gha-build", "gha-build-old")
-            r = requests.get(runurl)
+            while r.status_code not in [404, 200]:
+                r = requests.get(runurl)
         if r.status_code == 200:
             name = f"[{pkg}]({runurl})"
     if exists(f"lists/failed/{pkg}"):
