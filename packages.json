@@ -853,9 +853,7 @@
     ],
     "pdInfoBuilder": [],
     "PeacoQC": [],
-    "PECA": [
-        "aroma.affymetrix"
-    ],
+    "PECA": [],
     "peco": [
         "scater",
         "scuttle"
@@ -1288,9 +1286,7 @@
     "TimiRGeN": [
         "clusterProfiler"
     ],
-    "TIN": [
-        "aroma.affymetrix"
-    ],
+    "TIN": [],
     "tomoseqr": [],
     "ToxicoGx": [
         "profmem"
@@ -1467,7 +1463,6 @@
         "ExperimentHub"
     ],
     "tfprobability": [],
-    "aroma.affymetrix": [],
     "phastCons100way.UCSC.hg38": [
         "GenomicScores"
     ],
