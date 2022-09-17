@@ -1,5 +1,3 @@
-PING
-Pi
 conumee
 rqt
 Motif2Site
