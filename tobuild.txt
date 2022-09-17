@@ -1,4 +1,3 @@
-SCATEData
 pageRank
 SIAMCAT
 ExperimentHubData
