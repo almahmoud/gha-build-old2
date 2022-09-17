@@ -180,9 +180,7 @@
     "escape": [
         "UCell"
     ],
-    "EWCE": [
-        "ewceData"
-    ],
+    "EWCE": [],
     "ExperimentHubData": [],
     "ExperimentSubset": [
         "SpatialExperiment"
@@ -339,10 +337,7 @@
         "SpatialExperiment"
     ],
     "NxtIRFcore": [],
-    "omicade4": [],
-    "omicRexposome": [
-        "omicade4"
-    ],
+    "omicRexposome": [],
     "pageRank": [],
     "PanomiR": [
         "clusterProfiler"
@@ -545,7 +540,6 @@
     "lasso2": [],
     "easierData": [],
     "EntropyExplorer": [],
-    "ewceData": [],
     "MPINet": [],
     "SPARQL": [],
     "FField": [],
