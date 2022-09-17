@@ -98,7 +98,6 @@
     "ctgGEM": [
         "TSCAN"
     ],
-    "cyanoFilter": [],
     "CyTOFpower": [
         "diffcyt",
         "FlowSOM"
