@@ -1,4 +1,3 @@
-GeomxTools
 RNAAgeCalc
 BubbleTree
 segmenter
