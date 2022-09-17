@@ -1,4 +1,3 @@
-scanMiRData
 MEAT
 curatedTCGAData
 crisprBowtie
