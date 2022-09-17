@@ -90,7 +90,6 @@
     "escape": [
         "UCell"
     ],
-    "ExperimentHubData": [],
     "famat": [
         "MPINet",
         "clusterProfiler"
@@ -136,8 +135,7 @@
         "clusterProfiler"
     ],
     "methylclock": [
-        "methylclockData",
-        "ExperimentHubData"
+        "methylclockData"
     ],
     "methylGSA": [
         "clusterProfiler"
@@ -286,9 +284,7 @@
     "gptk": [],
     "orQA": [],
     "cgdsr": [],
-    "methylclockData": [
-        "ExperimentHubData"
-    ],
+    "methylclockData": [],
     "mppa": [],
     "taRifx": [],
     "sampSurf": [],
