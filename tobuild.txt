@@ -1,4 +1,3 @@
-dearseq
 ExperimentHubData
 EntropyExplorer
 clusterProfiler
