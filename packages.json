@@ -52,7 +52,6 @@
         "clusterProfiler"
     ],
     "ChAMP": [],
-    "CHETAH": [],
     "ChIPQC": [
         "DiffBind"
     ],
