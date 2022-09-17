@@ -1,4 +1,3 @@
-mppa
 crisprBwa
 ToxicoGx
 crisprBowtie
