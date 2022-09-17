@@ -1,4 +1,3 @@
-velociraptor
 nnSVG
 biscuiteer
 RLSeq
