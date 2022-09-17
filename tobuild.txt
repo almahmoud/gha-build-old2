@@ -1,4 +1,3 @@
-sccomp
 RMassBank
 protGear
 biotmle
