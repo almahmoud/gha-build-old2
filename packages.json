@@ -51,7 +51,6 @@
         "curatedTCGAData"
     ],
     "biodbNci": [],
-    "BioNERO": [],
     "BioTIP": [
         "scran"
     ],
@@ -67,9 +66,7 @@
     ],
     "brainflowprobes": [],
     "BubbleTree": [],
-    "cageminer": [
-        "BioNERO"
-    ],
+    "cageminer": [],
     "CancerSubtypes": [
         "iCluster"
     ],
