@@ -1,4 +1,3 @@
-bayestestR
 scRecover
 gscreend
 readbitmap
