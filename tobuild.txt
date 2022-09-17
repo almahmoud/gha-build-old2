@@ -1,4 +1,3 @@
-staRank
 spiky
 Seurat
 branchpointer
