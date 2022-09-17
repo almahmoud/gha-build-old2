@@ -1,4 +1,3 @@
-MAIT
 LinTInd
 iCOBRA
 regutools
