@@ -473,7 +473,6 @@
         "pwrEWAS.data"
     ],
     "qpgraph": [],
-    "qrqc": [],
     "QuartPAC": [],
     "QuasR": [],
     "RadioGx": [],
@@ -646,7 +645,6 @@
     ],
     "STROMA4": [],
     "supersigs": [],
-    "svaNUMT": [],
     "TADCompare": [
         "HiCcompare"
     ],
