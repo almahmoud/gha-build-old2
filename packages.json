@@ -156,7 +156,6 @@
     "ChAMP": [
         "DMRcate",
         "wateRmelon",
-        "missMethyl",
         "ExperimentHub"
     ],
     "CHETAH": [],
@@ -317,8 +316,7 @@
         "scuttle"
     ],
     "DMRcate": [
-        "ExperimentHub",
-        "missMethyl"
+        "ExperimentHub"
     ],
     "dmrseq": [
         "annotatr"
@@ -546,9 +544,7 @@
     "MatrixRider": [],
     "MBECS": [],
     "mbOmic": [],
-    "MEAL": [
-        "missMethyl"
-    ],
+    "MEAL": [],
     "MEAT": [
         "wateRmelon"
     ],
@@ -583,8 +579,7 @@
         "AnnotationHubData"
     ],
     "methylGSA": [
-        "clusterProfiler",
-        "missMethyl"
+        "clusterProfiler"
     ],
     "methylPipe": [],
     "methylSig": [],
@@ -611,7 +606,6 @@
         "cvms"
     ],
     "mirTarRnaSeq": [],
-    "missMethyl": [],
     "mitch": [],
     "MLSeq": [],
     "MMUPHin": [
