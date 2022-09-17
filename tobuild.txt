@@ -1,4 +1,3 @@
-omicsViewer
 mlr3
 MAIT
 LinTInd
