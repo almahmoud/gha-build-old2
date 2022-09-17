@@ -1020,9 +1020,7 @@
     "segmentSeq": [],
     "selectKSigs": [],
     "SEPIRA": [],
-    "seqArchR": [
-        "cvTools"
-    ],
+    "seqArchR": [],
     "SeqSQC": [
         "ExperimentHub"
     ],
@@ -1342,7 +1340,6 @@
     "SCATEData": [
         "ExperimentHub"
     ],
-    "cvTools": [],
     "mlr3": [
         "paradox"
     ],
