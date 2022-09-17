@@ -1,4 +1,3 @@
-RadioGx
 pwOmics
 SPARQL
 RCyjs
