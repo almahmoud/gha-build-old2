@@ -1,4 +1,3 @@
-restfulSE
 celldex
 ASURAT
 drugTargetInteractions
