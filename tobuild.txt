@@ -1,5 +1,3 @@
-PPInfer
-DifferentialRegulation
 GSCA
 shinyepico
 VplotR
