@@ -340,7 +340,6 @@
     "eegc": [
         "clusterProfiler"
     ],
-    "EGAD": [],
     "eiR": [],
     "enhancerHomologSearch": [
         "motifmatchr"
@@ -588,7 +587,6 @@
         "clusterProfiler",
         "missMethyl"
     ],
-    "methylInheritance": [],
     "methylPipe": [],
     "methylSig": [],
     "mia": [
@@ -962,7 +960,6 @@
         "ExperimentHub"
     ],
     "shinyepico": [],
-    "shinyMethyl": [],
     "SIAMCAT": [
         "mlr3",
         "mlr3learners",
