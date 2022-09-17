@@ -1,8 +1,10 @@
-Updating d205cb2..c8bc0df
+Updating d205cb2..0780718
 Fast-forward
- lists/methylclock | 1 +
- tobuild.txt       | 1 -
- 2 files changed, 1 insertion(+), 1 deletion(-)
+ lists/methylclock        | 1 +
+ logs/run_ids/methylclock | 2 ++
+ tobuild.txt              | 1 -
+ 3 files changed, 3 insertions(+), 1 deletion(-)
  create mode 100644 lists/methylclock
-[main 20a4256] Adding tobuild list
+ create mode 100644 logs/run_ids/methylclock
+[main e776c37] Adding tobuild list
  2 files changed, 2 insertions(+), 1 deletion(-)
