@@ -1,4 +1,3 @@
-RUVSeq
 bigmelon
 SpatialExperiment
 gsean
