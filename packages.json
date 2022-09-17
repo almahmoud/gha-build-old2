@@ -367,13 +367,10 @@
     "netSmooth": [
         "scater"
     ],
-    "NewWave": [],
     "nnSVG": [
         "SpatialExperiment"
     ],
-    "NxtIRFcore": [
-        "NxtIRFdata"
-    ],
+    "NxtIRFcore": [],
     "omicade4": [],
     "omicRexposome": [
         "omicade4"
@@ -574,7 +571,6 @@
         "depmap"
     ],
     "STROMA4": [],
-    "supersigs": [],
     "TADCompare": [
         "HiCcompare"
     ],
@@ -650,7 +646,6 @@
         "ExperimentHubData"
     ],
     "mppa": [],
-    "NxtIRFdata": [],
     "phastCons100way.UCSC.hg38": [],
     "taRifx": [],
     "pwrEWAS.data": [],
