@@ -1,340 +1,212 @@
-Already up to date.
-[main 5af9269] Adding tobuild list
- 337 files changed, 672 insertions(+)
- create mode 100644 lists/ACE
- create mode 100644 lists/ASURAT
- create mode 100644 lists/AnnotationHubData
- create mode 100644 lists/BOBaFIT
- create mode 100644 lists/BioNERO
- create mode 100644 lists/BubbleTree
- create mode 100644 lists/CAGEfightR
- create mode 100644 lists/CBEA
- create mode 100644 lists/CGHnormaliter
- create mode 100644 lists/CHETAH
- create mode 100644 lists/CINdex
- create mode 100644 lists/CNVMetrics
- create mode 100644 lists/COCOA
- create mode 100644 lists/COTAN
- create mode 100644 lists/ChIC.data
- create mode 100644 lists/ChIPXpressData
- create mode 100644 lists/ChIPpeakAnno
- create mode 100644 lists/ComplexUpset
- create mode 100644 lists/CompoundDb
- create mode 100644 lists/CopyNumberPlots
- create mode 100644 lists/CopywriteR
- create mode 100644 lists/CytoGLMM
- create mode 100644 lists/DAPAR
- create mode 100644 lists/DEsingle
- create mode 100644 lists/DepInfeR
- create mode 100644 lists/DifferentialRegulation
- create mode 100644 lists/DrugVsDisease
- create mode 100644 lists/Dune
- create mode 100644 lists/EDASeq
- create mode 100644 lists/EGAD
- create mode 100644 lists/EnMCB
- create mode 100644 lists/EntropyExplorer
- create mode 100644 lists/ExperimentHub
- create mode 100644 lists/FField
- create mode 100644 lists/FastqCleaner
- create mode 100644 lists/GBScleanR
- create mode 100644 lists/GISPA
- create mode 100644 lists/GRaNIE
- create mode 100644 lists/GSCA
- create mode 100644 lists/GSEAmining
- create mode 100644 lists/GWAS.BAYES
- create mode 100644 lists/GateFinder
- create mode 100644 lists/GenKern
- create mode 100644 lists/GeneBreak
- create mode 100644 lists/GenomicInteractionNodes
- create mode 100644 lists/GenomicOZone
- create mode 100644 lists/GenomicScores
- create mode 100644 lists/GenomicState
- create mode 100644 lists/GeomxTools
- create mode 100644 lists/HPiP
- create mode 100644 lists/HiCBricks
- create mode 100644 lists/HiCDCPlus
- create mode 100644 lists/HiCcompare
- create mode 100644 lists/HubPub
- create mode 100644 lists/IMMAN
- create mode 100644 lists/ImmuneSpaceR
- create mode 100644 lists/Kendall
- create mode 100644 lists/KnowSeq
- create mode 100644 lists/LinTInd
- create mode 100644 lists/Linnorm
- create mode 100644 lists/MACPET
- create mode 100644 lists/MAI
- create mode 100644 lists/MAIT
- create mode 100644 lists/MBECS
- create mode 100644 lists/MLSeq
- create mode 100644 lists/MPINet
- create mode 100644 lists/MSA2dist
- create mode 100644 lists/MSstatsPTM
- create mode 100644 lists/MSstatsQC
- create mode 100644 lists/MSstatsSampleSize
- create mode 100644 lists/Maaslin2
- create mode 100644 lists/MatrixRider
- create mode 100644 lists/MetBrewer
- create mode 100644 lists/MetaVolcanoR
- create mode 100644 lists/MetaboAnnotation
- create mode 100644 lists/MetaboSignal
- create mode 100644 lists/MineICA
- create mode 100644 lists/MobilityTransformR
- create mode 100644 lists/ModCon
- create mode 100644 lists/Motif2Site
- create mode 100644 lists/MsBackendMsp
- create mode 100644 lists/MuData
- create mode 100644 lists/NPARC
- create mode 100644 lists/NewWave
- create mode 100644 lists/OGRE
- create mode 100644 lists/OMICsPCA
- create mode 100644 lists/PING
- create mode 100644 lists/POMA
- create mode 100644 lists/PPInfer
- create mode 100644 lists/PSMatch
- create mode 100644 lists/PeacoQC
- create mode 100644 lists/PoDCall
- create mode 100644 lists/QuartPAC
- create mode 100644 lists/QuasR
- create mode 100644 lists/RAREsim
- create mode 100644 lists/RCX
- create mode 100644 lists/RCyjs
- create mode 100644 lists/REMP
- create mode 100644 lists/RIPAT
- create mode 100644 lists/RITAN
- create mode 100644 lists/RNAAgeCalc
- create mode 100644 lists/RNAinteract
- create mode 100644 lists/ROCR
- create mode 100644 lists/RSVSim
- create mode 100644 lists/RTNduals
- create mode 100644 lists/RUVcorr
- create mode 100644 lists/RVenn
- create mode 100644 lists/Rbec
- create mode 100644 lists/Rbwa
- create mode 100644 lists/RcisTarget
- create mode 100644 lists/RcppML
- create mode 100644 lists/ReportingTools
- create mode 100644 lists/Rgin
- create mode 100644 lists/RiboProfiling
- create mode 100644 lists/RolDE
- create mode 100644 lists/SCAN.UPC
- create mode 100644 lists/SCANVIS
- create mode 100644 lists/SEPIRA
- create mode 100644 lists/SPARQL
- create mode 100644 lists/SPOTlight
- create mode 100644 lists/STAN
- create mode 100644 lists/STROMA4
- create mode 100644 lists/Streamer
- create mode 100644 lists/SubCellBarCode
- create mode 100644 lists/SummarizedBenchmark
- create mode 100644 lists/TEKRABber
- create mode 100644 lists/TFARM
- create mode 100644 lists/TREG
- create mode 100644 lists/TRONCO
- create mode 100644 lists/TSCAN
- create mode 100644 lists/TargetSearch
- create mode 100644 lists/UCell
- create mode 100644 lists/VplotR
- create mode 100644 lists/XINA
- create mode 100644 lists/YAPSA
- create mode 100644 lists/animalcules
- create mode 100644 lists/animation
- create mode 100644 lists/annotatr
- create mode 100644 lists/aods3
- create mode 100644 lists/aroma.affymetrix
- create mode 100644 lists/arrayMvout
- create mode 100644 lists/autonomics
- create mode 100644 lists/bayestestR
- create mode 100644 lists/beer
- create mode 100644 lists/bigstatsr
- create mode 100644 lists/biodbExpasy
- create mode 100644 lists/biodbMirbase
- create mode 100644 lists/biodbNcbi
- create mode 100644 lists/biodbNci
- create mode 100644 lists/blacksheepr
- create mode 100644 lists/borealis
- create mode 100644 lists/branchpointer
- create mode 100644 lists/cBioPortalData
- create mode 100644 lists/cTRAP
- create mode 100644 lists/canceR
- create mode 100644 lists/categoryCompare
- create mode 100644 lists/cellmigRation
- create mode 100644 lists/cellxgenedp
- create mode 100644 lists/cgdsr
- create mode 100644 lists/chromVAR
- create mode 100644 lists/clusterExperiment
- create mode 100644 lists/clusterProfiler
- create mode 100644 lists/cogeqc
- create mode 100644 lists/colortools
- create mode 100644 lists/comapr
- create mode 100644 lists/configr
- create mode 100644 lists/conumee
- create mode 100644 lists/crisprBase
- create mode 100644 lists/cummeRbund
- create mode 100644 lists/customCMPdb
- create mode 100644 lists/cvTools
- create mode 100644 lists/cytoKernel
- create mode 100644 lists/cytoMEM
- create mode 100644 lists/dearseq
- create mode 100644 lists/dixonTest
- create mode 100644 lists/doMC
- create mode 100644 lists/edge
- create mode 100644 lists/eiR
- create mode 100644 lists/epimutacionsData
- create mode 100644 lists/epivizrStandalone
- create mode 100644 lists/fastreeR
- create mode 100644 lists/ffpe
- create mode 100644 lists/flatxml
- create mode 100644 lists/flowBin
- create mode 100644 lists/flowDensity
- create mode 100644 lists/flowPloidy
- create mode 100644 lists/flowVS
- create mode 100644 lists/fmcsR
- create mode 100644 lists/funtooNorm
- create mode 100644 lists/gespeR
- create mode 100644 lists/gggenes
- create mode 100644 lists/ggmanh
- create mode 100644 lists/glmSparseNet
- create mode 100644 lists/gpart
- create mode 100644 lists/gptk
- create mode 100644 lists/graper
- create mode 100644 lists/gscreend
- create mode 100644 lists/hermes
- create mode 100644 lists/hipathia
- create mode 100644 lists/httpcache
- create mode 100644 lists/iCheck
- create mode 100644 lists/iCluster
- create mode 100644 lists/imageHTS
- create mode 100644 lists/infinityFlow
- create mode 100644 lists/ipdDb
- create mode 100644 lists/isotree
- create mode 100644 lists/lasso2
- create mode 100644 lists/lbfgs
- create mode 100644 lists/leidenbase
- create mode 100644 lists/liger
- create mode 100644 lists/limmaGUI
- create mode 100644 lists/lineagespot
- create mode 100644 lists/lipidr
- create mode 100644 lists/mGSZ
- create mode 100644 lists/made4
- create mode 100644 lists/matrixLaplacian
- create mode 100644 lists/mbOmic
- create mode 100644 lists/mclustcomp
- create mode 100644 lists/meshes
- create mode 100644 lists/metabCombiner
- create mode 100644 lists/metagene
- create mode 100644 lists/methylCC
- create mode 100644 lists/methylInheritance
- create mode 100644 lists/methylPipe
- create mode 100644 lists/methylSig
- create mode 100644 lists/miRNAtap.db
- create mode 100644 lists/miaSim
- create mode 100644 lists/microbiomeDASim
- create mode 100644 lists/microbiomeMarker
- create mode 100644 lists/mirTarRnaSeq
- create mode 100644 lists/missMethyl
- create mode 100644 lists/mitch
- create mode 100644 lists/mlr3measures
- create mode 100644 lists/mlr3misc
- create mode 100644 lists/monaLisa
- create mode 100644 lists/motifbreakR
- create mode 100644 lists/motifmatchr
- create mode 100644 lists/mppa
- create mode 100644 lists/msgbsR
- create mode 100644 lists/msmsTests
- create mode 100644 lists/msqrob2
- create mode 100644 lists/multicrispr
- create mode 100644 lists/netZooR
- create mode 100644 lists/nethet
- create mode 100644 lists/netresponse
- create mode 100644 lists/networkBMA
- create mode 100644 lists/ngsReports
- create mode 100644 lists/nondetects
- create mode 100644 lists/ompBAM
- create mode 100644 lists/ontoProc
- create mode 100644 lists/openCyto
- create mode 100644 lists/optimalFlow
- create mode 100644 lists/optimx
- create mode 100644 lists/orQA
- create mode 100644 lists/pRoloc
- create mode 100644 lists/pRolocdata
- create mode 100644 lists/palmerpenguins
- create mode 100644 lists/pd.mapping50k.xba240
- create mode 100644 lists/pdInfoBuilder
- create mode 100644 lists/phosphoricons
- create mode 100644 lists/phylolm
- create mode 100644 lists/preciseTAD
- create mode 100644 lists/profmem
- create mode 100644 lists/psichomics
- create mode 100644 lists/puma
- create mode 100644 lists/pwOmics
- create mode 100644 lists/qmtools
- create mode 100644 lists/qpgraph
- create mode 100644 lists/qrqc
- create mode 100644 lists/qsvaR
- create mode 100644 lists/rGenomeTracksData
- create mode 100644 lists/rdist
- create mode 100644 lists/readJDX
- create mode 100644 lists/readbitmap
- create mode 100644 lists/rearrr
- create mode 100644 lists/recountmethylation
- create mode 100644 lists/regionReport
- create mode 100644 lists/regutools
- create mode 100644 lists/rgoslin
- create mode 100644 lists/ridge
- create mode 100644 lists/rprimer
- create mode 100644 lists/rqt
- create mode 100644 lists/rstan
- create mode 100644 lists/sRACIPE
- create mode 100644 lists/sSNAPPY
- create mode 100644 lists/sampSurf
- create mode 100644 lists/scGPS
- create mode 100644 lists/scPCA
- create mode 100644 lists/scRecover
- create mode 100644 lists/scanMiR
- create mode 100644 lists/scde
- create mode 100644 lists/scmap
- create mode 100644 lists/scruff
- create mode 100644 lists/scry
- create mode 100644 lists/scuttle
- create mode 100644 lists/segmentSeq
- create mode 100644 lists/selectKSigs
- create mode 100644 lists/shinyMethyl
- create mode 100644 lists/shinyepico
- create mode 100644 lists/signeR
- create mode 100644 lists/single
- create mode 100644 lists/snapCGH
- create mode 100644 lists/soGGi
- create mode 100644 lists/spiky
- create mode 100644 lists/spsUtil
- create mode 100644 lists/staRank
- create mode 100644 lists/statebins
- create mode 100644 lists/supersigs
- create mode 100644 lists/svaNUMT
- create mode 100644 lists/swamp
- create mode 100644 lists/synergyfinder
- create mode 100644 lists/synlet
- create mode 100644 lists/systemPipeR
- create mode 100644 lists/tRNAscanImport
- create mode 100644 lists/tRanslatome
- create mode 100644 lists/taRifx
- create mode 100644 lists/terraTCGAdata
- create mode 100644 lists/tfprobability
- create mode 100644 lists/tnet
- create mode 100644 lists/topicmodels
- create mode 100644 lists/tracktables
- create mode 100644 lists/tradeSeq
- create mode 100644 lists/transcriptR
- create mode 100644 lists/trena
- create mode 100644 lists/tripr
- create mode 100644 lists/ttgsea
- create mode 100644 lists/ttservice
- create mode 100644 lists/tximeta
- create mode 100644 lists/uncoverappLib
- create mode 100644 lists/unifiedWMWqPCR
- create mode 100644 lists/updateObject
- create mode 100644 lists/vbsr
- create mode 100644 lists/wateRmelon
- create mode 100644 lists/weitrix
- create mode 100644 lists/word2vec
- create mode 100644 lists/xcore
- create mode 100644 tobuild.txt
+Updating 1b025b14..daf0ebf6
+Fast-forward
+ lists/CBEA                  | 17997 +++++++++++++++++++++++++++++++++++++++++-
+ lists/DepInfeR              | 15288 ++++++++++++++++++++++++++++++++++-
+ lists/MetaVolcanoR          |  5155 +++++++++++-
+ lists/RCyjs                 |  1236 ++-
+ lists/SCANVIS               |     8 +-
+ lists/SPARQL                |     2 +-
+ lists/cBioPortalData        |     2 +-
+ lists/cvTools               |     2 +-
+ lists/failed/CBEA           | 17996 +++++++++++++++++++++++++++++++++++++++++
+ lists/failed/DepInfeR       | 15287 +++++++++++++++++++++++++++++++++++
+ lists/failed/MetaVolcanoR   |  5154 ++++++++++++
+ lists/failed/RCyjs          |  1235 +++
+ lists/failed/SCANVIS        |     8 +-
+ lists/failed/SPARQL         |     1 +
+ lists/failed/nondetects     |  3860 +++++++++
+ lists/failed/pwOmics        |  7284 +++++++++++++++++
+ lists/lipidr                |     2 +-
+ lists/miaSim                |     2 +-
+ lists/nondetects            |  3861 ++++++++-
+ lists/optimx                |     2 +-
+ lists/pwOmics               |  7285 ++++++++++++++++-
+ lists/rprimer               |     2 +-
+ lists/spsUtil               |     2 +-
+ lists/swamp                 |     2 +-
+ lists/weitrix               |     2 +-
+ logs/cvTools.out            |     5 +
+ logs/optimx.out             |     5 +
+ logs/run_ids/DepInfeR       |     1 +
+ logs/run_ids/MetaVolcanoR   |     2 +
+ logs/run_ids/RCyjs          |     4 +
+ logs/run_ids/SPARQL         |     2 +
+ logs/run_ids/cBioPortalData |     3 +
+ logs/run_ids/cvTools        |     3 +
+ logs/run_ids/lipidr         |     2 +
+ logs/run_ids/miaSim         |     2 +
+ logs/run_ids/pwOmics        |     9 +
+ logs/run_ids/rprimer        |     4 +
+ logs/run_ids/spsUtil        |     9 +
+ logs/run_ids/weitrix        |     4 +
+ logs/swamp.out              |    14 +
+ packages.json               |    27 +-
+ tobuild.txt                 |    11 -
+ 42 files changed, 101732 insertions(+), 50 deletions(-)
+ create mode 100644 lists/failed/CBEA
+ create mode 100644 lists/failed/DepInfeR
+ create mode 100644 lists/failed/MetaVolcanoR
+ create mode 100644 lists/failed/RCyjs
+ create mode 100644 lists/failed/SPARQL
+ create mode 100644 lists/failed/nondetects
+ create mode 100644 lists/failed/pwOmics
+ create mode 100644 logs/cvTools.out
+ create mode 100644 logs/optimx.out
+ create mode 100644 logs/run_ids/DepInfeR
+ create mode 100644 logs/run_ids/MetaVolcanoR
+ create mode 100644 logs/run_ids/RCyjs
+ create mode 100644 logs/run_ids/SPARQL
+ create mode 100644 logs/run_ids/cBioPortalData
+ create mode 100644 logs/run_ids/lipidr
+ create mode 100644 logs/run_ids/miaSim
+ create mode 100644 logs/run_ids/pwOmics
+ create mode 100644 logs/run_ids/rprimer
+ create mode 100644 logs/run_ids/spsUtil
+ create mode 100644 logs/run_ids/weitrix
+ create mode 100644 logs/swamp.out
+a4Classif_1.44.0_R_x86_64-pc-linux-gnu.tar.gz
+AlphaBeta_1.10.0_R_x86_64-pc-linux-gnu.tar.gz
+Anaquin_2.20.0_R_x86_64-pc-linux-gnu.tar.gz
+banocc_1.20.0_R_x86_64-pc-linux-gnu.tar.gz
+BEclear_2.12.0_R_x86_64-pc-linux-gnu.tar.gz
+BioMM_1.12.0_R_x86_64-pc-linux-gnu.tar.gz
+RBGL/old_boost/rbgl_trimmed_boost_1_49_0.tar.gz
+cellTree_1.26.0_R_x86_64-pc-linux-gnu.tar.gz
+ChIPanalyser_1.18.0_R_x86_64-pc-linux-gnu.tar.gz
+CONFESS_1.24.0_R_x86_64-pc-linux-gnu.tar.gz
+CoreGx_2.0.2_R_x86_64-pc-linux-gnu.tar.gz
+DExMA_1.4.4_R_x86_64-pc-linux-gnu.tar.gz
+erccdashboard_1.30.0_R_x86_64-pc-linux-gnu.tar.gz
+RBGL/old_boost/rbgl_trimmed_boost_1_49_0.tar.gz
+GeneTonic_2.0.2_R_x86_64-pc-linux-gnu.tar.gz
+genphen_1.24.0_R_x86_64-pc-linux-gnu.tar.gz
+IgGeneUsage_1.10.0_R_x86_64-pc-linux-gnu.tar.gz
+LACE_2.0.0_R_x86_64-pc-linux-gnu.tar.gz
+LedPred_1.30.0_R_x86_64-pc-linux-gnu.tar.gz
+RBGL/old_boost/rbgl_trimmed_boost_1_49_0.tar.gz
+phyloseq/extdata/study_816_split_library_seqs_and_mapping.tar.gz
+RBGL/old_boost/rbgl_trimmed_boost_1_49_0.tar.gz
+mistyR_1.4.0_R_x86_64-pc-linux-gnu.tar.gz
+musicatk_1.6.0_R_x86_64-pc-linux-gnu.tar.gz
+netDx_1.8.0_R_x86_64-pc-linux-gnu.tar.gz
+RBGL/old_boost/rbgl_trimmed_boost_1_49_0.tar.gz
+PAA_1.30.0_R_x86_64-pc-linux-gnu.tar.gz
+PathoStat_1.22.0_R_x86_64-pc-linux-gnu.tar.gz
+ppcseq_1.4.0_R_x86_64-pc-linux-gnu.tar.gz
+SC3_1.24.0_R_x86_64-pc-linux-gnu.tar.gz
+RBGL/old_boost/rbgl_trimmed_boost_1_49_0.tar.gz
+tidySingleCellExperiment_1.6.3_R_x86_64-pc-linux-gnu.tar.gz
+RBGL/old_boost/rbgl_trimmed_boost_1_49_0.tar.gz
+DRaWR_1.0.3_R_x86_64-pc-linux-gnu.tar.gz
+imager_0.42.13_R_x86_64-pc-linux-gnu.tar.gz
+drtmle_1.1.1_R_x86_64-pc-linux-gnu.tar.gz
+SuperLearner_2.0-28_R_x86_64-pc-linux-gnu.tar.gz
+cvAUC_1.1.4_R_x86_64-pc-linux-gnu.tar.gz
+bench_1.1.2_R_x86_64-pc-linux-gnu.tar.gz
+reldist_1.7-1_R_x86_64-pc-linux-gnu.tar.gz
+densEstBayes_1.0-2.1_R_x86_64-pc-linux-gnu.tar.gz
+ExtDist_0.6-4_R_x86_64-pc-linux-gnu.tar.gz
+[main c1a45f28] Adding tobuild list
+ 114 files changed, 226 insertions(+), 861650 deletions(-)
+ rewrite lists/ASURAT (100%)
+ create mode 100644 lists/BRISC
+ rewrite lists/CompoundDb (99%)
+ rewrite lists/CopyNumberPlots (99%)
+ rewrite lists/DAPAR (99%)
+ rewrite lists/EGAD (100%)
+ rewrite lists/EnMCB (100%)
+ rewrite lists/GISPA (100%)
+ rewrite lists/GWAS.BAYES (100%)
+ rewrite lists/GateFinder (99%)
+ rewrite lists/GenomicScores (100%)
+ rewrite lists/HiCDCPlus (99%)
+ rewrite lists/LinTInd (100%)
+ rewrite lists/Linnorm (100%)
+ create mode 100644 lists/M3Drop
+ rewrite lists/MACPET (99%)
+ create mode 100644 lists/MAGAR
+ create mode 100644 lists/MLmetrics
+ rewrite lists/MSstatsQC (99%)
+ create mode 100644 lists/Melissa
+ rewrite lists/MetBrewer (100%)
+ rewrite lists/Motif2Site (99%)
+ rewrite lists/MsBackendMsp (99%)
+ rewrite lists/NewWave (99%)
+ create mode 100644 lists/PDATK
+ create mode 100644 lists/PECA
+ rewrite lists/PING (99%)
+ create mode 100644 lists/PharmacoGx
+ create mode 100644 lists/Pi
+ rewrite lists/QuartPAC (100%)
+ rewrite lists/RIPAT (99%)
+ create mode 100644 lists/RMassBank
+ create mode 100644 lists/RNAmodR
+ rewrite lists/RSVSim (99%)
+ create mode 100644 lists/RadioGx
+ rewrite lists/RcisTarget (100%)
+ rewrite lists/Rgin (100%)
+ create mode 100644 lists/RiboDiPA
+ create mode 100644 lists/STdeconvolve
+ create mode 100644 lists/Seurat
+ rewrite lists/TEKRABber (99%)
+ create mode 100644 lists/TIN
+ create mode 100644 lists/ToxicoGx
+ create mode 100644 lists/a4
+ rewrite lists/animalcules (99%)
+ rewrite lists/arrayMvout (99%)
+ rewrite lists/biodbExpasy (100%)
+ create mode 100644 lists/biotmle
+ rewrite lists/borealis (99%)
+ rewrite lists/branchpointer (99%)
+ rewrite lists/clusterExperiment (99%)
+ rewrite lists/cogeqc (100%)
+ create mode 100644 lists/compcodeR
+ rewrite lists/conumee (99%)
+ rewrite lists/cytoKernel (99%)
+ create mode 100644 lists/datamods
+ rewrite lists/edge (99%)
+ rewrite lists/eiR (99%)
+ create mode 100644 lists/extraChIPs
+ create mode 100644 lists/ggVennDiagram
+ create mode 100644 lists/ggmsa
+ rewrite lists/hermes (99%)
+ rewrite lists/hipathia (100%)
+ create mode 100644 lists/iCOBRA
+ rewrite lists/infinityFlow (99%)
+ rewrite lists/ipdDb (100%)
+ create mode 100644 lists/kissDE
+ rewrite lists/leidenbase (100%)
+ create mode 100644 lists/maPredictDSC
+ create mode 100644 lists/metabomxtr
+ rewrite lists/methylInheritance (99%)
+ rewrite lists/methylPipe (99%)
+ rewrite lists/missMethyl (99%)
+ rewrite lists/motifbreakR (99%)
+ create mode 100644 lists/omicsViewer
+ rewrite lists/pRoloc (99%)
+ create mode 100644 lists/paradox
+ create mode 100644 lists/parameters
+ create mode 100644 lists/pareg
+ rewrite lists/pd.mapping50k.xba240 (100%)
+ rewrite lists/pdInfoBuilder (100%)
+ create mode 100644 lists/projectR
+ create mode 100644 lists/protGear
+ rewrite lists/qmtools (100%)
+ create mode 100644 lists/ramr
+ rewrite lists/rearrr (100%)
+ rewrite lists/regutools (99%)
+ create mode 100644 lists/rifi
+ rewrite lists/rqt (100%)
+ create mode 100644 lists/sccomp
+ create mode 100644 lists/seqArchR
+ rewrite lists/shinyMethyl (99%)
+ rewrite lists/signeR (99%)
+ rewrite lists/soGGi (99%)
+ rewrite lists/spiky (99%)
+ create mode 100644 lists/ssPATHS
+ rewrite lists/supersigs (100%)
+ rewrite lists/systemPipeR (99%)
+ rewrite lists/tRanslatome (99%)
+ create mode 100644 lists/tomoseqr
+ rewrite lists/tripr (100%)
+ rewrite lists/xcore (100%)
