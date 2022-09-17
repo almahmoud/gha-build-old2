@@ -134,7 +134,6 @@
         "clusterProfiler"
     ],
     "enhancerHomologSearch": [],
-    "ENmix": [],
     "enrichTF": [
         "clusterProfiler"
     ],
@@ -400,7 +399,6 @@
         "scater"
     ],
     "SPONGE": [],
-    "STAN": [],
     "standR": [],
     "StarBioTrek": [
         "SpidermiR",
