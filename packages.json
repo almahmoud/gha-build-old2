@@ -35,9 +35,7 @@
     "BioTIP": [
         "scran"
     ],
-    "biscuiteer": [
-        "biscuiteerData"
-    ],
+    "biscuiteer": [],
     "BloodGen3Module": [],
     "bnem": [
         "epiNEM",
@@ -519,7 +517,6 @@
     "MafDb.1Kgenomes.phase3.hs37d5": [],
     "MafDb.gnomADex.r2.1.hs37d5": [],
     "mGSZ": [],
-    "biscuiteerData": [],
     "iCluster": [],
     "colortools": [],
     "lasso2": [],
