@@ -1,4 +1,3 @@
-easier
 FEAST
 GenProSeq
 compEpiTools

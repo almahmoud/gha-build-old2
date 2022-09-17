@@ -262,9 +262,7 @@
     "qpgraph": [],
     "QuasR": [],
     "RadioGx": [],
-    "RareVariantVis": [
-        "phastCons100way.UCSC.hg19"
-    ],
+    "RareVariantVis": [],
     "Rgin": [],
     "RLSeq": [],
     "scAlign": [],
@@ -381,7 +379,6 @@
     ],
     "mppa": [],
     "taRifx": [],
-    "phastCons100way.UCSC.hg19": [],
     "SCATEData": [],
     "sampSurf": [],
     "GenKern": [],
