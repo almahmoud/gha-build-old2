@@ -97,8 +97,7 @@
     "CATALYST": [
         "FlowSOM",
         "scater",
-        "scuttle",
-        "openCyto"
+        "scuttle"
     ],
     "categoryCompare": [],
     "cbaf": [
@@ -127,8 +126,7 @@
     ],
     "censcyt": [
         "diffcyt",
-        "FlowSOM",
-        "openCyto"
+        "FlowSOM"
     ],
     "CeTF": [
         "clusterProfiler"
@@ -214,16 +212,12 @@
     "CyTOFpower": [
         "CytoGLMM",
         "diffcyt",
-        "FlowSOM",
-        "openCyto"
+        "FlowSOM"
     ],
     "CytoGLMM": [],
-    "CytoML": [
-        "openCyto"
-    ],
+    "CytoML": [],
     "CytoTree": [
-        "FlowSOM",
-        "openCyto"
+        "FlowSOM"
     ],
     "dagLogo": [
         "cellxgenedp"
@@ -257,8 +251,7 @@
     "DEsingle": [],
     "DiffBind": [],
     "diffcyt": [
-        "FlowSOM",
-        "openCyto"
+        "FlowSOM"
     ],
     "DifferentialRegulation": [],
     "Dino": [
@@ -352,9 +345,7 @@
     ],
     "flowDensity": [],
     "flowPloidy": [],
-    "FlowSOM": [
-        "openCyto"
-    ],
+    "FlowSOM": [],
     "fmcsR": [],
     "GARS": [
         "DaMiRseq",
@@ -467,8 +458,7 @@
     "MetaboAnnotation": [],
     "MetaboSignal": [],
     "MetaCyto": [
-        "FlowSOM",
-        "openCyto"
+        "FlowSOM"
     ],
     "metagene": [],
     "metaseqR2": [
@@ -609,7 +599,6 @@
     ],
     "OMICsPCA": [],
     "ontoProc": [],
-    "openCyto": [],
     "optimalFlow": [],
     "pageRank": [
         "motifmatchr"
@@ -949,8 +938,7 @@
     ],
     "treekoR": [
         "diffcyt",
-        "FlowSOM",
-        "openCyto"
+        "FlowSOM"
     ],
     "TREG": [],
     "trena": [],
