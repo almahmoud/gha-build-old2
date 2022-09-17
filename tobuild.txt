@@ -1,4 +1,3 @@
-GenomicInteractionNodes
 scde
 methylSig
 CGHnormaliter
