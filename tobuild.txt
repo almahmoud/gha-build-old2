@@ -1,4 +1,3 @@
-COTAN
 networkBMA
 gptk
 blacksheepr
