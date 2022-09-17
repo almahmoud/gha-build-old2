@@ -528,9 +528,7 @@
         "scran",
         "scuttle"
     ],
-    "ISAnalytics": [
-        "datamods"
-    ],
+    "ISAnalytics": [],
     "IsoformSwitchAnalyzeR": [
         "tximeta"
     ],
@@ -1286,7 +1284,6 @@
     "SPARQL": [],
     "FField": [],
     "gptk": [],
-    "datamods": [],
     "orQA": [],
     "cgdsr": [],
     "reldist": [],
