@@ -724,10 +724,7 @@
     "RolDE": [],
     "rprimer": [],
     "RSVSim": [],
-    "RTNduals": [],
-    "RTNsurvival": [
-        "RTNduals"
-    ],
+    "RTNsurvival": [],
     "RUVcorr": [],
     "RUVSeq": [
         "EDASeq"
