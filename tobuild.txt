@@ -1,4 +1,3 @@
-epimutacionsData
 ChIPXpressData
 PoDCall
 biodbNcbi
