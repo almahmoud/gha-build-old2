@@ -1,4 +1,3 @@
-spatialDE
 pwrEWAS.data
 msImpute
 SoupX
@@ -49,7 +48,6 @@ MSnID
 ExperimentHubData
 velociraptor
 nnSVG
-FlowSOM
 m6Aboost
 biscuiteer
 RLSeq
