@@ -10,9 +10,7 @@
     "airpart": [
         "scater"
     ],
-    "AMARETTO": [
-        "curatedTCGAData"
-    ],
+    "AMARETTO": [],
     "animalcules": [],
     "APL": [
         "Seurat"
@@ -44,9 +42,7 @@
     "bioCancer": [
         "clusterProfiler"
     ],
-    "BiocOncoTK": [
-        "curatedTCGAData"
-    ],
+    "BiocOncoTK": [],
     "biodbNci": [],
     "BioTIP": [
         "scran"
@@ -630,7 +626,6 @@
         "PharmacoGx"
     ],
     "adductData": [],
-    "curatedTCGAData": [],
     "Seurat": [],
     "MafDb.1Kgenomes.phase3.hs37d5": [],
     "MafDb.ExAC.r1.0.hs37d5": [],
