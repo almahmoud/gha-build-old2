@@ -1,4 +1,3 @@
-kissDE
 STdeconvolve
 compcodeR
 ramr
