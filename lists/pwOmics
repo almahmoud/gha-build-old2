@@ -1,7 +1,4 @@
-Updating a36426a..188e888
-Fast-forward
- logs/run_ids/cvTools | 2 ++
- 1 file changed, 2 insertions(+)
+Already up to date.
 AnnotationDbi/DBschemas/
 AnnotationDbi/DBschemas/SchemaGuidelines.txt
 AnnotationDbi/DBschemas/schemas_0.9/
