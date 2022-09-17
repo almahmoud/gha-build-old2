@@ -1,4 +1,3 @@
-scanMiRApp
 spatialDE
 pwrEWAS.data
 msImpute
@@ -50,8 +49,6 @@ cbaf
 MSnID
 ExperimentHubData
 velociraptor
-pogos
-TSCAN
 nnSVG
 FlowSOM
 m6Aboost
