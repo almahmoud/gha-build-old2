@@ -1,4 +1,3 @@
-GUIDEseq
 taRifx
 vissE
 lasso2
