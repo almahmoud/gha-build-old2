@@ -1,4 +1,3 @@
-selectKSigs
 ISAnalytics
 CHETAH
 HubPub
