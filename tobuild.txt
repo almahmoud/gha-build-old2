@@ -1,4 +1,3 @@
-STROMA4
 Streamer
 chromVAR
 STAN
