@@ -1,8 +1,4 @@
-Updating e700ad6..313ddd9
-Fast-forward
- logs/run_ids/QuasR | 1 +
- 1 file changed, 1 insertion(+)
- create mode 100644 logs/run_ids/QuasR
+Already up to date.
 data.table/DESCRIPTION
 data.table/INDEX
 data.table/LICENSE
