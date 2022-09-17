@@ -454,7 +454,6 @@
         "scater"
     ],
     "segmenter": [],
-    "SeqSQC": [],
     "sesame": [],
     "SIAMCAT": [
         "mlr3tuning"
