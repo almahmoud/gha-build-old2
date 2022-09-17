@@ -37,9 +37,7 @@
         "mGSZ"
     ],
     "ASURAT": [],
-    "ATACseqQC": [
-        "ChIPpeakAnno"
-    ],
+    "ATACseqQC": [],
     "autonomics": [],
     "bandle": [
         "pRolocdata"
@@ -154,7 +152,6 @@
     "ChIC": [
         "ChIC.data"
     ],
-    "ChIPpeakAnno": [],
     "ChIPQC": [
         "DiffBind"
     ],
@@ -219,8 +216,7 @@
         "ExperimentHub"
     ],
     "crisprseekplus": [
-        "GUIDEseq",
-        "ChIPpeakAnno"
+        "GUIDEseq"
     ],
     "ctgGEM": [
         "TSCAN"
@@ -274,9 +270,7 @@
         "lasso2"
     ],
     "DepInfeR": [],
-    "DEScan2": [
-        "ChIPpeakAnno"
-    ],
+    "DEScan2": [],
     "DEsingle": [],
     "DiffBind": [],
     "diffcyt": [
@@ -437,9 +431,7 @@
     "gsean": [
         "PPInfer"
     ],
-    "GUIDEseq": [
-        "ChIPpeakAnno"
-    ],
+    "GUIDEseq": [],
     "HiCBricks": [],
     "HiCcompare": [],
     "HPiP": [],
@@ -616,8 +608,7 @@
         "scuttle"
     ],
     "NADfinder": [
-        "ATACseqQC",
-        "ChIPpeakAnno"
+        "ATACseqQC"
     ],
     "NBSplice": [
         "mppa"
@@ -748,9 +739,7 @@
     "RCX": [],
     "RCyjs": [],
     "recountmethylation": [],
-    "REDseq": [
-        "ChIPpeakAnno"
-    ],
+    "REDseq": [],
     "regionReport": [],
     "REMP": [],
     "ReportingTools": [],
@@ -1072,7 +1061,6 @@
     ],
     "VplotR": [],
     "vulcan": [
-        "ChIPpeakAnno",
         "DiffBind"
     ],
     "wateRmelon": [],
