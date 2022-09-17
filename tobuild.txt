@@ -1,4 +1,3 @@
-cogeqc
 animalcules
 maPredictDSC
 flowVS
