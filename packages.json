@@ -541,9 +541,7 @@
         "DEGreport",
         "lasso2"
     ],
-    "ITALICS": [
-        "pd.mapping50k.xba240"
-    ],
+    "ITALICS": [],
     "kissDE": [],
     "KnowSeq": [],
     "LACE": [],
@@ -1290,7 +1288,6 @@
     "gptk": [],
     "datamods": [],
     "orQA": [],
-    "pd.mapping50k.xba240": [],
     "cgdsr": [],
     "reldist": [],
     "densEstBayes": [],
