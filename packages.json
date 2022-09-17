@@ -285,7 +285,6 @@
     ],
     "GUIDEseq": [],
     "HiCcompare": [],
-    "imageHTS": [],
     "imcRtools": [
         "SpatialExperiment"
     ],
