@@ -56,7 +56,6 @@
         "scran",
         "scuttle"
     ],
-    "beer": [],
     "benchdamic": [
         "Seurat",
         "dearseq"
