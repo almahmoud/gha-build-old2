@@ -149,7 +149,6 @@
     "CytoTree": [
         "FlowSOM"
     ],
-    "dagLogo": [],
     "DaMiRseq": [],
     "dce": [
         "epiNEM",
@@ -293,7 +292,6 @@
     "m6Aboost": [],
     "Macarron": [],
     "MACPET": [],
-    "MACSr": [],
     "MAGeCKFlute": [
         "clusterProfiler",
         "depmap"
