@@ -1244,9 +1244,7 @@
     ],
     "terraTCGAdata": [],
     "TFARM": [],
-    "tidySingleCellExperiment": [
-        "ttservice"
-    ],
+    "tidySingleCellExperiment": [],
     "TimiRGeN": [
         "clusterProfiler"
     ],
@@ -1467,7 +1465,6 @@
     ],
     "spsUtil": [],
     "GenKern": [],
-    "ttservice": [],
     "vbsr": [],
     "msigdb": [
         "ExperimentHub"
