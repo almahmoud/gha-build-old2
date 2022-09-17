@@ -1,4 +1,3 @@
-soGGi
 pd.mapping50k.xba240
 ToxicoGx
 GWAS.BAYES
