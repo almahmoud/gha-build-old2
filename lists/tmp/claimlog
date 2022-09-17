@@ -1,4 +1,4 @@
-Updating 7c29f0d..e0bc804
+Updating 7c29f0d..3b3c81a
 Fast-forward
  lists/EntropyExplorer              |     2 +-
  lists/ExperimentHubData            |     2 +-
@@ -13,17 +13,19 @@ Fast-forward
  lists/appreci8R                    |     2 +-
  lists/clusterProfiler              |     2 +-
  lists/colortools                   |     2 +-
- lists/dearseq                      |     2 +-
+ lists/dearseq                      |  3163 ++++-
  lists/enhancerHomologSearch        |     2 +-
  lists/failed/EntropyExplorer       |     1 +
  lists/failed/GRaNIE                | 24504 ++++++++++++++++++++++++++++++++++
  lists/failed/ISAnalytics           | 20001 ++++++++++++++++++++++++++++
  lists/failed/PharmacoGx            | 21611 ++++++++++++++++++++++++++++++
  lists/failed/colortools            |     1 +
+ lists/failed/dearseq               |  3162 +++++
  lists/failed/lasso2                |     4 +
  lists/failed/mGSZ                  |     1 +
  lists/failed/qpgraph               | 18872 +++++++++++++++++++++++++++
  lists/failed/sampSurf              |     1 +
+ lists/failed/scater                | 18052 ++++++++++++++++++++++++++
  lists/failed/standR                | 20307 +++++++++++++++++++++++++++++
  lists/failed/taRifx                |     1 +
  lists/failed/vbsr                  |     1 +
@@ -32,7 +34,7 @@ Fast-forward
  lists/pageRank                     |     2 +-
  lists/qpgraph                      | 18873 ++++++++++++++++++++++++++-
  lists/sampSurf                     |     2 +-
- lists/scater                       |     2 +-
+ lists/scater                       | 18053 +++++++++++++++++++++++++-
  lists/standR                       | 20308 ++++++++++++++++++++++++++++-
  lists/taRifx                       |     2 +-
  lists/vbsr                         |     2 +-
@@ -44,8 +46,9 @@ Fast-forward
  logs/run_ids/MMUPHin               |     2 +
  logs/run_ids/Macarron              |     3 +
  logs/run_ids/PharmacoGx            |     8 +
- logs/run_ids/QuasR                 |     1 +
+ logs/run_ids/QuasR                 |     4 +
  logs/run_ids/RadioGx               |     2 +
+ logs/run_ids/SPARQL                |     2 +
  logs/run_ids/appreci8R             |     3 +
  logs/run_ids/clusterProfiler       |     1 +
  logs/run_ids/colortools            |     2 +
@@ -63,18 +66,20 @@ Fast-forward
  logs/run_ids/vissE                 |     5 +
  packages.json                      |     3 -
  tobuild.txt                        |    25 -
- 63 files changed, 219020 insertions(+), 53 deletions(-)
+ 66 files changed, 261451 insertions(+), 53 deletions(-)
  create mode 100644 lists/failed/EntropyExplorer
  create mode 100644 lists/failed/GRaNIE
  create mode 100644 lists/failed/ISAnalytics
  create mode 100644 lists/failed/PharmacoGx
  create mode 100644 lists/failed/colortools
+ create mode 100644 lists/failed/dearseq
  create mode 100644 lists/failed/lasso2
  create mode 100644 lists/failed/mGSZ
  create mode 100644 lists/failed/qpgraph
  create mode 100644 lists/failed/sampSurf
+ create mode 100644 lists/failed/scater
  create mode 100644 lists/failed/standR
  create mode 100644 lists/failed/taRifx
  create mode 100644 lists/failed/vbsr
-[main dcf1b20] Adding tobuild list
- 11 files changed, 20 insertions(+), 10 deletions(-)
+[main 427ffe0] Adding tobuild list
+ 9 files changed, 16 insertions(+), 8 deletions(-)
