@@ -1,4 +1,3 @@
-maPredictDSC
 flowVS
 qmtools
 GenomicScores
