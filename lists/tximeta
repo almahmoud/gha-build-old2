@@ -1,8 +1,4 @@
-Updating 9e011d71..eab4a5a2
-Fast-forward
- lists/crisprBase | 902 +------------------------------------------------------
- packages.json    |   6 +-
- 2 files changed, 2 insertions(+), 906 deletions(-)
+Already up to date.
 SummarizedExperiment/DESCRIPTION
 SummarizedExperiment/INDEX
 SummarizedExperiment/Meta/
