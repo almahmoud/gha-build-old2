@@ -1,4 +1,3 @@
-KnowSeq
 profmem
 rGenomeTracksData
 updateObject
