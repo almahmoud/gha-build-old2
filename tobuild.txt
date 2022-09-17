@@ -1,4 +1,3 @@
-compEpiTools
 SpatialDecon
 epiNEM
 EWCE
