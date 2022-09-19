@@ -2,8 +2,8 @@ name: Build x20 package
 on:
   workflow_dispatch: {}
 #   push: {}
-  schedule:
-    - cron: '*/5 * * * *'
+#   schedule:
+#     - cron: '*/5 * * * *'
 
 jobs:
   build:
